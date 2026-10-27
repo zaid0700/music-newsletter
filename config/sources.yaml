@@ -1,0 +1,42 @@
+# Feeds the tool reads every day.
+# To add or remove a source, edit this file only. No code changes needed.
+#
+# weight: how much a mention from this source counts toward "critical buzz" (1.0 = normal)
+# type:   "reviews" = review/editorial-pick feed, "news" = general news, "video" = YouTube reviews
+
+sources:
+  - name: Pitchfork (album reviews)
+    url: https://pitchfork.com/feed/feed-album-reviews/rss
+    type: reviews
+    weight: 1.5
+
+  - name: Pitchfork (Best New Albums)
+    url: https://pitchfork.com/feed/reviews/best/albums/rss
+    type: reviews
+    weight: 2.0        # editorial pick, counts extra
+
+  - name: Pitchfork (track reviews)
+    url: https://pitchfork.com/feed/feed-track-reviews/rss
+    type: reviews
+    weight: 1.0
+
+  - name: Stereogum
+    url: https://www.stereogum.com/feed/
+    type: news
+    weight: 1.0
+
+  - name: The Needle Drop (YouTube)
+    url: https://www.youtube.com/feeds/videos.xml?channel_id=UCt7fwAhXDy3oNFTAzF2o8Pw
+    type: video
+    weight: 1.5
+
+  - name: The Needle Drop (website)
+    url: https://www.theneedledrop.com/feed/
+    type: reviews
+    weight: 1.0
+
+genres:
+  - Pop
+  - Hip-hop / R&B
+  - Rock / Alternative / Indie
+  - Electronic / Dance
