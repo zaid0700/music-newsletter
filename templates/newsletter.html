@@ -10,7 +10,7 @@
       {% if show_cover %}
       <td width="96" valign="top" style="padding-right:14px;">
         {% if r.cover %}
-        <a href="{{ r.spotify }}"><img src="{{ r.cover }}" width="96" height="96" alt="{{ r.title }} cover" style="display:block;width:96px;height:96px;border:0;border-radius:3px;background:#e4ddd2;"></a>
+        <a href="{{ r.links[0].url if r.links else '#' }}"><img src="{{ r.cover }}" width="96" height="96" alt="{{ r.title }} cover" style="display:block;width:96px;height:96px;border:0;border-radius:3px;background:#e4ddd2;"></a>
         {% else %}
         <div style="width:96px;height:96px;border-radius:3px;background:#e4ddd2;"></div>
         {% endif %}
@@ -21,9 +21,12 @@
           {{ r.artist }} <span style="font-weight:400;">&ndash;</span> <span style="font-style:italic;font-weight:400;">{{ r.title }}</span>
         </div>
         <div style="font:12px/1.6 Helvetica,Arial,sans-serif;color:#6b655c;padding-top:3px;letter-spacing:0.2px;">
-          {{ r.type | kind }} &middot; {{ r.genre }}{% if r.release_date %} &middot; Out {{ r.release_date | day }}{% endif %}{% if r.avg_score %} &middot; <span style="color:#1d1b18;font-weight:700;">{{ r.avg_score }}/10</span>{% endif %}
+          {{ r.type | kind }} &middot; {{ r.genre }}{% if r.release_date %} &middot; {{ r.release_date | day }}{% endif %}{% if r.avg_score %} &middot; <span style="color:#1d1b18;font-weight:700;">{{ r.avg_score }}/10</span>{% endif %}
           {% for l in r.links if l.pick %}&nbsp; <span style="background:#b4441c;color:#ffffff;font-weight:700;padding:1px 6px;border-radius:3px;font-size:11px;white-space:nowrap;">BEST NEW MUSIC</span>{% endfor %}
         </div>
+        {% if r.personal_reason %}
+        <div style="font:italic 12px/1.5 Helvetica,Arial,sans-serif;color:#2f6b4f;padding-top:3px;">&#9835; {{ r.personal_reason }}</div>
+        {% endif %}
       </td>
     </tr>
   </table>
@@ -31,7 +34,7 @@
   <div style="font:15px/1.55 Georgia,'Times New Roman',serif;color:#1d1b18;padding:10px 0 0 {{ 30 if n else 0 }}px;">{{ r.blurb }}</div>
   {% endif %}
   <div style="font:13px/1.8 Helvetica,Arial,sans-serif;padding:6px 0 0 {{ 30 if n else 0 }}px;">
-    <a href="{{ r.spotify }}" style="color:#1d1b18;font-weight:700;text-decoration:underline;white-space:nowrap;">{{ "Listen on Spotify" if r.spotify_direct else "Find on Spotify" }}</a>{% for l in r.links %}<span style="color:#b9b2a7;"> &nbsp;|&nbsp; </span><a href="{{ l.url }}" style="color:#b4441c;text-decoration:underline;white-space:nowrap;">{{ l.label }}{% if l.kind %} {{ l.kind }}{% endif %}</a>{% endfor %}
+    {% for l in r.links %}<a href="{{ l.url }}" style="color:#b4441c;text-decoration:underline;white-space:nowrap;">{{ l.label }}{% if l.kind %} {{ l.kind }}{% endif %}</a>{% if not loop.last %}<span style="color:#b9b2a7;"> &nbsp;|&nbsp; </span>{% endif %}{% endfor %}
   </div>
 </td></tr>
 {% endmacro %}
@@ -86,7 +89,7 @@
     {% endif %}
 
     <tr><td style="padding:18px 24px 24px 24px;border-top:1px solid #e4ddd2;font:12px/1.6 Helvetica,Arial,sans-serif;color:#6b655c;">
-      Covers releases from {{ dates }}, ranked by artist popularity (Deezer) and coverage in Pitchfork, Stereogum and The Needle Drop. Summaries are written by Claude from those publications' headlines. Covers from Deezer.
+      Covers releases from {{ dates }}, ranked by artist popularity (Deezer), coverage in Pitchfork, Stereogum and The Needle Drop{% if personal %}, and your Last.fm listening{% endif %}. Summaries are written by Claude from those publications' headlines. Covers from Deezer.
     </td></tr>
 
   </table>
