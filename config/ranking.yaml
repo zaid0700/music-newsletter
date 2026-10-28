@@ -1,0 +1,31 @@
+# How releases are ranked. Edit the numbers to change what rises to the top.
+#
+# Each release gets two scores from 0 to 1, combined with these weights:
+#   star_power:     how big the artist is (Deezer fan count; 10 million fans or more = 1.0)
+#   critical_buzz:  coverage and reviews this week (compared with the week's best-covered release)
+
+weights:
+  star_power: 0.5
+  critical_buzz: 0.5
+
+# Critical buzz points per mention (then multiplied by the source's weight in sources.yaml)
+mention_points:
+  review: 3
+  new_song: 1
+  release_news: 1
+  announcement: 1
+  list: 1
+
+# Each review score point above 6.0 (out of 10) adds this many buzz points. An 8.2 adds 2.2.
+score_bonus_per_point: 1.0
+
+# Albums count more than singles. The final score is multiplied by these.
+type_weight:
+  album: 1.0
+  mixtape: 0.9
+  ep: 0.8
+  single: 0.7
+
+# How many releases appear in the newsletter
+top_overall: 10
+per_genre: 6
