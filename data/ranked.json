@@ -1,7 +1,7 @@
 {
-  "week_start": "2026-10-23",
-  "week_end": "2026-10-29",
-  "generated": "2026-10-28T11:36:42.916392+00:00",
+  "week_start": "2026-10-24",
+  "week_end": "2026-10-30",
+  "generated": "2026-10-28T12:20:34.243039+00:00",
   "top": [
     {
       "artist": "Shabazz Palaces",
@@ -102,6 +102,36 @@
       "buzz_points": 4.5,
       "critical_buzz": 0.5,
       "rank_score": 0.56,
+      "avg_score": null
+    },
+    {
+      "artist": "DIIV",
+      "title": "ZIRP!",
+      "type": "album",
+      "genre": "Rock / Alternative / Indie",
+      "release_date": "2026-10-30",
+      "date_source": "musicbrainz",
+      "scores": [],
+      "sources": [
+        "Stereogum"
+      ],
+      "mentions": [
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "review",
+          "score": null,
+          "headline": "Album Of The Week: DIIV ZIRP!",
+          "link": "https://stereogum.com/2515261/album-of-the-week-diiv-zirp/reviews/album-of-the-week/",
+          "published": "2026-10-27T20:25:11+00:00"
+        }
+      ],
+      "fans": 38258,
+      "star_power": 0.655,
+      "buzz_points": 3.0,
+      "critical_buzz": 0.333,
+      "rank_score": 0.494,
       "avg_score": null
     },
     {
@@ -247,6 +277,36 @@
       "avg_score": null
     },
     {
+      "artist": "evilgiane & Slimesito",
+      "title": "EVILSLIME 2",
+      "type": "album",
+      "genre": "Hip-hop / R&B",
+      "release_date": "2026-10-30",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Stereogum"
+      ],
+      "mentions": [
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "announcement",
+          "score": null,
+          "headline": "evilgiane & Slimesito Announce New Album EVILSLIME 2 Out Friday: Hear “Georgia State”",
+          "link": "https://stereogum.com/2515652/evilgiane-slimesito-announce-new-album-evilslime-2-out-friday-hear-georgia-state/news/",
+          "published": "2026-10-26T20:37:32+00:00"
+        }
+      ],
+      "fans": 479,
+      "star_power": 0.383,
+      "buzz_points": 1.0,
+      "critical_buzz": 0.111,
+      "rank_score": 0.247,
+      "avg_score": null
+    },
+    {
       "artist": "MJ Lenderman",
       "title": "Weakened",
       "type": "single",
@@ -274,66 +334,6 @@
       "buzz_points": 1.0,
       "critical_buzz": 0.111,
       "rank_score": 0.219,
-      "avg_score": null
-    },
-    {
-      "artist": "evilgiane & Slimesito",
-      "title": "Georgia State",
-      "type": "single",
-      "genre": "Hip-hop / R&B",
-      "release_date": "2026-10-26",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Stereogum"
-      ],
-      "mentions": [
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "announcement",
-          "score": null,
-          "headline": "evilgiane & Slimesito Announce New Album EVILSLIME 2 Out Friday: Hear “Georgia State”",
-          "link": "https://stereogum.com/2515652/evilgiane-slimesito-announce-new-album-evilslime-2-out-friday-hear-georgia-state/news/",
-          "published": "2026-10-26T20:37:32+00:00"
-        }
-      ],
-      "fans": 479,
-      "star_power": 0.383,
-      "buzz_points": 1.0,
-      "critical_buzz": 0.111,
-      "rank_score": 0.173,
-      "avg_score": null
-    },
-    {
-      "artist": "Bruiser Wolf & Conductor Williams",
-      "title": "Ain't Got Time",
-      "type": "single",
-      "genre": "Hip-hop / R&B",
-      "release_date": "2026-10-23",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Stereogum"
-      ],
-      "mentions": [
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "Bruiser Wolf & Conductor Williams – “Ain’t Got Time”",
-          "link": "https://stereogum.com/2515493/bruiser-wolf-conductor-williams-aint-got-time/music/",
-          "published": "2026-10-23T19:43:08+00:00"
-        }
-      ],
-      "fans": 455,
-      "star_power": 0.38,
-      "buzz_points": 1.0,
-      "critical_buzz": 0.111,
-      "rank_score": 0.172,
       "avg_score": null
     }
   ],
@@ -444,6 +444,36 @@
       },
       {
         "artist": "evilgiane & Slimesito",
+        "title": "EVILSLIME 2",
+        "type": "album",
+        "genre": "Hip-hop / R&B",
+        "release_date": "2026-10-30",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Stereogum"
+        ],
+        "mentions": [
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "announcement",
+            "score": null,
+            "headline": "evilgiane & Slimesito Announce New Album EVILSLIME 2 Out Friday: Hear “Georgia State”",
+            "link": "https://stereogum.com/2515652/evilgiane-slimesito-announce-new-album-evilslime-2-out-friday-hear-georgia-state/news/",
+            "published": "2026-10-26T20:37:32+00:00"
+          }
+        ],
+        "fans": 479,
+        "star_power": 0.383,
+        "buzz_points": 1.0,
+        "critical_buzz": 0.111,
+        "rank_score": 0.247,
+        "avg_score": null
+      },
+      {
+        "artist": "evilgiane & Slimesito",
         "title": "Georgia State",
         "type": "single",
         "genre": "Hip-hop / R&B",
@@ -470,36 +500,6 @@
         "buzz_points": 1.0,
         "critical_buzz": 0.111,
         "rank_score": 0.173,
-        "avg_score": null
-      },
-      {
-        "artist": "Bruiser Wolf & Conductor Williams",
-        "title": "Ain't Got Time",
-        "type": "single",
-        "genre": "Hip-hop / R&B",
-        "release_date": "2026-10-23",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Stereogum"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Bruiser Wolf & Conductor Williams – “Ain’t Got Time”",
-            "link": "https://stereogum.com/2515493/bruiser-wolf-conductor-williams-aint-got-time/music/",
-            "published": "2026-10-23T19:43:08+00:00"
-          }
-        ],
-        "fans": 455,
-        "star_power": 0.38,
-        "buzz_points": 1.0,
-        "critical_buzz": 0.111,
-        "rank_score": 0.172,
         "avg_score": null
       },
       {
@@ -562,6 +562,36 @@
         "buzz_points": 4.5,
         "critical_buzz": 0.5,
         "rank_score": 0.6,
+        "avg_score": null
+      },
+      {
+        "artist": "DIIV",
+        "title": "ZIRP!",
+        "type": "album",
+        "genre": "Rock / Alternative / Indie",
+        "release_date": "2026-10-30",
+        "date_source": "musicbrainz",
+        "scores": [],
+        "sources": [
+          "Stereogum"
+        ],
+        "mentions": [
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "review",
+            "score": null,
+            "headline": "Album Of The Week: DIIV ZIRP!",
+            "link": "https://stereogum.com/2515261/album-of-the-week-diiv-zirp/reviews/album-of-the-week/",
+            "published": "2026-10-27T20:25:11+00:00"
+          }
+        ],
+        "fans": 38258,
+        "star_power": 0.655,
+        "buzz_points": 3.0,
+        "critical_buzz": 0.333,
+        "rank_score": 0.494,
         "avg_score": null
       },
       {
@@ -704,36 +734,6 @@
         "buzz_points": 1.0,
         "critical_buzz": 0.111,
         "rank_score": 0.168,
-        "avg_score": null
-      },
-      {
-        "artist": "Mia Joy",
-        "title": "Wings Of Desire",
-        "type": "single",
-        "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-10-27",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Stereogum"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "announcement",
-            "score": null,
-            "headline": "Mia Joy Announces New Album Star Echo Heavy Dove: Hear “Wings Of Desire”",
-            "link": "https://stereogum.com/2515615/mia-joy-announces-new-album-star-echo-heavy-dove-hear-wings-of-desire/music/",
-            "published": "2026-10-27T14:58:09+00:00"
-          }
-        ],
-        "fans": 224,
-        "star_power": 0.336,
-        "buzz_points": 1.0,
-        "critical_buzz": 0.111,
-        "rank_score": 0.156,
         "avg_score": null
       }
     ],
