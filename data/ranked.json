@@ -1,8 +1,49 @@
 {
   "week_start": "2026-10-23",
   "week_end": "2026-10-29",
-  "generated": "2026-10-28T11:27:52.508798+00:00",
+  "generated": "2026-10-28T11:36:42.916392+00:00",
   "top": [
+    {
+      "artist": "Shabazz Palaces",
+      "title": "It's a Style Sport",
+      "type": "album",
+      "genre": "Hip-hop / R&B",
+      "release_date": "2026-10-28",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Pitchfork (album reviews)",
+        "The Needle Drop (YouTube)"
+      ],
+      "mentions": [
+        {
+          "source": "The Needle Drop (YouTube)",
+          "source_type": "video",
+          "weight": 1.5,
+          "mention": "review",
+          "score": null,
+          "headline": "Shabazz Palaces - It's a Style Sport ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=HAyEg997L3Q",
+          "published": "2026-10-28T03:06:27+00:00"
+        },
+        {
+          "source": "Pitchfork (album reviews)",
+          "source_type": "reviews",
+          "weight": 1.5,
+          "mention": "review",
+          "score": null,
+          "headline": "It’s a Style Sport",
+          "link": "https://pitchfork.com/reviews/albums/shabazz-palaces-its-a-style-sport/",
+          "published": "2026-10-23T04:01:00+00:00"
+        }
+      ],
+      "fans": 7385,
+      "star_power": 0.553,
+      "buzz_points": 9.0,
+      "critical_buzz": 1.0,
+      "rank_score": 0.776,
+      "avg_score": null
+    },
     {
       "artist": "Tony Iommi & Jørn Lande",
       "title": "From the Dark",
@@ -29,8 +70,8 @@
       "fans": 79248,
       "star_power": 0.7,
       "buzz_points": 4.5,
-      "critical_buzz": 1.0,
-      "rank_score": 0.85,
+      "critical_buzz": 0.5,
+      "rank_score": 0.6,
       "avg_score": null
     },
     {
@@ -59,68 +100,38 @@
       "fans": 22217,
       "star_power": 0.621,
       "buzz_points": 4.5,
-      "critical_buzz": 1.0,
-      "rank_score": 0.81,
+      "critical_buzz": 0.5,
+      "rank_score": 0.56,
       "avg_score": null
     },
     {
-      "artist": "Shabazz Palaces",
-      "title": "It's a Style Sport",
-      "type": "album",
-      "genre": "Hip-hop / R&B",
-      "release_date": "2026-10-28",
+      "artist": "Peter Gabriel",
+      "title": "Who Are We Talking To?",
+      "type": "single",
+      "genre": "Pop",
+      "release_date": "2026-10-26",
       "date_source": "feeds",
       "scores": [],
       "sources": [
-        "The Needle Drop (YouTube)"
+        "Stereogum"
       ],
       "mentions": [
         {
-          "source": "The Needle Drop (YouTube)",
-          "source_type": "video",
-          "weight": 1.5,
-          "mention": "review",
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
           "score": null,
-          "headline": "Shabazz Palaces - It's a Style Sport ALBUM REVIEW",
-          "link": "https://www.youtube.com/watch?v=HAyEg997L3Q",
-          "published": "2026-10-28T03:06:27+00:00"
+          "headline": "Peter Gabriel – “Who Are We Talking To?”",
+          "link": "https://stereogum.com/2515593/peter-gabriel-who-are-we-talking-to/music/",
+          "published": "2026-10-26T16:46:09+00:00"
         }
       ],
-      "fans": 7385,
-      "star_power": 0.553,
-      "buzz_points": 4.5,
-      "critical_buzz": 1.0,
-      "rank_score": 0.776,
-      "avg_score": null
-    },
-    {
-      "artist": "Ishmael Butler",
-      "title": "It's a Style Sport",
-      "type": "album",
-      "genre": "Hip-hop / R&B",
-      "release_date": null,
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Pitchfork (album reviews)"
-      ],
-      "mentions": [
-        {
-          "source": "Pitchfork (album reviews)",
-          "source_type": "reviews",
-          "weight": 1.5,
-          "mention": "review",
-          "score": null,
-          "headline": "It’s a Style Sport",
-          "link": "https://pitchfork.com/reviews/albums/shabazz-palaces-its-a-style-sport/",
-          "published": "2026-10-23T04:01:00+00:00"
-        }
-      ],
-      "fans": 7,
-      "star_power": 0.129,
-      "buzz_points": 4.5,
-      "critical_buzz": 1.0,
-      "rank_score": 0.565,
+      "fans": 520909,
+      "star_power": 0.817,
+      "buzz_points": 1.0,
+      "critical_buzz": 0.111,
+      "rank_score": 0.325,
       "avg_score": null
     },
     {
@@ -160,8 +171,38 @@
       "fans": 66924,
       "star_power": 0.689,
       "buzz_points": 2.0,
-      "critical_buzz": 0.444,
-      "rank_score": 0.397,
+      "critical_buzz": 0.222,
+      "rank_score": 0.319,
+      "avg_score": null
+    },
+    {
+      "artist": "Chvrches",
+      "title": "Overthinker",
+      "type": "single",
+      "genre": "Pop",
+      "release_date": "2026-10-27",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Stereogum"
+      ],
+      "mentions": [
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Chvrches – “Overthinker”",
+          "link": "https://stereogum.com/2515747/chvrches-overthinker/music/",
+          "published": "2026-10-27T19:11:24+00:00"
+        }
+      ],
+      "fans": 184668,
+      "star_power": 0.752,
+      "buzz_points": 1.0,
+      "critical_buzz": 0.111,
+      "rank_score": 0.302,
       "avg_score": null
     },
     {
@@ -201,68 +242,8 @@
       "fans": 21353,
       "star_power": 0.618,
       "buzz_points": 2.0,
-      "critical_buzz": 0.444,
-      "rank_score": 0.372,
-      "avg_score": null
-    },
-    {
-      "artist": "Peter Gabriel",
-      "title": "Who Are We Talking To?",
-      "type": "single",
-      "genre": "Pop",
-      "release_date": "2026-10-26",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Stereogum"
-      ],
-      "mentions": [
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "Peter Gabriel – “Who Are We Talking To?”",
-          "link": "https://stereogum.com/2515593/peter-gabriel-who-are-we-talking-to/music/",
-          "published": "2026-10-26T16:46:09+00:00"
-        }
-      ],
-      "fans": 520909,
-      "star_power": 0.817,
-      "buzz_points": 1.0,
       "critical_buzz": 0.222,
-      "rank_score": 0.364,
-      "avg_score": null
-    },
-    {
-      "artist": "Chvrches",
-      "title": "Overthinker",
-      "type": "single",
-      "genre": "Pop",
-      "release_date": "2026-10-27",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Stereogum"
-      ],
-      "mentions": [
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "Chvrches – “Overthinker”",
-          "link": "https://stereogum.com/2515747/chvrches-overthinker/music/",
-          "published": "2026-10-27T19:11:24+00:00"
-        }
-      ],
-      "fans": 184668,
-      "star_power": 0.752,
-      "buzz_points": 1.0,
-      "critical_buzz": 0.222,
-      "rank_score": 0.341,
+      "rank_score": 0.294,
       "avg_score": null
     },
     {
@@ -291,8 +272,8 @@
       "fans": 3975,
       "star_power": 0.514,
       "buzz_points": 1.0,
-      "critical_buzz": 0.222,
-      "rank_score": 0.258,
+      "critical_buzz": 0.111,
+      "rank_score": 0.219,
       "avg_score": null
     },
     {
@@ -321,8 +302,38 @@
       "fans": 479,
       "star_power": 0.383,
       "buzz_points": 1.0,
-      "critical_buzz": 0.222,
-      "rank_score": 0.212,
+      "critical_buzz": 0.111,
+      "rank_score": 0.173,
+      "avg_score": null
+    },
+    {
+      "artist": "Bruiser Wolf & Conductor Williams",
+      "title": "Ain't Got Time",
+      "type": "single",
+      "genre": "Hip-hop / R&B",
+      "release_date": "2026-10-23",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Stereogum"
+      ],
+      "mentions": [
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Bruiser Wolf & Conductor Williams – “Ain’t Got Time”",
+          "link": "https://stereogum.com/2515493/bruiser-wolf-conductor-williams-aint-got-time/music/",
+          "published": "2026-10-23T19:43:08+00:00"
+        }
+      ],
+      "fans": 455,
+      "star_power": 0.38,
+      "buzz_points": 1.0,
+      "critical_buzz": 0.111,
+      "rank_score": 0.172,
       "avg_score": null
     }
   ],
@@ -354,8 +365,8 @@
         "fans": 520909,
         "star_power": 0.817,
         "buzz_points": 1.0,
-        "critical_buzz": 0.222,
-        "rank_score": 0.364,
+        "critical_buzz": 0.111,
+        "rank_score": 0.325,
         "avg_score": null
       },
       {
@@ -384,8 +395,8 @@
         "fans": 184668,
         "star_power": 0.752,
         "buzz_points": 1.0,
-        "critical_buzz": 0.222,
-        "rank_score": 0.341,
+        "critical_buzz": 0.111,
+        "rank_score": 0.302,
         "avg_score": null
       }
     ],
@@ -399,6 +410,7 @@
         "date_source": "feeds",
         "scores": [],
         "sources": [
+          "Pitchfork (album reviews)",
           "The Needle Drop (YouTube)"
         ],
         "mentions": [
@@ -411,27 +423,7 @@
             "headline": "Shabazz Palaces - It's a Style Sport ALBUM REVIEW",
             "link": "https://www.youtube.com/watch?v=HAyEg997L3Q",
             "published": "2026-10-28T03:06:27+00:00"
-          }
-        ],
-        "fans": 7385,
-        "star_power": 0.553,
-        "buzz_points": 4.5,
-        "critical_buzz": 1.0,
-        "rank_score": 0.776,
-        "avg_score": null
-      },
-      {
-        "artist": "Ishmael Butler",
-        "title": "It's a Style Sport",
-        "type": "album",
-        "genre": "Hip-hop / R&B",
-        "release_date": null,
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Pitchfork (album reviews)"
-        ],
-        "mentions": [
+          },
           {
             "source": "Pitchfork (album reviews)",
             "source_type": "reviews",
@@ -443,11 +435,11 @@
             "published": "2026-10-23T04:01:00+00:00"
           }
         ],
-        "fans": 7,
-        "star_power": 0.129,
-        "buzz_points": 4.5,
+        "fans": 7385,
+        "star_power": 0.553,
+        "buzz_points": 9.0,
         "critical_buzz": 1.0,
-        "rank_score": 0.565,
+        "rank_score": 0.776,
         "avg_score": null
       },
       {
@@ -476,8 +468,8 @@
         "fans": 479,
         "star_power": 0.383,
         "buzz_points": 1.0,
-        "critical_buzz": 0.222,
-        "rank_score": 0.212,
+        "critical_buzz": 0.111,
+        "rank_score": 0.173,
         "avg_score": null
       },
       {
@@ -506,8 +498,8 @@
         "fans": 455,
         "star_power": 0.38,
         "buzz_points": 1.0,
-        "critical_buzz": 0.222,
-        "rank_score": 0.211,
+        "critical_buzz": 0.111,
+        "rank_score": 0.172,
         "avg_score": null
       },
       {
@@ -536,8 +528,8 @@
         "fans": 0,
         "star_power": 0.0,
         "buzz_points": 1.0,
-        "critical_buzz": 0.222,
-        "rank_score": 0.078,
+        "critical_buzz": 0.111,
+        "rank_score": 0.039,
         "avg_score": null
       }
     ],
@@ -568,8 +560,8 @@
         "fans": 79248,
         "star_power": 0.7,
         "buzz_points": 4.5,
-        "critical_buzz": 1.0,
-        "rank_score": 0.85,
+        "critical_buzz": 0.5,
+        "rank_score": 0.6,
         "avg_score": null
       },
       {
@@ -609,8 +601,8 @@
         "fans": 66924,
         "star_power": 0.689,
         "buzz_points": 2.0,
-        "critical_buzz": 0.444,
-        "rank_score": 0.397,
+        "critical_buzz": 0.222,
+        "rank_score": 0.319,
         "avg_score": null
       },
       {
@@ -650,8 +642,8 @@
         "fans": 21353,
         "star_power": 0.618,
         "buzz_points": 2.0,
-        "critical_buzz": 0.444,
-        "rank_score": 0.372,
+        "critical_buzz": 0.222,
+        "rank_score": 0.294,
         "avg_score": null
       },
       {
@@ -680,8 +672,8 @@
         "fans": 3975,
         "star_power": 0.514,
         "buzz_points": 1.0,
-        "critical_buzz": 0.222,
-        "rank_score": 0.258,
+        "critical_buzz": 0.111,
+        "rank_score": 0.219,
         "avg_score": null
       },
       {
@@ -710,8 +702,8 @@
         "fans": 377,
         "star_power": 0.368,
         "buzz_points": 1.0,
-        "critical_buzz": 0.222,
-        "rank_score": 0.206,
+        "critical_buzz": 0.111,
+        "rank_score": 0.168,
         "avg_score": null
       },
       {
@@ -740,8 +732,8 @@
         "fans": 224,
         "star_power": 0.336,
         "buzz_points": 1.0,
-        "critical_buzz": 0.222,
-        "rank_score": 0.195,
+        "critical_buzz": 0.111,
+        "rank_score": 0.156,
         "avg_score": null
       }
     ],
@@ -772,8 +764,8 @@
         "fans": 22217,
         "star_power": 0.621,
         "buzz_points": 4.5,
-        "critical_buzz": 1.0,
-        "rank_score": 0.81,
+        "critical_buzz": 0.5,
+        "rank_score": 0.56,
         "avg_score": null
       }
     ]

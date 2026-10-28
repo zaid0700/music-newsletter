@@ -163,6 +163,7 @@
     "date_source": "feeds",
     "scores": [],
     "sources": [
+      "Pitchfork (album reviews)",
       "The Needle Drop (YouTube)"
     ],
     "mentions": [
@@ -175,6 +176,16 @@
         "headline": "Shabazz Palaces - It's a Style Sport ALBUM REVIEW",
         "link": "https://www.youtube.com/watch?v=HAyEg997L3Q",
         "published": "2026-10-28T03:06:27+00:00"
+      },
+      {
+        "source": "Pitchfork (album reviews)",
+        "source_type": "reviews",
+        "weight": 1.5,
+        "mention": "review",
+        "score": null,
+        "headline": "It’s a Style Sport",
+        "link": "https://pitchfork.com/reviews/albums/shabazz-palaces-its-a-style-sport/",
+        "published": "2026-10-23T04:01:00+00:00"
       }
     ]
   },
@@ -1105,30 +1116,6 @@
         "headline": "Alchemical Sisters",
         "link": "https://pitchfork.com/reviews/albums/alchemical-sisters-alchemical-sisters/",
         "published": "2026-10-22T04:03:00+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Ishmael Butler",
-    "title": "It's a Style Sport",
-    "type": "album",
-    "genre": "Hip-hop / R&B",
-    "release_date": null,
-    "date_source": "feeds",
-    "scores": [],
-    "sources": [
-      "Pitchfork (album reviews)"
-    ],
-    "mentions": [
-      {
-        "source": "Pitchfork (album reviews)",
-        "source_type": "reviews",
-        "weight": 1.5,
-        "mention": "review",
-        "score": null,
-        "headline": "It’s a Style Sport",
-        "link": "https://pitchfork.com/reviews/albums/shabazz-palaces-its-a-style-sport/",
-        "published": "2026-10-23T04:01:00+00:00"
       }
     ]
   },
