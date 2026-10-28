@@ -2,6 +2,11 @@
 
    on:
      workflow_dispatch:
+       inputs:
+         week_ending:
+           description: "Thursday ending the week to rank (YYYY-MM-DD). Leave blank for the most recent."
+           required: false
+           default: ""
 
    permissions:
      contents: write
@@ -24,10 +29,14 @@
            run: python scripts/analyse.py
            env:
              ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+         - name: Rank releases
+           run: python scripts/rank.py ${WEEK_ENDING:+--week-ending "$WEEK_ENDING"}
+           env:
+             WEEK_ENDING: ${{ inputs.week_ending }}
          - name: Save results
            run: |
              git config user.name "newsletter-bot"
              git config user.email "newsletter-bot@users.noreply.github.com"
              git add data/
-             git diff --cached --quiet || git commit -m "Analyse releases $(date -u +%Y-%m-%d)"
+             git diff --cached --quiet || git commit -m "Newsletter data $(date -u +%Y-%m-%d)"
              git push
