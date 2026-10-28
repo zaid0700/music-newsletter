@@ -13,15 +13,18 @@
  },
  "huercos|fromthetoolkitoflovers|album": {
   "cover": null,
-  "checked": "2026-10-28T13:00:22.829492+00:00"
+  "source": null,
+  "checked": "2026-10-28T13:05:01.934851+00:00"
  },
  "diiv|zirp|album": {
-  "cover": null,
-  "checked": "2026-10-28T13:00:22.829492+00:00"
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/31/87/54318724-e4d1-7254-a7d4-d2e671dff8ea/26CRGIM55137.rgb.jpg/600x600bb.jpg",
+  "source": "iTunes",
+  "checked": "2026-10-28T13:05:01.934851+00:00"
  },
  "petergabriel|whoarewetalkingto|single": {
-  "cover": null,
-  "checked": "2026-10-28T13:00:22.829492+00:00"
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/3c/dd/253cdd6c-3a12-278f-0802-3b6a80a808d8/PeterGabriel_WhoAreWeTalkingTo_3000pxls.jpg/600x600bb.jpg",
+  "source": "iTunes",
+  "checked": "2026-10-28T13:05:01.934851+00:00"
  },
  "flaminglips|godwillcontrolthewerewolves|single": {
   "checked": "2026-10-28T12:41:39.411800+00:00",
@@ -30,8 +33,9 @@
   "spotify": null
  },
  "chvrches|overthinker|single": {
-  "cover": null,
-  "checked": "2026-10-28T13:00:22.829492+00:00"
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/8f/60/268f6064-3770-14e1-428a-9bb67329a9f6/823375530411_Cover.jpg/600x600bb.jpg",
+  "source": "iTunes",
+  "checked": "2026-10-28T13:05:01.934851+00:00"
  },
  "deadmansbones|lostinthenight|single": {
   "checked": "2026-10-28T12:41:39.411800+00:00",
@@ -47,11 +51,13 @@
  },
  "mjlenderman|weakened|single": {
   "cover": null,
-  "checked": "2026-10-28T13:00:22.829492+00:00"
+  "source": null,
+  "checked": "2026-10-28T13:05:01.934851+00:00"
  },
  "evilgianeandslimesito|georgiastate|single": {
   "cover": null,
-  "checked": "2026-10-28T13:00:22.829492+00:00"
+  "source": null,
+  "checked": "2026-10-28T13:05:01.934851+00:00"
  },
  "meiv|nofuturept1and2|single": {
   "checked": "2026-10-28T12:41:39.411800+00:00",
