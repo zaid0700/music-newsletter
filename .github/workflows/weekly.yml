@@ -46,6 +46,7 @@ jobs:
         run: python scripts/rank.py ${WEEK_ENDING:+--week-ending "$WEEK_ENDING"}
         env:
           WEEK_ENDING: ${{ inputs.week_ending }}
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
 
       - name: Write and send newsletter
         run: python scripts/newsletter.py ${{ (github.event_name == 'workflow_dispatch' && !inputs.send) && '--no-send' || '' }}
