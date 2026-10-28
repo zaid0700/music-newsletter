@@ -215,6 +215,27 @@ def same_artist(a: str, b: str) -> bool:
     return a == b or (min(len(a), len(b)) >= 3 and (a in b or b in a))
 
 
+LONG_FORM = ("album", "ep", "mixtape")
+
+
+def dates_close(a, b) -> bool:
+    if not (valid_date(a) and valid_date(b)):
+        return True
+    gap = abs(datetime.fromisoformat(a) - datetime.fromisoformat(b))
+    return gap <= timedelta(days=7)
+
+
+def same_release(rel: dict, other: dict) -> bool:
+    """Same title (already checked) plus a matching artist. For albums/EPs with a
+    distinctive title, a different artist credit still counts if the dates agree,
+    e.g. 'Shabazz Palaces' vs its frontman 'Ishmael Butler' for the same album."""
+    if same_artist(norm(rel["artist"]), norm(other["artist"])):
+        return True
+    return (rel["type"] in LONG_FORM and other["type"] in LONG_FORM
+            and len(norm(rel["title"])) >= 6
+            and dates_close(rel["release_date"], other["release_date"]))
+
+
 def most_common(values, prefer_not=None):
     values = [v for v in values if v]
     if prefer_not:
@@ -237,7 +258,7 @@ def merge(items: list[dict], extracted: dict) -> list[dict]:
                 continue
             clusters = groups.setdefault(tkey, [])
             for cluster in clusters:
-                if same_artist(akey, norm(cluster[0][0]["artist"])):
+                if same_release(rel, cluster[0][0]):
                     cluster.append((rel, item))
                     break
             else:
@@ -263,8 +284,12 @@ def merge(items: list[dict], extracted: dict) -> list[dict]:
                     "link": item["link"],
                     "published": item.get("published") or item["collected"],
                 })
+            # Credit used most often wins; a review's credit counts double.
+            credits = Counter()
+            for r in rels:
+                credits[r["artist"]] += 2 if r["mention"] == "review" else 1
             merged.append({
-                "artist": most_common([r["artist"] for r in rels]),
+                "artist": credits.most_common(1)[0][0],
                 "title": most_common([r["title"] for r in rels]),
                 "type": most_common([r["type"] for r in rels]),
                 "genre": most_common([r["genre"] for r in rels], prefer_not="Other"),
