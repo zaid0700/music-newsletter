@@ -1,9 +1,10 @@
 """
 Step 5: rank the week's releases.
 
-  1. Week:   keeps releases that came out in the newsletter week, the previous
-             Friday to Thursday (UAE time). Reviewed albums with no known date are
-             kept if they were reviewed during that week.
+  1. Week:   keeps releases that came out in the newsletter week, Saturday to
+             Friday (UAE time), ending on the Friday the newsletter is sent.
+             Reviewed albums with no known date are kept if they were reviewed
+             during that week.
   2. Stars:  looks up each artist's fan count on Deezer (free, no key). Cached in
              data/deezer.json and refreshed every 30 days.
   3. Score:  combines star power and critical buzz using config/ranking.yaml.
@@ -11,7 +12,7 @@ Step 5: rank the week's releases.
 Output: data/ranked.json  (top releases overall, plus top releases per genre)
 
 Run it with:             python scripts/rank.py
-For a specific week:     python scripts/rank.py --week-ending 2026-10-22   (a Thursday)
+For a specific week:     python scripts/rank.py --week-ending 2026-10-30   (a Friday)
 """
 
 import argparse
@@ -43,14 +44,15 @@ DEEZER_REFRESH_DAYS = 30
 # --------------------------------------------------------------------------- 1. week
 
 def newsletter_week(week_ending: date | None = None) -> tuple[date, date]:
-    """Return (Friday, Thursday) of the most recent full Fri-Thu week in UAE time.
-    Run on a Friday, that's last Friday to yesterday."""
+    """Return (Saturday, Friday) of the newsletter week in UAE time.
+    Run on a Friday, that's last Saturday to today. On any other day, it's the
+    week that ended on the most recent Friday."""
     if week_ending is None:
         today = datetime.now(UAE).date()
-        days_since_thursday = (today.weekday() - 3) % 7 or 7  # Thursday = 3
-        week_ending = today - timedelta(days=days_since_thursday)
-    if week_ending.weekday() != 3:
-        sys.exit(f"--week-ending must be a Thursday; {week_ending} is a {week_ending:%A}")
+        days_since_friday = (today.weekday() - 4) % 7  # Friday = 4, so 0 on a Friday
+        week_ending = today - timedelta(days=days_since_friday)
+    if week_ending.weekday() != 4:
+        sys.exit(f"--week-ending must be a Friday; {week_ending} is a {week_ending:%A}")
     return week_ending - timedelta(days=6), week_ending
 
 
@@ -158,7 +160,7 @@ def add_scores(releases: list[dict], cfg: dict, source_weights: dict) -> None:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--week-ending", type=date.fromisoformat,
-                        help="Thursday that ends the week (default: the most recent one)")
+                        help="Friday that ends the week (default: today if Friday, else the most recent one)")
     args = parser.parse_args()
 
     if not RELEASES.exists():
@@ -171,7 +173,7 @@ def main() -> None:
     start, end = newsletter_week(args.week_ending)
     releases = [r for r in json.loads(RELEASES.read_text())
                 if r["genre"] in genres and in_week(r, start, end)]
-    print(f"Week: Fri {start} to Thu {end}: {len(releases)} releases in your genres")
+    print(f"Week: Sat {start} to Fri {end}: {len(releases)} releases in your genres")
 
     add_star_power(releases)
     add_scores(releases, cfg, source_weights)
