@@ -1,0 +1,3158 @@
+{
+ "diiv": {
+  "similar": [
+   {
+    "name": "Beach Fossils",
+    "match": 1.0
+   },
+   {
+    "name": "Wild Nothing",
+    "match": 0.870023
+   },
+   {
+    "name": "Launder",
+    "match": 0.839171
+   },
+   {
+    "name": "BDRMM",
+    "match": 0.646669
+   },
+   {
+    "name": "Nothing",
+    "match": 0.61219
+   },
+   {
+    "name": "Lotus Plaza",
+    "match": 0.576764
+   },
+   {
+    "name": "Deerhunter",
+    "match": 0.528709
+   },
+   {
+    "name": "Flyying Colours",
+    "match": 0.524114
+   },
+   {
+    "name": "Ringo Deathstarr",
+    "match": 0.508459
+   },
+   {
+    "name": "Chapterhouse",
+    "match": 0.49215
+   },
+   {
+    "name": "No Joy",
+    "match": 0.48793
+   },
+   {
+    "name": "Ride",
+    "match": 0.481465
+   },
+   {
+    "name": "Film School",
+    "match": 0.473281
+   },
+   {
+    "name": "Pinkshinyultrablast",
+    "match": 0.456841
+   },
+   {
+    "name": "The Radio Dept.",
+    "match": 0.451888
+   },
+   {
+    "name": "Slowdive",
+    "match": 0.421281
+   },
+   {
+    "name": "Whirr",
+    "match": 0.413513
+   },
+   {
+    "name": "Craft Spells",
+    "match": 0.404452
+   },
+   {
+    "name": "Drop Nineteens",
+    "match": 0.400884
+   },
+   {
+    "name": "Horse Jumper of Love",
+    "match": 0.400838
+   },
+   {
+    "name": "They Are Gutting a Body of Water",
+    "match": 0.39915
+   },
+   {
+    "name": "Just Mustard",
+    "match": 0.394605
+   },
+   {
+    "name": "Real Estate",
+    "match": 0.392342
+   },
+   {
+    "name": "Blushing",
+    "match": 0.384348
+   },
+   {
+    "name": "The Horrors",
+    "match": 0.380328
+   },
+   {
+    "name": "Lower Dens",
+    "match": 0.377519
+   },
+   {
+    "name": "Blouse",
+    "match": 0.37438
+   },
+   {
+    "name": "Ovlov",
+    "match": 0.369237
+   },
+   {
+    "name": "Swirlies",
+    "match": 0.367069
+   },
+   {
+    "name": "The Pains of Being Pure at Heart",
+    "match": 0.366933
+   },
+   {
+    "name": "Slow Pulp",
+    "match": 0.364515
+   },
+   {
+    "name": "Hotline TNT",
+    "match": 0.362482
+   },
+   {
+    "name": "Cloakroom",
+    "match": 0.362208
+   },
+   {
+    "name": "Airiel",
+    "match": 0.361638
+   },
+   {
+    "name": "Slow Crush",
+    "match": 0.358126
+   },
+   {
+    "name": "Tamaryn",
+    "match": 0.357501
+   },
+   {
+    "name": "A Place to Bury Strangers",
+    "match": 0.356037
+   },
+   {
+    "name": "my bloody valentine",
+    "match": 0.354304
+   },
+   {
+    "name": "deary",
+    "match": 0.351422
+   },
+   {
+    "name": "Warpaint",
+    "match": 0.346691
+   },
+   {
+    "name": "Wishy",
+    "match": 0.341659
+   },
+   {
+    "name": "Atlas Sound",
+    "match": 0.341371
+   },
+   {
+    "name": "Hibou",
+    "match": 0.34116
+   },
+   {
+    "name": "Lilys",
+    "match": 0.338997
+   },
+   {
+    "name": "Castlebeat",
+    "match": 0.32589
+   },
+   {
+    "name": "Greet Death",
+    "match": 0.317821
+   },
+   {
+    "name": "Widowspeak",
+    "match": 0.316578
+   },
+   {
+    "name": "Starflyer 59",
+    "match": 0.316037
+   },
+   {
+    "name": "Swervedriver",
+    "match": 0.313329
+   },
+   {
+    "name": "Spirit of the Beehive",
+    "match": 0.312479
+   }
+  ],
+  "checked": "2026-10-28T13:00:01.117927+00:00"
+ },
+ "shabazzpalaces": {
+  "similar": [
+   {
+    "name": "Armand Hammer",
+    "match": 1.0
+   },
+   {
+    "name": "Cannibal Ox",
+    "match": 0.881254
+   },
+   {
+    "name": "Ratking",
+    "match": 0.867095
+   },
+   {
+    "name": "Ka",
+    "match": 0.798269
+   },
+   {
+    "name": "Billy Woods",
+    "match": 0.794596
+   },
+   {
+    "name": "cLOUDDEAD",
+    "match": 0.790851
+   },
+   {
+    "name": "E L U C I D",
+    "match": 0.766644
+   },
+   {
+    "name": "clipping.",
+    "match": 0.762964
+   },
+   {
+    "name": "Edan",
+    "match": 0.718521
+   },
+   {
+    "name": "billy woods & Kenny Segal",
+    "match": 0.699968
+   },
+   {
+    "name": "Digable Planets",
+    "match": 0.684879
+   },
+   {
+    "name": "dälek",
+    "match": 0.66122
+   },
+   {
+    "name": "Quelle Chris",
+    "match": 0.65829
+   },
+   {
+    "name": "Company Flow",
+    "match": 0.653774
+   },
+   {
+    "name": "El-P",
+    "match": 0.616473
+   },
+   {
+    "name": "Moor Mother",
+    "match": 0.611628
+   },
+   {
+    "name": "By Storm",
+    "match": 0.597375
+   },
+   {
+    "name": "Injury Reserve",
+    "match": 0.593464
+   },
+   {
+    "name": "SLAUSON MALONE 1",
+    "match": 0.588751
+   },
+   {
+    "name": "Pink Siifu",
+    "match": 0.581306
+   },
+   {
+    "name": "Milo",
+    "match": 0.571343
+   },
+   {
+    "name": "Open Mike Eagle",
+    "match": 0.570799
+   },
+   {
+    "name": "Flying Lotus",
+    "match": 0.547113
+   },
+   {
+    "name": "Aesop Rock",
+    "match": 0.531468
+   },
+   {
+    "name": "Cities Aviv",
+    "match": 0.505382
+   },
+   {
+    "name": "Young Fathers",
+    "match": 0.495871
+   },
+   {
+    "name": "Quasimoto",
+    "match": 0.488345
+   },
+   {
+    "name": "Run the Jewels",
+    "match": 0.475462
+   },
+   {
+    "name": "Armand Hammer & The Alchemist",
+    "match": 0.474771
+   },
+   {
+    "name": "Niontay",
+    "match": 0.463922
+   },
+   {
+    "name": "The Roots",
+    "match": 0.462997
+   },
+   {
+    "name": "Dr. Octagon",
+    "match": 0.459027
+   },
+   {
+    "name": "Busdriver",
+    "match": 0.457575
+   },
+   {
+    "name": "Bedwetter",
+    "match": 0.454547
+   },
+   {
+    "name": "Saul Williams",
+    "match": 0.449773
+   },
+   {
+    "name": "Roc Marciano",
+    "match": 0.446959
+   },
+   {
+    "name": "Danny Brown",
+    "match": 0.44553
+   },
+   {
+    "name": "Ghostface Killah",
+    "match": 0.43497
+   },
+   {
+    "name": "The Koreatown Oddity",
+    "match": 0.418542
+   },
+   {
+    "name": "Death Grips",
+    "match": 0.417604
+   },
+   {
+    "name": "Wiki",
+    "match": 0.410538
+   },
+   {
+    "name": "HO99O9",
+    "match": 0.403696
+   },
+   {
+    "name": "Mos Def",
+    "match": 0.396438
+   },
+   {
+    "name": "MIKE & Tony Seltzer",
+    "match": 0.391555
+   },
+   {
+    "name": "Deltron 3030",
+    "match": 0.383726
+   },
+   {
+    "name": "Black Star",
+    "match": 0.380031
+   },
+   {
+    "name": "Goodie Mob",
+    "match": 0.379573
+   },
+   {
+    "name": "Gang Starr",
+    "match": 0.36228
+   },
+   {
+    "name": "Camp Lo",
+    "match": 0.361844
+   },
+   {
+    "name": "Lil Ugly Mane",
+    "match": 0.361765
+   }
+  ],
+  "checked": "2026-10-28T13:00:01.566236+00:00"
+ },
+ "nineperfectlives": {
+  "similar": [],
+  "checked": "2026-10-28T13:00:01.933360+00:00"
+ },
+ "deadmansbones": {
+  "similar": [
+   {
+    "name": "Timber Timbre",
+    "match": 1.0
+   },
+   {
+    "name": "Murder By Death",
+    "match": 0.726672
+   },
+   {
+    "name": "The Decemberists",
+    "match": 0.703126
+   },
+   {
+    "name": "The Veils",
+    "match": 0.692058
+   },
+   {
+    "name": "Two Gallants",
+    "match": 0.662737
+   },
+   {
+    "name": "Fleet Foxes",
+    "match": 0.625627
+   },
+   {
+    "name": "The Family Crest",
+    "match": 0.614202
+   },
+   {
+    "name": "Other Lives",
+    "match": 0.613908
+   },
+   {
+    "name": "Little Joy",
+    "match": 0.60731
+   },
+   {
+    "name": "Okkervil River",
+    "match": 0.590196
+   },
+   {
+    "name": "Lady Lamb",
+    "match": 0.584683
+   },
+   {
+    "name": "Aliceband",
+    "match": 0.572118
+   },
+   {
+    "name": "Department of Eagles",
+    "match": 0.567861
+   },
+   {
+    "name": "Ugly Casanova",
+    "match": 0.562154
+   },
+   {
+    "name": "Champs",
+    "match": 0.541487
+   },
+   {
+    "name": "Karen O",
+    "match": 0.537161
+   },
+   {
+    "name": "alt-J",
+    "match": 0.533208
+   },
+   {
+    "name": "Bright Eyes",
+    "match": 0.509436
+   },
+   {
+    "name": "Neutral Milk Hotel",
+    "match": 0.50869
+   },
+   {
+    "name": "Radical Face",
+    "match": 0.503478
+   },
+   {
+    "name": "The Bravery",
+    "match": 0.500565
+   },
+   {
+    "name": "Sufjan Stevens",
+    "match": 0.499906
+   },
+   {
+    "name": "Yeah Yeah Yeahs",
+    "match": 0.488546
+   },
+   {
+    "name": "CocoRosie",
+    "match": 0.487949
+   },
+   {
+    "name": "Sea Wolf",
+    "match": 0.485283
+   },
+   {
+    "name": "Junip",
+    "match": 0.484332
+   },
+   {
+    "name": "Midlake",
+    "match": 0.484175
+   },
+   {
+    "name": "Jake Bugg",
+    "match": 0.48209
+   },
+   {
+    "name": "DeVotchKa",
+    "match": 0.479662
+   },
+   {
+    "name": "The Young Veins",
+    "match": 0.477046
+   },
+   {
+    "name": "Rabbitology",
+    "match": 0.469667
+   },
+   {
+    "name": "The Hoosiers",
+    "match": 0.465066
+   },
+   {
+    "name": "Patrick Wolf",
+    "match": 0.452291
+   },
+   {
+    "name": "Of Monsters and Men",
+    "match": 0.44661
+   },
+   {
+    "name": "Mother Mother",
+    "match": 0.439389
+   },
+   {
+    "name": "Saintseneca",
+    "match": 0.438425
+   },
+   {
+    "name": "Broken Bells",
+    "match": 0.43699
+   },
+   {
+    "name": "Beirut",
+    "match": 0.436576
+   },
+   {
+    "name": "The Antlers",
+    "match": 0.436376
+   },
+   {
+    "name": "Hurricane Bells",
+    "match": 0.436053
+   },
+   {
+    "name": "Local Natives",
+    "match": 0.435834
+   },
+   {
+    "name": "Karen O and the Kids",
+    "match": 0.435438
+   },
+   {
+    "name": "Marika Hackman",
+    "match": 0.430828
+   },
+   {
+    "name": "Maya Hawke",
+    "match": 0.424421
+   },
+   {
+    "name": "Fish in a Birdcage",
+    "match": 0.420497
+   },
+   {
+    "name": "Barns Courtney",
+    "match": 0.419629
+   },
+   {
+    "name": "Hozier",
+    "match": 0.417526
+   },
+   {
+    "name": "Dry the River",
+    "match": 0.413842
+   },
+   {
+    "name": "Sir Sly",
+    "match": 0.409595
+   },
+   {
+    "name": "Edward Sharpe & The Magnetic Zeros",
+    "match": 0.4091
+   }
+  ],
+  "checked": "2026-10-28T13:00:03.586470+00:00"
+ },
+ "meiv": {
+  "similar": [
+   {
+    "name": "Murex",
+    "match": 1.0
+   },
+   {
+    "name": "Whisper Doll",
+    "match": 0.92484
+   },
+   {
+    "name": "ear",
+    "match": 0.906692
+   },
+   {
+    "name": "The Avalanches, John Glacier, Khadija Al Hanafi",
+    "match": 0.757647
+   },
+   {
+    "name": "300SkullsAndCounting & Jenny Sparks",
+    "match": 0.60299
+   },
+   {
+    "name": "Yakiyn",
+    "match": 0.539074
+   },
+   {
+    "name": "Adult DVD",
+    "match": 0.448813
+   },
+   {
+    "name": "Portraits Of Tracy",
+    "match": 0.405945
+   },
+   {
+    "name": "The Avalanches, Jamie xx",
+    "match": 0.405021
+   },
+   {
+    "name": "Sophia Stel",
+    "match": 0.389281
+   },
+   {
+    "name": "The Nightclubs",
+    "match": 0.37521
+   },
+   {
+    "name": "Marina Herlop",
+    "match": 0.371954
+   },
+   {
+    "name": "Q Marsden",
+    "match": 0.364095
+   },
+   {
+    "name": "Bricknasty",
+    "match": 0.344219
+   },
+   {
+    "name": "Sycco",
+    "match": 0.341129
+   },
+   {
+    "name": "Contact Sports",
+    "match": 0.320508
+   },
+   {
+    "name": "Horse Vision",
+    "match": 0.304986
+   },
+   {
+    "name": "josephine's next million miles",
+    "match": 0.297068
+   },
+   {
+    "name": "The Avalanches, Nikki Nair, Jessy Lanza, Prentiss",
+    "match": 0.295846
+   }
+  ],
+  "checked": "2026-10-28T13:00:03.985653+00:00"
+ },
+ "stephensteinbrink": {
+  "similar": [
+   {
+    "name": "Chris Cohen",
+    "match": 1.0
+   },
+   {
+    "name": "Cass McCombs",
+    "match": 0.723337
+   },
+   {
+    "name": "Sam Evian",
+    "match": 0.629538
+   },
+   {
+    "name": "Sun June",
+    "match": 0.577835
+   },
+   {
+    "name": "Westerman",
+    "match": 0.571203
+   },
+   {
+    "name": "wished bone",
+    "match": 0.566406
+   },
+   {
+    "name": "Nicholas Krgovich",
+    "match": 0.546796
+   },
+   {
+    "name": "Johanna Samuels",
+    "match": 0.523506
+   },
+   {
+    "name": "John Vanderslice",
+    "match": 0.51902
+   },
+   {
+    "name": "Why Bonnie",
+    "match": 0.502616
+   },
+   {
+    "name": "Peel Dream Magazine",
+    "match": 0.467217
+   },
+   {
+    "name": "J.E. Sunde",
+    "match": 0.463718
+   },
+   {
+    "name": "Kiwi Jr.",
+    "match": 0.459313
+   },
+   {
+    "name": "Kevin Krauter",
+    "match": 0.442614
+   },
+   {
+    "name": "Someone Still Loves You Boris Yeltsin",
+    "match": 0.43506
+   },
+   {
+    "name": "Florist",
+    "match": 0.421319
+   },
+   {
+    "name": "Blake Mills",
+    "match": 0.41843
+   },
+   {
+    "name": "Asher White",
+    "match": 0.418035
+   },
+   {
+    "name": "NoSo",
+    "match": 0.410285
+   },
+   {
+    "name": "Mega Bog",
+    "match": 0.400645
+   },
+   {
+    "name": "Yumi Zouma",
+    "match": 0.386343
+   },
+   {
+    "name": "A Beacon School",
+    "match": 0.385862
+   },
+   {
+    "name": "Lomelda",
+    "match": 0.37831
+   },
+   {
+    "name": "Girlpool",
+    "match": 0.37698
+   },
+   {
+    "name": "Tony Molina",
+    "match": 0.369888
+   },
+   {
+    "name": "Tobias Jesso Jr.",
+    "match": 0.369801
+   },
+   {
+    "name": "Miya Folick",
+    "match": 0.368603
+   },
+   {
+    "name": "Jens Lekman",
+    "match": 0.368203
+   },
+   {
+    "name": "Emperor X",
+    "match": 0.358642
+   },
+   {
+    "name": "Pure Bathing Culture",
+    "match": 0.357758
+   },
+   {
+    "name": "Japanese Breakfast",
+    "match": 0.352905
+   },
+   {
+    "name": "Bayonne",
+    "match": 0.346155
+   },
+   {
+    "name": "Born At Midnite",
+    "match": 0.341125
+   },
+   {
+    "name": "This is Lorelei",
+    "match": 0.340429
+   },
+   {
+    "name": "Frankie Cosmos",
+    "match": 0.333894
+   },
+   {
+    "name": "Pearl & the Oysters",
+    "match": 0.333499
+   },
+   {
+    "name": "C Duncan",
+    "match": 0.331685
+   },
+   {
+    "name": "Alvvays",
+    "match": 0.330151
+   },
+   {
+    "name": "Lake",
+    "match": 0.329649
+   },
+   {
+    "name": "Mr Twin Sister",
+    "match": 0.326443
+   },
+   {
+    "name": "Katy Kirby",
+    "match": 0.317274
+   },
+   {
+    "name": "Braids",
+    "match": 0.31248
+   },
+   {
+    "name": "Craft Spells",
+    "match": 0.309518
+   },
+   {
+    "name": "La Sera",
+    "match": 0.308819
+   },
+   {
+    "name": "Wishy",
+    "match": 0.308556
+   },
+   {
+    "name": "Reptaliens",
+    "match": 0.307321
+   },
+   {
+    "name": "Chanel Beads",
+    "match": 0.30601
+   },
+   {
+    "name": "Work Wife",
+    "match": 0.30554
+   },
+   {
+    "name": "BABEHOVEN",
+    "match": 0.30197
+   },
+   {
+    "name": "youbet",
+    "match": 0.301349
+   }
+  ],
+  "checked": "2026-10-28T13:00:04.451996+00:00"
+ },
+ "chvrches": {
+  "similar": [
+   {
+    "name": "Lauren Mayberry",
+    "match": 1.0
+   },
+   {
+    "name": "The Naked and Famous",
+    "match": 0.620721
+   },
+   {
+    "name": "Purity Ring",
+    "match": 0.452119
+   },
+   {
+    "name": "Broods",
+    "match": 0.40409
+   },
+   {
+    "name": "Metric",
+    "match": 0.331575
+   },
+   {
+    "name": "Lights",
+    "match": 0.29924
+   },
+   {
+    "name": "Ladyhawke",
+    "match": 0.296125
+   },
+   {
+    "name": "Fickle Friends",
+    "match": 0.279789
+   },
+   {
+    "name": "Pale Waves",
+    "match": 0.247335
+   },
+   {
+    "name": "St. Lucia",
+    "match": 0.23742
+   },
+   {
+    "name": "La Roux",
+    "match": 0.216283
+   },
+   {
+    "name": "Sigrid",
+    "match": 0.20459
+   },
+   {
+    "name": "Let's Eat Grandma",
+    "match": 0.197981
+   },
+   {
+    "name": "Shura",
+    "match": 0.196845
+   },
+   {
+    "name": "Shiny Toy Guns",
+    "match": 0.195962
+   },
+   {
+    "name": "Allie X",
+    "match": 0.195661
+   },
+   {
+    "name": "MUNA",
+    "match": 0.191809
+   },
+   {
+    "name": "Foxes",
+    "match": 0.191101
+   },
+   {
+    "name": "Passion Pit",
+    "match": 0.173832
+   },
+   {
+    "name": "Empire of the Sun",
+    "match": 0.171342
+   },
+   {
+    "name": "The Midnight",
+    "match": 0.171028
+   },
+   {
+    "name": "Ladytron",
+    "match": 0.166163
+   },
+   {
+    "name": "Austra",
+    "match": 0.163356
+   },
+   {
+    "name": "Miike Snow",
+    "match": 0.162442
+   },
+   {
+    "name": "MS MR",
+    "match": 0.152881
+   },
+   {
+    "name": "Say Lou Lou",
+    "match": 0.149583
+   },
+   {
+    "name": "The Knocks",
+    "match": 0.149342
+   },
+   {
+    "name": "Ellie Goulding",
+    "match": 0.149129
+   },
+   {
+    "name": "Grimes",
+    "match": 0.144467
+   },
+   {
+    "name": "Phantogram",
+    "match": 0.142609
+   },
+   {
+    "name": "Betty Who",
+    "match": 0.139608
+   },
+   {
+    "name": "Dagny",
+    "match": 0.138671
+   },
+   {
+    "name": "Electric Youth",
+    "match": 0.13831
+   },
+   {
+    "name": "Young Ejecta",
+    "match": 0.136664
+   },
+   {
+    "name": "Bastille",
+    "match": 0.136556
+   },
+   {
+    "name": "Carly Rae Jepsen",
+    "match": 0.135429
+   },
+   {
+    "name": "Icona Pop",
+    "match": 0.134968
+   },
+   {
+    "name": "Atlas Genius",
+    "match": 0.133965
+   },
+   {
+    "name": "Cannons",
+    "match": 0.133696
+   },
+   {
+    "name": "Chromatics",
+    "match": 0.13224
+   },
+   {
+    "name": "Marsheaux",
+    "match": 0.13089
+   },
+   {
+    "name": "Georgia",
+    "match": 0.123569
+   },
+   {
+    "name": "Class Actress",
+    "match": 0.122552
+   },
+   {
+    "name": "Kate Boy",
+    "match": 0.122398
+   },
+   {
+    "name": "Sylvan Esso",
+    "match": 0.122227
+   },
+   {
+    "name": "Cut Copy",
+    "match": 0.122094
+   },
+   {
+    "name": "Chairlift",
+    "match": 0.120515
+   },
+   {
+    "name": "Magdalena Bay",
+    "match": 0.12042
+   },
+   {
+    "name": "Florrie",
+    "match": 0.118293
+   }
+  ],
+  "checked": "2026-10-28T13:00:04.876113+00:00"
+ },
+ "healingpowerofhorses": {
+  "similar": [
+   {
+    "name": "Pollyfromthedirt",
+    "match": 1.0
+   },
+   {
+    "name": "Carla dal Forno",
+    "match": 0.57739
+   },
+   {
+    "name": "LEMONSUCKR",
+    "match": 0.472744
+   },
+   {
+    "name": "Kathryn Mohr",
+    "match": 0.427656
+   },
+   {
+    "name": "Violet Grohl",
+    "match": 0.373664
+   },
+   {
+    "name": "SaINT CLAIR",
+    "match": 0.365709
+   },
+   {
+    "name": "Villanelle",
+    "match": 0.299045
+   },
+   {
+    "name": "somni",
+    "match": 0.294702
+   },
+   {
+    "name": "Bed",
+    "match": 0.254786
+   },
+   {
+    "name": "Rora and The Untamed",
+    "match": 0.202198
+   },
+   {
+    "name": "Ecca Vandal",
+    "match": 0.198808
+   },
+   {
+    "name": "Keyside",
+    "match": 0.190071
+   },
+   {
+    "name": "1000 Rabbits",
+    "match": 0.16401
+   },
+   {
+    "name": "RIP Magic",
+    "match": 0.161043
+   },
+   {
+    "name": "mary in the junkyard",
+    "match": 0.142727
+   },
+   {
+    "name": "Cusk",
+    "match": 0.141695
+   },
+   {
+    "name": "Man/Woman/Chainsaw",
+    "match": 0.128179
+   },
+   {
+    "name": "Nina Winder-Lind",
+    "match": 0.112381
+   },
+   {
+    "name": "Horse",
+    "match": 0.109352
+   },
+   {
+    "name": "Little Grandad",
+    "match": 0.102828
+   },
+   {
+    "name": "Swapmeet",
+    "match": 0.096957
+   },
+   {
+    "name": "Lime Garden",
+    "match": 0.095556
+   },
+   {
+    "name": "SILVERWINGKILLER",
+    "match": 0.091433
+   },
+   {
+    "name": "The Itch",
+    "match": 0.090306
+   },
+   {
+    "name": "Mike D",
+    "match": 0.086351
+   },
+   {
+    "name": "Ebbb",
+    "match": 0.0818
+   },
+   {
+    "name": "Mould",
+    "match": 0.081175
+   },
+   {
+    "name": "Pigeon",
+    "match": 0.080209
+   },
+   {
+    "name": "Formal Sppeedwear",
+    "match": 0.079647
+   },
+   {
+    "name": "Makeshift Art Bar",
+    "match": 0.0796
+   },
+   {
+    "name": "Gurriers",
+    "match": 0.077051
+   },
+   {
+    "name": "Modern Woman",
+    "match": 0.076099
+   },
+   {
+    "name": "Sex Mask",
+    "match": 0.075193
+   },
+   {
+    "name": "Adult DVD",
+    "match": 0.075166
+   },
+   {
+    "name": "Cardinals",
+    "match": 0.074689
+   },
+   {
+    "name": "Opus Kink",
+    "match": 0.072119
+   },
+   {
+    "name": "Radio Free Alice",
+    "match": 0.070345
+   },
+   {
+    "name": "Westside Cowboy",
+    "match": 0.069487
+   },
+   {
+    "name": "Gb",
+    "match": 0.069447
+   },
+   {
+    "name": "Yard Act",
+    "match": 0.066429
+   },
+   {
+    "name": "Tom A. Smith",
+    "match": 0.065856
+   },
+   {
+    "name": "La Sécurité",
+    "match": 0.064896
+   },
+   {
+    "name": "Basht.",
+    "match": 0.062483
+   },
+   {
+    "name": "Getdown Services",
+    "match": 0.061935
+   },
+   {
+    "name": "Knats",
+    "match": 0.061262
+   },
+   {
+    "name": "Walt Disco",
+    "match": 0.060721
+   },
+   {
+    "name": "Grandmas House",
+    "match": 0.059512
+   },
+   {
+    "name": "Silver Gore",
+    "match": 0.057909
+   },
+   {
+    "name": "Chalk",
+    "match": 0.05757
+   },
+   {
+    "name": "Bathing Suits",
+    "match": 0.057528
+   }
+  ],
+  "checked": "2026-10-28T13:00:05.335483+00:00"
+ },
+ "mjlenderman": {
+  "similar": [
+   {
+    "name": "Wednesday",
+    "match": 1.0
+   },
+   {
+    "name": "Greg Freeman",
+    "match": 0.623462
+   },
+   {
+    "name": "Colin Miller",
+    "match": 0.46619
+   },
+   {
+    "name": "Waxahatchee",
+    "match": 0.446407
+   },
+   {
+    "name": "Silver Jews",
+    "match": 0.433186
+   },
+   {
+    "name": "Florry",
+    "match": 0.412131
+   },
+   {
+    "name": "Snocaps",
+    "match": 0.372301
+   },
+   {
+    "name": "Geese",
+    "match": 0.347536
+   },
+   {
+    "name": "Drive-By Truckers",
+    "match": 0.343889
+   },
+   {
+    "name": "Frog",
+    "match": 0.339506
+   },
+   {
+    "name": "Dutch Interior",
+    "match": 0.31346
+   },
+   {
+    "name": "Pinegrove",
+    "match": 0.305123
+   },
+   {
+    "name": "Songs: Ohia",
+    "match": 0.301974
+   },
+   {
+    "name": "Magnolia Electric Co.",
+    "match": 0.296787
+   },
+   {
+    "name": "Wilco",
+    "match": 0.294463
+   },
+   {
+    "name": "Pavement",
+    "match": 0.288901
+   },
+   {
+    "name": "Water From Your Eyes",
+    "match": 0.28641
+   },
+   {
+    "name": "OVVEN",
+    "match": 0.284224
+   },
+   {
+    "name": "Greg Mendez",
+    "match": 0.269098
+   },
+   {
+    "name": "Shallowater",
+    "match": 0.264313
+   },
+   {
+    "name": "Purple Mountains",
+    "match": 0.258798
+   },
+   {
+    "name": "Slaughter Beach, Dog",
+    "match": 0.258532
+   },
+   {
+    "name": "feeble little horse",
+    "match": 0.249757
+   },
+   {
+    "name": "Merce Lemon",
+    "match": 0.241298
+   },
+   {
+    "name": "Smog",
+    "match": 0.236106
+   },
+   {
+    "name": "Ratboy",
+    "match": 0.230446
+   },
+   {
+    "name": "villagerrr",
+    "match": 0.229199
+   },
+   {
+    "name": "Westside Cowboy",
+    "match": 0.225022
+   },
+   {
+    "name": "Uncle Tupelo",
+    "match": 0.223218
+   },
+   {
+    "name": "Horse Jumper of Love",
+    "match": 0.221446
+   },
+   {
+    "name": "Palace Music",
+    "match": 0.220225
+   },
+   {
+    "name": "Big Thief",
+    "match": 0.217902
+   },
+   {
+    "name": "Acetone",
+    "match": 0.202291
+   },
+   {
+    "name": "Sun Kil Moon",
+    "match": 0.201466
+   },
+   {
+    "name": "Oldstar",
+    "match": 0.200703
+   },
+   {
+    "name": "Bill Callahan",
+    "match": 0.198152
+   },
+   {
+    "name": "Horsegirl",
+    "match": 0.19395
+   },
+   {
+    "name": "22º Halo",
+    "match": 0.191303
+   },
+   {
+    "name": "Sluice",
+    "match": 0.190774
+   },
+   {
+    "name": "Sparklehorse",
+    "match": 0.188462
+   },
+   {
+    "name": "Built to Spill",
+    "match": 0.186839
+   },
+   {
+    "name": "Buck Meek",
+    "match": 0.184085
+   },
+   {
+    "name": "Alex G",
+    "match": 0.180971
+   },
+   {
+    "name": "Slow Pulp",
+    "match": 0.178266
+   },
+   {
+    "name": "Teethe",
+    "match": 0.177993
+   },
+   {
+    "name": "Lily Seabird",
+    "match": 0.172942
+   },
+   {
+    "name": "Hovvdy",
+    "match": 0.172926
+   },
+   {
+    "name": "Stephen Malkmus",
+    "match": 0.161994
+   },
+   {
+    "name": "They Are Gutting a Body of Water",
+    "match": 0.155949
+   },
+   {
+    "name": "Momma",
+    "match": 0.155585
+   }
+  ],
+  "checked": "2026-10-28T13:00:05.942574+00:00"
+ },
+ "miajoy": {
+  "similar": [
+   {
+    "name": "Phantom Handshakes",
+    "match": 1.0
+   },
+   {
+    "name": "BNNY",
+    "match": 0.860278
+   },
+   {
+    "name": "Fog Lake",
+    "match": 0.808157
+   },
+   {
+    "name": "Launder",
+    "match": 0.775819
+   },
+   {
+    "name": "Why Bonnie",
+    "match": 0.763391
+   },
+   {
+    "name": "Drug Store Romeos",
+    "match": 0.760602
+   },
+   {
+    "name": "Frankie Cosmos",
+    "match": 0.73782
+   },
+   {
+    "name": "Slow Pulp",
+    "match": 0.731436
+   },
+   {
+    "name": "Cryogeyser",
+    "match": 0.689363
+   },
+   {
+    "name": "sweet93",
+    "match": 0.660242
+   },
+   {
+    "name": "BABEHOVEN",
+    "match": 0.640754
+   },
+   {
+    "name": "Atmos Bloom",
+    "match": 0.624424
+   },
+   {
+    "name": "Fine",
+    "match": 0.609918
+   },
+   {
+    "name": "Lunar Vacation",
+    "match": 0.544229
+   },
+   {
+    "name": "Barrie",
+    "match": 0.530889
+   },
+   {
+    "name": "Jay Som",
+    "match": 0.524276
+   },
+   {
+    "name": "Foxes in Fiction",
+    "match": 0.518391
+   },
+   {
+    "name": "The Bilinda Butchers",
+    "match": 0.502008
+   },
+   {
+    "name": "A Beacon School",
+    "match": 0.467898
+   },
+   {
+    "name": "pleasure systems",
+    "match": 0.462908
+   },
+   {
+    "name": "Cusp",
+    "match": 0.427809
+   },
+   {
+    "name": "Art School Girlfriend",
+    "match": 0.422877
+   },
+   {
+    "name": "Sea Oleena",
+    "match": 0.421876
+   },
+   {
+    "name": "Sesame Girl",
+    "match": 0.421858
+   },
+   {
+    "name": "Girlpool",
+    "match": 0.420882
+   },
+   {
+    "name": "Pearly Drops",
+    "match": 0.41586
+   },
+   {
+    "name": "Sun June",
+    "match": 0.409949
+   },
+   {
+    "name": "CCFX",
+    "match": 0.400473
+   },
+   {
+    "name": "Beach House",
+    "match": 0.394495
+   },
+   {
+    "name": "Hope Sandoval & The Warm Inventions",
+    "match": 0.394483
+   },
+   {
+    "name": "Tanukichan",
+    "match": 0.394072
+   },
+   {
+    "name": "Madeline Kenney",
+    "match": 0.389193
+   },
+   {
+    "name": "she's green",
+    "match": 0.380334
+   },
+   {
+    "name": "Yellow House",
+    "match": 0.376871
+   },
+   {
+    "name": "Knifeplay",
+    "match": 0.373021
+   },
+   {
+    "name": "Japanese Breakfast",
+    "match": 0.368072
+   },
+   {
+    "name": "Kate Bollinger",
+    "match": 0.366883
+   },
+   {
+    "name": "Lala Lala",
+    "match": 0.366727
+   },
+   {
+    "name": "Kevin Krauter",
+    "match": 0.363335
+   },
+   {
+    "name": "Tokyo Tea Room",
+    "match": 0.360173
+   },
+   {
+    "name": "Brad stank",
+    "match": 0.356336
+   },
+   {
+    "name": "Hazel English",
+    "match": 0.349203
+   },
+   {
+    "name": "Men I Trust",
+    "match": 0.349013
+   },
+   {
+    "name": "Fazerdaze",
+    "match": 0.343276
+   },
+   {
+    "name": "Peel Dream Magazine",
+    "match": 0.34281
+   },
+   {
+    "name": "Widowspeak",
+    "match": 0.342469
+   },
+   {
+    "name": "Skullcrusher",
+    "match": 0.34209
+   },
+   {
+    "name": "Nova One",
+    "match": 0.338693
+   },
+   {
+    "name": "Sea Lemon",
+    "match": 0.337351
+   },
+   {
+    "name": "MUNYA",
+    "match": 0.335401
+   }
+  ],
+  "checked": "2026-10-28T13:00:06.381781+00:00"
+ },
+ "trinket": {
+  "similar": [
+   {
+    "name": "spiderhouse",
+    "match": 1.0
+   },
+   {
+    "name": "frogurt",
+    "match": 0.948054
+   },
+   {
+    "name": "Sunshy",
+    "match": 0.876266
+   },
+   {
+    "name": "Starcharm",
+    "match": 0.822213
+   },
+   {
+    "name": "Flowers for the Dead",
+    "match": 0.814529
+   },
+   {
+    "name": "Siam Jem",
+    "match": 0.803643
+   },
+   {
+    "name": "Palomino Blond",
+    "match": 0.757687
+   },
+   {
+    "name": "Audiobaton",
+    "match": 0.709715
+   },
+   {
+    "name": "berzica",
+    "match": 0.696207
+   },
+   {
+    "name": "you wish",
+    "match": 0.68751
+   },
+   {
+    "name": "Alex Argot",
+    "match": 0.68744
+   },
+   {
+    "name": "Lyre Still",
+    "match": 0.67723
+   },
+   {
+    "name": "Pinky Lemon",
+    "match": 0.644975
+   },
+   {
+    "name": "dadlore",
+    "match": 0.640291
+   },
+   {
+    "name": "seko",
+    "match": 0.637797
+   },
+   {
+    "name": "funeral homes",
+    "match": 0.634436
+   },
+   {
+    "name": "Ribbon Stage",
+    "match": 0.630272
+   },
+   {
+    "name": "Grave Saddles",
+    "match": 0.62543
+   },
+   {
+    "name": "So Totally",
+    "match": 0.618909
+   },
+   {
+    "name": "Shady Bug",
+    "match": 0.614766
+   },
+   {
+    "name": "Flower Language",
+    "match": 0.613137
+   },
+   {
+    "name": "thai body dump",
+    "match": 0.606763
+   },
+   {
+    "name": "Double Grave",
+    "match": 0.591311
+   },
+   {
+    "name": "Absolutely Yours",
+    "match": 0.589801
+   },
+   {
+    "name": "Ziggy 2000",
+    "match": 0.581098
+   },
+   {
+    "name": "Crystal Canyon",
+    "match": 0.565374
+   },
+   {
+    "name": "Flesh Tape",
+    "match": 0.560737
+   },
+   {
+    "name": "Spiral XP",
+    "match": 0.557477
+   },
+   {
+    "name": "Osie",
+    "match": 0.548706
+   },
+   {
+    "name": "No Windows",
+    "match": 0.544617
+   },
+   {
+    "name": "Glaring Orchid",
+    "match": 0.532797
+   },
+   {
+    "name": "seablite",
+    "match": 0.532747
+   },
+   {
+    "name": "Torrey",
+    "match": 0.524655
+   },
+   {
+    "name": "W1SH",
+    "match": 0.514862
+   },
+   {
+    "name": "Landing Gear",
+    "match": 0.506556
+   },
+   {
+    "name": "cleo walks through glass",
+    "match": 0.505889
+   },
+   {
+    "name": "eyesinlimbo",
+    "match": 0.498882
+   },
+   {
+    "name": "Charlie LoMonaco",
+    "match": 0.482605
+   },
+   {
+    "name": "NO SWOON",
+    "match": 0.475562
+   },
+   {
+    "name": "Spooky Boys",
+    "match": 0.472369
+   },
+   {
+    "name": "speakerhug",
+    "match": 0.456184
+   },
+   {
+    "name": "As above",
+    "match": 0.447994
+   },
+   {
+    "name": "some fear",
+    "match": 0.431823
+   },
+   {
+    "name": "Fasting",
+    "match": 0.428247
+   },
+   {
+    "name": "Hollow Bastion",
+    "match": 0.416278
+   },
+   {
+    "name": "PANIK FLOWER",
+    "match": 0.405867
+   },
+   {
+    "name": "Boo Boo Spoiler",
+    "match": 0.394275
+   },
+   {
+    "name": "worse.",
+    "match": 0.384799
+   },
+   {
+    "name": "Snowblower",
+    "match": 0.379719
+   },
+   {
+    "name": "Phenobarbidols",
+    "match": 0.325669
+   }
+  ],
+  "checked": "2026-10-28T13:00:07.071476+00:00"
+ },
+ "flaminglips": {
+  "similar": [
+   {
+    "name": "Mercury Rev",
+    "match": 1.0
+   },
+   {
+    "name": "Modest Mouse",
+    "match": 0.882373
+   },
+   {
+    "name": "Beck",
+    "match": 0.781538
+   },
+   {
+    "name": "Ween",
+    "match": 0.76972
+   },
+   {
+    "name": "MGMT",
+    "match": 0.747272
+   },
+   {
+    "name": "Grandaddy",
+    "match": 0.74353
+   },
+   {
+    "name": "Animal Collective",
+    "match": 0.714835
+   },
+   {
+    "name": "Built to Spill",
+    "match": 0.70277
+   },
+   {
+    "name": "Yo La Tengo",
+    "match": 0.681153
+   },
+   {
+    "name": "Wilco",
+    "match": 0.666942
+   },
+   {
+    "name": "Super Furry Animals",
+    "match": 0.661283
+   },
+   {
+    "name": "Eels",
+    "match": 0.617655
+   },
+   {
+    "name": "Pavement",
+    "match": 0.613551
+   },
+   {
+    "name": "Panda Bear",
+    "match": 0.608502
+   },
+   {
+    "name": "The Shins",
+    "match": 0.607784
+   },
+   {
+    "name": "Deerhunter",
+    "match": 0.595945
+   },
+   {
+    "name": "The Olivia Tremor Control",
+    "match": 0.587821
+   },
+   {
+    "name": "Pixies",
+    "match": 0.585798
+   },
+   {
+    "name": "Dinosaur Jr.",
+    "match": 0.579134
+   },
+   {
+    "name": "Spiritualized",
+    "match": 0.563336
+   },
+   {
+    "name": "LCD Soundsystem",
+    "match": 0.558679
+   },
+   {
+    "name": "Sparklehorse",
+    "match": 0.552271
+   },
+   {
+    "name": "The Dismemberment Plan",
+    "match": 0.550638
+   },
+   {
+    "name": "Broken Social Scene",
+    "match": 0.55061
+   },
+   {
+    "name": "Spoon",
+    "match": 0.534416
+   },
+   {
+    "name": "of Montreal",
+    "match": 0.533823
+   },
+   {
+    "name": "My Morning Jacket",
+    "match": 0.524126
+   },
+   {
+    "name": "Violent Femmes",
+    "match": 0.51744
+   },
+   {
+    "name": "R.E.M.",
+    "match": 0.501298
+   },
+   {
+    "name": "Arcade Fire",
+    "match": 0.50061
+   },
+   {
+    "name": "The White Stripes",
+    "match": 0.500295
+   },
+   {
+    "name": "Primal Scream",
+    "match": 0.499628
+   },
+   {
+    "name": "Pond",
+    "match": 0.499504
+   },
+   {
+    "name": "Vampire Weekend",
+    "match": 0.497005
+   },
+   {
+    "name": "Cake",
+    "match": 0.492374
+   },
+   {
+    "name": "The Apples in Stereo",
+    "match": 0.481731
+   },
+   {
+    "name": "TV on the Radio",
+    "match": 0.481283
+   },
+   {
+    "name": "Sebadoh",
+    "match": 0.478058
+   },
+   {
+    "name": "Sonic Youth",
+    "match": 0.474313
+   },
+   {
+    "name": "Stephen Malkmus",
+    "match": 0.474117
+   },
+   {
+    "name": "Guided by Voices",
+    "match": 0.47372
+   },
+   {
+    "name": "The Beta Band",
+    "match": 0.470269
+   },
+   {
+    "name": "The Dandy Warhols",
+    "match": 0.467534
+   },
+   {
+    "name": "The Breeders",
+    "match": 0.46626
+   },
+   {
+    "name": "Ugly Casanova",
+    "match": 0.459567
+   },
+   {
+    "name": "Stephen Malkmus and the Jicks",
+    "match": 0.451242
+   },
+   {
+    "name": "The Lemonheads",
+    "match": 0.448928
+   },
+   {
+    "name": "The Go! Team",
+    "match": 0.444989
+   },
+   {
+    "name": "Yeah Yeah Yeahs",
+    "match": 0.443142
+   },
+   {
+    "name": "Foxygen",
+    "match": 0.439427
+   }
+  ],
+  "checked": "2026-10-28T13:00:07.500856+00:00"
+ },
+ "lazerbullet": {
+  "similar": [
+   {
+    "name": "Ultras",
+    "match": 1.0
+   },
+   {
+    "name": "Candy Apple",
+    "match": 0.868648
+   },
+   {
+    "name": "Big Laugh",
+    "match": 0.835488
+   },
+   {
+    "name": "Video Prick",
+    "match": 0.663754
+   },
+   {
+    "name": "Invertebrates",
+    "match": 0.604561
+   },
+   {
+    "name": "Firewalker",
+    "match": 0.584975
+   },
+   {
+    "name": "Speed Plans",
+    "match": 0.556184
+   },
+   {
+    "name": "Reek Minds",
+    "match": 0.515124
+   },
+   {
+    "name": "Repeat Offender",
+    "match": 0.51462
+   },
+   {
+    "name": "Snuffed",
+    "match": 0.486054
+   },
+   {
+    "name": "Delco MF’s",
+    "match": 0.423744
+   },
+   {
+    "name": "Planet On A Chain",
+    "match": 0.423137
+   },
+   {
+    "name": "Kontaminate",
+    "match": 0.420188
+   },
+   {
+    "name": "Retirement",
+    "match": 0.411625
+   },
+   {
+    "name": "DIRECT THREAT",
+    "match": 0.398951
+   },
+   {
+    "name": "mexican coke",
+    "match": 0.393015
+   },
+   {
+    "name": "Gas Rag",
+    "match": 0.391048
+   },
+   {
+    "name": "Illiterates",
+    "match": 0.375372
+   },
+   {
+    "name": "Judy And The Jerks",
+    "match": 0.375245
+   },
+   {
+    "name": "Mutant Strain",
+    "match": 0.371039
+   },
+   {
+    "name": "FAIM",
+    "match": 0.360371
+   },
+   {
+    "name": "Stiff Meds",
+    "match": 0.355669
+   },
+   {
+    "name": "Ideation",
+    "match": 0.352381
+   },
+   {
+    "name": "Thought Control",
+    "match": 0.34815
+   },
+   {
+    "name": "Bootcamp",
+    "match": 0.337455
+   },
+   {
+    "name": "Crime Light",
+    "match": 0.335754
+   },
+   {
+    "name": "Bulls Shitt",
+    "match": 0.32869
+   },
+   {
+    "name": "80hd",
+    "match": 0.317313
+   },
+   {
+    "name": "Surprise Privilege",
+    "match": 0.31683
+   },
+   {
+    "name": "Exit Order",
+    "match": 0.316817
+   },
+   {
+    "name": "Creep Stare",
+    "match": 0.316115
+   },
+   {
+    "name": "C.H.E.W.",
+    "match": 0.315705
+   },
+   {
+    "name": "Gazm",
+    "match": 0.313025
+   },
+   {
+    "name": "Spam Caller",
+    "match": 0.311276
+   },
+   {
+    "name": "Nasti",
+    "match": 0.30792
+   },
+   {
+    "name": "Science Man",
+    "match": 0.302807
+   },
+   {
+    "name": "Result of Choice",
+    "match": 0.299011
+   },
+   {
+    "name": "Fashion Change",
+    "match": 0.298039
+   },
+   {
+    "name": "Krimewatch",
+    "match": 0.297396
+   },
+   {
+    "name": "Long Knife",
+    "match": 0.296972
+   },
+   {
+    "name": "Mugger",
+    "match": 0.288652
+   },
+   {
+    "name": "PISSMIXER",
+    "match": 0.288516
+   },
+   {
+    "name": "Axe Rash",
+    "match": 0.288377
+   },
+   {
+    "name": "Protocol",
+    "match": 0.286237
+   },
+   {
+    "name": "Sial",
+    "match": 0.286139
+   },
+   {
+    "name": "Human Garbage",
+    "match": 0.284578
+   },
+   {
+    "name": "Prevention",
+    "match": 0.28362
+   },
+   {
+    "name": "Fatal Wound",
+    "match": 0.282081
+   },
+   {
+    "name": "Concealed Blade",
+    "match": 0.281309
+   },
+   {
+    "name": "Truth Cult",
+    "match": 0.280295
+   }
+  ],
+  "checked": "2026-10-28T13:00:07.951534+00:00"
+ },
+ "philipfrobos": {
+  "similar": [
+   {
+    "name": "Hypoluxo",
+    "match": 1.0
+   },
+   {
+    "name": "Kaputt",
+    "match": 0.837161
+   },
+   {
+    "name": "Dumb",
+    "match": 0.801555
+   },
+   {
+    "name": "Unschooling",
+    "match": 0.670853
+   },
+   {
+    "name": "The Hecks",
+    "match": 0.651859
+   },
+   {
+    "name": "The Early Mornings",
+    "match": 0.629497
+   },
+   {
+    "name": "Blues Lawyer",
+    "match": 0.609744
+   },
+   {
+    "name": "Dendrons",
+    "match": 0.600845
+   },
+   {
+    "name": "Martin Frawley",
+    "match": 0.541147
+   },
+   {
+    "name": "The Stroppies",
+    "match": 0.530835
+   },
+   {
+    "name": "Vintage Crop",
+    "match": 0.449988
+   },
+   {
+    "name": "Versing",
+    "match": 0.426903
+   },
+   {
+    "name": "Jack Name",
+    "match": 0.421993
+   },
+   {
+    "name": "The C.I.A.",
+    "match": 0.420342
+   },
+   {
+    "name": "Laundromat",
+    "match": 0.415001
+   },
+   {
+    "name": "Oog Bogo",
+    "match": 0.406796
+   },
+   {
+    "name": "Taraka",
+    "match": 0.405082
+   },
+   {
+    "name": "Self-help",
+    "match": 0.383119
+   },
+   {
+    "name": "The Green Child",
+    "match": 0.370928
+   },
+   {
+    "name": "Shelly's Gone",
+    "match": 0.367098
+   },
+   {
+    "name": "Smoke Bellow",
+    "match": 0.36185
+   },
+   {
+    "name": "BRNDA",
+    "match": 0.355679
+   },
+   {
+    "name": "Maraudeur",
+    "match": 0.35469
+   },
+   {
+    "name": "Julia Bardo",
+    "match": 0.34924
+   },
+   {
+    "name": "Pants Yell!",
+    "match": 0.3482
+   },
+   {
+    "name": "Partner Look",
+    "match": 0.342386
+   },
+   {
+    "name": "Tomato Flower",
+    "match": 0.340074
+   },
+   {
+    "name": "Aeon Station",
+    "match": 0.339189
+   },
+   {
+    "name": "Hierophants",
+    "match": 0.337647
+   },
+   {
+    "name": "CMON",
+    "match": 0.337331
+   },
+   {
+    "name": "Iji",
+    "match": 0.332482
+   },
+   {
+    "name": "Global Charming",
+    "match": 0.326283
+   },
+   {
+    "name": "Bas Jan",
+    "match": 0.308515
+   },
+   {
+    "name": "Roxy Girls",
+    "match": 0.290425
+   },
+   {
+    "name": "Tim Koh",
+    "match": 0.286186
+   },
+   {
+    "name": "Onyon",
+    "match": 0.279526
+   },
+   {
+    "name": "Naked Roommate",
+    "match": 0.276219
+   },
+   {
+    "name": "Wireheads",
+    "match": 0.275382
+   },
+   {
+    "name": "Masters Of The Hemisphere",
+    "match": 0.267981
+   },
+   {
+    "name": "Major Murphy",
+    "match": 0.266342
+   },
+   {
+    "name": "Healing Potpourri",
+    "match": 0.261633
+   },
+   {
+    "name": "Pool Holograph",
+    "match": 0.260661
+   },
+   {
+    "name": "Wesley Gonzalez",
+    "match": 0.251682
+   },
+   {
+    "name": "Peace De Résistance",
+    "match": 0.241931
+   },
+   {
+    "name": "Motorists",
+    "match": 0.241423
+   },
+   {
+    "name": "Dylan Moon",
+    "match": 0.240793
+   },
+   {
+    "name": "Palberta",
+    "match": 0.239802
+   },
+   {
+    "name": "ARBES",
+    "match": 0.236948
+   },
+   {
+    "name": "Hot Garbage",
+    "match": 0.233648
+   },
+   {
+    "name": "Devon Ross",
+    "match": 0.231836
+   }
+  ],
+  "checked": "2026-10-28T13:00:08.407158+00:00"
+ },
+ "petergabriel": {
+  "similar": [
+   {
+    "name": "Genesis",
+    "match": 1.0
+   },
+   {
+    "name": "Steve Hackett",
+    "match": 0.585943
+   },
+   {
+    "name": "Tony Banks",
+    "match": 0.536666
+   },
+   {
+    "name": "Marillion",
+    "match": 0.483478
+   },
+   {
+    "name": "Phil Collins",
+    "match": 0.465446
+   },
+   {
+    "name": "Roger Waters",
+    "match": 0.420648
+   },
+   {
+    "name": "Sting",
+    "match": 0.404591
+   },
+   {
+    "name": "David Gilmour",
+    "match": 0.393904
+   },
+   {
+    "name": "Jethro Tull",
+    "match": 0.352207
+   },
+   {
+    "name": "Fish",
+    "match": 0.350301
+   },
+   {
+    "name": "Yes",
+    "match": 0.340151
+   },
+   {
+    "name": "Supertramp",
+    "match": 0.340072
+   },
+   {
+    "name": "Mike & The Mechanics",
+    "match": 0.319809
+   },
+   {
+    "name": "Steven Wilson",
+    "match": 0.318882
+   },
+   {
+    "name": "Emerson, Lake & Palmer",
+    "match": 0.317792
+   },
+   {
+    "name": "Anthony Phillips",
+    "match": 0.316209
+   },
+   {
+    "name": "Van der Graaf Generator",
+    "match": 0.296581
+   },
+   {
+    "name": "Jon Anderson",
+    "match": 0.294604
+   },
+   {
+    "name": "Roxy Music",
+    "match": 0.294476
+   },
+   {
+    "name": "Porcupine Tree",
+    "match": 0.293334
+   },
+   {
+    "name": "The Alan Parsons Project",
+    "match": 0.292839
+   },
+   {
+    "name": "Big Big Train",
+    "match": 0.287387
+   },
+   {
+    "name": "Mike Oldfield",
+    "match": 0.286304
+   },
+   {
+    "name": "Rush",
+    "match": 0.285977
+   },
+   {
+    "name": "Asia",
+    "match": 0.280667
+   },
+   {
+    "name": "The Police",
+    "match": 0.277966
+   },
+   {
+    "name": "Paul Simon",
+    "match": 0.277207
+   },
+   {
+    "name": "King Crimson",
+    "match": 0.275634
+   },
+   {
+    "name": "UK",
+    "match": 0.267874
+   },
+   {
+    "name": "Gentle Giant",
+    "match": 0.266824
+   },
+   {
+    "name": "Peter Hammill",
+    "match": 0.265206
+   },
+   {
+    "name": "IQ",
+    "match": 0.264678
+   },
+   {
+    "name": "Dire Straits",
+    "match": 0.263612
+   },
+   {
+    "name": "Toto",
+    "match": 0.260518
+   },
+   {
+    "name": "Camel",
+    "match": 0.259376
+   },
+   {
+    "name": "Rick Wakeman",
+    "match": 0.256691
+   },
+   {
+    "name": "Steve Winwood",
+    "match": 0.254767
+   },
+   {
+    "name": "Robert Fripp",
+    "match": 0.252456
+   },
+   {
+    "name": "Jeff Beck",
+    "match": 0.248457
+   },
+   {
+    "name": "The Moody Blues",
+    "match": 0.24843
+   },
+   {
+    "name": "Alan Parsons",
+    "match": 0.243613
+   },
+   {
+    "name": "Simple Minds",
+    "match": 0.241824
+   },
+   {
+    "name": "Tears for Fears",
+    "match": 0.240231
+   },
+   {
+    "name": "Renaissance",
+    "match": 0.236698
+   },
+   {
+    "name": "Bryan Ferry",
+    "match": 0.233738
+   },
+   {
+    "name": "Electric Light Orchestra",
+    "match": 0.233261
+   },
+   {
+    "name": "Eric Clapton",
+    "match": 0.230976
+   },
+   {
+    "name": "The Pineapple Thief",
+    "match": 0.229761
+   },
+   {
+    "name": "The Flower Kings",
+    "match": 0.223698
+   },
+   {
+    "name": "Robert Plant",
+    "match": 0.222228
+   }
+  ],
+  "checked": "2026-10-28T13:00:08.849593+00:00"
+ },
+ "huercos": {
+  "similar": [
+   {
+    "name": "Pendant",
+    "match": 1.0
+   },
+   {
+    "name": "Actress",
+    "match": 0.879873
+   },
+   {
+    "name": "Lee Gamble",
+    "match": 0.633923
+   },
+   {
+    "name": "Gas",
+    "match": 0.616607
+   },
+   {
+    "name": "Anthony Naples",
+    "match": 0.613953
+   },
+   {
+    "name": "Shinichi Atobe",
+    "match": 0.595145
+   },
+   {
+    "name": "Barker",
+    "match": 0.583257
+   },
+   {
+    "name": "Andy Stott",
+    "match": 0.564252
+   },
+   {
+    "name": "Skee Mask",
+    "match": 0.530135
+   },
+   {
+    "name": "Khotin",
+    "match": 0.502484
+   },
+   {
+    "name": "Fennesz",
+    "match": 0.498119
+   },
+   {
+    "name": "Oneohtrix Point Never",
+    "match": 0.479377
+   },
+   {
+    "name": "Tim Hecker",
+    "match": 0.472441
+   },
+   {
+    "name": "Rezzett",
+    "match": 0.472064
+   },
+   {
+    "name": "Basic Channel",
+    "match": 0.462752
+   },
+   {
+    "name": "Space Afrika",
+    "match": 0.443158
+   },
+   {
+    "name": "Perila",
+    "match": 0.423296
+   },
+   {
+    "name": "Susumu Yokota",
+    "match": 0.421988
+   },
+   {
+    "name": "Shed",
+    "match": 0.41462
+   },
+   {
+    "name": "Rod Modell",
+    "match": 0.408481
+   },
+   {
+    "name": "Laurel Halo",
+    "match": 0.404167
+   },
+   {
+    "name": "DeepChord",
+    "match": 0.402201
+   },
+   {
+    "name": "Porter Ricks",
+    "match": 0.397285
+   },
+   {
+    "name": "KMRU",
+    "match": 0.396027
+   },
+   {
+    "name": "Terekke",
+    "match": 0.385517
+   },
+   {
+    "name": "DJ Python",
+    "match": 0.380426
+   },
+   {
+    "name": "Vril",
+    "match": 0.374251
+   },
+   {
+    "name": "The Field",
+    "match": 0.37104
+   },
+   {
+    "name": "Patricia",
+    "match": 0.368839
+   },
+   {
+    "name": "Maurizio",
+    "match": 0.365892
+   },
+   {
+    "name": "AL-90",
+    "match": 0.361808
+   },
+   {
+    "name": "Voices from the Lake",
+    "match": 0.359722
+   },
+   {
+    "name": "Efdemin",
+    "match": 0.355871
+   },
+   {
+    "name": "Priori",
+    "match": 0.352099
+   },
+   {
+    "name": "Visible Cloaks",
+    "match": 0.342181
+   },
+   {
+    "name": "Kassem Mosse",
+    "match": 0.341794
+   },
+   {
+    "name": "Ulla Straus",
+    "match": 0.335248
+   },
+   {
+    "name": "Whatever The Weather",
+    "match": 0.334053
+   },
+   {
+    "name": "Donato Dozzy",
+    "match": 0.332518
+   },
+   {
+    "name": "Surgeon",
+    "match": 0.332452
+   },
+   {
+    "name": "Kara-Lis Coverdale",
+    "match": 0.332434
+   },
+   {
+    "name": "upsammy",
+    "match": 0.330878
+   },
+   {
+    "name": "Mouse on Mars",
+    "match": 0.330712
+   },
+   {
+    "name": "Daniel Avery",
+    "match": 0.32942
+   },
+   {
+    "name": "Biosphere",
+    "match": 0.323794
+   },
+   {
+    "name": "Monolake",
+    "match": 0.323505
+   },
+   {
+    "name": "Carrier",
+    "match": 0.320969
+   },
+   {
+    "name": "Gigi Masin",
+    "match": 0.320906
+   },
+   {
+    "name": "Placid Angles",
+    "match": 0.317627
+   },
+   {
+    "name": "Dettinger",
+    "match": 0.313859
+   }
+  ],
+  "checked": "2026-10-28T13:00:09.296900+00:00"
+ },
+ "tonyiommi": {
+  "similar": [
+   {
+    "name": "Heaven & Hell",
+    "match": 1.0
+   },
+   {
+    "name": "Black Sabbath",
+    "match": 0.962735
+   },
+   {
+    "name": "Ozzy Osbourne",
+    "match": 0.743064
+   },
+   {
+    "name": "Glenn Hughes",
+    "match": 0.703391
+   },
+   {
+    "name": "Deep Purple",
+    "match": 0.658701
+   },
+   {
+    "name": "Iommi",
+    "match": 0.653214
+   },
+   {
+    "name": "Accept",
+    "match": 0.630211
+   },
+   {
+    "name": "Dio",
+    "match": 0.614031
+   },
+   {
+    "name": "Ian Gillan",
+    "match": 0.588344
+   },
+   {
+    "name": "Bruce Dickinson",
+    "match": 0.551953
+   },
+   {
+    "name": "Geezer Butler",
+    "match": 0.544424
+   },
+   {
+    "name": "Blaze Bayley",
+    "match": 0.528138
+   },
+   {
+    "name": "Hollywood Vampires",
+    "match": 0.509484
+   },
+   {
+    "name": "Rainbow",
+    "match": 0.501635
+   },
+   {
+    "name": "Gillan",
+    "match": 0.485731
+   },
+   {
+    "name": "Krokus",
+    "match": 0.483875
+   },
+   {
+    "name": "Tony Martin",
+    "match": 0.465803
+   },
+   {
+    "name": "Saxon",
+    "match": 0.456075
+   },
+   {
+    "name": "Lex Legion",
+    "match": 0.441224
+   },
+   {
+    "name": "The Dead Daisies",
+    "match": 0.418109
+   },
+   {
+    "name": "Quiet Riot",
+    "match": 0.393415
+   },
+   {
+    "name": "Motörhead",
+    "match": 0.386725
+   },
+   {
+    "name": "Judas Priest",
+    "match": 0.384526
+   },
+   {
+    "name": "Whitesnake",
+    "match": 0.374644
+   },
+   {
+    "name": "Iron Maiden",
+    "match": 0.370171
+   },
+   {
+    "name": "Michael Schenker Group",
+    "match": 0.3701
+   },
+   {
+    "name": "Alice Cooper",
+    "match": 0.36856
+   },
+   {
+    "name": "Dokken",
+    "match": 0.352979
+   },
+   {
+    "name": "Halford",
+    "match": 0.350535
+   },
+   {
+    "name": "Black Label Society",
+    "match": 0.342097
+   },
+   {
+    "name": "Badlands",
+    "match": 0.335143
+   },
+   {
+    "name": "Smith/Kotzen",
+    "match": 0.334024
+   },
+   {
+    "name": "Alcatrazz",
+    "match": 0.333293
+   },
+   {
+    "name": "Y&T",
+    "match": 0.33056
+   },
+   {
+    "name": "Kingdom Come",
+    "match": 0.32834
+   },
+   {
+    "name": "Axel Rudi Pell",
+    "match": 0.326694
+   },
+   {
+    "name": "Bill Ward",
+    "match": 0.325186
+   },
+   {
+    "name": "Skid Row",
+    "match": 0.324982
+   },
+   {
+    "name": "Last In Line",
+    "match": 0.324842
+   },
+   {
+    "name": "Doro",
+    "match": 0.324168
+   },
+   {
+    "name": "UFO",
+    "match": 0.317685
+   },
+   {
+    "name": "Diamond Head",
+    "match": 0.315514
+   },
+   {
+    "name": "Danzig",
+    "match": 0.314249
+   },
+   {
+    "name": "Tygers of Pan Tang",
+    "match": 0.309907
+   },
+   {
+    "name": "W.A.S.P.",
+    "match": 0.308782
+   },
+   {
+    "name": "Racer X",
+    "match": 0.306963
+   },
+   {
+    "name": "Girlschool",
+    "match": 0.306114
+   },
+   {
+    "name": "Jorn",
+    "match": 0.304386
+   },
+   {
+    "name": "AC/DC",
+    "match": 0.304006
+   },
+   {
+    "name": "Yngwie Malmsteen",
+    "match": 0.302801
+   }
+  ],
+  "checked": "2026-10-28T13:00:09.722232+00:00"
+ }
+}

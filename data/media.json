@@ -12,13 +12,16 @@
   "checked": "2026-10-28T12:41:39.411800+00:00"
  },
  "huercos|fromthetoolkitoflovers|album": {
-  "checked": "2026-10-28T12:41:39.411800+00:00"
+  "cover": null,
+  "checked": "2026-10-28T13:00:22.829492+00:00"
  },
  "diiv|zirp|album": {
-  "checked": "2026-10-28T12:41:39.411800+00:00"
+  "cover": null,
+  "checked": "2026-10-28T13:00:22.829492+00:00"
  },
  "petergabriel|whoarewetalkingto|single": {
-  "checked": "2026-10-28T12:41:39.411800+00:00"
+  "cover": null,
+  "checked": "2026-10-28T13:00:22.829492+00:00"
  },
  "flaminglips|godwillcontrolthewerewolves|single": {
   "checked": "2026-10-28T12:41:39.411800+00:00",
@@ -27,10 +30,8 @@
   "spotify": null
  },
  "chvrches|overthinker|single": {
-  "checked": "2026-10-28T12:41:39.411800+00:00",
-  "deezer_url": "https://www.deezer.com/track/4355980122",
   "cover": null,
-  "spotify": null
+  "checked": "2026-10-28T13:00:22.829492+00:00"
  },
  "deadmansbones|lostinthenight|single": {
   "checked": "2026-10-28T12:41:39.411800+00:00",
@@ -45,10 +46,12 @@
   "spotify": null
  },
  "mjlenderman|weakened|single": {
-  "checked": "2026-10-28T12:41:39.411800+00:00"
+  "cover": null,
+  "checked": "2026-10-28T13:00:22.829492+00:00"
  },
  "evilgianeandslimesito|georgiastate|single": {
-  "checked": "2026-10-28T12:41:39.411800+00:00"
+  "cover": null,
+  "checked": "2026-10-28T13:00:22.829492+00:00"
  },
  "meiv|nofuturept1and2|single": {
   "checked": "2026-10-28T12:41:39.411800+00:00",
@@ -58,5 +61,9 @@
  },
  "stephensteinbrink|imaswimmingpool|single": {
   "checked": "2026-10-28T12:41:39.411800+00:00"
+ },
+ "miajoy|wingsofdesire|single": {
+  "cover": "https://cdn-images.dzcdn.net/images/cover/a47d308f8413fa50c07b5101f446ec57/500x500-000000-80-0-0.jpg",
+  "checked": "2026-10-28T13:00:22.829492+00:00"
  }
 }

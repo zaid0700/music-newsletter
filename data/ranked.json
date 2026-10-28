@@ -1,7 +1,7 @@
 {
   "week_start": "2026-10-24",
   "week_end": "2026-10-30",
-  "generated": "2026-10-28T12:41:28.917336+00:00",
+  "generated": "2026-10-28T13:00:09.725341+00:00",
   "top": [
     {
       "artist": "Shabazz Palaces",
@@ -39,39 +39,11 @@
       ],
       "fans": 7385,
       "star_power": 0.553,
+      "personal": 0.556,
+      "personal_reason": "Similar to Armand Hammer, Billy Woods",
       "buzz_points": 9.0,
       "critical_buzz": 1.0,
-      "rank_score": 0.776,
-      "avg_score": null
-    },
-    {
-      "artist": "Tony Iommi & Jørn Lande",
-      "title": "From the Dark",
-      "type": "album",
-      "genre": "Rock / Alternative / Indie",
-      "release_date": null,
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Pitchfork (album reviews)"
-      ],
-      "mentions": [
-        {
-          "source": "Pitchfork (album reviews)",
-          "source_type": "reviews",
-          "weight": 1.5,
-          "mention": "review",
-          "score": null,
-          "headline": "From the Dark",
-          "link": "https://pitchfork.com/reviews/albums/tony-iommi-from-the-dark/",
-          "published": "2026-10-27T04:02:00+00:00"
-        }
-      ],
-      "fans": 79248,
-      "star_power": 0.7,
-      "buzz_points": 4.5,
-      "critical_buzz": 0.5,
-      "rank_score": 0.6,
+      "rank_score": 0.71,
       "avg_score": null
     },
     {
@@ -99,9 +71,75 @@
       ],
       "fans": 22217,
       "star_power": 0.621,
+      "personal": 0.274,
+      "personal_reason": "Similar to Oneohtrix Point Never, Andy Stott",
       "buzz_points": 4.5,
       "critical_buzz": 0.5,
-      "rank_score": 0.56,
+      "rank_score": 0.475,
+      "avg_score": null
+    },
+    {
+      "artist": "evilgiane & Slimesito",
+      "title": "EVILSLIME 2",
+      "type": "album",
+      "genre": "Hip-hop / R&B",
+      "release_date": "2026-10-30",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Stereogum"
+      ],
+      "mentions": [
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "announcement",
+          "score": null,
+          "headline": "evilgiane & Slimesito Announce New Album EVILSLIME 2 Out Friday: Hear “Georgia State”",
+          "link": "https://stereogum.com/2515652/evilgiane-slimesito-announce-new-album-evilslime-2-out-friday-hear-georgia-state/news/",
+          "published": "2026-10-26T20:37:32+00:00"
+        }
+      ],
+      "fans": 479,
+      "star_power": 0.383,
+      "personal": 0.946,
+      "personal_reason": "In your Last.fm top artists",
+      "buzz_points": 1.0,
+      "critical_buzz": 0.111,
+      "rank_score": 0.457,
+      "avg_score": null
+    },
+    {
+      "artist": "Tony Iommi & Jørn Lande",
+      "title": "From the Dark",
+      "type": "album",
+      "genre": "Rock / Alternative / Indie",
+      "release_date": null,
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Pitchfork (album reviews)"
+      ],
+      "mentions": [
+        {
+          "source": "Pitchfork (album reviews)",
+          "source_type": "reviews",
+          "weight": 1.5,
+          "mention": "review",
+          "score": null,
+          "headline": "From the Dark",
+          "link": "https://pitchfork.com/reviews/albums/tony-iommi-from-the-dark/",
+          "published": "2026-10-27T04:02:00+00:00"
+        }
+      ],
+      "fans": 79248,
+      "star_power": 0.7,
+      "personal": 0.0,
+      "personal_reason": "",
+      "buzz_points": 4.5,
+      "critical_buzz": 0.5,
+      "rank_score": 0.42,
       "avg_score": null
     },
     {
@@ -129,16 +167,18 @@
       ],
       "fans": 38258,
       "star_power": 0.655,
+      "personal": 0.243,
+      "personal_reason": "Similar to The Radio Dept., Slowdive",
       "buzz_points": 3.0,
       "critical_buzz": 0.333,
-      "rank_score": 0.494,
+      "rank_score": 0.419,
       "avg_score": null
     },
     {
-      "artist": "Peter Gabriel",
-      "title": "Who Are We Talking To?",
+      "artist": "evilgiane & Slimesito",
+      "title": "Georgia State",
       "type": "single",
-      "genre": "Pop",
+      "genre": "Hip-hop / R&B",
       "release_date": "2026-10-26",
       "date_source": "feeds",
       "scores": [],
@@ -150,18 +190,20 @@
           "source": "Stereogum",
           "source_type": "news",
           "weight": 1.0,
-          "mention": "new_song",
+          "mention": "announcement",
           "score": null,
-          "headline": "Peter Gabriel – “Who Are We Talking To?”",
-          "link": "https://stereogum.com/2515593/peter-gabriel-who-are-we-talking-to/music/",
-          "published": "2026-10-26T16:46:09+00:00"
+          "headline": "evilgiane & Slimesito Announce New Album EVILSLIME 2 Out Friday: Hear “Georgia State”",
+          "link": "https://stereogum.com/2515652/evilgiane-slimesito-announce-new-album-evilslime-2-out-friday-hear-georgia-state/news/",
+          "published": "2026-10-26T20:37:32+00:00"
         }
       ],
-      "fans": 520909,
-      "star_power": 0.817,
+      "fans": 479,
+      "star_power": 0.383,
+      "personal": 0.946,
+      "personal_reason": "In your Last.fm top artists",
       "buzz_points": 1.0,
       "critical_buzz": 0.111,
-      "rank_score": 0.325,
+      "rank_score": 0.32,
       "avg_score": null
     },
     {
@@ -200,39 +242,11 @@
       ],
       "fans": 66924,
       "star_power": 0.689,
+      "personal": 0.336,
+      "personal_reason": "Similar to LCD Soundsystem, Pixies",
       "buzz_points": 2.0,
       "critical_buzz": 0.222,
-      "rank_score": 0.319,
-      "avg_score": null
-    },
-    {
-      "artist": "Chvrches",
-      "title": "Overthinker",
-      "type": "single",
-      "genre": "Pop",
-      "release_date": "2026-10-27",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Stereogum"
-      ],
-      "mentions": [
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "Chvrches – “Overthinker”",
-          "link": "https://stereogum.com/2515747/chvrches-overthinker/music/",
-          "published": "2026-10-27T19:11:24+00:00"
-        }
-      ],
-      "fans": 184668,
-      "star_power": 0.752,
-      "buzz_points": 1.0,
-      "critical_buzz": 0.111,
-      "rank_score": 0.302,
+      "rank_score": 0.294,
       "avg_score": null
     },
     {
@@ -271,46 +285,18 @@
       ],
       "fans": 21353,
       "star_power": 0.618,
+      "personal": 0.288,
+      "personal_reason": "Similar to Sufjan Stevens",
       "buzz_points": 2.0,
       "critical_buzz": 0.222,
-      "rank_score": 0.294,
+      "rank_score": 0.266,
       "avg_score": null
     },
     {
-      "artist": "evilgiane & Slimesito",
-      "title": "EVILSLIME 2",
-      "type": "album",
-      "genre": "Hip-hop / R&B",
-      "release_date": "2026-10-30",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Stereogum"
-      ],
-      "mentions": [
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "announcement",
-          "score": null,
-          "headline": "evilgiane & Slimesito Announce New Album EVILSLIME 2 Out Friday: Hear “Georgia State”",
-          "link": "https://stereogum.com/2515652/evilgiane-slimesito-announce-new-album-evilslime-2-out-friday-hear-georgia-state/news/",
-          "published": "2026-10-26T20:37:32+00:00"
-        }
-      ],
-      "fans": 479,
-      "star_power": 0.383,
-      "buzz_points": 1.0,
-      "critical_buzz": 0.111,
-      "rank_score": 0.247,
-      "avg_score": null
-    },
-    {
-      "artist": "MJ Lenderman",
-      "title": "Weakened",
+      "artist": "Chvrches",
+      "title": "Overthinker",
       "type": "single",
-      "genre": "Rock / Alternative / Indie",
+      "genre": "Pop",
       "release_date": "2026-10-27",
       "date_source": "feeds",
       "scores": [],
@@ -324,51 +310,55 @@
           "weight": 1.0,
           "mention": "new_song",
           "score": null,
-          "headline": "Lambchop’s New Songs Get Covered On Demoed EP: Hear MJ Lenderman’s “Weakened”",
-          "link": "https://stereogum.com/2515688/lambchops-new-songs-get-covered-on-demoed-ep-hear-mj-lendermans-weakened/music/",
-          "published": "2026-10-27T15:20:03+00:00"
+          "headline": "Chvrches – “Overthinker”",
+          "link": "https://stereogum.com/2515747/chvrches-overthinker/music/",
+          "published": "2026-10-27T19:11:24+00:00"
         }
       ],
-      "fans": 3975,
-      "star_power": 0.514,
+      "fans": 184668,
+      "star_power": 0.752,
+      "personal": 0.095,
+      "personal_reason": "Similar to Grimes, Magdalena Bay",
       "buzz_points": 1.0,
       "critical_buzz": 0.111,
-      "rank_score": 0.219,
+      "rank_score": 0.231,
+      "avg_score": null
+    },
+    {
+      "artist": "Peter Gabriel",
+      "title": "Who Are We Talking To?",
+      "type": "single",
+      "genre": "Pop",
+      "release_date": "2026-10-26",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Stereogum"
+      ],
+      "mentions": [
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Peter Gabriel – “Who Are We Talking To?”",
+          "link": "https://stereogum.com/2515593/peter-gabriel-who-are-we-talking-to/music/",
+          "published": "2026-10-26T16:46:09+00:00"
+        }
+      ],
+      "fans": 520909,
+      "star_power": 0.817,
+      "personal": 0.0,
+      "personal_reason": "",
+      "buzz_points": 1.0,
+      "critical_buzz": 0.111,
+      "rank_score": 0.227,
       "avg_score": null
     }
   ],
   "by_genre": {
     "Pop": [
-      {
-        "artist": "Peter Gabriel",
-        "title": "Who Are We Talking To?",
-        "type": "single",
-        "genre": "Pop",
-        "release_date": "2026-10-26",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Stereogum"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Peter Gabriel – “Who Are We Talking To?”",
-            "link": "https://stereogum.com/2515593/peter-gabriel-who-are-we-talking-to/music/",
-            "published": "2026-10-26T16:46:09+00:00"
-          }
-        ],
-        "fans": 520909,
-        "star_power": 0.817,
-        "buzz_points": 1.0,
-        "critical_buzz": 0.111,
-        "rank_score": 0.325,
-        "avg_score": null
-      },
       {
         "artist": "Chvrches",
         "title": "Overthinker",
@@ -394,9 +384,43 @@
         ],
         "fans": 184668,
         "star_power": 0.752,
+        "personal": 0.095,
+        "personal_reason": "Similar to Grimes, Magdalena Bay",
         "buzz_points": 1.0,
         "critical_buzz": 0.111,
-        "rank_score": 0.302,
+        "rank_score": 0.231,
+        "avg_score": null
+      },
+      {
+        "artist": "Peter Gabriel",
+        "title": "Who Are We Talking To?",
+        "type": "single",
+        "genre": "Pop",
+        "release_date": "2026-10-26",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Stereogum"
+        ],
+        "mentions": [
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Peter Gabriel – “Who Are We Talking To?”",
+            "link": "https://stereogum.com/2515593/peter-gabriel-who-are-we-talking-to/music/",
+            "published": "2026-10-26T16:46:09+00:00"
+          }
+        ],
+        "fans": 520909,
+        "star_power": 0.817,
+        "personal": 0.0,
+        "personal_reason": "",
+        "buzz_points": 1.0,
+        "critical_buzz": 0.111,
+        "rank_score": 0.227,
         "avg_score": null
       }
     ],
@@ -437,9 +461,11 @@
         ],
         "fans": 7385,
         "star_power": 0.553,
+        "personal": 0.556,
+        "personal_reason": "Similar to Armand Hammer, Billy Woods",
         "buzz_points": 9.0,
         "critical_buzz": 1.0,
-        "rank_score": 0.776,
+        "rank_score": 0.71,
         "avg_score": null
       },
       {
@@ -467,9 +493,11 @@
         ],
         "fans": 479,
         "star_power": 0.383,
+        "personal": 0.946,
+        "personal_reason": "In your Last.fm top artists",
         "buzz_points": 1.0,
         "critical_buzz": 0.111,
-        "rank_score": 0.247,
+        "rank_score": 0.457,
         "avg_score": null
       },
       {
@@ -497,9 +525,11 @@
         ],
         "fans": 479,
         "star_power": 0.383,
+        "personal": 0.946,
+        "personal_reason": "In your Last.fm top artists",
         "buzz_points": 1.0,
         "critical_buzz": 0.111,
-        "rank_score": 0.173,
+        "rank_score": 0.32,
         "avg_score": null
       },
       {
@@ -527,9 +557,11 @@
         ],
         "fans": 0,
         "star_power": 0.0,
+        "personal": 0.596,
+        "personal_reason": "Similar to ear, Sophia Stel",
         "buzz_points": 1.0,
         "critical_buzz": 0.111,
-        "rank_score": 0.039,
+        "rank_score": 0.152,
         "avg_score": null
       }
     ],
@@ -559,9 +591,11 @@
         ],
         "fans": 79248,
         "star_power": 0.7,
+        "personal": 0.0,
+        "personal_reason": "",
         "buzz_points": 4.5,
         "critical_buzz": 0.5,
-        "rank_score": 0.6,
+        "rank_score": 0.42,
         "avg_score": null
       },
       {
@@ -589,9 +623,11 @@
         ],
         "fans": 38258,
         "star_power": 0.655,
+        "personal": 0.243,
+        "personal_reason": "Similar to The Radio Dept., Slowdive",
         "buzz_points": 3.0,
         "critical_buzz": 0.333,
-        "rank_score": 0.494,
+        "rank_score": 0.419,
         "avg_score": null
       },
       {
@@ -630,9 +666,11 @@
         ],
         "fans": 66924,
         "star_power": 0.689,
+        "personal": 0.336,
+        "personal_reason": "Similar to LCD Soundsystem, Pixies",
         "buzz_points": 2.0,
         "critical_buzz": 0.222,
-        "rank_score": 0.319,
+        "rank_score": 0.294,
         "avg_score": null
       },
       {
@@ -671,9 +709,11 @@
         ],
         "fans": 21353,
         "star_power": 0.618,
+        "personal": 0.288,
+        "personal_reason": "Similar to Sufjan Stevens",
         "buzz_points": 2.0,
         "critical_buzz": 0.222,
-        "rank_score": 0.294,
+        "rank_score": 0.266,
         "avg_score": null
       },
       {
@@ -701,14 +741,16 @@
         ],
         "fans": 3975,
         "star_power": 0.514,
+        "personal": 0.129,
+        "personal_reason": "Similar to Songs: Ohia, Big Thief",
         "buzz_points": 1.0,
         "critical_buzz": 0.111,
-        "rank_score": 0.219,
+        "rank_score": 0.18,
         "avg_score": null
       },
       {
-        "artist": "Stephen Steinbrink",
-        "title": "I'm A Swimming Pool",
+        "artist": "Mia Joy",
+        "title": "Wings Of Desire",
         "type": "single",
         "genre": "Rock / Alternative / Indie",
         "release_date": "2026-10-27",
@@ -722,18 +764,20 @@
             "source": "Stereogum",
             "source_type": "news",
             "weight": 1.0,
-            "mention": "new_song",
+            "mention": "announcement",
             "score": null,
-            "headline": "Stephen Steinbrink – “I’m A Swimming Pool”",
-            "link": "https://stereogum.com/2515752/stephen-steinbrink-im-a-swimming-pool-in-a-split-mirror/music/",
-            "published": "2026-10-27T21:04:35+00:00"
+            "headline": "Mia Joy Announces New Album Star Echo Heavy Dove: Hear “Wings Of Desire”",
+            "link": "https://stereogum.com/2515615/mia-joy-announces-new-album-star-echo-heavy-dove-hear-wings-of-desire/music/",
+            "published": "2026-10-27T14:58:09+00:00"
           }
         ],
-        "fans": 377,
-        "star_power": 0.368,
+        "fans": 224,
+        "star_power": 0.336,
+        "personal": 0.234,
+        "personal_reason": "Similar to Beach House, Japanese Breakfast",
         "buzz_points": 1.0,
         "critical_buzz": 0.111,
-        "rank_score": 0.168,
+        "rank_score": 0.159,
         "avg_score": null
       }
     ],
@@ -763,9 +807,11 @@
         ],
         "fans": 22217,
         "star_power": 0.621,
+        "personal": 0.274,
+        "personal_reason": "Similar to Oneohtrix Point Never, Andy Stott",
         "buzz_points": 4.5,
         "critical_buzz": 0.5,
-        "rank_score": 0.56,
+        "rank_score": 0.475,
         "avg_score": null
       }
     ]
