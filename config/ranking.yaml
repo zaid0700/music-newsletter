@@ -1,12 +1,19 @@
 # How releases are ranked. Edit the numbers to change what rises to the top.
 #
-# Each release gets two scores from 0 to 1, combined with these weights:
+# Each release gets up to three scores from 0 to 1, combined with these weights:
 #   star_power:     how big the artist is (Deezer fan count; 10 million fans or more = 1.0)
 #   critical_buzz:  coverage and reviews this week (compared with the week's best-covered release)
+#   personal:       how close the artist is to what you listen to on Last.fm
+#                   (1.0 = one of your most-played artists). Only used if lastfm_user
+#                   is filled in below and the LASTFM_API_KEY secret is set.
+# The weights don't have to add up to 1; they're used as proportions.
+
+lastfm_user: ""        # your Last.fm username, e.g. "sana_music"
 
 weights:
-  star_power: 0.5
-  critical_buzz: 0.5
+  star_power: 0.35
+  critical_buzz: 0.35
+  personal: 0.3
 
 # Critical buzz points per mention (then multiplied by the source's weight in sources.yaml)
 mention_points:
