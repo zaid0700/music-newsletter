@@ -8,7 +8,7 @@
 #                   is filled in below and the LASTFM_API_KEY secret is set.
 # The weights don't have to add up to 1; they're used as proportions.
 
-lastfm_user: ""        # your Last.fm username, e.g. "sana_music"
+lastfm_user: "zaidaftab"        # your Last.fm username
 
 weights:
   star_power: 0.35
