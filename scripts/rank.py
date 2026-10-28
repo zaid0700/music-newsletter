@@ -1,0 +1,203 @@
+"""
+Step 5: rank the week's releases.
+
+  1. Week:   keeps releases that came out in the newsletter week, the previous
+             Friday to Thursday (UAE time). Reviewed albums with no known date are
+             kept if they were reviewed during that week.
+  2. Stars:  looks up each artist's fan count on Deezer (free, no key). Cached in
+             data/deezer.json and refreshed every 30 days.
+  3. Score:  combines star power and critical buzz using config/ranking.yaml.
+
+Output: data/ranked.json  (top releases overall, plus top releases per genre)
+
+Run it with:             python scripts/rank.py
+For a specific week:     python scripts/rank.py --week-ending 2026-10-22   (a Thursday)
+"""
+
+import argparse
+import json
+import math
+import re
+import sys
+import time
+import unicodedata
+from datetime import date, datetime, timedelta, timezone
+from pathlib import Path
+from zoneinfo import ZoneInfo
+
+import requests
+import yaml
+
+ROOT = Path(__file__).resolve().parent.parent
+SOURCES = ROOT / "config" / "sources.yaml"
+RANKING = ROOT / "config" / "ranking.yaml"
+RELEASES = ROOT / "data" / "releases.json"
+DEEZER_CACHE = ROOT / "data" / "deezer.json"
+RANKED = ROOT / "data" / "ranked.json"
+
+UAE = ZoneInfo("Asia/Dubai")
+FANS_FOR_FULL_STAR_POWER = 10_000_000
+DEEZER_REFRESH_DAYS = 30
+
+
+# --------------------------------------------------------------------------- 1. week
+
+def newsletter_week(week_ending: date | None = None) -> tuple[date, date]:
+    """Return (Friday, Thursday) of the most recent full Fri-Thu week in UAE time.
+    Run on a Friday, that's last Friday to yesterday."""
+    if week_ending is None:
+        today = datetime.now(UAE).date()
+        days_since_thursday = (today.weekday() - 3) % 7 or 7  # Thursday = 3
+        week_ending = today - timedelta(days=days_since_thursday)
+    if week_ending.weekday() != 3:
+        sys.exit(f"--week-ending must be a Thursday; {week_ending} is a {week_ending:%A}")
+    return week_ending - timedelta(days=6), week_ending
+
+
+def uae_date(iso: str) -> date:
+    return datetime.fromisoformat(iso).astimezone(UAE).date()
+
+
+def in_week(rel: dict, start: date, end: date) -> bool:
+    if rel["release_date"]:
+        return start <= date.fromisoformat(rel["release_date"]) <= end
+    # No known date: keep albums/EPs that were reviewed during the week.
+    return rel["type"] != "single" and any(
+        m["mention"] == "review" and start <= uae_date(m["published"]) <= end
+        for m in rel["mentions"]
+    )
+
+
+# --------------------------------------------------------------------------- 2. stars
+
+def norm(text: str) -> str:
+    text = unicodedata.normalize("NFKD", text)
+    text = "".join(c for c in text if not unicodedata.combining(c)).lower()
+    text = text.replace("&", "and").replace("$", "s")
+    text = re.sub(r"^the\s+", "", text.strip())
+    return re.sub(r"[^a-z0-9]", "", text)
+
+
+def main_artist(artist: str) -> str:
+    """'Anderson .Paak & Cordae' -> 'Anderson .Paak' (first credited artist)."""
+    return re.split(r"\s+(?:&|and|x|with|,)\s+|,\s*", artist, maxsplit=1)[0].strip()
+
+
+def deezer_fans(name: str, session: requests.Session) -> int | None:
+    """Fan count of the Deezer artist whose name matches, or None if no match."""
+    resp = session.get("https://api.deezer.com/search/artist",
+                       params={"q": name, "limit": 10}, timeout=20)
+    resp.raise_for_status()
+    wanted = norm(name)
+    matches = [a for a in resp.json().get("data", []) if norm(a.get("name", "")) == wanted]
+    if not matches:
+        return None
+    return max(a.get("nb_fan", 0) for a in matches)  # same name twice: take the big one
+
+
+def add_star_power(releases: list[dict]) -> None:
+    cache = json.loads(DEEZER_CACHE.read_text()) if DEEZER_CACHE.exists() else {}
+    stale = (datetime.now(timezone.utc) - timedelta(days=DEEZER_REFRESH_DAYS)).isoformat()
+    session = requests.Session()
+    looked_up = 0
+
+    for rel in releases:
+        name = main_artist(rel["artist"])
+        key = norm(name)
+        entry = cache.get(key)
+        if not entry or entry["checked"] < stale:
+            try:
+                fans = deezer_fans(name, session)
+            except requests.RequestException as err:
+                print(f"  Deezer lookup failed for {name}: {err}")
+                fans = entry["fans"] if entry else None
+            else:
+                cache[key] = entry = {"name": name, "fans": fans,
+                                      "checked": datetime.now(timezone.utc).isoformat()}
+                looked_up += 1
+                time.sleep(0.2)  # stay well under Deezer's rate limit
+        fans = (entry or {}).get("fans") or 0
+        rel["fans"] = fans
+        rel["star_power"] = round(min(1.0, math.log10(fans + 1) /
+                                      math.log10(FANS_FOR_FULL_STAR_POWER)), 3)
+
+    DEEZER_CACHE.write_text(json.dumps(cache, indent=1, ensure_ascii=False))
+    print(f"Stars: {looked_up} artists looked up on Deezer, "
+          f"{len(releases) - looked_up} from cache")
+
+
+# --------------------------------------------------------------------------- 3. score
+
+def add_scores(releases: list[dict], cfg: dict, source_weights: dict) -> None:
+    for rel in releases:
+        buzz, counted = 0.0, set()
+        for m in rel["mentions"]:
+            key = (m["source"], m["link"])
+            if key in counted:
+                continue
+            counted.add(key)
+            weight = source_weights.get(m["source"], m.get("weight", 1.0))
+            buzz += cfg["mention_points"].get(m["mention"], 1) * weight
+        buzz += sum(max(0.0, s - 6.0) for s in rel["scores"]) * cfg["score_bonus_per_point"]
+        rel["buzz_points"] = round(buzz, 2)
+
+    top_buzz = max((r["buzz_points"] for r in releases), default=1) or 1
+    w = cfg["weights"]
+    for rel in releases:
+        rel["critical_buzz"] = round(rel["buzz_points"] / top_buzz, 3)
+        rel["rank_score"] = round(
+            cfg["type_weight"].get(rel["type"], 1.0)
+            * (w["star_power"] * rel["star_power"] + w["critical_buzz"] * rel["critical_buzz"]),
+            3,
+        )
+        rel["avg_score"] = round(sum(rel["scores"]) / len(rel["scores"]), 1) if rel["scores"] else None
+
+
+# --------------------------------------------------------------------------- main
+
+def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--week-ending", type=date.fromisoformat,
+                        help="Thursday that ends the week (default: the most recent one)")
+    args = parser.parse_args()
+
+    if not RELEASES.exists():
+        sys.exit("No data/releases.json yet. Run scripts/analyse.py first.")
+    sources = yaml.safe_load(SOURCES.read_text())
+    cfg = yaml.safe_load(RANKING.read_text())
+    genres = sources["genres"]
+    source_weights = {s["name"]: s.get("weight", 1.0) for s in sources["sources"]}
+
+    start, end = newsletter_week(args.week_ending)
+    releases = [r for r in json.loads(RELEASES.read_text())
+                if r["genre"] in genres and in_week(r, start, end)]
+    print(f"Week: Fri {start} to Thu {end}: {len(releases)} releases in your genres")
+
+    add_star_power(releases)
+    add_scores(releases, cfg, source_weights)
+    releases.sort(key=lambda r: r["rank_score"], reverse=True)
+
+    result = {
+        "week_start": start.isoformat(),
+        "week_end": end.isoformat(),
+        "generated": datetime.now(timezone.utc).isoformat(),
+        "top": releases[:cfg["top_overall"]],
+        "by_genre": {g: [r for r in releases if r["genre"] == g][:cfg["per_genre"]]
+                     for g in genres},
+    }
+    RANKED.write_text(json.dumps(result, indent=2, ensure_ascii=False))
+
+    print(f"\nTop {len(result['top'])} this week")
+    print(f"{'#':>2}  {'score':>5}  {'stars':>5}  {'buzz':>5}  release")
+    for i, r in enumerate(result["top"], 1):
+        print(f"{i:>2}  {r['rank_score']:>5.2f}  {r['star_power']:>5.2f}  "
+              f"{r['critical_buzz']:>5.2f}  {r['artist']} - {r['title']} ({r['type']}, {r['genre']})")
+    for g, rels in result["by_genre"].items():
+        print(f"\n{g}: {len(rels)}")
+        for r in rels:
+            print(f"    {r['rank_score']:.2f}  {r['artist']} - {r['title']} ({r['type']})")
+    print("\nSaved to data/ranked.json")
+
+
+if __name__ == "__main__":
+    main()
