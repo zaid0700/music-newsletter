@@ -1,0 +1,36 @@
+{% macro release(r, n=None) %}
+{% if n %}{{ n }}. {% endif %}{{ r.artist }} - {{ r.title }}
+   {{ r.type | kind }} | {{ r.genre }}{% if r.release_date %} | Out {{ r.release_date | day }}{% endif %}{% if r.avg_score %} | {{ r.avg_score }}/10{% endif %}{% for l in r.links if l.pick %} | Best New Music{% endfor %}
+
+{% if r.blurb %}
+   {{ r.blurb }}
+{% endif %}
+   Spotify: {{ r.spotify }}
+{% for l in r.links %}
+   {{ l.label }}{% if l.kind %} {{ l.kind }}{% endif %}: {{ l.url }}
+{% endfor %}
+
+{% endmacro %}
+WEEKLY RELEASES, {{ issue_title | upper }}
+
+{% if intro %}
+{{ intro }}
+
+{% endif %}
+{% if empty %}
+A quiet week: none of your sources covered a new release in your genres.
+{% else %}
+TOP OF THE WEEK
+
+{% for r in top %}{{ release(r, loop.index) }}{% endfor %}
+{% for genre, rels in genres.items() %}
+MORE {{ genre | upper }}
+
+{% for r in rels %}{{ release(r) }}{% else %}
+   {% if in_top[genre] %}This week's {{ genre }} picks are all in the top of the week.{% else %}No {{ genre }} releases in your sources this week.{% endif %}
+
+
+{% endfor %}
+{% endfor %}
+{% endif %}
+Covers releases from {{ dates }}.
