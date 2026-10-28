@@ -7,7 +7,9 @@ Step 5: rank the week's releases.
              during that week.
   2. Stars:  looks up each artist's fan count on Deezer (free, no key). Cached in
              data/deezer.json and refreshed every 30 days.
-  3. Score:  combines star power and critical buzz using config/ranking.yaml.
+  3. Taste:  optional: how close each artist is to what you listen to on Last.fm
+             (see personal.py).
+  4. Score:  combines star power, critical buzz and taste using config/ranking.yaml.
 
 Output: data/ranked.json  (top releases overall, plus top releases per genre)
 
@@ -130,7 +132,8 @@ def add_star_power(releases: list[dict]) -> None:
 
 # --------------------------------------------------------------------------- 3. score
 
-def add_scores(releases: list[dict], cfg: dict, source_weights: dict) -> None:
+def add_scores(releases: list[dict], cfg: dict, source_weights: dict,
+               use_personal: bool = False) -> None:
     for rel in releases:
         buzz, counted = 0.0, set()
         for m in rel["mentions"]:
@@ -144,14 +147,18 @@ def add_scores(releases: list[dict], cfg: dict, source_weights: dict) -> None:
         rel["buzz_points"] = round(buzz, 2)
 
     top_buzz = max((r["buzz_points"] for r in releases), default=1) or 1
-    w = cfg["weights"]
+    # Without Last.fm, the personal weight is dropped and the others share 100%.
+    w = {"star_power": cfg["weights"]["star_power"],
+         "critical_buzz": cfg["weights"]["critical_buzz"]}
+    if use_personal:
+        w["personal"] = cfg["weights"].get("personal", 0)
+    total = sum(w.values()) or 1
     for rel in releases:
         rel["critical_buzz"] = round(rel["buzz_points"] / top_buzz, 3)
-        rel["rank_score"] = round(
-            cfg["type_weight"].get(rel["type"], 1.0)
-            * (w["star_power"] * rel["star_power"] + w["critical_buzz"] * rel["critical_buzz"]),
-            3,
-        )
+        rel.setdefault("personal", 0.0)
+        rel.setdefault("personal_reason", "")
+        mix = sum(weight * rel[signal] for signal, weight in w.items()) / total
+        rel["rank_score"] = round(cfg["type_weight"].get(rel["type"], 1.0) * mix, 3)
         rel["avg_score"] = round(sum(rel["scores"]) / len(rel["scores"]), 1) if rel["scores"] else None
 
 
@@ -176,7 +183,9 @@ def main() -> None:
     print(f"Week: Sat {start} to Fri {end}: {len(releases)} releases in your genres")
 
     add_star_power(releases)
-    add_scores(releases, cfg, source_weights)
+    from personal import add_personal  # imported here: personal.py imports this file
+    use_personal = add_personal(releases, (cfg.get("lastfm_user") or "").strip())
+    add_scores(releases, cfg, source_weights, use_personal)
     releases.sort(key=lambda r: r["rank_score"], reverse=True)
 
     result = {
@@ -190,10 +199,12 @@ def main() -> None:
     RANKED.write_text(json.dumps(result, indent=2, ensure_ascii=False))
 
     print(f"\nTop {len(result['top'])} this week")
-    print(f"{'#':>2}  {'score':>5}  {'stars':>5}  {'buzz':>5}  release")
+    print(f"{'#':>2}  {'score':>5}  {'stars':>5}  {'buzz':>5}  {'you':>5}  release")
     for i, r in enumerate(result["top"], 1):
         print(f"{i:>2}  {r['rank_score']:>5.2f}  {r['star_power']:>5.2f}  "
-              f"{r['critical_buzz']:>5.2f}  {r['artist']} - {r['title']} ({r['type']}, {r['genre']})")
+              f"{r['critical_buzz']:>5.2f}  {r['personal']:>5.2f}  "
+              f"{r['artist']} - {r['title']} ({r['type']}, {r['genre']})"
+              + (f"  [{r['personal_reason']}]" if r["personal_reason"] else ""))
     for g, rels in result["by_genre"].items():
         print(f"\n{g}: {len(rels)}")
         for r in rels:

@@ -5,7 +5,7 @@ Step 6: write and send the newsletter.
              release, using only the headlines and summaries the feeds provided.
              If Claude is unavailable, each blurb falls back to the main headline,
              so the newsletter still goes out.
-  2. Media:  album covers (Deezer) and Spotify links for every release (see media.py).
+  2. Covers: album covers from Deezer for every release (see media.py).
   3. Build:  fills templates/newsletter.html (email) and a plain-text version.
              A copy is saved in newsletters/ as an archive.
   4. Send:   emails it through Gmail.
@@ -224,7 +224,8 @@ def build(week: dict, copy: dict) -> tuple[str, str, str]:
                                    f"{date.fromisoformat(d):%b}" if d else ""
     env.filters["kind"] = lambda t: {"ep": "EP", "lp": "LP"}.get(t, (t or "").capitalize())
     context = dict(issue_title=issue_title, dates=dates, intro=copy["intro"], top=top,
-                   genres=genres, in_top=in_top, empty=not releases)
+                   genres=genres, in_top=in_top, empty=not releases,
+                   personal=any(r.get("personal_reason") for r in releases.values()))
     html = env.get_template("newsletter.html").render(**context)
     text = env.get_template("newsletter.txt").render(**context)
     return subject, html, text
