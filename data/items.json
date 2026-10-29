@@ -1,5 +1,451 @@
 [
   {
+    "id": "3c8a876b88f190d0",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "DIIV – “Dare Me”",
+    "link": "https://stereogum.com/2515877/diiv-dare-me-zirp-song/music/",
+    "summary": "The post DIIV – “Dare Me” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "DIIV"
+    ],
+    "published": "2026-10-28T21:58:35+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "9cb69b1aa7681b6e",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Queens Of The Stone Age – “Run Away From The Mob”",
+    "link": "https://stereogum.com/2515884/queens-of-the-stone-age-run-away-from-the-mob-perfecth-song/music/",
+    "summary": "The post Queens Of The Stone Age – “Run Away From The Mob” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Dave Grohl",
+      "Josh Homme",
+      "Queens Of The Stone Age"
+    ],
+    "published": "2026-10-28T21:56:18+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "4b7c7660061b407f",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Everything But The Girl announces new album 'Blue Reservoir,' share \"Young and Dumb\" music video",
+    "link": "https://theneedledrop.com/news/everything-but-the-girl-announces-new-album-blue-reservoir-share-young-and-dumb-music-video/",
+    "summary": "This marks the duo's eleventh studio album.",
+    "categories": [
+      "News",
+      "everything but the girl"
+    ],
+    "published": "2026-10-28T20:12:54+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "5b8974d297bd3610",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Joe Hisaishi appointed Composer-in-Residence by LA Philharmonic",
+    "link": "https://theneedledrop.com/news/joe-hisaishi-appointed-composer-in-residence-by-la-philharmonic/",
+    "summary": "His five-year role will include performances, recordings, and compositions centered around the Hollywood Bowl and The Ford.",
+    "categories": [
+      "News",
+      "joe hisaishi"
+    ],
+    "published": "2026-10-28T19:36:54+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "e74758fbd71e7688",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Dominic Fike announces features for ‘How to Quit Smoking’",
+    "link": "https://theneedledrop.com/news/dominic-fike-announces-features-for-how-to-quit-smoking/",
+    "summary": "This is the third studio album from Fike, which is out this week.",
+    "categories": [
+      "News",
+      "dominic fike"
+    ],
+    "published": "2026-10-28T19:33:16+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "01d697cd6edf9c72",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Slow Pulp Cover A Pearl Jam Hit With A Familiar Title",
+    "link": "https://stereogum.com/2515855/slow-pulp-cover-a-pearl-jam-hit-with-a-familiar-title/news/",
+    "summary": "The post Slow Pulp Cover A Pearl Jam Hit With A Familiar Title appeared first on Stereogum .",
+    "categories": [
+      "News",
+      "Pearl Jam",
+      "SiriusXM",
+      "Slow Pulp"
+    ],
+    "published": "2026-10-28T19:24:18+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "3c754c2311d3666a",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Jim James Announces Memoir",
+    "link": "https://stereogum.com/2515840/jim-james-announces-memoir/news/",
+    "summary": "The post Jim James Announces Memoir appeared first on Stereogum .",
+    "categories": [
+      "News",
+      "Jim James",
+      "My Morning Jacket"
+    ],
+    "published": "2026-10-28T18:37:12+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "1afcc7d25991cac7",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Robyn Mashes Up Tinashe & Teddybears In The Live Lounge",
+    "link": "https://stereogum.com/2515838/robyn-mashes-up-tinashe-teddybears-in-the-live-lounge/news/",
+    "summary": "The post Robyn Mashes Up Tinashe & Teddybears In The Live Lounge appeared first on Stereogum .",
+    "categories": [
+      "News",
+      "Iggy Pop",
+      "Robyn",
+      "Teddybears",
+      "Tinashe"
+    ],
+    "published": "2026-10-28T18:25:01+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "9d7d9aea8c244bf7",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Guided By Voices Announce 45th Album Speculation And Gossip",
+    "link": "https://stereogum.com/2515829/guided-by-voices-announce-45th-album-speculation-and-gossip/music/",
+    "summary": "The post Guided By Voices Announce 45th Album <em>Speculation And Gossip</em> appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Guided By Voices"
+    ],
+    "published": "2026-10-28T18:07:11+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "666c8ec3f56940b1",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Boldy James & Real Bad Man Release New Album Strobelight",
+    "link": "https://stereogum.com/2515832/boldy-james-real-bad-man-release-new-album-strobelight/music/",
+    "summary": "The post Boldy James & Real Bad Man Release New Album <em>Strobelight</em> appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Boldy James",
+      "Real Bad Man"
+    ],
+    "published": "2026-10-28T18:04:00+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "4efe5976229e533c",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Crowquill Announce Debut Album Slept With Cannula: Hear “Cannula”",
+    "link": "https://stereogum.com/2515824/crowquill-announce-debut-album-slept-with-cannula-hear-cannula/music/",
+    "summary": "The post Crowquill Announce Debut Album <em>Slept With Cannula</em>: Hear “Cannula” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Crowquill"
+    ],
+    "published": "2026-10-28T17:46:49+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "d0b926216cfb405e",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Chats Announce New Album Half Cut: Hear “Off It”",
+    "link": "https://stereogum.com/2515818/the-chats-announce-new-album-half-cut-hear-off-it/music/",
+    "summary": "The post The Chats Announce New Album <em>Half Cut</em>: Hear “Off It” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "The Chats"
+    ],
+    "published": "2026-10-28T17:38:41+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "9cd186ce2f85afda",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Barrie – “Gloria”",
+    "link": "https://stereogum.com/2515819/barrie-gloria/music/",
+    "summary": "The post Barrie – “Gloria” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Barrie"
+    ],
+    "published": "2026-10-28T17:27:27+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "f27639ca001f3ca5",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Kilby Block Party reveals 2027 Lineup",
+    "link": "https://theneedledrop.com/news/kilby-block-party-reveals-2027-lineup/",
+    "summary": "The annual Salt Lake City, Utah festival returns from May 14-16 with Deftones, The Strokes, Fontaines D.C., and Jungle to headline.",
+    "categories": [
+      "News",
+      "kilby block party",
+      "deftones",
+      "the strokes",
+      "fontaines d.c.",
+      "jungle"
+    ],
+    "published": "2026-10-28T16:57:30+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "cc9aa876c0ae9614",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "This Is The Kit – “Safety Valve” (Feat. Richard Dawson)",
+    "link": "https://stereogum.com/2515815/this-is-the-kit-safety-valve-feat-richard-dawson/music/",
+    "summary": "The post This Is The Kit – “Safety Valve” (Feat. Richard Dawson) appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Richard Dawson",
+      "This Is The Kit"
+    ],
+    "published": "2026-10-28T16:50:51+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "293e1a49decd3473",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Ethel Cain collaborated with Robert Eggers for Werwulf Soundtrack",
+    "link": "https://theneedledrop.com/news/ethel-cain-collaborated-with-robert-eggers-for-werwulf-soundtrack/",
+    "summary": "Scored by composer Robin Carolan, Cain's new song \"Wynter Waxeth\" will be featured in the upcoming gothic-horror film, which is out on Christmas Day.",
+    "categories": [
+      "News",
+      "ethel cain"
+    ],
+    "published": "2026-10-28T16:45:11+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "9e0aa8d2f6ca017d",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Massive Attack’s Robert Del Naja Shares New Life Support Soundtrack",
+    "link": "https://stereogum.com/2515810/massive-attacks-robert-del-naja-shares-new-life-support-soundtrack/music/",
+    "summary": "The post Massive Attack’s Robert Del Naja Shares New <em>Life Support</em> Soundtrack appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "3D",
+      "Massive Attack",
+      "Robert Del Naja"
+    ],
+    "published": "2026-10-28T16:16:17+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "6fef546c1b5604d5",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Massive Attack's Robert Del Naja shares new music for Gaza Documentary",
+    "link": "https://theneedledrop.com/news/massive-attacks-robert-del-naja-shares-new-music-for-gaza-documentary/",
+    "summary": "The co-founder of the groundbreaking trip-hop outfit has revealed three original songs, as well as a remix of Kneecap's \"Palestine.\"",
+    "categories": [
+      "News",
+      "massive attack",
+      "robert del naja"
+    ],
+    "published": "2026-10-28T16:08:12+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "401e6a0847423127",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Kilby Block Party Announces 2027 Lineup",
+    "link": "https://stereogum.com/2515789/kilby-block-party-announces-2027-lineup/news/",
+    "summary": "The post Kilby Block Party Announces 2027 Lineup appeared first on Stereogum .",
+    "categories": [
+      "News",
+      "Atlas Sound",
+      "Deftones",
+      "Fontaines D.C.",
+      "Jungle",
+      "Kilby Block Party",
+      "Lil Yachty",
+      "Slayyyter",
+      "The Radio Dept",
+      "The Strokes"
+    ],
+    "published": "2026-10-28T16:02:41+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "8200bfdaf611a50d",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Tindersticks Announce New Album Dog Roses: Hear “Loving, Leaving”",
+    "link": "https://stereogum.com/2515804/tindersticks-announce-new-album-dog-roses-hear-loving-leaving/music/",
+    "summary": "The post Tindersticks Announce New Album <em>Dog Roses</em>: Hear “Loving, Leaving” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Tindersticks"
+    ],
+    "published": "2026-10-28T15:00:40+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "becf98534129e40c",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "nowhere else to be Announce Self-Titled Debut Album: Hear “r1 (ripples)”",
+    "link": "https://stereogum.com/2515773/nowhere-else-to-be-announce-self-titled-debut-album-r1-ripples/music/",
+    "summary": "The post nowhere else to be Announce Self-Titled Debut Album: Hear “r1 (ripples)” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "nowhere else to be"
+    ],
+    "published": "2026-10-28T14:53:40+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "a4d06956394023fb",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Kevin Morby – “Nursery Rhyme” (Feat. Lonnie Holley)",
+    "link": "https://stereogum.com/2515801/kevin-morby-nursery-rhyme-feat-lonnie-holley/music/",
+    "summary": "The post Kevin Morby – “Nursery Rhyme” (Feat. Lonnie Holley) appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Kevin Morby",
+      "Lonnie Holley"
+    ],
+    "published": "2026-10-28T14:26:15+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "af16f52e23bf2678",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Pivot Gang – “Location”",
+    "link": "https://stereogum.com/2515798/pivot-gang-location/music/",
+    "summary": "The post Pivot Gang – “Location” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "daedaePIVOT",
+      "Frsh Waters",
+      "JLEAN",
+      "Joseph Chilliams",
+      "MFnMelo",
+      "Pivot Gang",
+      "Saba"
+    ],
+    "published": "2026-10-28T14:05:20+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "ed2e883e2e185788",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Panda Bear announces 'pb band live 25 at power station'",
+    "link": "https://theneedledrop.com/news/embargoed-until-10-28-at/",
+    "summary": "This serves as the next installment of the 'Domino Documents' series.",
+    "categories": [
+      "News",
+      "panda bear"
+    ],
+    "published": "2026-10-28T14:02:52+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "37ee10f7b2f06c9a",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Everything But The Girl Announce New Album Blue Reservoir: Hear “Young And Dumb”",
+    "link": "https://stereogum.com/2515793/everything-but-the-girl-announce-new-album-blue-reservoir-hear-young-and-dumb/music/",
+    "summary": "The post Everything But The Girl Announce New Album <em>Blue Reservoir</em>: Hear “Young And Dumb” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Ben Watt",
+      "Edward Bishop",
+      "Everything But The Girl",
+      "Tracey Thorn"
+    ],
+    "published": "2026-10-28T13:39:02+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "2ddcbbbb6f5a6c56",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Fender officially releases Limited Edition Kim Gordon signature Jazzmaster",
+    "link": "https://theneedledrop.com/news/fender-officially-releases-limited-edition-kim-gordon-signature-jazzmaster/",
+    "summary": "All three members of Sonic Youth's six-string attack now have signature Fender Jazzmasters.",
+    "categories": [
+      "News",
+      "Kim Gordon"
+    ],
+    "published": "2026-10-28T13:35:04+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "6644a106c0c51389",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Festival Review: Sick New World Texas",
+    "link": "https://theneedledrop.com/festival-review-sick-new-world-texas/",
+    "summary": "Despite logistical issues, Sick New World's first foray into Texas proved a sprawling celebration of heavy music and its fans.",
+    "categories": [
+      "Editorial",
+      "concert review",
+      "festival review",
+      "sick new world",
+      "system of a down",
+      "evanescence",
+      "Knocked Loose",
+      "slayer"
+    ],
+    "published": "2026-10-28T13:30:47+00:00",
+    "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
     "id": "a33f458e5665e477",
     "source": "Pitchfork (album reviews)",
     "source_type": "reviews",
@@ -1825,20 +2271,6 @@
       "Reviews / Tracks"
     ],
     "published": "2026-09-29T20:19:53+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "c3097fb2b0e984ad",
-    "source": "Pitchfork (track reviews)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "“Popstar”",
-    "link": "https://pitchfork.com/reviews/tracks/tinashe-popstar/",
-    "summary": "The title track of the artist’s first major label album in eight years is its lighters-up climax.",
-    "categories": [
-      "Reviews / Tracks"
-    ],
-    "published": "2026-09-28T21:11:22+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
   }
 ]
