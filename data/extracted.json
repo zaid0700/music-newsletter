@@ -701,17 +701,464 @@
   }
  ],
  "6926c21461dd3f83": [],
- "6f5e993d14b5d118": [
+ "3a2b667903282c62": [
   {
-   "artist": "Tinashe",
-   "title": "Popstar",
+   "artist": "DIIV",
+   "title": "ZIRP!",
    "type": "album",
-   "genre": "Pop",
+   "genre": "Rock / Alternative / Indie",
    "release_date": null,
    "mention": "review",
    "score": null
   }
  ],
- "2ec345c69e09205f": [],
- "c3097fb2b0e984ad": []
+ "9a1bd5db098726bb": [
+  {
+   "artist": "Heath Michael Thomas",
+   "title": "Awesome",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "7fd24c3d919fb0b7": [
+  {
+   "artist": "Dead Deities",
+   "title": "Dead Deities",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "41c82a9e28456044": [],
+ "ce06b017cc568d51": [],
+ "bdd2e6f1e99f4168": [
+  {
+   "artist": "Mei Semones",
+   "title": "Howl",
+   "type": "album",
+   "genre": "Pop",
+   "release_date": "2027-01-15",
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Mei Semones",
+   "title": "2 Hands",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-10-29",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "2d86013bac708463": [
+  {
+   "artist": "Phoebe Bridgers",
+   "title": "Live at Madison Square Garden",
+   "type": "ep",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-10-29",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "226cc7f42c707e07": [
+  {
+   "artist": "Mei Semones",
+   "title": "2 Hands",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-10-29",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "e208c443d5d87ae8": [
+  {
+   "artist": "Boys Noize",
+   "title": "Nächsteliebe",
+   "type": "single",
+   "genre": "Electronic / Dance",
+   "release_date": "2026-10-29",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "0ce9c611df4e2ebc": [
+  {
+   "artist": "Graham Hill",
+   "title": "Taking In Stars",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Graham Hill",
+   "title": "Monster In My Head",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-10-29",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "dfd13ddaf2efdeb2": [
+  {
+   "artist": "Waterbaby",
+   "title": "Creek",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-10-29",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "1be65cf04b0ddd99": [],
+ "d86f593de0ac6cc9": [],
+ "b7e157128dc1ee86": [],
+ "b4dd5285752250d9": [],
+ "f0a486f072148ab4": [
+  {
+   "artist": "Flower Face",
+   "title": "Kill The Muse",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "44709f7d13c3b69b": [
+  {
+   "artist": "Justice",
+   "title": "Pusher",
+   "type": "single",
+   "genre": "Electronic / Dance",
+   "release_date": "2026-10-29",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "5ba1dc24d8e70d9a": [
+  {
+   "artist": "Junior Boys",
+   "title": "The Gore",
+   "type": "album",
+   "genre": "Electronic / Dance",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Junior Boys",
+   "title": "Underneath The Moon",
+   "type": "single",
+   "genre": "Electronic / Dance",
+   "release_date": "2026-10-29",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "c52cbdcacad76d0f": [
+  {
+   "artist": "Avery Cochrane",
+   "title": "Vengeance Through My Omnipresence",
+   "type": "album",
+   "genre": "Pop",
+   "release_date": "2027-01-29",
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Avery Cochrane",
+   "title": "You're the Only One (I Never Performed For)",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-10-29",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "5ebad67628a7ef00": [],
+ "c923af5b17f063b4": [
+  {
+   "artist": "Shabazz Palaces",
+   "title": "It's a Style Sport",
+   "type": "album",
+   "genre": "Hip-hop / R&B",
+   "release_date": null,
+   "mention": "review",
+   "score": 7
+  }
+ ],
+ "b81766cdd721033e": [],
+ "bd990d7f3e80997e": [],
+ "89eaaeaa9a1b7338": [
+  {
+   "artist": "Anderson .Paak & Cordae",
+   "title": "Heavy Is the Crown",
+   "type": "album",
+   "genre": "Hip-hop / R&B",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "182fb65c53bb8dc2": [],
+ "3c8a876b88f190d0": [
+  {
+   "artist": "DIIV",
+   "title": "Dare Me",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-10-28",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "9cb69b1aa7681b6e": [
+  {
+   "artist": "Queens Of The Stone Age",
+   "title": "Run Away From The Mob",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-10-28",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "4b7c7660061b407f": [
+  {
+   "artist": "Everything But The Girl",
+   "title": "Blue Reservoir",
+   "type": "album",
+   "genre": "Pop",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Everything But The Girl",
+   "title": "Young and Dumb",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-10-28",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "5b8974d297bd3610": [],
+ "e74758fbd71e7688": [
+  {
+   "artist": "Dominic Fike",
+   "title": "How to Quit Smoking",
+   "type": "album",
+   "genre": "Pop",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "3c754c2311d3666a": [],
+ "9d7d9aea8c244bf7": [
+  {
+   "artist": "Guided By Voices",
+   "title": "Speculation And Gossip",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "666c8ec3f56940b1": [
+  {
+   "artist": "Boldy James & Real Bad Man",
+   "title": "Strobelight",
+   "type": "album",
+   "genre": "Hip-hop / R&B",
+   "release_date": "2026-10-28",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "4efe5976229e533c": [
+  {
+   "artist": "Crowquill",
+   "title": "Slept With Cannula",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Crowquill",
+   "title": "Cannula",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-10-28",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "d0b926216cfb405e": [
+  {
+   "artist": "The Chats",
+   "title": "Half Cut",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "The Chats",
+   "title": "Off It",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-10-28",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "9cd186ce2f85afda": [
+  {
+   "artist": "Barrie",
+   "title": "Gloria",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-10-28",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "f27639ca001f3ca5": [],
+ "cc9aa876c0ae9614": [
+  {
+   "artist": "This Is The Kit",
+   "title": "Safety Valve",
+   "type": "single",
+   "genre": "Other",
+   "release_date": "2026-10-28",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "293e1a49decd3473": [
+  {
+   "artist": "Ethel Cain",
+   "title": "Wynter Waxeth",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": null,
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "9e0aa8d2f6ca017d": [
+  {
+   "artist": "Robert Del Naja",
+   "title": "Life Support",
+   "type": "album",
+   "genre": "Electronic / Dance",
+   "release_date": "2026-10-28",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "6fef546c1b5604d5": [],
+ "401e6a0847423127": [],
+ "8200bfdaf611a50d": [
+  {
+   "artist": "Tindersticks",
+   "title": "Dog Roses",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Tindersticks",
+   "title": "Loving, Leaving",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-10-28",
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "becf98534129e40c": [
+  {
+   "artist": "nowhere else to be",
+   "title": "nowhere else to be",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "nowhere else to be",
+   "title": "r1 (ripples)",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-10-28",
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "a4d06956394023fb": [
+  {
+   "artist": "Kevin Morby & Lonnie Holley",
+   "title": "Nursery Rhyme",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-10-28",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "af16f52e23bf2678": [
+  {
+   "artist": "Pivot Gang",
+   "title": "Location",
+   "type": "single",
+   "genre": "Hip-hop / R&B",
+   "release_date": "2026-10-28",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "ed2e883e2e185788": [],
+ "37ee10f7b2f06c9a": [
+  {
+   "artist": "Everything But The Girl",
+   "title": "Blue Reservoir",
+   "type": "album",
+   "genre": "Pop",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Everything But The Girl",
+   "title": "Young And Dumb",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-10-28",
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "2ddcbbbb6f5a6c56": [],
+ "6644a106c0c51389": []
 }

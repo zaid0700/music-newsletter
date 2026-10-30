@@ -98,5 +98,115 @@
   "name": "DIIV",
   "fans": 38258,
   "checked": "2026-10-28T12:20:34.041905+00:00"
+ },
+ "dominicfike": {
+  "name": "Dominic Fike",
+  "fans": 83539,
+  "checked": "2026-10-30T04:43:08.768983+00:00"
+ },
+ "meisemones": {
+  "name": "Mei Semones",
+  "fans": 3451,
+  "checked": "2026-10-30T04:43:09.216181+00:00"
+ },
+ "phoebebridgers": {
+  "name": "Phoebe Bridgers",
+  "fans": 209777,
+  "checked": "2026-10-30T04:43:09.614431+00:00"
+ },
+ "boysnoize": {
+  "name": "Boys Noize",
+  "fans": 169313,
+  "checked": "2026-10-30T04:43:09.993231+00:00"
+ },
+ "grahamhill": {
+  "name": "Graham Hill",
+  "fans": null,
+  "checked": "2026-10-30T04:43:10.441004+00:00"
+ },
+ "waterbaby": {
+  "name": "Waterbaby",
+  "fans": 675,
+  "checked": "2026-10-30T04:43:10.936215+00:00"
+ },
+ "justice": {
+  "name": "Justice",
+  "fans": 813168,
+  "checked": "2026-10-30T04:43:11.346849+00:00"
+ },
+ "juniorboys": {
+  "name": "Junior Boys",
+  "fans": 11452,
+  "checked": "2026-10-30T04:43:11.777413+00:00"
+ },
+ "averycochrane": {
+  "name": "Avery Cochrane",
+  "fans": 229,
+  "checked": "2026-10-30T04:43:12.169392+00:00"
+ },
+ "everythingbutthegirl": {
+  "name": "Everything But The Girl",
+  "fans": 76069,
+  "checked": "2026-10-30T04:43:12.577495+00:00"
+ },
+ "queensofthestoneage": {
+  "name": "Queens Of The Stone Age",
+  "fans": 1375936,
+  "checked": "2026-10-30T04:43:12.955237+00:00"
+ },
+ "boldyjames": {
+  "name": "Boldy James",
+  "fans": 15003,
+  "checked": "2026-10-30T04:43:13.324829+00:00"
+ },
+ "crowquill": {
+  "name": "Crowquill",
+  "fans": 164,
+  "checked": "2026-10-30T04:43:13.728686+00:00"
+ },
+ "chats": {
+  "name": "The Chats",
+  "fans": 11955,
+  "checked": "2026-10-30T04:43:14.155813+00:00"
+ },
+ "barrie": {
+  "name": "Barrie",
+  "fans": 1807,
+  "checked": "2026-10-30T04:43:14.586230+00:00"
+ },
+ "robertdelnaja": {
+  "name": "Robert Del Naja",
+  "fans": 611,
+  "checked": "2026-10-30T04:43:15.140997+00:00"
+ },
+ "tindersticks": {
+  "name": "Tindersticks",
+  "fans": 37444,
+  "checked": "2026-10-30T04:43:15.519696+00:00"
+ },
+ "nowhereelsetobe": {
+  "name": "nowhere else to be",
+  "fans": 2,
+  "checked": "2026-10-30T04:43:15.916994+00:00"
+ },
+ "kevinmorby": {
+  "name": "Kevin Morby",
+  "fans": 38713,
+  "checked": "2026-10-30T04:43:16.299870+00:00"
+ },
+ "pivotgang": {
+  "name": "Pivot Gang",
+  "fans": 1216,
+  "checked": "2026-10-30T04:43:16.695256+00:00"
+ },
+ "heathmichaelthomas": {
+  "name": "Heath Michael Thomas",
+  "fans": null,
+  "checked": "2026-10-30T04:43:17.117405+00:00"
+ },
+ "deaddeities": {
+  "name": "Dead Deities",
+  "fans": 33,
+  "checked": "2026-10-30T04:43:17.549021+00:00"
  }
 }

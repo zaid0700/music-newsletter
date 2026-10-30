@@ -1,5 +1,61 @@
 [
   {
+    "id": "3a2b667903282c62",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.5,
+    "title": "ZIRP!",
+    "link": "https://pitchfork.com/reviews/albums/diiv-zirp/",
+    "summary": "The shoegaze band teams with producer A. G. Cook for its most pop-leaning record yet. Despite some welcome shifts in tone, the best moments sound like no one but DIIV.",
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-10-30T04:03:00+00:00",
+    "collected": "2026-10-30T04:42:03.083980+00:00"
+  },
+  {
+    "id": "9a1bd5db098726bb",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.5,
+    "title": "Awesome",
+    "link": "https://pitchfork.com/reviews/albums/heathers-awesome/",
+    "summary": "Upstart guitarist Heath Michael Thomas’ shaggy, groove-heavy garage rock captures the raucous interplay of a much more practiced band.",
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-10-30T04:02:00+00:00",
+    "collected": "2026-10-30T04:42:03.083980+00:00"
+  },
+  {
+    "id": "7fd24c3d919fb0b7",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.5,
+    "title": "Dead Deities",
+    "link": "https://pitchfork.com/reviews/albums/satanic-planet-dead-deities/",
+    "summary": "The metal supergroup led by the co-founder and spokesperson of the Satanic Temple returns with a provocative, maximalist, and pretty solid second album.",
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-10-30T04:01:00+00:00",
+    "collected": "2026-10-30T04:42:03.083980+00:00"
+  },
+  {
+    "id": "41c82a9e28456044",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.5,
+    "title": "valley and structure",
+    "link": "https://pitchfork.com/reviews/albums/more-eaze-valley-and-structure/",
+    "summary": "The experimental musician refines her approach to structured repetition on her second solo album of the year, finding melancholic beauty by subtly transforming Americana-inflected loops and patterns.",
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-10-30T04:00:00+00:00",
+    "collected": "2026-10-30T04:42:03.083980+00:00"
+  },
+  {
     "id": "ce06b017cc568d51",
     "source": "The Needle Drop (website)",
     "source_type": "reviews",
@@ -2722,20 +2778,6 @@
       "Reviews / Albums"
     ],
     "published": "2026-10-01T04:03:00+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "6f5e993d14b5d118",
-    "source": "Pitchfork (Best New Albums)",
-    "source_type": "reviews",
-    "weight": 2.0,
-    "title": "Popstar",
-    "link": "https://pitchfork.com/reviews/albums/tinashe-popstar/",
-    "summary": "Tinashe’s eighth album is her best and bravest yet: more ambitious, more focused, and effortlessly in touch with the zeitgeist. It’s the best pop album of the year.",
-    "categories": [
-      "Reviews / Albums"
-    ],
-    "published": "2026-09-30T04:03:00+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
   }
 ]

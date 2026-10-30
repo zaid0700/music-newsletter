@@ -1,5 +1,112 @@
 [
   {
+    "artist": "Tindersticks",
+    "title": "Dog Roses",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2027-03-12",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Tindersticks Announce New Album Dog Roses: Hear “Loving, Leaving”",
+        "link": "https://stereogum.com/2515804/tindersticks-announce-new-album-dog-roses-hear-loving-leaving/music/",
+        "published": "2026-10-28T15:00:40+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "The Chats",
+    "title": "Half Cut",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2027-03-05",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "The Chats Announce New Album Half Cut: Hear “Off It”",
+        "link": "https://stereogum.com/2515818/the-chats-announce-new-album-half-cut-hear-off-it/music/",
+        "published": "2026-10-28T17:38:41+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Everything But The Girl",
+    "title": "Blue Reservoir",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": "2027-02-19",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "Stereogum",
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Everything But The Girl announces new album 'Blue Reservoir,' share \"Young and Dumb\" music video",
+        "link": "https://theneedledrop.com/news/everything-but-the-girl-announces-new-album-blue-reservoir-share-young-and-dumb-music-video/",
+        "published": "2026-10-28T20:12:54+00:00"
+      },
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Everything But The Girl Announce New Album Blue Reservoir: Hear “Young And Dumb”",
+        "link": "https://stereogum.com/2515793/everything-but-the-girl-announce-new-album-blue-reservoir-hear-young-and-dumb/music/",
+        "published": "2026-10-28T13:39:02+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Junior Boys",
+    "title": "The Gore",
+    "type": "album",
+    "genre": "Electronic / Dance",
+    "release_date": "2027-02-12",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Junior Boys Announce New Album The Gore: Hear “Underneath The Moon”",
+        "link": "https://stereogum.com/2515864/junior-boys-the-gore-underneath-the-moon-album-announce/music/",
+        "published": "2026-10-29T13:54:04+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Philip Frobos",
     "title": "Taste For The Unsavory",
     "type": "album",
@@ -20,6 +127,30 @@
         "headline": "Omni’s Philip Frobos Announces New Solo Album Taste For The Unsavory: Hear “The Handoff” (Feat. Gustaf’s Lydia Gammill)",
         "link": "https://stereogum.com/2515605/omnis-philip-frobos-announces-new-solo-album-taste-for-the-unsavory-hear-the-handoff-feat-gustafs-lydia-gammill/music/",
         "published": "2026-10-26T17:50:55+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Avery Cochrane",
+    "title": "Vengeance Through My Omnipresence",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": "2027-01-29",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Avery Cochrane shares new single “You’re the Only One (I Never Performed For)”",
+        "link": "https://theneedledrop.com/news/avery-cochrane-shares-new-single-youre-the-only-one-i-never-performed-for/",
+        "published": "2026-10-29T13:02:01+00:00"
       }
     ]
   },
@@ -83,6 +214,30 @@
     ]
   },
   {
+    "artist": "Mei Semones",
+    "title": "Howl",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": "2027-01-15",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Mei Semones shares new single “2 Hands” from upcoming album ‘Howl’",
+        "link": "https://theneedledrop.com/news/mei-semones-shares-new-single-2-hands-from-upcoming-album-howl/",
+        "published": "2026-10-29T22:39:43+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Factory Floor",
     "title": "One Trip",
     "type": "album",
@@ -107,6 +262,30 @@
     ]
   },
   {
+    "artist": "Crowquill",
+    "title": "Slept With Cannula",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-20",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Crowquill Announce Debut Album Slept With Cannula: Hear “Cannula”",
+        "link": "https://stereogum.com/2515824/crowquill-announce-debut-album-slept-with-cannula-hear-cannula/music/",
+        "published": "2026-10-28T17:46:49+00:00"
+      }
+    ]
+  },
+  {
     "artist": "DIIV",
     "title": "ZIRP!",
     "type": "album",
@@ -115,9 +294,20 @@
     "date_source": "musicbrainz",
     "scores": [],
     "sources": [
+      "Pitchfork (album reviews)",
       "Stereogum"
     ],
     "mentions": [
+      {
+        "source": "Pitchfork (album reviews)",
+        "source_type": "reviews",
+        "weight": 1.5,
+        "mention": "review",
+        "score": null,
+        "headline": "ZIRP!",
+        "link": "https://pitchfork.com/reviews/albums/diiv-zirp/",
+        "published": "2026-10-30T04:03:00+00:00"
+      },
       {
         "source": "Stereogum",
         "source_type": "news",
@@ -155,18 +345,258 @@
     ]
   },
   {
+    "artist": "Dominic Fike",
+    "title": "How to Quit Smoking",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": "2026-10-30",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Dominic Fike announces features for ‘How to Quit Smoking’",
+        "link": "https://theneedledrop.com/news/dominic-fike-announces-features-for-how-to-quit-smoking/",
+        "published": "2026-10-28T19:33:16+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Mei Semones",
+    "title": "2 Hands",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-10-29",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum",
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Mei Semones shares new single “2 Hands” from upcoming album ‘Howl’",
+        "link": "https://theneedledrop.com/news/mei-semones-shares-new-single-2-hands-from-upcoming-album-howl/",
+        "published": "2026-10-29T22:39:43+00:00"
+      },
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Mei Semones – “2 Hands”",
+        "link": "https://stereogum.com/2515990/mei-semones-2-hands-howl-song-video/music/",
+        "published": "2026-10-29T17:53:34+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Phoebe Bridgers",
+    "title": "Live at Madison Square Garden",
+    "type": "ep",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-29",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Phoebe Bridgers drops 'Live at Madison Square Garden' EP",
+        "link": "https://theneedledrop.com/news/phoebe-bridgers-drops-live-at-madison-square-garden-ep/",
+        "published": "2026-10-29T22:03:08+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Boys Noize",
+    "title": "Nächsteliebe",
+    "type": "single",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-10-29",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Boys Noize – “Nächsteliebe” (Feat. Brutalismus 3000)",
+        "link": "https://stereogum.com/2516002/boys-noize-nachsteliebe-feat-brutalismus-3000/music/",
+        "published": "2026-10-29T17:45:19+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Graham Hill",
+    "title": "Monster In My Head",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-29",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Beach House Drummer Graham Hill Announces Debut Solo Album Taking In Stars: Hear “Monster In My Head”",
+        "link": "https://stereogum.com/2515989/beach-house-drummer-graham-hill-announces-debut-solo-album-taking-in-stars-hear-monster-in-my-head/music/",
+        "published": "2026-10-29T17:33:59+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Waterbaby",
+    "title": "Creek",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-29",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Waterbaby – “Creek”",
+        "link": "https://stereogum.com/2515986/waterbaby-creek/music/",
+        "published": "2026-10-29T17:25:31+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Justice",
+    "title": "Pusher",
+    "type": "single",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-10-29",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Justice – “Pusher” (Feat. Gesaffelstein)",
+        "link": "https://stereogum.com/2515856/justice-gesaffelstein-pusher-grand-theft-auto-vi-soundtrack-score/music/",
+        "published": "2026-10-29T14:09:59+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Junior Boys",
+    "title": "Underneath The Moon",
+    "type": "single",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-10-29",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Junior Boys Announce New Album The Gore: Hear “Underneath The Moon”",
+        "link": "https://stereogum.com/2515864/junior-boys-the-gore-underneath-the-moon-album-announce/music/",
+        "published": "2026-10-29T13:54:04+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Avery Cochrane",
+    "title": "You're the Only One (I Never Performed For)",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-10-29",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Avery Cochrane shares new single “You’re the Only One (I Never Performed For)”",
+        "link": "https://theneedledrop.com/news/avery-cochrane-shares-new-single-youre-the-only-one-i-never-performed-for/",
+        "published": "2026-10-29T13:02:01+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Shabazz Palaces",
     "title": "It's a Style Sport",
     "type": "album",
     "genre": "Hip-hop / R&B",
     "release_date": "2026-10-28",
     "date_source": "feeds",
-    "scores": [],
+    "scores": [
+      7
+    ],
     "sources": [
       "Pitchfork (album reviews)",
-      "The Needle Drop (YouTube)"
+      "The Needle Drop (YouTube)",
+      "The Needle Drop (website)"
     ],
     "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": 7,
+        "headline": "Shabazz Palaces - It's a Style Sport",
+        "link": "https://theneedledrop.com/album-reviews/shabazz-palaces-its-a-style-sport-album-review-hayeg997l3q/",
+        "published": "2026-10-29T11:41:15+00:00"
+      },
       {
         "source": "The Needle Drop (YouTube)",
         "source_type": "video",
@@ -186,6 +616,329 @@
         "headline": "It’s a Style Sport",
         "link": "https://pitchfork.com/reviews/albums/shabazz-palaces-its-a-style-sport/",
         "published": "2026-10-23T04:01:00+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Everything But The Girl",
+    "title": "Young and Dumb",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-10-28",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum",
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Everything But The Girl announces new album 'Blue Reservoir,' share \"Young and Dumb\" music video",
+        "link": "https://theneedledrop.com/news/everything-but-the-girl-announces-new-album-blue-reservoir-share-young-and-dumb-music-video/",
+        "published": "2026-10-28T20:12:54+00:00"
+      },
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Everything But The Girl Announce New Album Blue Reservoir: Hear “Young And Dumb”",
+        "link": "https://stereogum.com/2515793/everything-but-the-girl-announce-new-album-blue-reservoir-hear-young-and-dumb/music/",
+        "published": "2026-10-28T13:39:02+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "DIIV",
+    "title": "Dare Me",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-28",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "DIIV – “Dare Me”",
+        "link": "https://stereogum.com/2515877/diiv-dare-me-zirp-song/music/",
+        "published": "2026-10-28T21:58:35+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Queens Of The Stone Age",
+    "title": "Run Away From The Mob",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-28",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Queens Of The Stone Age – “Run Away From The Mob”",
+        "link": "https://stereogum.com/2515884/queens-of-the-stone-age-run-away-from-the-mob-perfecth-song/music/",
+        "published": "2026-10-28T21:56:18+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Boldy James & Real Bad Man",
+    "title": "Strobelight",
+    "type": "album",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-28",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Boldy James & Real Bad Man Release New Album Strobelight",
+        "link": "https://stereogum.com/2515832/boldy-james-real-bad-man-release-new-album-strobelight/music/",
+        "published": "2026-10-28T18:04:00+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Crowquill",
+    "title": "Cannula",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-28",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Crowquill Announce Debut Album Slept With Cannula: Hear “Cannula”",
+        "link": "https://stereogum.com/2515824/crowquill-announce-debut-album-slept-with-cannula-hear-cannula/music/",
+        "published": "2026-10-28T17:46:49+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "The Chats",
+    "title": "Off It",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-28",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "The Chats Announce New Album Half Cut: Hear “Off It”",
+        "link": "https://stereogum.com/2515818/the-chats-announce-new-album-half-cut-hear-off-it/music/",
+        "published": "2026-10-28T17:38:41+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Barrie",
+    "title": "Gloria",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-28",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Barrie – “Gloria”",
+        "link": "https://stereogum.com/2515819/barrie-gloria/music/",
+        "published": "2026-10-28T17:27:27+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "This Is The Kit",
+    "title": "Safety Valve",
+    "type": "single",
+    "genre": "Other",
+    "release_date": "2026-10-28",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "This Is The Kit – “Safety Valve” (Feat. Richard Dawson)",
+        "link": "https://stereogum.com/2515815/this-is-the-kit-safety-valve-feat-richard-dawson/music/",
+        "published": "2026-10-28T16:50:51+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Robert Del Naja",
+    "title": "Life Support",
+    "type": "album",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-10-28",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Massive Attack’s Robert Del Naja Shares New Life Support Soundtrack",
+        "link": "https://stereogum.com/2515810/massive-attacks-robert-del-naja-shares-new-life-support-soundtrack/music/",
+        "published": "2026-10-28T16:16:17+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Tindersticks",
+    "title": "Loving, Leaving",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-28",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Tindersticks Announce New Album Dog Roses: Hear “Loving, Leaving”",
+        "link": "https://stereogum.com/2515804/tindersticks-announce-new-album-dog-roses-hear-loving-leaving/music/",
+        "published": "2026-10-28T15:00:40+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "nowhere else to be",
+    "title": "r1 (ripples)",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-28",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "nowhere else to be Announce Self-Titled Debut Album: Hear “r1 (ripples)”",
+        "link": "https://stereogum.com/2515773/nowhere-else-to-be-announce-self-titled-debut-album-r1-ripples/music/",
+        "published": "2026-10-28T14:53:40+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Kevin Morby & Lonnie Holley",
+    "title": "Nursery Rhyme",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-28",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Kevin Morby – “Nursery Rhyme” (Feat. Lonnie Holley)",
+        "link": "https://stereogum.com/2515801/kevin-morby-nursery-rhyme-feat-lonnie-holley/music/",
+        "published": "2026-10-28T14:26:15+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Pivot Gang",
+    "title": "Location",
+    "type": "single",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-28",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Pivot Gang – “Location”",
+        "link": "https://stereogum.com/2515798/pivot-gang-location/music/",
+        "published": "2026-10-28T14:05:20+00:00"
       }
     ]
   },
@@ -583,6 +1336,30 @@
     ]
   },
   {
+    "artist": "Anderson .Paak & Cordae",
+    "title": "Heavy Is the Crown",
+    "type": "album",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-23",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "Pitchfork (album reviews)"
+    ],
+    "mentions": [
+      {
+        "source": "Pitchfork (album reviews)",
+        "source_type": "reviews",
+        "weight": 1.5,
+        "mention": "review",
+        "score": null,
+        "headline": "Heavy Is the Crown",
+        "link": "https://pitchfork.com/reviews/albums/anderson-paak-cordae-heavy-is-the-crown/",
+        "published": "2026-10-29T04:01:00+00:00"
+      }
+    ]
+  },
+  {
     "artist": "LustSickPuppy",
     "title": "SHAKER",
     "type": "single",
@@ -893,30 +1670,6 @@
     ]
   },
   {
-    "artist": "Remi Wolf",
-    "title": "Mud",
-    "type": "album",
-    "genre": "Pop",
-    "release_date": "2026-10-09",
-    "date_source": "musicbrainz",
-    "scores": [],
-    "sources": [
-      "The Needle Drop (YouTube)"
-    ],
-    "mentions": [
-      {
-        "source": "The Needle Drop (YouTube)",
-        "source_type": "video",
-        "weight": 1.5,
-        "mention": "review",
-        "score": null,
-        "headline": "Remi Wolf - Mud ALBUM REVIEW",
-        "link": "https://www.youtube.com/watch?v=k3G3YpdV1gw",
-        "published": "2026-10-15T04:05:57+00:00"
-      }
-    ]
-  },
-  {
     "artist": "Emily Moales",
     "title": "Born Again",
     "type": "single",
@@ -1009,30 +1762,6 @@
         "headline": "BLUNTS & BLADES",
         "link": "https://pitchfork.com/reviews/albums/zukenee-blunts-and-blades/",
         "published": "2026-10-21T04:00:00+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Alabama Shakes",
-    "title": "I Must Be Dreaming",
-    "type": "album",
-    "genre": "Rock / Alternative / Indie",
-    "release_date": "2026-08-28",
-    "date_source": "musicbrainz",
-    "scores": [],
-    "sources": [
-      "The Needle Drop (YouTube)"
-    ],
-    "mentions": [
-      {
-        "source": "The Needle Drop (YouTube)",
-        "source_type": "video",
-        "weight": 1.5,
-        "mention": "review",
-        "score": null,
-        "headline": "Alabama Shakes - I Must Be Dreaming ALBUM REVIEW",
-        "link": "https://www.youtube.com/watch?v=Ypyau5YSZgU",
-        "published": "2026-10-16T03:47:18+00:00"
       }
     ]
   },
@@ -1384,26 +2113,218 @@
     ]
   },
   {
-    "artist": "Tinashe",
-    "title": "Popstar",
+    "artist": "Alabama Shakes",
+    "title": "I Must Be Dreaming",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "The Needle Drop (YouTube)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (YouTube)",
+        "source_type": "video",
+        "weight": 1.5,
+        "mention": "review",
+        "score": null,
+        "headline": "Alabama Shakes - I Must Be Dreaming ALBUM REVIEW",
+        "link": "https://www.youtube.com/watch?v=Ypyau5YSZgU",
+        "published": "2026-10-16T03:47:18+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Remi Wolf",
+    "title": "Mud",
     "type": "album",
     "genre": "Pop",
     "release_date": null,
     "date_source": "feeds",
     "scores": [],
     "sources": [
-      "Pitchfork (Best New Albums)"
+      "The Needle Drop (YouTube)"
     ],
     "mentions": [
       {
-        "source": "Pitchfork (Best New Albums)",
-        "source_type": "reviews",
-        "weight": 2.0,
+        "source": "The Needle Drop (YouTube)",
+        "source_type": "video",
+        "weight": 1.5,
         "mention": "review",
         "score": null,
-        "headline": "Popstar",
-        "link": "https://pitchfork.com/reviews/albums/tinashe-popstar/",
-        "published": "2026-09-30T04:03:00+00:00"
+        "headline": "Remi Wolf - Mud ALBUM REVIEW",
+        "link": "https://www.youtube.com/watch?v=k3G3YpdV1gw",
+        "published": "2026-10-15T04:05:57+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Heath Michael Thomas",
+    "title": "Awesome",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Pitchfork (album reviews)"
+    ],
+    "mentions": [
+      {
+        "source": "Pitchfork (album reviews)",
+        "source_type": "reviews",
+        "weight": 1.5,
+        "mention": "review",
+        "score": null,
+        "headline": "Awesome",
+        "link": "https://pitchfork.com/reviews/albums/heathers-awesome/",
+        "published": "2026-10-30T04:02:00+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Dead Deities",
+    "title": "Dead Deities",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Pitchfork (album reviews)"
+    ],
+    "mentions": [
+      {
+        "source": "Pitchfork (album reviews)",
+        "source_type": "reviews",
+        "weight": 1.5,
+        "mention": "review",
+        "score": null,
+        "headline": "Dead Deities",
+        "link": "https://pitchfork.com/reviews/albums/satanic-planet-dead-deities/",
+        "published": "2026-10-30T04:01:00+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Graham Hill",
+    "title": "Taking In Stars",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Beach House Drummer Graham Hill Announces Debut Solo Album Taking In Stars: Hear “Monster In My Head”",
+        "link": "https://stereogum.com/2515989/beach-house-drummer-graham-hill-announces-debut-solo-album-taking-in-stars-hear-monster-in-my-head/music/",
+        "published": "2026-10-29T17:33:59+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Flower Face",
+    "title": "Kill The Muse",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Flower Face Announces New Album Kill The Muse, Stereogum Presents Show In Brooklyn Next Week",
+        "link": "https://stereogum.com/2515849/flower-face-announces-new-album-kill-the-muse-stereogum-presents-show-in-brooklyn-next-week/music/",
+        "published": "2026-10-29T14:15:24+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Guided By Voices",
+    "title": "Speculation And Gossip",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Guided By Voices Announce 45th Album Speculation And Gossip",
+        "link": "https://stereogum.com/2515829/guided-by-voices-announce-45th-album-speculation-and-gossip/music/",
+        "published": "2026-10-28T18:07:11+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Ethel Cain",
+    "title": "Wynter Waxeth",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Ethel Cain collaborated with Robert Eggers for Werwulf Soundtrack",
+        "link": "https://theneedledrop.com/news/ethel-cain-collaborated-with-robert-eggers-for-werwulf-soundtrack/",
+        "published": "2026-10-28T16:45:11+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "nowhere else to be",
+    "title": "nowhere else to be",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "nowhere else to be Announce Self-Titled Debut Album: Hear “r1 (ripples)”",
+        "link": "https://stereogum.com/2515773/nowhere-else-to-be-announce-self-titled-debut-album-r1-ripples/music/",
+        "published": "2026-10-28T14:53:40+00:00"
       }
     ]
   }

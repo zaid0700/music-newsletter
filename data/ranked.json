@@ -1,7 +1,7 @@
 {
   "week_start": "2026-10-24",
   "week_end": "2026-10-30",
-  "generated": "2026-10-28T13:04:51.458750+00:00",
+  "generated": "2026-10-30T04:43:27.060242+00:00",
   "top": [
     {
       "artist": "Shabazz Palaces",
@@ -10,12 +10,25 @@
       "genre": "Hip-hop / R&B",
       "release_date": "2026-10-28",
       "date_source": "feeds",
-      "scores": [],
+      "scores": [
+        7
+      ],
       "sources": [
         "Pitchfork (album reviews)",
-        "The Needle Drop (YouTube)"
+        "The Needle Drop (YouTube)",
+        "The Needle Drop (website)"
       ],
       "mentions": [
+        {
+          "source": "The Needle Drop (website)",
+          "source_type": "reviews",
+          "weight": 1.0,
+          "mention": "review",
+          "score": 7,
+          "headline": "Shabazz Palaces - It's a Style Sport",
+          "link": "https://theneedledrop.com/album-reviews/shabazz-palaces-its-a-style-sport-album-review-hayeg997l3q/",
+          "published": "2026-10-29T11:41:15+00:00"
+        },
         {
           "source": "The Needle Drop (YouTube)",
           "source_type": "video",
@@ -41,9 +54,116 @@
       "star_power": 0.553,
       "personal": 0.556,
       "personal_reason": "Similar to Armand Hammer, Billy Woods",
-      "buzz_points": 9.0,
+      "buzz_points": 13.0,
       "critical_buzz": 1.0,
       "rank_score": 0.71,
+      "avg_score": 7.0
+    },
+    {
+      "artist": "DIIV",
+      "title": "ZIRP!",
+      "type": "album",
+      "genre": "Rock / Alternative / Indie",
+      "release_date": "2026-10-30",
+      "date_source": "musicbrainz",
+      "scores": [],
+      "sources": [
+        "Pitchfork (album reviews)",
+        "Stereogum"
+      ],
+      "mentions": [
+        {
+          "source": "Pitchfork (album reviews)",
+          "source_type": "reviews",
+          "weight": 1.5,
+          "mention": "review",
+          "score": null,
+          "headline": "ZIRP!",
+          "link": "https://pitchfork.com/reviews/albums/diiv-zirp/",
+          "published": "2026-10-30T04:03:00+00:00"
+        },
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "review",
+          "score": null,
+          "headline": "Album Of The Week: DIIV ZIRP!",
+          "link": "https://stereogum.com/2515261/album-of-the-week-diiv-zirp/reviews/album-of-the-week/",
+          "published": "2026-10-27T20:25:11+00:00"
+        }
+      ],
+      "fans": 38258,
+      "star_power": 0.655,
+      "personal": 0.243,
+      "personal_reason": "Similar to The Radio Dept., Slowdive",
+      "buzz_points": 7.5,
+      "critical_buzz": 0.577,
+      "rank_score": 0.504,
+      "avg_score": null
+    },
+    {
+      "artist": "Boldy James & Real Bad Man",
+      "title": "Strobelight",
+      "type": "album",
+      "genre": "Hip-hop / R&B",
+      "release_date": "2026-10-28",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Stereogum"
+      ],
+      "mentions": [
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "release_news",
+          "score": null,
+          "headline": "Boldy James & Real Bad Man Release New Album Strobelight",
+          "link": "https://stereogum.com/2515832/boldy-james-real-bad-man-release-new-album-strobelight/music/",
+          "published": "2026-10-28T18:04:00+00:00"
+        }
+      ],
+      "fans": 15003,
+      "star_power": 0.597,
+      "personal": 0.707,
+      "personal_reason": "In your Last.fm top artists",
+      "buzz_points": 1.0,
+      "critical_buzz": 0.077,
+      "rank_score": 0.448,
+      "avg_score": null
+    },
+    {
+      "artist": "evilgiane & Slimesito",
+      "title": "EVILSLIME 2",
+      "type": "album",
+      "genre": "Hip-hop / R&B",
+      "release_date": "2026-10-30",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Stereogum"
+      ],
+      "mentions": [
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "announcement",
+          "score": null,
+          "headline": "evilgiane & Slimesito Announce New Album EVILSLIME 2 Out Friday: Hear “Georgia State”",
+          "link": "https://stereogum.com/2515652/evilgiane-slimesito-announce-new-album-evilslime-2-out-friday-hear-georgia-state/news/",
+          "published": "2026-10-26T20:37:32+00:00"
+        }
+      ],
+      "fans": 479,
+      "star_power": 0.383,
+      "personal": 0.945,
+      "personal_reason": "In your Last.fm top artists",
+      "buzz_points": 1.0,
+      "critical_buzz": 0.077,
+      "rank_score": 0.444,
       "avg_score": null
     },
     {
@@ -74,16 +194,48 @@
       "personal": 0.274,
       "personal_reason": "Similar to Oneohtrix Point Never, Andy Stott",
       "buzz_points": 4.5,
-      "critical_buzz": 0.5,
-      "rank_score": 0.475,
+      "critical_buzz": 0.346,
+      "rank_score": 0.421,
       "avg_score": null
     },
     {
-      "artist": "evilgiane & Slimesito",
-      "title": "EVILSLIME 2",
-      "type": "album",
-      "genre": "Hip-hop / R&B",
-      "release_date": "2026-10-30",
+      "artist": "Phoebe Bridgers",
+      "title": "Live at Madison Square Garden",
+      "type": "ep",
+      "genre": "Rock / Alternative / Indie",
+      "release_date": "2026-10-29",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "The Needle Drop (website)"
+      ],
+      "mentions": [
+        {
+          "source": "The Needle Drop (website)",
+          "source_type": "reviews",
+          "weight": 1.0,
+          "mention": "release_news",
+          "score": null,
+          "headline": "Phoebe Bridgers drops 'Live at Madison Square Garden' EP",
+          "link": "https://theneedledrop.com/news/phoebe-bridgers-drops-live-at-madison-square-garden-ep/",
+          "published": "2026-10-29T22:03:08+00:00"
+        }
+      ],
+      "fans": 209777,
+      "star_power": 0.76,
+      "personal": 0.734,
+      "personal_reason": "In your Last.fm top artists",
+      "buzz_points": 1.0,
+      "critical_buzz": 0.077,
+      "rank_score": 0.411,
+      "avg_score": null
+    },
+    {
+      "artist": "Justice",
+      "title": "Pusher",
+      "type": "single",
+      "genre": "Electronic / Dance",
+      "release_date": "2026-10-29",
       "date_source": "feeds",
       "scores": [],
       "sources": [
@@ -94,20 +246,20 @@
           "source": "Stereogum",
           "source_type": "news",
           "weight": 1.0,
-          "mention": "announcement",
+          "mention": "new_song",
           "score": null,
-          "headline": "evilgiane & Slimesito Announce New Album EVILSLIME 2 Out Friday: Hear “Georgia State”",
-          "link": "https://stereogum.com/2515652/evilgiane-slimesito-announce-new-album-evilslime-2-out-friday-hear-georgia-state/news/",
-          "published": "2026-10-26T20:37:32+00:00"
+          "headline": "Justice – “Pusher” (Feat. Gesaffelstein)",
+          "link": "https://stereogum.com/2515856/justice-gesaffelstein-pusher-grand-theft-auto-vi-soundtrack-score/music/",
+          "published": "2026-10-29T14:09:59+00:00"
         }
       ],
-      "fans": 479,
-      "star_power": 0.383,
-      "personal": 0.946,
+      "fans": 813168,
+      "star_power": 0.844,
+      "personal": 0.835,
       "personal_reason": "In your Last.fm top artists",
       "buzz_points": 1.0,
-      "critical_buzz": 0.111,
-      "rank_score": 0.457,
+      "critical_buzz": 0.077,
+      "rank_score": 0.401,
       "avg_score": null
     },
     {
@@ -138,84 +290,62 @@
       "personal": 0.0,
       "personal_reason": "",
       "buzz_points": 4.5,
-      "critical_buzz": 0.5,
-      "rank_score": 0.42,
+      "critical_buzz": 0.346,
+      "rank_score": 0.366,
       "avg_score": null
     },
     {
-      "artist": "DIIV",
-      "title": "ZIRP!",
+      "artist": "Everything But The Girl",
+      "title": "Young and Dumb",
+      "type": "single",
+      "genre": "Pop",
+      "release_date": "2026-10-28",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Stereogum",
+        "The Needle Drop (website)"
+      ],
+      "mentions": [
+        {
+          "source": "The Needle Drop (website)",
+          "source_type": "reviews",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Everything But The Girl announces new album 'Blue Reservoir,' share \"Young and Dumb\" music video",
+          "link": "https://theneedledrop.com/news/everything-but-the-girl-announces-new-album-blue-reservoir-share-young-and-dumb-music-video/",
+          "published": "2026-10-28T20:12:54+00:00"
+        },
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "announcement",
+          "score": null,
+          "headline": "Everything But The Girl Announce New Album Blue Reservoir: Hear “Young And Dumb”",
+          "link": "https://stereogum.com/2515793/everything-but-the-girl-announce-new-album-blue-reservoir-hear-young-and-dumb/music/",
+          "published": "2026-10-28T13:39:02+00:00"
+        }
+      ],
+      "fans": 76069,
+      "star_power": 0.697,
+      "personal": 0.659,
+      "personal_reason": "In your Last.fm top artists",
+      "buzz_points": 2.0,
+      "critical_buzz": 0.154,
+      "rank_score": 0.347,
+      "avg_score": null
+    },
+    {
+      "artist": "Dominic Fike",
+      "title": "How to Quit Smoking",
       "type": "album",
-      "genre": "Rock / Alternative / Indie",
+      "genre": "Pop",
       "release_date": "2026-10-30",
       "date_source": "musicbrainz",
       "scores": [],
       "sources": [
-        "Stereogum"
-      ],
-      "mentions": [
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "review",
-          "score": null,
-          "headline": "Album Of The Week: DIIV ZIRP!",
-          "link": "https://stereogum.com/2515261/album-of-the-week-diiv-zirp/reviews/album-of-the-week/",
-          "published": "2026-10-27T20:25:11+00:00"
-        }
-      ],
-      "fans": 38258,
-      "star_power": 0.655,
-      "personal": 0.243,
-      "personal_reason": "Similar to The Radio Dept., Slowdive",
-      "buzz_points": 3.0,
-      "critical_buzz": 0.333,
-      "rank_score": 0.419,
-      "avg_score": null
-    },
-    {
-      "artist": "evilgiane & Slimesito",
-      "title": "Georgia State",
-      "type": "single",
-      "genre": "Hip-hop / R&B",
-      "release_date": "2026-10-26",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Stereogum"
-      ],
-      "mentions": [
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "announcement",
-          "score": null,
-          "headline": "evilgiane & Slimesito Announce New Album EVILSLIME 2 Out Friday: Hear “Georgia State”",
-          "link": "https://stereogum.com/2515652/evilgiane-slimesito-announce-new-album-evilslime-2-out-friday-hear-georgia-state/news/",
-          "published": "2026-10-26T20:37:32+00:00"
-        }
-      ],
-      "fans": 479,
-      "star_power": 0.383,
-      "personal": 0.946,
-      "personal_reason": "In your Last.fm top artists",
-      "buzz_points": 1.0,
-      "critical_buzz": 0.111,
-      "rank_score": 0.32,
-      "avg_score": null
-    },
-    {
-      "artist": "The Flaming Lips",
-      "title": "God Will Control the Werewolves",
-      "type": "single",
-      "genre": "Rock / Alternative / Indie",
-      "release_date": "2026-10-26",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Stereogum",
         "The Needle Drop (website)"
       ],
       "mentions": [
@@ -225,140 +355,98 @@
           "weight": 1.0,
           "mention": "announcement",
           "score": null,
-          "headline": "The Flaming Lips announce new album ‘The Teardrop Throbs,’ share new single “God Will Control the Werewolves”",
-          "link": "https://theneedledrop.com/news/the-flaming-lips-announce-new-album-the-teardrop-throbs-share-new-single-god-will-control-the-werewolves/",
-          "published": "2026-10-26T23:01:12+00:00"
-        },
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "announcement",
-          "score": null,
-          "headline": "The Flaming Lips Announce First Post-Steven Drozd Album The Teardrop Throbs: Hear “God Will Control The Werewolves”",
-          "link": "https://stereogum.com/2515626/the-flaming-lips-announce-first-post-steven-drozd-album-the-teardrop-throbs-hear-god-will-control-the-werewolves/music/",
-          "published": "2026-10-26T19:04:46+00:00"
+          "headline": "Dominic Fike announces features for ‘How to Quit Smoking’",
+          "link": "https://theneedledrop.com/news/dominic-fike-announces-features-for-how-to-quit-smoking/",
+          "published": "2026-10-28T19:33:16+00:00"
         }
       ],
-      "fans": 66924,
-      "star_power": 0.689,
-      "personal": 0.336,
-      "personal_reason": "Similar to LCD Soundsystem, Pixies",
-      "buzz_points": 2.0,
-      "critical_buzz": 0.222,
-      "rank_score": 0.294,
-      "avg_score": null
-    },
-    {
-      "artist": "Dead Man's Bones",
-      "title": "Lost In The Night",
-      "type": "single",
-      "genre": "Rock / Alternative / Indie",
-      "release_date": "2026-10-27",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Stereogum",
-        "The Needle Drop (website)"
-      ],
-      "mentions": [
-        {
-          "source": "The Needle Drop (website)",
-          "source_type": "reviews",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "Dead Man’s Bones share first new song in 17 Years, “Lost In The Night”",
-          "link": "https://theneedledrop.com/news/dead-mans-bones-share-first-new-song-in-17-years-lost-in-the-night/",
-          "published": "2026-10-27T14:52:18+00:00"
-        },
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "Dead Man’s Bones Share “Lost In The Night,” First New Music In 17 Years",
-          "link": "https://stereogum.com/2515664/dead-mans-bones-share-lost-in-the-night-first-new-music-in-17-years/music/",
-          "published": "2026-10-27T13:05:20+00:00"
-        }
-      ],
-      "fans": 21353,
-      "star_power": 0.618,
-      "personal": 0.288,
-      "personal_reason": "Similar to Sufjan Stevens",
-      "buzz_points": 2.0,
-      "critical_buzz": 0.222,
-      "rank_score": 0.266,
-      "avg_score": null
-    },
-    {
-      "artist": "Chvrches",
-      "title": "Overthinker",
-      "type": "single",
-      "genre": "Pop",
-      "release_date": "2026-10-27",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Stereogum"
-      ],
-      "mentions": [
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "Chvrches – “Overthinker”",
-          "link": "https://stereogum.com/2515747/chvrches-overthinker/music/",
-          "published": "2026-10-27T19:11:24+00:00"
-        }
-      ],
-      "fans": 184668,
-      "star_power": 0.752,
-      "personal": 0.095,
-      "personal_reason": "Similar to Grimes, Magdalena Bay",
+      "fans": 83539,
+      "star_power": 0.703,
+      "personal": 0.206,
+      "personal_reason": "Similar to Bella Kay, Teezo Touchdown",
       "buzz_points": 1.0,
-      "critical_buzz": 0.111,
-      "rank_score": 0.231,
-      "avg_score": null
-    },
-    {
-      "artist": "Peter Gabriel",
-      "title": "Who Are We Talking To?",
-      "type": "single",
-      "genre": "Pop",
-      "release_date": "2026-10-26",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Stereogum"
-      ],
-      "mentions": [
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "Peter Gabriel – “Who Are We Talking To?”",
-          "link": "https://stereogum.com/2515593/peter-gabriel-who-are-we-talking-to/music/",
-          "published": "2026-10-26T16:46:09+00:00"
-        }
-      ],
-      "fans": 520909,
-      "star_power": 0.817,
-      "personal": 0.0,
-      "personal_reason": "",
-      "buzz_points": 1.0,
-      "critical_buzz": 0.111,
-      "rank_score": 0.227,
+      "critical_buzz": 0.077,
+      "rank_score": 0.335,
       "avg_score": null
     }
   ],
   "by_genre": {
     "Pop": [
+      {
+        "artist": "Everything But The Girl",
+        "title": "Young and Dumb",
+        "type": "single",
+        "genre": "Pop",
+        "release_date": "2026-10-28",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Stereogum",
+          "The Needle Drop (website)"
+        ],
+        "mentions": [
+          {
+            "source": "The Needle Drop (website)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Everything But The Girl announces new album 'Blue Reservoir,' share \"Young and Dumb\" music video",
+            "link": "https://theneedledrop.com/news/everything-but-the-girl-announces-new-album-blue-reservoir-share-young-and-dumb-music-video/",
+            "published": "2026-10-28T20:12:54+00:00"
+          },
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "announcement",
+            "score": null,
+            "headline": "Everything But The Girl Announce New Album Blue Reservoir: Hear “Young And Dumb”",
+            "link": "https://stereogum.com/2515793/everything-but-the-girl-announce-new-album-blue-reservoir-hear-young-and-dumb/music/",
+            "published": "2026-10-28T13:39:02+00:00"
+          }
+        ],
+        "fans": 76069,
+        "star_power": 0.697,
+        "personal": 0.659,
+        "personal_reason": "In your Last.fm top artists",
+        "buzz_points": 2.0,
+        "critical_buzz": 0.154,
+        "rank_score": 0.347,
+        "avg_score": null
+      },
+      {
+        "artist": "Dominic Fike",
+        "title": "How to Quit Smoking",
+        "type": "album",
+        "genre": "Pop",
+        "release_date": "2026-10-30",
+        "date_source": "musicbrainz",
+        "scores": [],
+        "sources": [
+          "The Needle Drop (website)"
+        ],
+        "mentions": [
+          {
+            "source": "The Needle Drop (website)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "announcement",
+            "score": null,
+            "headline": "Dominic Fike announces features for ‘How to Quit Smoking’",
+            "link": "https://theneedledrop.com/news/dominic-fike-announces-features-for-how-to-quit-smoking/",
+            "published": "2026-10-28T19:33:16+00:00"
+          }
+        ],
+        "fans": 83539,
+        "star_power": 0.703,
+        "personal": 0.206,
+        "personal_reason": "Similar to Bella Kay, Teezo Touchdown",
+        "buzz_points": 1.0,
+        "critical_buzz": 0.077,
+        "rank_score": 0.335,
+        "avg_score": null
+      },
       {
         "artist": "Chvrches",
         "title": "Overthinker",
@@ -387,8 +475,8 @@
         "personal": 0.095,
         "personal_reason": "Similar to Grimes, Magdalena Bay",
         "buzz_points": 1.0,
-        "critical_buzz": 0.111,
-        "rank_score": 0.231,
+        "critical_buzz": 0.077,
+        "rank_score": 0.223,
         "avg_score": null
       },
       {
@@ -419,8 +507,83 @@
         "personal": 0.0,
         "personal_reason": "",
         "buzz_points": 1.0,
-        "critical_buzz": 0.111,
-        "rank_score": 0.227,
+        "critical_buzz": 0.077,
+        "rank_score": 0.219,
+        "avg_score": null
+      },
+      {
+        "artist": "Mei Semones",
+        "title": "2 Hands",
+        "type": "single",
+        "genre": "Pop",
+        "release_date": "2026-10-29",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Stereogum",
+          "The Needle Drop (website)"
+        ],
+        "mentions": [
+          {
+            "source": "The Needle Drop (website)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Mei Semones shares new single “2 Hands” from upcoming album ‘Howl’",
+            "link": "https://theneedledrop.com/news/mei-semones-shares-new-single-2-hands-from-upcoming-album-howl/",
+            "published": "2026-10-29T22:39:43+00:00"
+          },
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Mei Semones – “2 Hands”",
+            "link": "https://stereogum.com/2515990/mei-semones-2-hands-howl-song-video/music/",
+            "published": "2026-10-29T17:53:34+00:00"
+          }
+        ],
+        "fans": 3451,
+        "star_power": 0.505,
+        "personal": 0.092,
+        "personal_reason": "Similar to Japanese Breakfast, Indigo De Souza",
+        "buzz_points": 2.0,
+        "critical_buzz": 0.154,
+        "rank_score": 0.181,
+        "avg_score": null
+      },
+      {
+        "artist": "Avery Cochrane",
+        "title": "You're the Only One (I Never Performed For)",
+        "type": "single",
+        "genre": "Pop",
+        "release_date": "2026-10-29",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "The Needle Drop (website)"
+        ],
+        "mentions": [
+          {
+            "source": "The Needle Drop (website)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Avery Cochrane shares new single “You’re the Only One (I Never Performed For)”",
+            "link": "https://theneedledrop.com/news/avery-cochrane-shares-new-single-youre-the-only-one-i-never-performed-for/",
+            "published": "2026-10-29T13:02:01+00:00"
+          }
+        ],
+        "fans": 229,
+        "star_power": 0.337,
+        "personal": 0.0,
+        "personal_reason": "",
+        "buzz_points": 1.0,
+        "critical_buzz": 0.077,
+        "rank_score": 0.101,
         "avg_score": null
       }
     ],
@@ -432,12 +595,25 @@
         "genre": "Hip-hop / R&B",
         "release_date": "2026-10-28",
         "date_source": "feeds",
-        "scores": [],
+        "scores": [
+          7
+        ],
         "sources": [
           "Pitchfork (album reviews)",
-          "The Needle Drop (YouTube)"
+          "The Needle Drop (YouTube)",
+          "The Needle Drop (website)"
         ],
         "mentions": [
+          {
+            "source": "The Needle Drop (website)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "review",
+            "score": 7,
+            "headline": "Shabazz Palaces - It's a Style Sport",
+            "link": "https://theneedledrop.com/album-reviews/shabazz-palaces-its-a-style-sport-album-review-hayeg997l3q/",
+            "published": "2026-10-29T11:41:15+00:00"
+          },
           {
             "source": "The Needle Drop (YouTube)",
             "source_type": "video",
@@ -463,9 +639,41 @@
         "star_power": 0.553,
         "personal": 0.556,
         "personal_reason": "Similar to Armand Hammer, Billy Woods",
-        "buzz_points": 9.0,
+        "buzz_points": 13.0,
         "critical_buzz": 1.0,
         "rank_score": 0.71,
+        "avg_score": 7.0
+      },
+      {
+        "artist": "Boldy James & Real Bad Man",
+        "title": "Strobelight",
+        "type": "album",
+        "genre": "Hip-hop / R&B",
+        "release_date": "2026-10-28",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Stereogum"
+        ],
+        "mentions": [
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "release_news",
+            "score": null,
+            "headline": "Boldy James & Real Bad Man Release New Album Strobelight",
+            "link": "https://stereogum.com/2515832/boldy-james-real-bad-man-release-new-album-strobelight/music/",
+            "published": "2026-10-28T18:04:00+00:00"
+          }
+        ],
+        "fans": 15003,
+        "star_power": 0.597,
+        "personal": 0.707,
+        "personal_reason": "In your Last.fm top artists",
+        "buzz_points": 1.0,
+        "critical_buzz": 0.077,
+        "rank_score": 0.448,
         "avg_score": null
       },
       {
@@ -493,11 +701,11 @@
         ],
         "fans": 479,
         "star_power": 0.383,
-        "personal": 0.946,
+        "personal": 0.945,
         "personal_reason": "In your Last.fm top artists",
         "buzz_points": 1.0,
-        "critical_buzz": 0.111,
-        "rank_score": 0.457,
+        "critical_buzz": 0.077,
+        "rank_score": 0.444,
         "avg_score": null
       },
       {
@@ -525,11 +733,43 @@
         ],
         "fans": 479,
         "star_power": 0.383,
-        "personal": 0.946,
+        "personal": 0.945,
         "personal_reason": "In your Last.fm top artists",
         "buzz_points": 1.0,
-        "critical_buzz": 0.111,
-        "rank_score": 0.32,
+        "critical_buzz": 0.077,
+        "rank_score": 0.311,
+        "avg_score": null
+      },
+      {
+        "artist": "Pivot Gang",
+        "title": "Location",
+        "type": "single",
+        "genre": "Hip-hop / R&B",
+        "release_date": "2026-10-28",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Stereogum"
+        ],
+        "mentions": [
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Pivot Gang – “Location”",
+            "link": "https://stereogum.com/2515798/pivot-gang-location/music/",
+            "published": "2026-10-28T14:05:20+00:00"
+          }
+        ],
+        "fans": 1216,
+        "star_power": 0.441,
+        "personal": 0.298,
+        "personal_reason": "Similar to Noname, Aminé",
+        "buzz_points": 1.0,
+        "critical_buzz": 0.077,
+        "rank_score": 0.189,
         "avg_score": null
       },
       {
@@ -557,15 +797,90 @@
         ],
         "fans": 0,
         "star_power": 0.0,
-        "personal": 0.596,
+        "personal": 0.597,
         "personal_reason": "Similar to ear, Sophia Stel",
         "buzz_points": 1.0,
-        "critical_buzz": 0.111,
-        "rank_score": 0.152,
+        "critical_buzz": 0.077,
+        "rank_score": 0.144,
         "avg_score": null
       }
     ],
     "Rock / Alternative / Indie": [
+      {
+        "artist": "DIIV",
+        "title": "ZIRP!",
+        "type": "album",
+        "genre": "Rock / Alternative / Indie",
+        "release_date": "2026-10-30",
+        "date_source": "musicbrainz",
+        "scores": [],
+        "sources": [
+          "Pitchfork (album reviews)",
+          "Stereogum"
+        ],
+        "mentions": [
+          {
+            "source": "Pitchfork (album reviews)",
+            "source_type": "reviews",
+            "weight": 1.5,
+            "mention": "review",
+            "score": null,
+            "headline": "ZIRP!",
+            "link": "https://pitchfork.com/reviews/albums/diiv-zirp/",
+            "published": "2026-10-30T04:03:00+00:00"
+          },
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "review",
+            "score": null,
+            "headline": "Album Of The Week: DIIV ZIRP!",
+            "link": "https://stereogum.com/2515261/album-of-the-week-diiv-zirp/reviews/album-of-the-week/",
+            "published": "2026-10-27T20:25:11+00:00"
+          }
+        ],
+        "fans": 38258,
+        "star_power": 0.655,
+        "personal": 0.243,
+        "personal_reason": "Similar to The Radio Dept., Slowdive",
+        "buzz_points": 7.5,
+        "critical_buzz": 0.577,
+        "rank_score": 0.504,
+        "avg_score": null
+      },
+      {
+        "artist": "Phoebe Bridgers",
+        "title": "Live at Madison Square Garden",
+        "type": "ep",
+        "genre": "Rock / Alternative / Indie",
+        "release_date": "2026-10-29",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "The Needle Drop (website)"
+        ],
+        "mentions": [
+          {
+            "source": "The Needle Drop (website)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "release_news",
+            "score": null,
+            "headline": "Phoebe Bridgers drops 'Live at Madison Square Garden' EP",
+            "link": "https://theneedledrop.com/news/phoebe-bridgers-drops-live-at-madison-square-garden-ep/",
+            "published": "2026-10-29T22:03:08+00:00"
+          }
+        ],
+        "fans": 209777,
+        "star_power": 0.76,
+        "personal": 0.734,
+        "personal_reason": "In your Last.fm top artists",
+        "buzz_points": 1.0,
+        "critical_buzz": 0.077,
+        "rank_score": 0.411,
+        "avg_score": null
+      },
       {
         "artist": "Tony Iommi & Jørn Lande",
         "title": "From the Dark",
@@ -594,40 +909,8 @@
         "personal": 0.0,
         "personal_reason": "",
         "buzz_points": 4.5,
-        "critical_buzz": 0.5,
-        "rank_score": 0.42,
-        "avg_score": null
-      },
-      {
-        "artist": "DIIV",
-        "title": "ZIRP!",
-        "type": "album",
-        "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-10-30",
-        "date_source": "musicbrainz",
-        "scores": [],
-        "sources": [
-          "Stereogum"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "review",
-            "score": null,
-            "headline": "Album Of The Week: DIIV ZIRP!",
-            "link": "https://stereogum.com/2515261/album-of-the-week-diiv-zirp/reviews/album-of-the-week/",
-            "published": "2026-10-27T20:25:11+00:00"
-          }
-        ],
-        "fans": 38258,
-        "star_power": 0.655,
-        "personal": 0.243,
-        "personal_reason": "Similar to The Radio Dept., Slowdive",
-        "buzz_points": 3.0,
-        "critical_buzz": 0.333,
-        "rank_score": 0.419,
+        "critical_buzz": 0.346,
+        "rank_score": 0.366,
         "avg_score": null
       },
       {
@@ -669,8 +952,8 @@
         "personal": 0.336,
         "personal_reason": "Similar to LCD Soundsystem, Pixies",
         "buzz_points": 2.0,
-        "critical_buzz": 0.222,
-        "rank_score": 0.294,
+        "critical_buzz": 0.154,
+        "rank_score": 0.277,
         "avg_score": null
       },
       {
@@ -712,16 +995,16 @@
         "personal": 0.288,
         "personal_reason": "Similar to Sufjan Stevens",
         "buzz_points": 2.0,
-        "critical_buzz": 0.222,
-        "rank_score": 0.266,
+        "critical_buzz": 0.154,
+        "rank_score": 0.25,
         "avg_score": null
       },
       {
-        "artist": "MJ Lenderman",
-        "title": "Weakened",
+        "artist": "Queens Of The Stone Age",
+        "title": "Run Away From The Mob",
         "type": "single",
         "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-10-27",
+        "release_date": "2026-10-28",
         "date_source": "feeds",
         "scores": [],
         "sources": [
@@ -734,50 +1017,18 @@
             "weight": 1.0,
             "mention": "new_song",
             "score": null,
-            "headline": "Lambchop’s New Songs Get Covered On Demoed EP: Hear MJ Lenderman’s “Weakened”",
-            "link": "https://stereogum.com/2515688/lambchops-new-songs-get-covered-on-demoed-ep-hear-mj-lendermans-weakened/music/",
-            "published": "2026-10-27T15:20:03+00:00"
+            "headline": "Queens Of The Stone Age – “Run Away From The Mob”",
+            "link": "https://stereogum.com/2515884/queens-of-the-stone-age-run-away-from-the-mob-perfecth-song/music/",
+            "published": "2026-10-28T21:56:18+00:00"
           }
         ],
-        "fans": 3975,
-        "star_power": 0.514,
-        "personal": 0.129,
-        "personal_reason": "Similar to Songs: Ohia, Big Thief",
+        "fans": 1375936,
+        "star_power": 0.877,
+        "personal": 0.051,
+        "personal_reason": "Similar to Alice in Chains",
         "buzz_points": 1.0,
-        "critical_buzz": 0.111,
-        "rank_score": 0.18,
-        "avg_score": null
-      },
-      {
-        "artist": "Mia Joy",
-        "title": "Wings Of Desire",
-        "type": "single",
-        "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-10-27",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Stereogum"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "announcement",
-            "score": null,
-            "headline": "Mia Joy Announces New Album Star Echo Heavy Dove: Hear “Wings Of Desire”",
-            "link": "https://stereogum.com/2515615/mia-joy-announces-new-album-star-echo-heavy-dove-hear-wings-of-desire/music/",
-            "published": "2026-10-27T14:58:09+00:00"
-          }
-        ],
-        "fans": 224,
-        "star_power": 0.336,
-        "personal": 0.234,
-        "personal_reason": "Similar to Beach House, Japanese Breakfast",
-        "buzz_points": 1.0,
-        "critical_buzz": 0.111,
-        "rank_score": 0.159,
+        "critical_buzz": 0.077,
+        "rank_score": 0.244,
         "avg_score": null
       }
     ],
@@ -810,8 +1061,136 @@
         "personal": 0.274,
         "personal_reason": "Similar to Oneohtrix Point Never, Andy Stott",
         "buzz_points": 4.5,
-        "critical_buzz": 0.5,
-        "rank_score": 0.475,
+        "critical_buzz": 0.346,
+        "rank_score": 0.421,
+        "avg_score": null
+      },
+      {
+        "artist": "Justice",
+        "title": "Pusher",
+        "type": "single",
+        "genre": "Electronic / Dance",
+        "release_date": "2026-10-29",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Stereogum"
+        ],
+        "mentions": [
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Justice – “Pusher” (Feat. Gesaffelstein)",
+            "link": "https://stereogum.com/2515856/justice-gesaffelstein-pusher-grand-theft-auto-vi-soundtrack-score/music/",
+            "published": "2026-10-29T14:09:59+00:00"
+          }
+        ],
+        "fans": 813168,
+        "star_power": 0.844,
+        "personal": 0.835,
+        "personal_reason": "In your Last.fm top artists",
+        "buzz_points": 1.0,
+        "critical_buzz": 0.077,
+        "rank_score": 0.401,
+        "avg_score": null
+      },
+      {
+        "artist": "Boys Noize",
+        "title": "Nächsteliebe",
+        "type": "single",
+        "genre": "Electronic / Dance",
+        "release_date": "2026-10-29",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Stereogum"
+        ],
+        "mentions": [
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Boys Noize – “Nächsteliebe” (Feat. Brutalismus 3000)",
+            "link": "https://stereogum.com/2516002/boys-noize-nachsteliebe-feat-brutalismus-3000/music/",
+            "published": "2026-10-29T17:45:19+00:00"
+          }
+        ],
+        "fans": 169313,
+        "star_power": 0.747,
+        "personal": 0.437,
+        "personal_reason": "Similar to Justice",
+        "buzz_points": 1.0,
+        "critical_buzz": 0.077,
+        "rank_score": 0.294,
+        "avg_score": null
+      },
+      {
+        "artist": "Junior Boys",
+        "title": "Underneath The Moon",
+        "type": "single",
+        "genre": "Electronic / Dance",
+        "release_date": "2026-10-29",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Stereogum"
+        ],
+        "mentions": [
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Junior Boys Announce New Album The Gore: Hear “Underneath The Moon”",
+            "link": "https://stereogum.com/2515864/junior-boys-the-gore-underneath-the-moon-album-announce/music/",
+            "published": "2026-10-29T13:54:04+00:00"
+          }
+        ],
+        "fans": 11452,
+        "star_power": 0.58,
+        "personal": 0.292,
+        "personal_reason": "Similar to The Knife",
+        "buzz_points": 1.0,
+        "critical_buzz": 0.077,
+        "rank_score": 0.222,
+        "avg_score": null
+      },
+      {
+        "artist": "Robert Del Naja",
+        "title": "Life Support",
+        "type": "album",
+        "genre": "Electronic / Dance",
+        "release_date": "2026-10-28",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Stereogum"
+        ],
+        "mentions": [
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "release_news",
+            "score": null,
+            "headline": "Massive Attack’s Robert Del Naja Shares New Life Support Soundtrack",
+            "link": "https://stereogum.com/2515810/massive-attacks-robert-del-naja-shares-new-life-support-soundtrack/music/",
+            "published": "2026-10-28T16:16:17+00:00"
+          }
+        ],
+        "fans": 611,
+        "star_power": 0.398,
+        "personal": 0.0,
+        "personal_reason": "",
+        "buzz_points": 1.0,
+        "critical_buzz": 0.077,
+        "rank_score": 0.166,
         "avg_score": null
       }
     ]

@@ -14,7 +14,7 @@
  "huercos|fromthetoolkitoflovers|album": {
   "cover": null,
   "source": null,
-  "checked": "2026-10-28T13:05:01.934851+00:00"
+  "checked": "2026-10-30T04:43:45.372270+00:00"
  },
  "diiv|zirp|album": {
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/31/87/54318724-e4d1-7254-a7d4-d2e671dff8ea/26CRGIM55137.rgb.jpg/600x600bb.jpg",
@@ -57,7 +57,7 @@
  "evilgianeandslimesito|georgiastate|single": {
   "cover": null,
   "source": null,
-  "checked": "2026-10-28T13:05:01.934851+00:00"
+  "checked": "2026-10-30T04:43:45.372270+00:00"
  },
  "meiv|nofuturept1and2|single": {
   "checked": "2026-10-28T12:41:39.411800+00:00",
@@ -71,5 +71,65 @@
  "miajoy|wingsofdesire|single": {
   "cover": "https://cdn-images.dzcdn.net/images/cover/a47d308f8413fa50c07b5101f446ec57/500x500-000000-80-0-0.jpg",
   "checked": "2026-10-28T13:00:22.829492+00:00"
+ },
+ "boldyjamesandrealbadman|strobelight|album": {
+  "cover": null,
+  "source": null,
+  "checked": "2026-10-30T04:43:45.372270+00:00"
+ },
+ "phoebebridgers|liveatmadisonsquaregarden|ep": {
+  "cover": null,
+  "source": null,
+  "checked": "2026-10-30T04:43:45.372270+00:00"
+ },
+ "justice|pusher|single": {
+  "cover": "https://cdn-images.dzcdn.net/images/cover/e79f46f73f256fb9f7dcacc0cc344d1b/500x500-000000-80-0-0.jpg",
+  "source": "Deezer",
+  "checked": "2026-10-30T04:43:45.372270+00:00"
+ },
+ "everythingbutthegirl|younganddumb|single": {
+  "cover": "https://cdn-images.dzcdn.net/images/cover/4d8c3960b0b558b67b7a00f674807787/500x500-000000-80-0-0.jpg",
+  "source": "Deezer",
+  "checked": "2026-10-30T04:43:45.372270+00:00"
+ },
+ "dominicfike|howtoquitsmoking|album": {
+  "cover": null,
+  "source": null,
+  "checked": "2026-10-30T04:43:45.372270+00:00"
+ },
+ "meisemones|2hands|single": {
+  "cover": "https://cdn-images.dzcdn.net/images/cover/7bced71c6bdf724df609f18b0bb005af/500x500-000000-80-0-0.jpg",
+  "source": "Deezer",
+  "checked": "2026-10-30T04:43:45.372270+00:00"
+ },
+ "averycochrane|youretheonlyoneineverperformedfor|single": {
+  "cover": "https://cdn-images.dzcdn.net/images/cover/658bf53fa3d8103980cba3e5c7cc5eab/500x500-000000-80-0-0.jpg",
+  "source": "Deezer",
+  "checked": "2026-10-30T04:43:45.372270+00:00"
+ },
+ "pivotgang|location|single": {
+  "cover": "https://cdn-images.dzcdn.net/images/cover/3102ed1b5f59103e2632be7738344e9c/500x500-000000-80-0-0.jpg",
+  "source": "Deezer",
+  "checked": "2026-10-30T04:43:45.372270+00:00"
+ },
+ "queensofthestoneage|runawayfromthemob|single": {
+  "cover": "https://cdn-images.dzcdn.net/images/cover/4ebc1d2003d8eb6c6ba304eb6154b6d7/500x500-000000-80-0-0.jpg",
+  "source": "Deezer",
+  "checked": "2026-10-30T04:43:45.372270+00:00"
+ },
+ "boysnoize|nachsteliebe|single": {
+  "cover": null,
+  "source": null,
+  "checked": "2026-10-30T04:43:45.372270+00:00"
+ },
+ "juniorboys|underneaththemoon|single": {
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/5b/7e/395b7e1b-20c2-6ac7-8d89-9363659866ba/4250506853167_cover.jpg/600x600bb.jpg",
+  "source": "iTunes",
+  "checked": "2026-10-30T04:43:45.372270+00:00"
+ },
+ "robertdelnaja|lifesupport|album": {
+  "cover": null,
+  "source": null,
+  "checked": "2026-10-30T04:43:45.372270+00:00"
  }
 }
