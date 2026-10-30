@@ -1,5 +1,484 @@
 [
   {
+    "id": "ce06b017cc568d51",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "'Prince: 3121 Las Vegas Concert' coming to theaters in December",
+    "link": "https://theneedledrop.com/news/prince-3121-las-vegas-concert-coming-to-theaters-in-december/",
+    "summary": "The previously unseen 154-minute film will begin its limited theatrical run on December 3, in select theaters.",
+    "categories": [
+      "News",
+      "prince"
+    ],
+    "published": "2026-10-30T01:27:22+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "bdd2e6f1e99f4168",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Mei Semones shares new single “2 Hands” from upcoming album ‘Howl’",
+    "link": "https://theneedledrop.com/news/mei-semones-shares-new-single-2-hands-from-upcoming-album-howl/",
+    "summary": "It’s the second single from her upcoming album, 'Howl,' due out January 15, 2027 via Verve/Interscope.",
+    "categories": [
+      "News",
+      "Mei Semones"
+    ],
+    "published": "2026-10-29T22:39:43+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "2d86013bac708463",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Phoebe Bridgers drops 'Live at Madison Square Garden' EP",
+    "link": "https://theneedledrop.com/news/phoebe-bridgers-drops-live-at-madison-square-garden-ep/",
+    "summary": "Available exclusively on Tidal.",
+    "categories": [
+      "News",
+      "phoebe bridgers"
+    ],
+    "published": "2026-10-29T22:03:08+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "c02b68e6f45fdd0a",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Band To Watch: PISS",
+    "link": "https://stereogum.com/2515916/band-to-watch-piss/interviews/band-to-watch/",
+    "summary": "The post Band To Watch: PISS appeared first on Stereogum .",
+    "categories": [
+      "Band To Watch",
+      "Interviews",
+      "PISS"
+    ],
+    "published": "2026-10-29T18:04:17+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "226cc7f42c707e07",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Mei Semones – “2 Hands”",
+    "link": "https://stereogum.com/2515990/mei-semones-2-hands-howl-song-video/music/",
+    "summary": "The post Mei Semones – “2 Hands” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Mei Semones"
+    ],
+    "published": "2026-10-29T17:53:34+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "e208c443d5d87ae8",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Boys Noize – “Nächsteliebe” (Feat. Brutalismus 3000)",
+    "link": "https://stereogum.com/2516002/boys-noize-nachsteliebe-feat-brutalismus-3000/music/",
+    "summary": "The post Boys Noize – “Nächsteliebe” (Feat. Brutalismus 3000) appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Boys Noize",
+      "Brutalismus 3000",
+      "SuS Boy"
+    ],
+    "published": "2026-10-29T17:45:19+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "0ce9c611df4e2ebc",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Beach House Drummer Graham Hill Announces Debut Solo Album Taking In Stars: Hear “Monster In My Head”",
+    "link": "https://stereogum.com/2515989/beach-house-drummer-graham-hill-announces-debut-solo-album-taking-in-stars-hear-monster-in-my-head/music/",
+    "summary": "The post Beach House Drummer Graham Hill Announces Debut Solo Album <em>Taking In Stars</em>: Hear “Monster In My Head” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Beach House",
+      "Graham Hill"
+    ],
+    "published": "2026-10-29T17:33:59+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "dfd13ddaf2efdeb2",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Waterbaby – “Creek”",
+    "link": "https://stereogum.com/2515986/waterbaby-creek/music/",
+    "summary": "The post Waterbaby – “Creek” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Waterbaby"
+    ],
+    "published": "2026-10-29T17:25:31+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "1be65cf04b0ddd99",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Bryan Adams Drops Another Trump Diss Track And This One Mentions The Epstein Files",
+    "link": "https://stereogum.com/2515960/bryan-adams-donald-trump-diss-track-epstein-files/music/",
+    "summary": "The post Bryan Adams Drops Another Trump Diss Track And This One Mentions The Epstein Files appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Bryan Adams",
+      "Donald Trump"
+    ],
+    "published": "2026-10-29T16:47:04+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "d86f593de0ac6cc9",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Noah Kahan announces new tour",
+    "link": "https://theneedledrop.com/news/noah-kahan-announces-new-tour/",
+    "summary": "The 2027 tour is in support of his album 'The Great Divide: The Last of the Bugs.'",
+    "categories": [
+      "News",
+      "noah kahan"
+    ],
+    "published": "2026-10-29T16:45:16+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "b7e157128dc1ee86",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "My Morning Jacket’s Jim James is releasing his first memoir",
+    "link": "https://theneedledrop.com/news/my-morning-jackets-jim-james-is-releasing-his-first-memoir/",
+    "summary": "The 336-page book is due out April 13, 2027.",
+    "categories": [
+      "News",
+      "jim james",
+      "my morning jacket"
+    ],
+    "published": "2026-10-29T16:35:08+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "773e8784040560f5",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Frost Children Made Some Dubstep With IShowSpeed",
+    "link": "https://stereogum.com/2515971/frost-children-made-some-dubstep-with-ishowspeed/music/",
+    "summary": "The post Frost Children Made Some Dubstep With IShowSpeed appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Frost Children",
+      "IShowSpeed"
+    ],
+    "published": "2026-10-29T16:23:41+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "b4dd5285752250d9",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Caroline Polachek Phones It In For Angèle’s US TV Debut",
+    "link": "https://stereogum.com/2515964/caroline-polachek-phones-it-in-for-angeles-us-tv-debut/news/",
+    "summary": "The post Caroline Polachek Phones It In For Angèle’s US TV Debut appeared first on Stereogum .",
+    "categories": [
+      "News",
+      "Angèle",
+      "Caroline Polachek",
+      "Jimmy Fallon",
+      "SebastiAn"
+    ],
+    "published": "2026-10-29T16:16:34+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "52733fdb5b60fd84",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Merry Halloween: A Scarily Early Guide To This Year’s New Christmas Albums",
+    "link": "https://stereogum.com/2515875/merry-halloween-a-scarily-early-guide-to-this-years-new-christmas-albums/lists/album-list/",
+    "summary": "The post Merry Halloween: A Scarily Early Guide To This Year’s New Christmas Albums appeared first on Stereogum .",
+    "categories": [
+      "Album List",
+      "Columns",
+      "Lists",
+      "Sounding Board",
+      "Alanis Morissette",
+      "aron!",
+      "Audra McDonald",
+      "Ben Ahlers",
+      "Brian Stokes Mitchell",
+      "Carrie Coon",
+      "Celia Keenan-Bolger",
+      "Christine Baranski",
+      "Dana Jean Phoenix",
+      "David Benoit",
+      "Debbie Gibson",
+      "Denée Benton",
+      "Desmond Child",
+      "Donna Murphy",
+      "Hilary Duff",
+      "Johan Agebjörn",
+      "Jordan Donica",
+      "Kat Edmonson",
+      "Kelli O’Hara",
+      "Laura Benanti",
+      "Morgan Spector",
+      "Niia",
+      "Ryan Peter Murphy",
+      "Steven Page",
+      "Sufjan Stevens",
+      "Taylor Richardson",
+      "Taylor Trensch",
+      "The Gilded Age",
+      "The Infamous Stringdusters"
+    ],
+    "published": "2026-10-29T16:03:18+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "a1e6df2e8973591b",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Hasan Piker Explains Damon Albarn Meetup At Gorillaz Show",
+    "link": "https://stereogum.com/2515949/hasan-piker-explains-damon-albarn-meetup-at-gorillaz-show/news/",
+    "summary": "The post Hasan Piker Explains Damon Albarn Meetup At Gorillaz Show appeared first on Stereogum .",
+    "categories": [
+      "News",
+      "American Nightmare",
+      "Cold Cave",
+      "Damon Albarn",
+      "De La Soul",
+      "Del The Funky Homosapien",
+      "Gorillaz",
+      "Hasan Piker",
+      "Jamie Hewlett",
+      "Kali Uchis",
+      "Posdnous",
+      "Schoolboy Q",
+      "Wes Eisold"
+    ],
+    "published": "2026-10-29T15:36:53+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "7e5c8b5d3baee337",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Sphere Coming To Maryland",
+    "link": "https://stereogum.com/2515937/sphere-coming-to-maryland/news/",
+    "summary": "The post Sphere Coming To Maryland appeared first on Stereogum .",
+    "categories": [
+      "News",
+      "Sphere"
+    ],
+    "published": "2026-10-29T14:36:44+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "f0a486f072148ab4",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Flower Face Announces New Album Kill The Muse, Stereogum Presents Show In Brooklyn Next Week",
+    "link": "https://stereogum.com/2515849/flower-face-announces-new-album-kill-the-muse-stereogum-presents-show-in-brooklyn-next-week/music/",
+    "summary": "The post Flower Face Announces New Album <em>Kill The Muse</em>, Stereogum Presents Show In Brooklyn Next Week appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Flower Face",
+      "Nine Inch Nails"
+    ],
+    "published": "2026-10-29T14:15:24+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "44709f7d13c3b69b",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Justice – “Pusher” (Feat. Gesaffelstein)",
+    "link": "https://stereogum.com/2515856/justice-gesaffelstein-pusher-grand-theft-auto-vi-soundtrack-score/music/",
+    "summary": "The post Justice – “Pusher” (Feat. Gesaffelstein) appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Gesaffelstein",
+      "Grand Theft Auto",
+      "Justice"
+    ],
+    "published": "2026-10-29T14:09:59+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "5ba1dc24d8e70d9a",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Junior Boys Announce New Album The Gore: Hear “Underneath The Moon”",
+    "link": "https://stereogum.com/2515864/junior-boys-the-gore-underneath-the-moon-album-announce/music/",
+    "summary": "The post Junior Boys Announce New Album <em>The Gore</em>: Hear “Underneath The Moon” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Junior Boys"
+    ],
+    "published": "2026-10-29T13:54:04+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "56441aef4a580e8e",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "New York City Cops Shut Down Haywire’s Times Square Pop-Up",
+    "link": "https://stereogum.com/2515923/new-york-city-cops-shut-down-haywires-times-square-pop-up/news/",
+    "summary": "The post New York City Cops Shut Down Haywire’s Times Square Pop-Up appeared first on Stereogum .",
+    "categories": [
+      "News",
+      "Haywire"
+    ],
+    "published": "2026-10-29T13:46:18+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "c52cbdcacad76d0f",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Avery Cochrane shares new single “You’re the Only One (I Never Performed For)”",
+    "link": "https://theneedledrop.com/news/avery-cochrane-shares-new-single-youre-the-only-one-i-never-performed-for/",
+    "summary": "It’s the second single from her debut album, ‘Vengeance Through My Omnipresence,’ out January 29.",
+    "categories": [
+      "News",
+      "avery cochrane"
+    ],
+    "published": "2026-10-29T13:02:01+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "f4148183887b93b8",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Strokes’ Nick Valensi Joins Duran Duran In Paris",
+    "link": "https://stereogum.com/2515919/the-strokes-nick-valensi-joins-duran-duran-in-paris/news/",
+    "summary": "The post The Strokes’ Nick Valensi Joins Duran Duran In Paris appeared first on Stereogum .",
+    "categories": [
+      "News",
+      "Duran Duran",
+      "Nick Valensi",
+      "The Strokes"
+    ],
+    "published": "2026-10-29T12:58:17+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "5ebad67628a7ef00",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "All My JPEGMAFIA Ratings So Far",
+    "link": "https://theneedledrop.com/opinion/all-my-jpegmafia-ratings-so-far-_xcn007lurs/",
+    "summary": "Every rating for every JPEGMAFIA album Anthony's reviewed.",
+    "categories": [
+      "Opinion",
+      "Edited by Cassidy",
+      "jpegmafia"
+    ],
+    "published": "2026-10-29T11:42:05+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "c923af5b17f063b4",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Shabazz Palaces - It's a Style Sport",
+    "link": "https://theneedledrop.com/album-reviews/shabazz-palaces-its-a-style-sport-album-review-hayeg997l3q/",
+    "summary": "SP's strongest showing since their first couple of albums.",
+    "categories": [
+      "Album Reviews",
+      "Edited by Isaiah",
+      "shabazz palaces",
+      "7/10",
+      "abstract hip hop",
+      "synth funk",
+      "afrofuturism"
+    ],
+    "published": "2026-10-29T11:41:15+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "b81766cdd721033e",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.5,
+    "title": "The Same Place",
+    "link": "https://pitchfork.com/reviews/albums/the-olivia-tremor-control-the-same-place/",
+    "summary": "Following the deaths of two founding members, the long-in-the-works final album from the Elephant 6 group is a dark, psychedelic epic that unfolds with eerie clairvoyance and intensity.",
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-10-29T04:03:00+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "bd990d7f3e80997e",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.5,
+    "title": "marroW",
+    "link": "https://pitchfork.com/reviews/albums/brakence-marrow/",
+    "summary": "The Ohio artist’s first album in four years is paranoid, indulgent, and theatrical, unfolding like a dark romantasy novel.",
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-10-29T04:02:00+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "89eaaeaa9a1b7338",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.5,
+    "title": "Heavy Is the Crown",
+    "link": "https://pitchfork.com/reviews/albums/anderson-paak-cordae-heavy-is-the-crown/",
+    "summary": "Anderson .Paak and Cordae kick back over a suite of boom-bap and trap-adjacent slappers on their lopsided but entertaining collaborative album.",
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-10-29T04:01:00+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "182fb65c53bb8dc2",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.5,
+    "title": "Repair",
+    "link": "https://pitchfork.com/reviews/albums/water-damage-repair/",
+    "summary": "The Austin ensemble makes minimalism feel enveloping and unruly on its latest record, where new melodic details are always emerging from a swarming mass of sound.",
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-10-29T04:00:00+00:00",
+    "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
     "id": "3c8a876b88f190d0",
     "source": "Stereogum",
     "source_type": "news",
@@ -2257,20 +2736,6 @@
       "Reviews / Albums"
     ],
     "published": "2026-09-30T04:03:00+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "2ec345c69e09205f",
-    "source": "Pitchfork (track reviews)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "“tissue”",
-    "link": "https://pitchfork.com/reviews/tracks/ki-tissue/",
-    "summary": "Built from fragmented, pitch-shifted gurgles, the elusive artist’s latest transmission has a disarming earnestness.",
-    "categories": [
-      "Reviews / Tracks"
-    ],
-    "published": "2026-09-29T20:19:53+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
   }
 ]
