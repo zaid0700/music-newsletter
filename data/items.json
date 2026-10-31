@@ -1,5 +1,515 @@
 [
   {
+    "id": "c04eb0429a867c43",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Atlas Sound returns with \"Octoberland,\" first new song in 15 years",
+    "link": "https://theneedledrop.com/news/atlas-sound-returns-with-octoberland-first-new-song-in-15-years/",
+    "summary": "Bradford Cox shares a self-directed music video alongside the long-awaited single.",
+    "categories": [
+      "News",
+      "atlas sound",
+      "deerhunter"
+    ],
+    "published": "2026-10-31T00:19:58+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "63ecc7267eeee3ec",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Atlas Sound – “Octoberland”",
+    "link": "https://stereogum.com/2516185/atlas-sound-octoberland/music/",
+    "summary": "The post Atlas Sound – “Octoberland” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Atlas Sound",
+      "Bradford Cox"
+    ],
+    "published": "2026-10-30T21:05:06+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "d73ddb77d085f016",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The 5 Best Songs Of The Week",
+    "link": "https://stereogum.com/2516038/the-5-best-songs-of-the-week-650/lists/the-5-best-songs-of-the-week/",
+    "summary": "The post The 5 Best Songs Of The Week appeared first on Stereogum .",
+    "categories": [
+      "Lists",
+      "The 5 Best Songs Of The Week",
+      "Factory Floor",
+      "nowhere else to be",
+      "The Healing Power Of Horses",
+      "Trinket",
+      "Yeule"
+    ],
+    "published": "2026-10-30T19:15:12+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "71ffcaebcbbd3b22",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Where Has All The Folk-Rock Gone?",
+    "link": "https://stereogum.com/2516172/where-has-all-the-folk-rock-gone/columns/chained-to-the-rhythm/",
+    "summary": "Following pop music — especially at the stratum just below the A-list — sometimes feels like following a neverending dance of musicians' pivots. Artists, looking for a breakthrough and having less insight than ever into how to get one, don't develop linearly so much as trade sounds with one another. They shift toward or away from bedroom pop, '80s pop, acoustic pop, and so forth, and sometimes those pivots sync up well enough to look like a trend. This year, that trend is supposedly country music, which, if you believe the headlines, is steadily changing the charts. But that wasn't quite true the last couple of times we did this, and it still isn't. Sure, a few real-deal, deep-fried country artists like Ella Langley have blown up recently — or at least, with apologies to Kenny Atkinson, they've analytically blown up. A few pop artists, like Post Malone or (temporarily) Beyoncé, have deliberately set out to make real-deal country music of their own. Shaboozey is happy to carve space out",
+    "categories": [
+      "Chained To The Rhythm: The Month In Pop",
+      "Columns",
+      "Antonio Cipriano",
+      "Chappell Roan",
+      "Emilia",
+      "Faouzia",
+      "Jamie Miller",
+      "Lisa",
+      "Olivia Rodrigo",
+      "Remi Wolf",
+      "Russ",
+      "Say Now",
+      "SMITH",
+      "Sophia Stel",
+      "Tate McRae"
+    ],
+    "published": "2026-10-30T19:00:08+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "56002e9f1fad909f",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "bloodsports – “Ten Thousand Feet”",
+    "link": "https://stereogum.com/2516011/bloodsports-ten-thousand-feet/music/",
+    "summary": "The post bloodsports – “Ten Thousand Feet” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "bloodsports"
+    ],
+    "published": "2026-10-30T18:27:25+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "e9c4ddda0b16849a",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Doechii – “Lock Jaw”",
+    "link": "https://stereogum.com/2516176/doechii-lock-jaw/music/",
+    "summary": "The post Doechii – “Lock Jaw” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Doechii",
+      "Taya Lee"
+    ],
+    "published": "2026-10-30T18:22:48+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "044a75d1b166b61e",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Paul Smith – “Lay Your Head Down”",
+    "link": "https://stereogum.com/2516170/paul-smith-lay-your-head-down/music/",
+    "summary": "The post Paul Smith – “Lay Your Head Down” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "David Brewis",
+      "Field Music",
+      "Maxïmo Park",
+      "Paul Smith"
+    ],
+    "published": "2026-10-30T18:15:01+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "33eaa0bdf9124e6d",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Belly Gang Kushington Is The New Old Atlanta",
+    "link": "https://stereogum.com/2516155/belly-gang-kushington-is-the-new-old-atlanta/columns/say-whats-real-the-month-in-rap/",
+    "summary": "Even speaking to him through a Zoom call, and actually being from the area myself, it’s hard to say I’ve ever met someone more Atlanta than Belly Gang Kushington. Meshed with a husky baritone, his thick Adamsville drawl sounds like he’s got molasses and tobacco slathered through his jaw. If you ask him about his family, he’ll tell you about his ghetto fabulous great-auntie, who loved to read the Bible and cook chicken for their church pastor and others in the neighborhood. Maybe he’ll mention seeing pictures of his cousin, who he calls his mama, going to Freaknik. When I mention growing up in Cobb County and feeling a sense of pride when Jermaine Dupri and Ludacris dropped “Welcome To Atlanta,” he tells me he was actually on the set of the video shoot. Namely, the part where Luda and JD party at 112. His cousin, who he calls his mama, was in the video. The post Belly Gang Kushington Is The New Old Atlanta appeared first on Stereogum .",
+    "categories": [
+      "Columns",
+      "Interviews",
+      "Say What's Real: The Month In Rap",
+      "21 Savage",
+      "Belly Gang Kushington",
+      "Boldy James",
+      "City Girls",
+      "Don Toliver",
+      "Drake",
+      "Gunna",
+      "JT",
+      "Karrahbooo",
+      "Lefty Gunplay",
+      "Megan Thee Stallion",
+      "Offset",
+      "Shordie Shordie",
+      "Young Nudy",
+      "Yung Miami"
+    ],
+    "published": "2026-10-30T18:00:21+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "913621991d4648a2",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Esmerelda Road – “Here Honey”",
+    "link": "https://stereogum.com/2516160/esmerelda-road-here-honey/music/",
+    "summary": "The post Esmerelda Road – “Here Honey” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Esmerelda Road"
+    ],
+    "published": "2026-10-30T17:58:46+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "dbd95ffafee3c279",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Rumors of Coachella’s 2027 headliners are afloat",
+    "link": "https://theneedledrop.com/news/rumors-of-coachellas-2027-headliners-are-afloat/",
+    "summary": "The full Coachella lineup is expected to be announced \"soon.\"",
+    "categories": [
+      "News",
+      "coachella"
+    ],
+    "published": "2026-10-30T17:53:07+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "3cd3abe4589a795b",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Today's Release Highlights (10/30/26)",
+    "link": "https://theneedledrop.com/todays-release-highlights-10-30-26/",
+    "summary": "#newmusic",
+    "categories": [
+      "Editorial",
+      "Today's Release Highlights"
+    ],
+    "published": "2026-10-30T17:47:55+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "4bcdc5fdf5467dff",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "doseone, Fatboi Sharif, & steel tipped dove Release New Album Truth Ugly",
+    "link": "https://stereogum.com/2516152/doseone-fatboi-sharif-steel-tipped-dove-release-new-album-truth-ugly/music/",
+    "summary": "The post doseone, Fatboi Sharif, & steel tipped dove Release New Album <em>Truth Ugly</em> appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Doseone",
+      "Fatboi Sharif",
+      "Steel Tipped Dove"
+    ],
+    "published": "2026-10-30T17:20:19+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "47d15694a26877a7",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Rage Against The Machine & BTS Reportedly Turn Down Coachella; Dua Lipa, SZA, & Tame Impala “Nearly Confirmed”",
+    "link": "https://stereogum.com/2516146/rage-against-the-machine-reportedly-turn-down-coachella-dua-lipa-sza-tame-impala-nearly-confirmed/news/",
+    "summary": "The post Rage Against The Machine & BTS Reportedly Turn Down Coachella; Dua Lipa, SZA, & Tame Impala “Nearly Confirmed” appeared first on Stereogum .",
+    "categories": [
+      "News",
+      "BTS",
+      "Coachella",
+      "Dua Lipa",
+      "Rage Agaisnt The Machine",
+      "SZA",
+      "Tame Impala",
+      "Turnstile",
+      "Zack De La Rocha"
+    ],
+    "published": "2026-10-30T17:01:20+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "863860cd27d96886",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "5 Thoughts On Olivia Rodrigo’s Unraveled Tour",
+    "link": "https://stereogum.com/2516108/5-thoughts-on-olivia-rodrigos-unraveled-tour/reviews/concert-review/",
+    "summary": "The post 5 Thoughts On Olivia Rodrigo’s Unraveled Tour appeared first on Stereogum .",
+    "categories": [
+      "Concert Review",
+      "Reviews",
+      "Olivia Rodrigo"
+    ],
+    "published": "2026-10-30T16:48:38+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "7d34f8642f66ee72",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Fire-Toolz – “Clustered Around My Opening!”",
+    "link": "https://stereogum.com/2516134/fire-toolz-cluster-around-my-opening/music/",
+    "summary": "The post Fire-Toolz – “Clustered Around My Opening!” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Fire-Toolz"
+    ],
+    "published": "2026-10-30T15:34:26+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "b022ec87fa8b540e",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "fanclubwallet – “Creep-O”",
+    "link": "https://stereogum.com/2516129/fanclubwallet-creep-o/music/",
+    "summary": "The post fanclubwallet – “Creep-O” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "fanclubwallet"
+    ],
+    "published": "2026-10-30T15:19:48+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "598aa0b5091452b5",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Benny The Butcher – “Elevate”",
+    "link": "https://stereogum.com/2516124/benny-the-butcher-elevate/music/",
+    "summary": "The post Benny The Butcher – “Elevate” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Benny The Butcher"
+    ],
+    "published": "2026-10-30T14:54:26+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "3ce91900c8e200b9",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Or Best Offer Announce New Album It Will Appear : Hear “Fast Strong Horse”",
+    "link": "https://stereogum.com/2516091/or-best-offer-announce-new-album-it-will-appear-hear-fast-strong-horse/music/",
+    "summary": "The post Or Best Offer Announce New Album <em>It Will Appear </em>: Hear “Fast Strong Horse” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Or Best Offer"
+    ],
+    "published": "2026-10-30T14:38:22+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "e84a15d28d4fa321",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Former Deerlady Guitarist Magdalena Abrego Releases Solo Debut Xolo",
+    "link": "https://stereogum.com/2516113/former-deerlady-guitarist-magdalena-abrego-releases-solo-debut-xolo/music/",
+    "summary": "The post Former Deerlady Guitarist Magdalena Abrego Releases Solo Debut <em>Xolo</em> appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Deerlady",
+      "Magdalena Abrego"
+    ],
+    "published": "2026-10-30T14:20:54+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "c25b57dbbbb74e69",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "My Chemical Romance Release Prelude To The End Short Film Voiced By Phoebe Bridgers, Billie Eilish, & More",
+    "link": "https://stereogum.com/2516069/my-chemical-romance-release-prelude-to-the-end-short-film-voiced-by-phoebe-bridgers-billie-eilish-more/news/",
+    "summary": "The post My Chemical Romance Release <em>Prelude To The End</em> Short Film Voiced By Phoebe Bridgers, Billie Eilish, & More appeared first on Stereogum .",
+    "categories": [
+      "News",
+      "Billie Eilish",
+      "Hideo Kojima",
+      "John C. McGinley",
+      "Lauren Tsai",
+      "My Chemical Romance",
+      "Phoebe Bridgers"
+    ],
+    "published": "2026-10-30T13:55:13+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "efb8915785cac3c3",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Jazmine Mary Announces New Album Country Milk: Hear “Shower Beer”",
+    "link": "https://stereogum.com/2516105/jazmine-mary-announces-new-album-country-milk-hear-shower-beer/music/",
+    "summary": "The post Jazmine Mary Announces New Album <em>Country Milk</em>: Hear “Shower Beer” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Cass Basil",
+      "Jazmine Mary",
+      "Vera Ellen",
+      "Yvette Parsons"
+    ],
+    "published": "2026-10-30T13:49:03+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "b7c22fd7c27eb8fc",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Lamb Rebrands As Lambb Following Complaint From Trip-Hop Duo, Shares New Single “OBSESSION”",
+    "link": "https://stereogum.com/2516019/lamb-lambb-rebrand-obsession-single/music/",
+    "summary": "The post Lamb Rebrands As Lambb Following Complaint From Trip-Hop Duo, Shares New Single “OBSESSION” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Lamb",
+      "Lambb"
+    ],
+    "published": "2026-10-30T13:32:03+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "f005d859c94ebc7f",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Orca share new track \"Missing the subway\"",
+    "link": "https://theneedledrop.com/news/orca-share-new-track-missing-the-subway/",
+    "summary": "This is the alternative indie-pop duo's last single before their EP 'Shed' comes out on November 13th.",
+    "categories": [
+      "News",
+      "orca"
+    ],
+    "published": "2026-10-30T13:30:24+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "fef18d56dfad8490",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Tame Impala Cover “Kiss From A Rose”",
+    "link": "https://stereogum.com/2516062/tame-impala-cover-kiss-from-a-rose/news/",
+    "summary": "The post Tame Impala Cover “Kiss From A Rose” appeared first on Stereogum .",
+    "categories": [
+      "News",
+      "Seal",
+      "Tame Impala"
+    ],
+    "published": "2026-10-30T13:26:02+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "41aea165211b41d1",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Jandek Retires From Live Shows",
+    "link": "https://stereogum.com/2516056/jandek-retires-from-live-shows/news/",
+    "summary": "The post Jandek Retires From Live Shows appeared first on Stereogum .",
+    "categories": [
+      "News",
+      "Jandek",
+      "Sheila Smith"
+    ],
+    "published": "2026-10-30T13:22:39+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "d9471cc5b3d92c7c",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Aerosmith Reunite Alongside Dave Grohl & Johnny Depp, Get Covered By Guns N’ Roses",
+    "link": "https://stereogum.com/2516046/aerosmith-reunite-alongside-dave-grohl-johnny-depp-get-covered-by-guns-n-roses/news/",
+    "summary": "The post Aerosmith Reunite Alongside Dave Grohl & Johnny Depp, Get Covered By Guns N’ Roses appeared first on Stereogum .",
+    "categories": [
+      "News",
+      "Aerosmith",
+      "Bill Burr",
+      "Billy Idol",
+      "Dave Grohl",
+      "Eric Church",
+      "Guns N' Roses",
+      "Heart",
+      "Johnny Depp",
+      "Sammy Hagar",
+      "Steve Stevens",
+      "Sully Erna",
+      "The Black Crowes",
+      "Warren Haynes"
+    ],
+    "published": "2026-10-30T13:22:11+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "25bdf7bbf972e0e4",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Shred Is Back For The Attack",
+    "link": "https://stereogum.com/2515758/shred-is-back-for-the-attack/columns/breaking-the-oath/",
+    "summary": "When the 22-year-old producer Mike Varney founded Shrapnel Records in 1980, it became the first dedicated metal label in the United States, beating Jonny Z’s Megaforce and Brian Slagel’s Metal Blade to market by two years. That’s perhaps a surprising distinction for a label with such a narrow stylistic focus. As the burgeoning thrash and death metal scenes pushed American metal to the bleeding edge of heavy music worldwide, Varney stuck to his guns. Shrapnel was founded to serve “a niche within a niche,” as Varney explained to Guitar World in a 2023 interview: “I wasn’t finding enough heavy rock records, and as a consumer, I was looking for the next guitar hero. As I tried to narrow the scope of my record label, it dawned on me that I could be the guy to discover the best new guitar players of the decade. I didn’t have any competition I knew of, so it seemed like a great niche where I could dig in and do something I loved.” The post Shred Is Back For The Attack appeared first on Stereo",
+    "categories": [
+      "Breaking The Oath: The Month In Metal",
+      "Columns",
+      "Andrew Lee",
+      "Dan Swanö",
+      "Deafheaven",
+      "Dis Fig",
+      "Djunah",
+      "Dungeon Serpent",
+      "Edoardo Taddei",
+      "Enslaved",
+      "Fili Bibiano's Fortress",
+      "Gabriel LeJeune",
+      "Gudsforladt",
+      "Mother Of Graves",
+      "Otras",
+      "Phil Tougas",
+      "Tony Iommi",
+      "Void"
+    ],
+    "published": "2026-10-30T13:21:03+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "876abb047e2c0c77",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "bloodsports share new single, \"Ten Thousand Feet\"",
+    "link": "https://theneedledrop.com/news/bloodsports-share-new-single-ten-thousand-feet/",
+    "summary": "It's their first release since their 2025 debut, 'Anything Can Be A Hammer.'",
+    "categories": [
+      "News",
+      "bloodsports"
+    ],
+    "published": "2026-10-30T12:15:50+00:00",
+    "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
     "id": "3a2b667903282c62",
     "source": "Pitchfork (album reviews)",
     "source_type": "reviews",
