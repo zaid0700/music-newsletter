@@ -54,9 +54,9 @@ RELEASE_HINTS = re.compile(
 
 
 def looks_like_release(item: dict) -> bool:
-    if item["source_type"] in ("reviews", "video", "page", "allmusic"):
-        return True
-    return bool(RELEASE_HINTS.search(item["title"]))
+    # Every item goes to Claude: a keyword filter missed headlines like
+    # "Nettspend Unveils 'Virginia Creeper'". Claude Haiku is cheap enough.
+    return True
 
 
 # --------------------------------------------------------------------------- 2. extract
