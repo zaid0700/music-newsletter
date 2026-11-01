@@ -1416,5 +1416,321 @@
    "mention": "review",
    "score": null
   }
- ]
+ ],
+ "b48f6338df2e4d7b": [],
+ "39ecd2ddfbbd7e78": [],
+ "fa5df87392b4755d": [],
+ "5b524136d496f49e": [
+  {
+   "artist": "Diana Silvers",
+   "title": "Daughter of Sorts",
+   "type": "album",
+   "genre": "Other",
+   "release_date": null,
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "cf65cbef4c3b5f37": [
+  {
+   "artist": "Atlas Sound",
+   "title": "Octoberland",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-10-30",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "b0a0b47ef7ac3bb4": [],
+ "684d6c1131803ec5": [
+  {
+   "artist": "Ministry",
+   "title": "Hate to Go (Take Out or Delivery)",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-10-30",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "ba10237035aa6e0b": [
+  {
+   "artist": "Queens of the Stone Age",
+   "title": "Perfecth",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-10-30",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "0ef594d630f1bf27": [
+  {
+   "artist": "Florence and the Machine",
+   "title": "Everybody Scream Tour Live Album",
+   "type": "album",
+   "genre": "Pop",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "ee73f1961f45aec9": [
+  {
+   "artist": "The Heavy North",
+   "title": "Alive",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-10-30",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "b877063f2e0ad7cc": [
+  {
+   "artist": "Molly Gone Mad",
+   "title": "Modern World",
+   "type": "album",
+   "genre": "Hip-hop / R&B",
+   "release_date": "2026-10-30",
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "da2152415c39e9d5": [
+  {
+   "artist": "SILVERWINGKILLER",
+   "title": "DESPERATE STRUGGLE",
+   "type": "ep",
+   "genre": "Electronic / Dance",
+   "release_date": "2026-10-30",
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "b5d2af164d83e538": [],
+ "9db903a761d0399e": [
+  {
+   "artist": "Harry Fowler",
+   "title": "Blankets",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-10-30",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "6789299b7c9533bd": [],
+ "bbb15f06c4e82060": [
+  {
+   "artist": "Dominic Fike",
+   "title": "How to Quit Smoking",
+   "type": "album",
+   "genre": "Pop",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "5c7254ce9abaa5ff": [
+  {
+   "artist": "Phoebe Bridgers",
+   "title": "Madison Square Garden",
+   "type": "ep",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-10-29",
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "de039d1929b8a359": [
+  {
+   "artist": "Junior Boys",
+   "title": "The Gore",
+   "type": "album",
+   "genre": "Electronic / Dance",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Junior Boys",
+   "title": "Underneath the Moon",
+   "type": "single",
+   "genre": "Electronic / Dance",
+   "release_date": "2026-10-29",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "843f252a30c5d5bf": [],
+ "65e83e079e5e7d88": [
+  {
+   "artist": "Ex:Re",
+   "title": "Save As",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "a9fbbf5e36032c09": [],
+ "2a909a26028a7ac7": [],
+ "f4f9bc2e76e6f5bb": [],
+ "10b4147e0ace4f00": [
+  {
+   "artist": "Saba & Pivot Gang",
+   "title": "Location",
+   "type": "single",
+   "genre": "Hip-hop / R&B",
+   "release_date": "2026-10-28",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "fb0a027cb7fe201f": [
+  {
+   "artist": "Panda Bear",
+   "title": "PB Band Live 25 at Power Station",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-10-28",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "02bc8743343e7839": [
+  {
+   "artist": "Everything But the Girl",
+   "title": "Blue Reservoir",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Everything But the Girl",
+   "title": "Young and Dumb",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-10-28",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "2a01e92317f79c27": [
+  {
+   "artist": "MJ Lenderman",
+   "title": "Demoed",
+   "type": "ep",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-10-27",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "f76eebe727ec7fe6": [
+  {
+   "artist": "Factory Floor",
+   "title": "One Trip",
+   "type": "album",
+   "genre": "Electronic / Dance",
+   "release_date": null,
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "f8ef88cf63aff3c6": [
+  {
+   "artist": "Dead Man's Bones",
+   "title": "Lost in the Night",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-10-27",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "de0489d3c19c2eb9": [
+  {
+   "artist": "DIIV",
+   "title": "Zirp!",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "20bf321d28740034": [],
+ "790bf97ede658906": [
+  {
+   "artist": "Shabazz Palaces",
+   "title": "It's a Style Sport",
+   "type": "album",
+   "genre": "Hip-hop / R&B",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "38d82ad36d83b3b7": [
+  {
+   "artist": "Olivia Rodrigo & Chappell Roan",
+   "title": "Expectations",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-10-16",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "0dbaff4ef4841271": [
+  {
+   "artist": "The Avalanches",
+   "title": "No Bad Memories",
+   "type": "album",
+   "genre": "Electronic / Dance",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "5db2edc48ab6aade": [
+  {
+   "artist": "Fontaines D.C.",
+   "title": "Dopamine Chamber",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "f431f0284c3a327d": [
+  {
+   "artist": "Troye Sivan",
+   "title": "She's the Best",
+   "type": "album",
+   "genre": "Pop",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "5fd36166931b4624": [
+  {
+   "artist": "Cameron Winter",
+   "title": "Live at Carnegie Hall",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "a1224a3c824ee532": []
 }

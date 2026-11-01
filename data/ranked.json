@@ -1,8 +1,102 @@
 {
   "week_start": "2026-10-24",
   "week_end": "2026-10-30",
-  "generated": "2026-11-01T09:32:06.329278+00:00",
+  "generated": "2026-11-01T10:10:52.142481+00:00",
   "top": [
+    {
+      "artist": "evilgiane & Slimesito",
+      "title": "EVILSLIME 2",
+      "type": "album",
+      "genre": "Hip-hop / R&B",
+      "release_date": "2026-10-30",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Stereogum"
+      ],
+      "mentions": [
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "announcement",
+          "score": null,
+          "headline": "evilgiane & Slimesito Announce New Album EVILSLIME 2 Out Friday: Hear “Georgia State”",
+          "link": "https://stereogum.com/2515652/evilgiane-slimesito-announce-new-album-evilslime-2-out-friday-hear-georgia-state/news/",
+          "published": "2026-10-26T20:37:32+00:00"
+        }
+      ],
+      "fans": 479,
+      "star_power": 0.383,
+      "personal": 0.903,
+      "personal_reason": "You've played EVILGIANE 197 times",
+      "coverage": 1.0,
+      "publications": [
+        "Stereogum"
+      ],
+      "popularity": 0.353,
+      "rank_score": 0.738,
+      "avg_score": null
+    },
+    {
+      "artist": "DIIV",
+      "title": "ZIRP!",
+      "type": "album",
+      "genre": "Rock / Alternative / Indie",
+      "release_date": "2026-10-30",
+      "date_source": "musicbrainz",
+      "scores": [],
+      "sources": [
+        "Pitchfork (album reviews)",
+        "Slant (music)",
+        "Stereogum"
+      ],
+      "mentions": [
+        {
+          "source": "Pitchfork (album reviews)",
+          "source_type": "reviews",
+          "weight": 1.5,
+          "mention": "review",
+          "score": null,
+          "headline": "ZIRP!",
+          "link": "https://pitchfork.com/reviews/albums/diiv-zirp/",
+          "published": "2026-10-30T04:03:00+00:00"
+        },
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "review",
+          "score": null,
+          "headline": "Album Of The Week: DIIV ZIRP!",
+          "link": "https://stereogum.com/2515261/album-of-the-week-diiv-zirp/reviews/album-of-the-week/",
+          "published": "2026-10-27T20:25:11+00:00"
+        },
+        {
+          "source": "Slant (music)",
+          "source_type": "reviews",
+          "weight": 1.0,
+          "mention": "review",
+          "score": null,
+          "headline": "DIIV ‘Zirp!’ Review: Distortion Without Dimension",
+          "link": "https://www.slantmagazine.com/music/diiv-zirp-album-review/",
+          "published": "2026-10-25T15:00:00+00:00"
+        }
+      ],
+      "fans": 38258,
+      "star_power": 0.655,
+      "personal": 0.592,
+      "personal_reason": "You've played DIIV 4 times",
+      "coverage": 3.0,
+      "publications": [
+        "Pitchfork",
+        "Slant",
+        "Stereogum"
+      ],
+      "popularity": 0.862,
+      "rank_score": 0.673,
+      "avg_score": null
+    },
     {
       "artist": "Shabazz Palaces",
       "title": "It's a Style Sport",
@@ -15,6 +109,7 @@
       ],
       "sources": [
         "Pitchfork (album reviews)",
+        "Slant (music)",
         "The Needle Drop (YouTube)",
         "The Needle Drop (website)"
       ],
@@ -48,131 +143,31 @@
           "headline": "It’s a Style Sport",
           "link": "https://pitchfork.com/reviews/albums/shabazz-palaces-its-a-style-sport/",
           "published": "2026-10-23T04:01:00+00:00"
+        },
+        {
+          "source": "Slant (music)",
+          "source_type": "reviews",
+          "weight": 1.0,
+          "mention": "review",
+          "score": null,
+          "headline": "Shabazz Palaces ‘It’s a Style Sport’ Review: A Veteran’s Rulebook, Broken with Flair",
+          "link": "https://www.slantmagazine.com/music/shabazz-palaces-its-a-style-sport-album-review/",
+          "published": "2026-10-18T15:00:00+00:00"
         }
       ],
       "fans": 7385,
       "star_power": 0.553,
       "personal": 0.603,
       "personal_reason": "You've played Shabazz Palaces 5 times",
-      "acclaim_points": 13.0,
-      "coverage": 2,
-      "critical_acclaim": 1.0,
-      "popularity": 0.776,
-      "rank_score": 0.739,
+      "coverage": 3.0,
+      "publications": [
+        "Pitchfork",
+        "Slant",
+        "The Needle Drop"
+      ],
+      "popularity": 0.821,
+      "rank_score": 0.668,
       "avg_score": 7.0
-    },
-    {
-      "artist": "DIIV",
-      "title": "ZIRP!",
-      "type": "album",
-      "genre": "Rock / Alternative / Indie",
-      "release_date": "2026-10-30",
-      "date_source": "musicbrainz",
-      "scores": [],
-      "sources": [
-        "Pitchfork (album reviews)",
-        "Stereogum"
-      ],
-      "mentions": [
-        {
-          "source": "Pitchfork (album reviews)",
-          "source_type": "reviews",
-          "weight": 1.5,
-          "mention": "review",
-          "score": null,
-          "headline": "ZIRP!",
-          "link": "https://pitchfork.com/reviews/albums/diiv-zirp/",
-          "published": "2026-10-30T04:03:00+00:00"
-        },
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "review",
-          "score": null,
-          "headline": "Album Of The Week: DIIV ZIRP!",
-          "link": "https://stereogum.com/2515261/album-of-the-week-diiv-zirp/reviews/album-of-the-week/",
-          "published": "2026-10-27T20:25:11+00:00"
-        }
-      ],
-      "fans": 38258,
-      "star_power": 0.655,
-      "personal": 0.592,
-      "personal_reason": "You've played DIIV 4 times",
-      "acclaim_points": 7.5,
-      "coverage": 2,
-      "critical_acclaim": 0.577,
-      "popularity": 0.828,
-      "rank_score": 0.611,
-      "avg_score": null
-    },
-    {
-      "artist": "evilgiane & Slimesito",
-      "title": "EVILSLIME 2",
-      "type": "album",
-      "genre": "Hip-hop / R&B",
-      "release_date": "2026-10-30",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Stereogum"
-      ],
-      "mentions": [
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "announcement",
-          "score": null,
-          "headline": "evilgiane & Slimesito Announce New Album EVILSLIME 2 Out Friday: Hear “Georgia State”",
-          "link": "https://stereogum.com/2515652/evilgiane-slimesito-announce-new-album-evilslime-2-out-friday-hear-georgia-state/news/",
-          "published": "2026-10-26T20:37:32+00:00"
-        }
-      ],
-      "fans": 479,
-      "star_power": 0.383,
-      "personal": 0.903,
-      "personal_reason": "You've played EVILGIANE 197 times",
-      "acclaim_points": 0.0,
-      "coverage": 1,
-      "critical_acclaim": 0.0,
-      "popularity": 0.442,
-      "rank_score": 0.586,
-      "avg_score": null
-    },
-    {
-      "artist": "Huerco S.",
-      "title": "From the Toolkit of Lovers",
-      "type": "album",
-      "genre": "Electronic / Dance",
-      "release_date": null,
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Pitchfork (album reviews)"
-      ],
-      "mentions": [
-        {
-          "source": "Pitchfork (album reviews)",
-          "source_type": "reviews",
-          "weight": 1.5,
-          "mention": "review",
-          "score": null,
-          "headline": "From the Toolkit of Lovers",
-          "link": "https://pitchfork.com/reviews/albums/loidis-from-the-toolkit-of-lovers/",
-          "published": "2026-10-27T04:03:00+00:00"
-        }
-      ],
-      "fans": 22217,
-      "star_power": 0.621,
-      "personal": 0.54,
-      "personal_reason": "You've played Huerco S. 1 time",
-      "acclaim_points": 4.5,
-      "coverage": 1,
-      "critical_acclaim": 0.346,
-      "popularity": 0.56,
-      "rank_score": 0.484,
-      "avg_score": null
     },
     {
       "artist": "Boldy James & Real Bad Man",
@@ -201,11 +196,59 @@
       "star_power": 0.597,
       "personal": 0.699,
       "personal_reason": "You've played Boldy James 31 times",
-      "acclaim_points": 0.0,
-      "coverage": 1,
-      "critical_acclaim": 0.0,
-      "popularity": 0.548,
-      "rank_score": 0.474,
+      "coverage": 1.0,
+      "publications": [
+        "Stereogum"
+      ],
+      "popularity": 0.439,
+      "rank_score": 0.621,
+      "avg_score": null
+    },
+    {
+      "artist": "Dominic Fike",
+      "title": "How to Quit Smoking",
+      "type": "album",
+      "genre": "Pop",
+      "release_date": "2026-10-30",
+      "date_source": "musicbrainz",
+      "scores": [],
+      "sources": [
+        "Slant (music)",
+        "The Needle Drop (website)"
+      ],
+      "mentions": [
+        {
+          "source": "Slant (music)",
+          "source_type": "reviews",
+          "weight": 1.0,
+          "mention": "review",
+          "score": null,
+          "headline": "Review: On ‘How to Quit Smoking,’ Dominic Fike Struggles to Kick Bad Habits",
+          "link": "https://www.slantmagazine.com/music/dominic-fike-how-to-quit-smoking-album-review/",
+          "published": "2026-10-30T04:00:00+00:00"
+        },
+        {
+          "source": "The Needle Drop (website)",
+          "source_type": "reviews",
+          "weight": 1.0,
+          "mention": "announcement",
+          "score": null,
+          "headline": "Dominic Fike announces features for ‘How to Quit Smoking’",
+          "link": "https://theneedledrop.com/news/dominic-fike-announces-features-for-how-to-quit-smoking/",
+          "published": "2026-10-28T19:33:16+00:00"
+        }
+      ],
+      "fans": 83539,
+      "star_power": 0.703,
+      "personal": 0.563,
+      "personal_reason": "You've played Dominic Fike 2 times",
+      "coverage": 2.0,
+      "publications": [
+        "Slant",
+        "The Needle Drop"
+      ],
+      "popularity": 0.681,
+      "rank_score": 0.598,
       "avg_score": null
     },
     {
@@ -235,56 +278,60 @@
       "star_power": 0.444,
       "personal": 0.632,
       "personal_reason": "You've played Doseone 9 times",
-      "acclaim_points": 0.0,
-      "coverage": 1,
-      "critical_acclaim": 0.0,
-      "popularity": 0.472,
-      "rank_score": 0.426,
+      "coverage": 1.0,
+      "publications": [
+        "Stereogum"
+      ],
+      "popularity": 0.378,
+      "rank_score": 0.556,
       "avg_score": null
     },
     {
-      "artist": "evilgiane & Slimesito",
-      "title": "Georgia State",
-      "type": "single",
-      "genre": "Hip-hop / R&B",
-      "release_date": "2026-10-26",
+      "artist": "Panda Bear",
+      "title": "PB Band Live 25 at Power Station",
+      "type": "album",
+      "genre": "Rock / Alternative / Indie",
+      "release_date": "2026-10-28",
       "date_source": "feeds",
       "scores": [],
       "sources": [
-        "Stereogum"
+        "Pitchfork (news)"
       ],
       "mentions": [
         {
-          "source": "Stereogum",
+          "source": "Pitchfork (news)",
           "source_type": "news",
           "weight": 1.0,
-          "mention": "announcement",
+          "mention": "release_news",
           "score": null,
-          "headline": "evilgiane & Slimesito Announce New Album EVILSLIME 2 Out Friday: Hear “Georgia State”",
-          "link": "https://stereogum.com/2515652/evilgiane-slimesito-announce-new-album-evilslime-2-out-friday-hear-georgia-state/news/",
-          "published": "2026-10-26T20:37:32+00:00"
+          "headline": "Panda Bear Unveils New Live Album",
+          "link": "https://pitchfork.com/story/panda-bear-unveils-new-live-album/",
+          "published": "2026-10-28T14:10:42+00:00"
         }
       ],
-      "fans": 479,
-      "star_power": 0.383,
-      "personal": 0.903,
-      "personal_reason": "You've played EVILGIANE 197 times",
-      "acclaim_points": 0.0,
-      "coverage": 1,
-      "critical_acclaim": 0.0,
-      "popularity": 0.442,
-      "rank_score": 0.41,
+      "fans": 27865,
+      "star_power": 0.635,
+      "personal": 0.563,
+      "personal_reason": "You've played Panda Bear 2 times",
+      "coverage": 1.0,
+      "publications": [
+        "Pitchfork"
+      ],
+      "popularity": 0.454,
+      "rank_score": 0.53,
       "avg_score": null
     },
     {
-      "artist": "Dominic Fike",
-      "title": "How to Quit Smoking",
-      "type": "album",
+      "artist": "Everything But The Girl",
+      "title": "Young and Dumb",
+      "type": "single",
       "genre": "Pop",
-      "release_date": "2026-10-30",
-      "date_source": "musicbrainz",
+      "release_date": "2026-10-28",
+      "date_source": "feeds",
       "scores": [],
       "sources": [
+        "Pitchfork (news)",
+        "Stereogum",
         "The Needle Drop (website)"
       ],
       "mentions": [
@@ -292,22 +339,45 @@
           "source": "The Needle Drop (website)",
           "source_type": "reviews",
           "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Everything But The Girl announces new album 'Blue Reservoir,' share \"Young and Dumb\" music video",
+          "link": "https://theneedledrop.com/news/everything-but-the-girl-announces-new-album-blue-reservoir-share-young-and-dumb-music-video/",
+          "published": "2026-10-28T20:12:54+00:00"
+        },
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
           "mention": "announcement",
           "score": null,
-          "headline": "Dominic Fike announces features for ‘How to Quit Smoking’",
-          "link": "https://theneedledrop.com/news/dominic-fike-announces-features-for-how-to-quit-smoking/",
-          "published": "2026-10-28T19:33:16+00:00"
+          "headline": "Everything But The Girl Announce New Album Blue Reservoir: Hear “Young And Dumb”",
+          "link": "https://stereogum.com/2515793/everything-but-the-girl-announce-new-album-blue-reservoir-hear-young-and-dumb/music/",
+          "published": "2026-10-28T13:39:02+00:00"
+        },
+        {
+          "source": "Pitchfork (news)",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Everything But the Girl Ready New Album Blue Reservoir",
+          "link": "https://pitchfork.com/story/everything-but-the-girl-ready-new-album-blue-reservoir/",
+          "published": "2026-10-28T11:34:35+00:00"
         }
       ],
-      "fans": 83539,
-      "star_power": 0.703,
-      "personal": 0.563,
-      "personal_reason": "You've played Dominic Fike 2 times",
-      "acclaim_points": 0.0,
-      "coverage": 1,
-      "critical_acclaim": 0.0,
-      "popularity": 0.601,
-      "rank_score": 0.398,
+      "fans": 76069,
+      "star_power": 0.697,
+      "personal": 0.687,
+      "personal_reason": "You've played Everything But the Girl 25 times",
+      "coverage": 3.0,
+      "publications": [
+        "Pitchfork",
+        "Stereogum",
+        "The Needle Drop"
+      ],
+      "popularity": 0.879,
+      "rank_score": 0.521,
       "avg_score": null
     },
     {
@@ -337,45 +407,47 @@
       "star_power": 0.76,
       "personal": 0.707,
       "personal_reason": "You've played Phoebe Bridgers 36 times",
-      "acclaim_points": 0.0,
-      "coverage": 1,
-      "critical_acclaim": 0.0,
-      "popularity": 0.63,
-      "rank_score": 0.39,
+      "coverage": 1.0,
+      "publications": [
+        "The Needle Drop"
+      ],
+      "popularity": 0.504,
+      "rank_score": 0.517,
       "avg_score": null
     },
     {
-      "artist": "Justice",
-      "title": "Pusher",
-      "type": "single",
-      "genre": "Electronic / Dance",
+      "artist": "Phoebe Bridgers",
+      "title": "Madison Square Garden",
+      "type": "ep",
+      "genre": "Rock / Alternative / Indie",
       "release_date": "2026-10-29",
       "date_source": "feeds",
       "scores": [],
       "sources": [
-        "Stereogum"
+        "Pitchfork (news)"
       ],
       "mentions": [
         {
-          "source": "Stereogum",
+          "source": "Pitchfork (news)",
           "source_type": "news",
           "weight": 1.0,
-          "mention": "new_song",
+          "mention": "announcement",
           "score": null,
-          "headline": "Justice – “Pusher” (Feat. Gesaffelstein)",
-          "link": "https://stereogum.com/2515856/justice-gesaffelstein-pusher-grand-theft-auto-vi-soundtrack-score/music/",
-          "published": "2026-10-29T14:09:59+00:00"
+          "headline": "Phoebe Bridgers Announces Madison Square Garden EP",
+          "link": "https://pitchfork.com/story/phoebe-bridgers-announces-madison-square-garden-ep/",
+          "published": "2026-10-29T17:25:02+00:00"
         }
       ],
-      "fans": 813168,
-      "star_power": 0.844,
-      "personal": 0.787,
-      "personal_reason": "You've played Justice 25 times",
-      "acclaim_points": 0.0,
-      "coverage": 1,
-      "critical_acclaim": 0.0,
-      "popularity": 0.672,
-      "rank_score": 0.378,
+      "fans": 209777,
+      "star_power": 0.76,
+      "personal": 0.707,
+      "personal_reason": "You've played Phoebe Bridgers 36 times",
+      "coverage": 1.0,
+      "publications": [
+        "Pitchfork"
+      ],
+      "popularity": 0.504,
+      "rank_score": 0.517,
       "avg_score": null
     }
   ],
@@ -390,9 +462,20 @@
         "date_source": "musicbrainz",
         "scores": [],
         "sources": [
+          "Slant (music)",
           "The Needle Drop (website)"
         ],
         "mentions": [
+          {
+            "source": "Slant (music)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "review",
+            "score": null,
+            "headline": "Review: On ‘How to Quit Smoking,’ Dominic Fike Struggles to Kick Bad Habits",
+            "link": "https://www.slantmagazine.com/music/dominic-fike-how-to-quit-smoking-album-review/",
+            "published": "2026-10-30T04:00:00+00:00"
+          },
           {
             "source": "The Needle Drop (website)",
             "source_type": "reviews",
@@ -408,11 +491,13 @@
         "star_power": 0.703,
         "personal": 0.563,
         "personal_reason": "You've played Dominic Fike 2 times",
-        "acclaim_points": 0.0,
-        "coverage": 1,
-        "critical_acclaim": 0.0,
-        "popularity": 0.601,
-        "rank_score": 0.398,
+        "coverage": 2.0,
+        "publications": [
+          "Slant",
+          "The Needle Drop"
+        ],
+        "popularity": 0.681,
+        "rank_score": 0.598,
         "avg_score": null
       },
       {
@@ -424,6 +509,7 @@
         "date_source": "feeds",
         "scores": [],
         "sources": [
+          "Pitchfork (news)",
           "Stereogum",
           "The Needle Drop (website)"
         ],
@@ -447,17 +533,30 @@
             "headline": "Everything But The Girl Announce New Album Blue Reservoir: Hear “Young And Dumb”",
             "link": "https://stereogum.com/2515793/everything-but-the-girl-announce-new-album-blue-reservoir-hear-young-and-dumb/music/",
             "published": "2026-10-28T13:39:02+00:00"
+          },
+          {
+            "source": "Pitchfork (news)",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Everything But the Girl Ready New Album Blue Reservoir",
+            "link": "https://pitchfork.com/story/everything-but-the-girl-ready-new-album-blue-reservoir/",
+            "published": "2026-10-28T11:34:35+00:00"
           }
         ],
         "fans": 76069,
         "star_power": 0.697,
         "personal": 0.687,
         "personal_reason": "You've played Everything But the Girl 25 times",
-        "acclaim_points": 0.0,
-        "coverage": 2,
-        "critical_acclaim": 0.0,
-        "popularity": 0.849,
-        "rank_score": 0.348,
+        "coverage": 3.0,
+        "publications": [
+          "Pitchfork",
+          "Stereogum",
+          "The Needle Drop"
+        ],
+        "popularity": 0.879,
+        "rank_score": 0.521,
         "avg_score": null
       },
       {
@@ -498,11 +597,13 @@
         "star_power": 0.505,
         "personal": 0.071,
         "personal_reason": "Similar to Lamp, Frankie Cosmos",
-        "acclaim_points": 0.0,
-        "coverage": 2,
-        "critical_acclaim": 0.0,
-        "popularity": 0.752,
-        "rank_score": 0.082,
+        "coverage": 2.0,
+        "publications": [
+          "Stereogum",
+          "The Needle Drop"
+        ],
+        "popularity": 0.602,
+        "rank_score": 0.161,
         "avg_score": null
       },
       {
@@ -532,11 +633,12 @@
         "star_power": 0.817,
         "personal": 0.079,
         "personal_reason": "Similar to Yes, Supertramp",
-        "acclaim_points": 0.0,
-        "coverage": 1,
-        "critical_acclaim": 0.0,
-        "popularity": 0.658,
-        "rank_score": 0.079,
+        "coverage": 1.0,
+        "publications": [
+          "Stereogum"
+        ],
+        "popularity": 0.527,
+        "rank_score": 0.149,
         "avg_score": null
       },
       {
@@ -566,11 +668,12 @@
         "star_power": 0.752,
         "personal": 0.081,
         "personal_reason": "Similar to Metric, Grimes",
-        "acclaim_points": 0.0,
-        "coverage": 1,
-        "critical_acclaim": 0.0,
-        "popularity": 0.626,
-        "rank_score": 0.078,
+        "coverage": 1.0,
+        "publications": [
+          "Stereogum"
+        ],
+        "popularity": 0.501,
+        "rank_score": 0.145,
         "avg_score": null
       },
       {
@@ -600,15 +703,51 @@
         "star_power": 0.337,
         "personal": 0.104,
         "personal_reason": "Similar to MUNA, Taylor Swift",
-        "acclaim_points": 0.0,
-        "coverage": 1,
-        "critical_acclaim": 0.0,
-        "popularity": 0.418,
-        "rank_score": 0.073,
+        "coverage": 1.0,
+        "publications": [
+          "The Needle Drop"
+        ],
+        "popularity": 0.335,
+        "rank_score": 0.121,
         "avg_score": null
       }
     ],
     "Hip-hop / R&B": [
+      {
+        "artist": "evilgiane & Slimesito",
+        "title": "EVILSLIME 2",
+        "type": "album",
+        "genre": "Hip-hop / R&B",
+        "release_date": "2026-10-30",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Stereogum"
+        ],
+        "mentions": [
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "announcement",
+            "score": null,
+            "headline": "evilgiane & Slimesito Announce New Album EVILSLIME 2 Out Friday: Hear “Georgia State”",
+            "link": "https://stereogum.com/2515652/evilgiane-slimesito-announce-new-album-evilslime-2-out-friday-hear-georgia-state/news/",
+            "published": "2026-10-26T20:37:32+00:00"
+          }
+        ],
+        "fans": 479,
+        "star_power": 0.383,
+        "personal": 0.903,
+        "personal_reason": "You've played EVILGIANE 197 times",
+        "coverage": 1.0,
+        "publications": [
+          "Stereogum"
+        ],
+        "popularity": 0.353,
+        "rank_score": 0.738,
+        "avg_score": null
+      },
       {
         "artist": "Shabazz Palaces",
         "title": "It's a Style Sport",
@@ -621,6 +760,7 @@
         ],
         "sources": [
           "Pitchfork (album reviews)",
+          "Slant (music)",
           "The Needle Drop (YouTube)",
           "The Needle Drop (website)"
         ],
@@ -654,52 +794,31 @@
             "headline": "It’s a Style Sport",
             "link": "https://pitchfork.com/reviews/albums/shabazz-palaces-its-a-style-sport/",
             "published": "2026-10-23T04:01:00+00:00"
+          },
+          {
+            "source": "Slant (music)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "review",
+            "score": null,
+            "headline": "Shabazz Palaces ‘It’s a Style Sport’ Review: A Veteran’s Rulebook, Broken with Flair",
+            "link": "https://www.slantmagazine.com/music/shabazz-palaces-its-a-style-sport-album-review/",
+            "published": "2026-10-18T15:00:00+00:00"
           }
         ],
         "fans": 7385,
         "star_power": 0.553,
         "personal": 0.603,
         "personal_reason": "You've played Shabazz Palaces 5 times",
-        "acclaim_points": 13.0,
-        "coverage": 2,
-        "critical_acclaim": 1.0,
-        "popularity": 0.776,
-        "rank_score": 0.739,
+        "coverage": 3.0,
+        "publications": [
+          "Pitchfork",
+          "Slant",
+          "The Needle Drop"
+        ],
+        "popularity": 0.821,
+        "rank_score": 0.668,
         "avg_score": 7.0
-      },
-      {
-        "artist": "evilgiane & Slimesito",
-        "title": "EVILSLIME 2",
-        "type": "album",
-        "genre": "Hip-hop / R&B",
-        "release_date": "2026-10-30",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Stereogum"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "announcement",
-            "score": null,
-            "headline": "evilgiane & Slimesito Announce New Album EVILSLIME 2 Out Friday: Hear “Georgia State”",
-            "link": "https://stereogum.com/2515652/evilgiane-slimesito-announce-new-album-evilslime-2-out-friday-hear-georgia-state/news/",
-            "published": "2026-10-26T20:37:32+00:00"
-          }
-        ],
-        "fans": 479,
-        "star_power": 0.383,
-        "personal": 0.903,
-        "personal_reason": "You've played EVILGIANE 197 times",
-        "acclaim_points": 0.0,
-        "coverage": 1,
-        "critical_acclaim": 0.0,
-        "popularity": 0.442,
-        "rank_score": 0.586,
-        "avg_score": null
       },
       {
         "artist": "Boldy James & Real Bad Man",
@@ -728,11 +847,12 @@
         "star_power": 0.597,
         "personal": 0.699,
         "personal_reason": "You've played Boldy James 31 times",
-        "acclaim_points": 0.0,
-        "coverage": 1,
-        "critical_acclaim": 0.0,
-        "popularity": 0.548,
-        "rank_score": 0.474,
+        "coverage": 1.0,
+        "publications": [
+          "Stereogum"
+        ],
+        "popularity": 0.439,
+        "rank_score": 0.621,
         "avg_score": null
       },
       {
@@ -762,11 +882,12 @@
         "star_power": 0.444,
         "personal": 0.632,
         "personal_reason": "You've played Doseone 9 times",
-        "acclaim_points": 0.0,
-        "coverage": 1,
-        "critical_acclaim": 0.0,
-        "popularity": 0.472,
-        "rank_score": 0.426,
+        "coverage": 1.0,
+        "publications": [
+          "Stereogum"
+        ],
+        "popularity": 0.378,
+        "rank_score": 0.556,
         "avg_score": null
       },
       {
@@ -796,11 +917,12 @@
         "star_power": 0.383,
         "personal": 0.903,
         "personal_reason": "You've played EVILGIANE 197 times",
-        "acclaim_points": 0.0,
-        "coverage": 1,
-        "critical_acclaim": 0.0,
-        "popularity": 0.442,
-        "rank_score": 0.41,
+        "coverage": 1.0,
+        "publications": [
+          "Stereogum"
+        ],
+        "popularity": 0.353,
+        "rank_score": 0.517,
         "avg_score": null
       },
       {
@@ -830,11 +952,12 @@
         "star_power": 0.655,
         "personal": 0.677,
         "personal_reason": "You've played Benny the Butcher 21 times",
-        "acclaim_points": 0.0,
-        "coverage": 1,
-        "critical_acclaim": 0.0,
-        "popularity": 0.578,
-        "rank_score": 0.325,
+        "coverage": 1.0,
+        "publications": [
+          "Stereogum"
+        ],
+        "popularity": 0.462,
+        "rank_score": 0.429,
         "avg_score": null
       }
     ],
@@ -849,6 +972,7 @@
         "scores": [],
         "sources": [
           "Pitchfork (album reviews)",
+          "Slant (music)",
           "Stereogum"
         ],
         "mentions": [
@@ -871,17 +995,65 @@
             "headline": "Album Of The Week: DIIV ZIRP!",
             "link": "https://stereogum.com/2515261/album-of-the-week-diiv-zirp/reviews/album-of-the-week/",
             "published": "2026-10-27T20:25:11+00:00"
+          },
+          {
+            "source": "Slant (music)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "review",
+            "score": null,
+            "headline": "DIIV ‘Zirp!’ Review: Distortion Without Dimension",
+            "link": "https://www.slantmagazine.com/music/diiv-zirp-album-review/",
+            "published": "2026-10-25T15:00:00+00:00"
           }
         ],
         "fans": 38258,
         "star_power": 0.655,
         "personal": 0.592,
         "personal_reason": "You've played DIIV 4 times",
-        "acclaim_points": 7.5,
-        "coverage": 2,
-        "critical_acclaim": 0.577,
-        "popularity": 0.828,
-        "rank_score": 0.611,
+        "coverage": 3.0,
+        "publications": [
+          "Pitchfork",
+          "Slant",
+          "Stereogum"
+        ],
+        "popularity": 0.862,
+        "rank_score": 0.673,
+        "avg_score": null
+      },
+      {
+        "artist": "Panda Bear",
+        "title": "PB Band Live 25 at Power Station",
+        "type": "album",
+        "genre": "Rock / Alternative / Indie",
+        "release_date": "2026-10-28",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Pitchfork (news)"
+        ],
+        "mentions": [
+          {
+            "source": "Pitchfork (news)",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "release_news",
+            "score": null,
+            "headline": "Panda Bear Unveils New Live Album",
+            "link": "https://pitchfork.com/story/panda-bear-unveils-new-live-album/",
+            "published": "2026-10-28T14:10:42+00:00"
+          }
+        ],
+        "fans": 27865,
+        "star_power": 0.635,
+        "personal": 0.563,
+        "personal_reason": "You've played Panda Bear 2 times",
+        "coverage": 1.0,
+        "publications": [
+          "Pitchfork"
+        ],
+        "popularity": 0.454,
+        "rank_score": 0.53,
         "avg_score": null
       },
       {
@@ -911,45 +1083,47 @@
         "star_power": 0.76,
         "personal": 0.707,
         "personal_reason": "You've played Phoebe Bridgers 36 times",
-        "acclaim_points": 0.0,
-        "coverage": 1,
-        "critical_acclaim": 0.0,
-        "popularity": 0.63,
-        "rank_score": 0.39,
+        "coverage": 1.0,
+        "publications": [
+          "The Needle Drop"
+        ],
+        "popularity": 0.504,
+        "rank_score": 0.517,
         "avg_score": null
       },
       {
-        "artist": "DIIV",
-        "title": "Dare Me",
-        "type": "single",
+        "artist": "Phoebe Bridgers",
+        "title": "Madison Square Garden",
+        "type": "ep",
         "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-10-28",
+        "release_date": "2026-10-29",
         "date_source": "feeds",
         "scores": [],
         "sources": [
-          "Stereogum"
+          "Pitchfork (news)"
         ],
         "mentions": [
           {
-            "source": "Stereogum",
+            "source": "Pitchfork (news)",
             "source_type": "news",
             "weight": 1.0,
-            "mention": "new_song",
+            "mention": "announcement",
             "score": null,
-            "headline": "DIIV – “Dare Me”",
-            "link": "https://stereogum.com/2515877/diiv-dare-me-zirp-song/music/",
-            "published": "2026-10-28T21:58:35+00:00"
+            "headline": "Phoebe Bridgers Announces Madison Square Garden EP",
+            "link": "https://pitchfork.com/story/phoebe-bridgers-announces-madison-square-garden-ep/",
+            "published": "2026-10-29T17:25:02+00:00"
           }
         ],
-        "fans": 38258,
-        "star_power": 0.655,
-        "personal": 0.592,
-        "personal_reason": "You've played DIIV 4 times",
-        "acclaim_points": 0.0,
-        "coverage": 1,
-        "critical_acclaim": 0.0,
-        "popularity": 0.578,
-        "rank_score": 0.289,
+        "fans": 209777,
+        "star_power": 0.76,
+        "personal": 0.707,
+        "personal_reason": "You've played Phoebe Bridgers 36 times",
+        "coverage": 1.0,
+        "publications": [
+          "Pitchfork"
+        ],
+        "popularity": 0.504,
+        "rank_score": 0.517,
         "avg_score": null
       },
       {
@@ -990,79 +1164,48 @@
         "star_power": 0.689,
         "personal": 0.54,
         "personal_reason": "You've played The Flaming Lips 1 time",
-        "acclaim_points": 0.0,
-        "coverage": 2,
-        "critical_acclaim": 0.0,
-        "popularity": 0.845,
-        "rank_score": 0.286,
+        "coverage": 2.0,
+        "publications": [
+          "Stereogum",
+          "The Needle Drop"
+        ],
+        "popularity": 0.676,
+        "rank_score": 0.407,
         "avg_score": null
       },
       {
-        "artist": "Tony Iommi & Jørn Lande",
-        "title": "From the Dark",
-        "type": "album",
+        "artist": "DIIV",
+        "title": "Dare Me",
+        "type": "single",
         "genre": "Rock / Alternative / Indie",
-        "release_date": null,
+        "release_date": "2026-10-28",
         "date_source": "feeds",
         "scores": [],
         "sources": [
-          "Pitchfork (album reviews)"
+          "Stereogum"
         ],
         "mentions": [
           {
-            "source": "Pitchfork (album reviews)",
-            "source_type": "reviews",
-            "weight": 1.5,
-            "mention": "review",
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
             "score": null,
-            "headline": "From the Dark",
-            "link": "https://pitchfork.com/reviews/albums/tony-iommi-from-the-dark/",
-            "published": "2026-10-27T04:02:00+00:00"
+            "headline": "DIIV – “Dare Me”",
+            "link": "https://stereogum.com/2515877/diiv-dare-me-zirp-song/music/",
+            "published": "2026-10-28T21:58:35+00:00"
           }
         ],
-        "fans": 79248,
-        "star_power": 0.7,
-        "personal": 0.0,
-        "personal_reason": "",
-        "acclaim_points": 4.5,
-        "coverage": 1,
-        "critical_acclaim": 0.346,
-        "popularity": 0.6,
-        "rank_score": 0.164,
-        "avg_score": null
-      },
-      {
-        "artist": "Dead Deities",
-        "title": "Dead Deities",
-        "type": "album",
-        "genre": "Rock / Alternative / Indie",
-        "release_date": null,
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Pitchfork (album reviews)"
+        "fans": 38258,
+        "star_power": 0.655,
+        "personal": 0.592,
+        "personal_reason": "You've played DIIV 4 times",
+        "coverage": 1.0,
+        "publications": [
+          "Stereogum"
         ],
-        "mentions": [
-          {
-            "source": "Pitchfork (album reviews)",
-            "source_type": "reviews",
-            "weight": 1.5,
-            "mention": "review",
-            "score": null,
-            "headline": "Dead Deities",
-            "link": "https://pitchfork.com/reviews/albums/satanic-planet-dead-deities/",
-            "published": "2026-10-30T04:01:00+00:00"
-          }
-        ],
-        "fans": 33,
-        "star_power": 0.219,
-        "personal": 0.0,
-        "personal_reason": "",
-        "acclaim_points": 4.5,
-        "coverage": 1,
-        "critical_acclaim": 0.346,
-        "popularity": 0.359,
-        "rank_score": 0.14,
+        "popularity": 0.462,
+        "rank_score": 0.387,
         "avg_score": null
       }
     ],
@@ -1094,11 +1237,12 @@
         "star_power": 0.621,
         "personal": 0.54,
         "personal_reason": "You've played Huerco S. 1 time",
-        "acclaim_points": 4.5,
-        "coverage": 1,
-        "critical_acclaim": 0.346,
-        "popularity": 0.56,
-        "rank_score": 0.484,
+        "coverage": 1.0,
+        "publications": [
+          "Pitchfork"
+        ],
+        "popularity": 0.448,
+        "rank_score": 0.512,
         "avg_score": null
       },
       {
@@ -1128,11 +1272,12 @@
         "star_power": 0.844,
         "personal": 0.787,
         "personal_reason": "You've played Justice 25 times",
-        "acclaim_points": 0.0,
-        "coverage": 1,
-        "critical_acclaim": 0.0,
-        "popularity": 0.672,
-        "rank_score": 0.378,
+        "coverage": 1.0,
+        "publications": [
+          "Stereogum"
+        ],
+        "popularity": 0.538,
+        "rank_score": 0.499,
         "avg_score": null
       },
       {
@@ -1162,11 +1307,12 @@
         "star_power": 0.747,
         "personal": 0.236,
         "personal_reason": "Similar to Justice, Sebastian",
-        "acclaim_points": 0.0,
-        "coverage": 1,
-        "critical_acclaim": 0.0,
-        "popularity": 0.623,
-        "rank_score": 0.143,
+        "coverage": 1.0,
+        "publications": [
+          "Stereogum"
+        ],
+        "popularity": 0.499,
+        "rank_score": 0.22,
         "avg_score": null
       },
       {
@@ -1178,9 +1324,20 @@
         "date_source": "feeds",
         "scores": [],
         "sources": [
+          "Pitchfork (news)",
           "Stereogum"
         ],
         "mentions": [
+          {
+            "source": "Pitchfork (news)",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Junior Boys Return With New Album The Gore",
+            "link": "https://pitchfork.com/story/junior-boys-return-with-new-album-the-gore/",
+            "published": "2026-10-29T15:16:52+00:00"
+          },
           {
             "source": "Stereogum",
             "source_type": "news",
@@ -1196,11 +1353,48 @@
         "star_power": 0.58,
         "personal": 0.162,
         "personal_reason": "Similar to The Knife, Caribou",
-        "acclaim_points": 0.0,
-        "coverage": 1,
-        "critical_acclaim": 0.0,
-        "popularity": 0.54,
-        "rank_score": 0.106,
+        "coverage": 2.0,
+        "publications": [
+          "Pitchfork",
+          "Stereogum"
+        ],
+        "popularity": 0.632,
+        "rank_score": 0.212,
+        "avg_score": null
+      },
+      {
+        "artist": "SILVERWINGKILLER",
+        "title": "DESPERATE STRUGGLE",
+        "type": "ep",
+        "genre": "Electronic / Dance",
+        "release_date": "2026-10-30",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Clash"
+        ],
+        "mentions": [
+          {
+            "source": "Clash",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "review",
+            "score": null,
+            "headline": "SILVERWINGKILLER’s New EP ‘DESPERATE STRUGGLE’ Is Remarkable",
+            "link": "https://www.clashmusic.com/news/silverwingkillers-new-ep-desperate-struggle-is-remarkable/",
+            "published": "2026-10-30T16:08:18+00:00"
+          }
+        ],
+        "fans": 49,
+        "star_power": 0.243,
+        "personal": 0.097,
+        "personal_reason": "Similar to P.V.A.",
+        "coverage": 1.0,
+        "publications": [
+          "Clash"
+        ],
+        "popularity": 0.297,
+        "rank_score": 0.126,
         "avg_score": null
       },
       {
@@ -1230,45 +1424,12 @@
         "star_power": 0.398,
         "personal": 0.0,
         "personal_reason": "",
-        "acclaim_points": 0.0,
-        "coverage": 1,
-        "critical_acclaim": 0.0,
-        "popularity": 0.449,
-        "rank_score": 0.045,
-        "avg_score": null
-      },
-      {
-        "artist": "Lambb",
-        "title": "OBSESSION",
-        "type": "single",
-        "genre": "Electronic / Dance",
-        "release_date": "2026-10-30",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
+        "coverage": 1.0,
+        "publications": [
           "Stereogum"
         ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Lamb Rebrands As Lambb Following Complaint From Trip-Hop Duo, Shares New Single “OBSESSION”",
-            "link": "https://stereogum.com/2516019/lamb-lambb-rebrand-obsession-single/music/",
-            "published": "2026-10-30T13:32:03+00:00"
-          }
-        ],
-        "fans": 9,
-        "star_power": 0.143,
-        "personal": 0.047,
-        "personal_reason": "Similar to daine, Dev Lemons",
-        "acclaim_points": 0.0,
-        "coverage": 1,
-        "critical_acclaim": 0.0,
-        "popularity": 0.322,
-        "rank_score": 0.042,
+        "popularity": 0.359,
+        "rank_score": 0.108,
         "avg_score": null
       }
     ]

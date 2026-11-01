@@ -263,5 +263,45 @@
   "name": "Orca",
   "fans": 3900,
   "checked": "2026-11-01T09:31:58.442603+00:00"
+ },
+ "atlassound": {
+  "name": "Atlas Sound",
+  "fans": 9299,
+  "checked": "2026-11-01T10:10:40.935426+00:00"
+ },
+ "ministry": {
+  "name": "Ministry",
+  "fans": 74059,
+  "checked": "2026-11-01T10:10:41.349580+00:00"
+ },
+ "heavynorth": {
+  "name": "The Heavy North",
+  "fans": 57,
+  "checked": "2026-11-01T10:10:41.768170+00:00"
+ },
+ "mollygonemad": {
+  "name": "Molly Gone Mad",
+  "fans": 43,
+  "checked": "2026-11-01T10:10:42.191694+00:00"
+ },
+ "silverwingkiller": {
+  "name": "SILVERWINGKILLER",
+  "fans": 49,
+  "checked": "2026-11-01T10:10:42.621696+00:00"
+ },
+ "harryfowler": {
+  "name": "Harry Fowler",
+  "fans": 3,
+  "checked": "2026-11-01T10:10:43.032813+00:00"
+ },
+ "exre": {
+  "name": "Ex:Re",
+  "fans": 5319,
+  "checked": "2026-11-01T10:10:43.508771+00:00"
+ },
+ "pandabear": {
+  "name": "Panda Bear",
+  "fans": 27865,
+  "checked": "2026-11-01T10:10:43.916290+00:00"
  }
 }

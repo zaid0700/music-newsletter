@@ -14,7 +14,7 @@
  "huercos|fromthetoolkitoflovers|album": {
   "cover": null,
   "source": null,
-  "checked": "2026-11-01T09:32:25.824582+00:00"
+  "checked": "2026-11-01T10:11:14.719891+00:00"
  },
  "diiv|zirp|album": {
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/31/87/54318724-e4d1-7254-a7d4-d2e671dff8ea/26CRGIM55137.rgb.jpg/600x600bb.jpg",
@@ -75,12 +75,12 @@
  "boldyjamesandrealbadman|strobelight|album": {
   "cover": null,
   "source": null,
-  "checked": "2026-11-01T09:32:25.824582+00:00"
+  "checked": "2026-11-01T10:11:14.719891+00:00"
  },
  "phoebebridgers|liveatmadisonsquaregarden|ep": {
   "cover": null,
   "source": null,
-  "checked": "2026-11-01T09:32:25.824582+00:00"
+  "checked": "2026-11-01T10:11:14.719891+00:00"
  },
  "justice|pusher|single": {
   "cover": "https://cdn-images.dzcdn.net/images/cover/e79f46f73f256fb9f7dcacc0cc344d1b/500x500-000000-80-0-0.jpg",
@@ -120,7 +120,7 @@
  "boysnoize|nachsteliebe|single": {
   "cover": null,
   "source": null,
-  "checked": "2026-11-01T09:32:25.824582+00:00"
+  "checked": "2026-11-01T10:11:14.719891+00:00"
  },
  "juniorboys|underneaththemoon|single": {
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/5b/7e/395b7e1b-20c2-6ac7-8d89-9363659866ba/4250506853167_cover.jpg/600x600bb.jpg",
@@ -130,7 +130,7 @@
  "robertdelnaja|lifesupport|album": {
   "cover": null,
   "source": null,
-  "checked": "2026-11-01T09:32:25.824582+00:00"
+  "checked": "2026-11-01T10:11:14.719891+00:00"
  },
  "doseoneandfatboisharifandsteeltippeddove|truthugly|album": {
   "cover": "https://cdn-images.dzcdn.net/images/cover/295c42d4f6f3d67ddb271a490682f937/500x500-000000-80-0-0.jpg",
@@ -156,5 +156,20 @@
   "cover": "https://cdn-images.dzcdn.net/images/cover/16ce3b0a5b777559c2d37d55f23c138f/500x500-000000-80-0-0.jpg",
   "source": "Deezer",
   "checked": "2026-11-01T09:32:25.824582+00:00"
+ },
+ "pandabear|pbbandlive25atpowerstation|album": {
+  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/33/96/7c33965c-f44e-c80e-b952-9c71f355abf8/191508000668.png/600x600bb.jpg",
+  "source": "iTunes",
+  "checked": "2026-11-01T10:11:14.719891+00:00"
+ },
+ "phoebebridgers|madisonsquaregarden|ep": {
+  "cover": null,
+  "source": null,
+  "checked": "2026-11-01T10:11:14.719891+00:00"
+ },
+ "silverwingkiller|desperatestruggle|ep": {
+  "cover": "https://cdn-images.dzcdn.net/images/cover/cf8fd061efb9be9e2a82f55b7304059d/500x500-000000-80-0-0.jpg",
+  "source": "Deezer",
+  "checked": "2026-11-01T10:11:14.719891+00:00"
  }
 }

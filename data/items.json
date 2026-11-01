@@ -1,5 +1,131 @@
 [
   {
+    "id": "251f42309d2f6c69",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Here’s Where to Watch the 2026 New York Marathon Live Online",
+    "link": "https://www.billboard.com/culture/product-recommendations/new-york-marathon-2026-watch-live-online-free-1236369518/",
+    "summary": "Livestream the more than 26-mile race throughout all five boroughs in New York City on Nov. 1.",
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "abc",
+      "espn",
+      "how to watch",
+      "NOADS"
+    ],
+    "published": "2026-11-01T10:00:00+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "067a34dd72bc0d5a",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Deep Purple postpone shows after Ian Gillan hospitalised following “medical emergency”",
+    "link": "https://www.nme.com/news/music/deep-purple-postpone-shows-ian-gillan-hospitalised-medical-emergency-3974745?utm_source=rss&utm_medium=rss&utm_campaign=deep-purple-postpone-shows-ian-gillan-hospitalised-medical-emergency",
+    "summary": "The band have cancelled their planned concerts in Leipzig and Hamburg The post Deep Purple postpone shows after Ian Gillan hospitalised following “medical emergency” appeared first on NME .",
+    "categories": [
+      "Music News",
+      "News",
+      "Rock"
+    ],
+    "published": "2026-11-01T09:38:13+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "442277cfaa7b2755",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Here’s how your favourite musicians and actors dressed up for Halloween 2026",
+    "link": "https://www.nme.com/news/music/heres-how-your-favourite-musicians-and-actors-dressed-up-for-halloween-2026-3974741?utm_source=rss&utm_medium=rss&utm_campaign=heres-how-your-favourite-musicians-and-actors-dressed-up-for-halloween-2026",
+    "summary": "Harry Styles, Lily Allen, Wolf Alice, Yungblud, Lizzo and Zendaya were among the stars getting into the Halloween spirit The post Here’s how your favourite musicians and actors dressed up for Halloween 2026 appeared first on NME .",
+    "categories": [
+      "Music News",
+      "News",
+      "Halloween"
+    ],
+    "published": "2026-11-01T09:07:01+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "73c929f9ad8c888e",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Gracie Abrams Goes From Juliet to Romeo During ‘SNL’ Halloween Performances",
+    "link": "https://www.billboard.com/music/pop/gracie-abrams-snl-halloween-romeo-juliet-costumes-1236371683/",
+    "summary": "The singer performed “Hit the Wall” and “Here You Come, There You Go” in costumes lifted from Baz Luhrmann’s 1996 film.",
+    "categories": [
+      "Music",
+      "Pop",
+      "Daughter from Hell",
+      "halloween",
+      "Hit the Wall",
+      "Romeo + Juliet",
+      "saturday night live",
+      "snl"
+    ],
+    "published": "2026-11-01T08:41:29+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "1868628756aa0c1b",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘SNL’: Watch Gracie Abrams Perform ‘Hit the Wall,’ ‘Here You Come, There You Go’",
+    "link": "https://www.rollingstone.com/music/music-news/snl-watch-gracie-abrams-perform-hit-wall-here-you-come-there-you-go-1235650873/",
+    "summary": "The singer-songwriter plays one song from her latest album, Daughter from Hell , and another from its deluxe version",
+    "categories": [
+      "Music",
+      "Music News",
+      "Gracie Abrams",
+      "Late-Night TV",
+      "Saturday Night Live",
+      "SNL"
+    ],
+    "published": "2026-11-01T07:22:52+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "187b5e9e6e69b346",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Official ‘KPop Demon Hunters’ Advent Calendars Arrive for Christmas, With 24 Days of Gifts to Uncover",
+    "link": "https://www.billboard.com/culture/product-recommendations/official-kpop-demon-hunters-advent-calendar-2026-buy-online-1236371659/",
+    "summary": "The official holiday releases include features accessories, jewelry, stationery and toys inspired by the hit animated film.",
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "christmas",
+      "gift guide",
+      "kpop",
+      "NOADS"
+    ],
+    "published": "2026-11-01T05:20:30+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "3a3bf02c561e4b98",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘SNL’ Parodies Nicki Minaj After Her Trump Rally Appearance",
+    "link": "https://www.billboard.com/culture/tv-film/snl-nicki-minaj-spoof-trump-cold-open-halloween-1236371672/",
+    "summary": "Saidah Belo-Osagie played the rapper days after Minaj joined Trump at a Michigan rally.",
+    "categories": [
+      "Culture",
+      "TV/Film",
+      "Music News"
+    ],
+    "published": "2026-11-01T05:06:19+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "a1893170a7e07376",
     "source": "The Needle Drop (YouTube)",
     "source_type": "video",
@@ -10,6 +136,28 @@
     "categories": [],
     "published": "2026-11-01T04:41:41+00:00",
     "collected": "2026-11-01T09:31:24.640214+00:00"
+  },
+  {
+    "id": "c66bd1d381caa112",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Trump Ruins David S. Pumpkins’ Return to SNL",
+    "link": "https://consequence.net/2026/11/trump-ruins-david-s-pumpkins-return-to-snl/",
+    "summary": "David S. Pumpkins returned to Saturday Night Live this Halloween, only to have his comeback hijacked by another very loud, very orange, and considerably less entertaining character. Trump Ruins David S. Pumpkins’ Return to SNL Alex Young",
+    "categories": [
+      "News Bites",
+      "Comedy",
+      "Comedy News",
+      "News",
+      "TV & Movie News",
+      "TV & Movies",
+      "Donald Trump",
+      "Saturday Night Live",
+      "Tom Hanks"
+    ],
+    "published": "2026-11-01T04:37:06+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "9439792e4506bda9",
@@ -24,6 +172,22 @@
     ],
     "published": "2026-11-01T04:00:00+00:00",
     "collected": "2026-11-01T09:31:24.640214+00:00"
+  },
+  {
+    "id": "b76ff1e08fd8b22e",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Harry Styles Honored by Jalen Brunson at Madison Square Garden, Receives 30 Nights Banner",
+    "link": "https://www.rollingstone.com/music/music-news/harry-styles-jalen-bruson-banner-msg-psycho-killer-1235648896/",
+    "summary": "The singer ended his record-breaking Together, Together residency with a special Halloween show where he also covered \"Psycho Killer\" dressed as a New York City rat",
+    "categories": [
+      "Music",
+      "Music News",
+      "Harry Styles"
+    ],
+    "published": "2026-11-01T03:09:16+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "3b246ffc2ce846cb",
@@ -55,6 +219,149 @@
     ],
     "published": "2026-11-01T01:54:20+00:00",
     "collected": "2026-11-01T02:37:20.954629+00:00"
+  },
+  {
+    "id": "b17eef8f7da30a08",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Inde Navarrette & Gracie Abrams on ‘SNL’ Halloween Episode: Here’s Where to Watch ‘Saturday Night Live’ Online for Free",
+    "link": "https://www.billboard.com/culture/product-recommendations/snl-inde-navarrette-gracie-abrams-halloween-watch-live-free-1236359709/",
+    "summary": "Livestream the Obsession actress and pop singer/songwriter on Saturday, Oct. 31 — watch live online for free.",
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "halloween",
+      "how to watch",
+      "Music News",
+      "nbc",
+      "NOADS",
+      "saturday night live",
+      "snl"
+    ],
+    "published": "2026-11-01T00:30:00+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "c156e284e83bf4a8",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Today’s Wordle answer and hints for #1961 on November 01",
+    "link": "https://www.nme.com/guides/gaming-guides/heres-the-wordle-answer-for-today-3171240?utm_source=rss&utm_medium=rss&utm_campaign=heres-the-wordle-answer-for-today",
+    "summary": "There's no need to lose your streak - here's the 'Wordle' answer for today The post Today’s Wordle answer and hints for #1961 on November 01 appeared first on NME .",
+    "categories": [
+      "Gaming Guides",
+      "Guides",
+      "Mobile",
+      "PC"
+    ],
+    "published": "2026-11-01T00:01:34+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "c57180747228e63b",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘Connections’ answers and hints for today, November 01",
+    "link": "https://www.nme.com/guides/gaming-guides/connections-answers-hints-groups-today-3557066?utm_source=rss&utm_medium=rss&utm_campaign=connections-answers-hints-groups-today",
+    "summary": "Here are hints, groups and answers for 'Connections' #1239 The post ‘Connections’ answers and hints for today, November 01 appeared first on NME .",
+    "categories": [
+      "Gaming Guides",
+      "Guides",
+      "Mobile",
+      "PC"
+    ],
+    "published": "2026-11-01T00:00:27+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "2e236ccde5fabb19",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Globle answer today – here’s the answer and hints for November 01",
+    "link": "https://www.nme.com/guides/gaming-guides/globle-hint-answer-today-3213991?utm_source=rss&utm_medium=rss&utm_campaign=globle-hint-answer-today",
+    "summary": "Where in the world? The post Globle answer today – here’s the answer and hints for November 01 appeared first on NME .",
+    "categories": [
+      "Gaming Guides",
+      "Guides",
+      "PC"
+    ],
+    "published": "2026-11-01T00:00:17+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "4be85236f7ab1d58",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Framed answer today – here’s the solution for November 01",
+    "link": "https://www.nme.com/guides/gaming-guides/framed-answer-today-3192186?utm_source=rss&utm_medium=rss&utm_campaign=framed-answer-today",
+    "summary": "You’ve been framed The post Framed answer today – here’s the solution for November 01 appeared first on NME .",
+    "categories": [
+      "Gaming Guides",
+      "Guides",
+      "Mobile"
+    ],
+    "published": "2026-11-01T00:00:09+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "a2861a4fbbbdef2d",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Lizzo Recreates Dolly Parton’s Iconic ‘Jolene’ Look for Halloween",
+    "link": "https://www.billboard.com/music/music-news/lizzo-dolly-parton-jolene-halloween-costume-1236371650/",
+    "summary": "\"Dolly, you icon you, thank you for believing in the good of humanity,\" the rapper-singer wrote.",
+    "categories": [
+      "Music",
+      "Music News",
+      "genre country",
+      "genre hiphop",
+      "genre rb",
+      "halloween"
+    ],
+    "published": "2026-10-31T20:18:31+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "2b5cd357677f766a",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘NXT Halloween Havoc’ 2026: Here’s Where to Watch WWE Premium Live Event Online",
+    "link": "https://www.billboard.com/culture/product-recommendations/wwe-nxt-halloween-havoc-2026-how-to-watch-live-online-free-1236369109/",
+    "summary": "There are a number of ways to stream the pro wrestling TV event — watch online for free.",
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "how to watch",
+      "NOADS",
+      "wwe"
+    ],
+    "published": "2026-10-31T20:00:00+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "e0c14b7cb51ac1e9",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Donald Trump Weighs In on Nicki Minaj as Potential White House Press Secretary",
+    "link": "https://www.billboard.com/music/rb-hip-hop/donald-trump-nicki-minaj-white-house-press-secretary-1236371646/",
+    "summary": "The president was asked whether the rapper could take on the role in his administration.",
+    "categories": [
+      "Music",
+      "R&B/Hip-Hop",
+      "genre hiphop",
+      "Music News",
+      "politics"
+    ],
+    "published": "2026-10-31T18:51:21+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "b9332737af7fb9c3",
@@ -107,6 +414,176 @@
     "collected": "2026-11-01T02:37:20.954629+00:00"
   },
   {
+    "id": "14fb033525674767",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Deep Purple Postpone Shows as Singer Ian Gillan Hospitalized Due to “Medical Emergency”",
+    "link": "https://consequence.net/2026/10/deep-purple-ian-gillan-medical-emergency/",
+    "summary": "The legendary rock act is in the midst of a UK/European tour. Deep Purple Postpone Shows as Singer Ian Gillan Hospitalized Due to “Medical Emergency” Spencer Kaufman",
+    "categories": [
+      "Heavy Music News",
+      "Heavy Consequence",
+      "Music",
+      "Music News",
+      "News",
+      "Classic Rock",
+      "Hard Rock"
+    ],
+    "published": "2026-10-31T17:12:36+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "336088b929d45c11",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Harry Styles Says the Scariest Thing This Halloween Is New York City’s Coffee Prices",
+    "link": "https://consequence.net/2026/10/harry-styles-harryween-coffee-prices/",
+    "summary": "Wearing an Elvis Presley costume at Madison Square Garden, Styles poked fun at checkout screens asking customers to tip 20, 22, or 24 percent. Harry Styles Says the Scariest Thing This Halloween Is New York City’s Coffee Prices Alex Krinsky",
+    "categories": [
+      "News Bites",
+      "Music",
+      "Music News",
+      "News",
+      "Pop"
+    ],
+    "published": "2026-10-31T16:56:46+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "98b05c579eefb364",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Two Arrested in Murder of SNL Writer Jimmy Fowlie’s Sister",
+    "link": "https://consequence.net/2026/10/two-arrested-in-murder-of-snl-writer-sister/",
+    "summary": "Downer disappeared in December 2025, prompting her brother to publicly appeal for answers about her whereabouts. Two Arrested in Murder of SNL Writer Jimmy Fowlie’s Sister Alex Krinsky",
+    "categories": [
+      "Pop Culture News",
+      "News",
+      "Pop Culture",
+      "Saturday Night Live"
+    ],
+    "published": "2026-10-31T16:49:49+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "ccaf4f14c4c2f777",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Deep Purple Postpone Concerts After Singer Ian Gillan’s ‘Medical Emergency’",
+    "link": "https://www.rollingstone.com/music/music-news/deep-purple-postpone-concerts-ian-gillan-medical-emergency-1235650888/",
+    "summary": "Singer hospitalized in Germany following unspecified medical issue; band is currently scheduled to resume tour next week",
+    "categories": [
+      "Music",
+      "Music News",
+      "Deep Purple"
+    ],
+    "published": "2026-10-31T16:38:32+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "0c173dd7cf5cfd75",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Deep Purple’s Ian Gillan Hospitalized Following Medical Emergency, Two Shows Postponed",
+    "link": "https://www.billboard.com/music/rock/deep-purple-ian-gillan-hospitalized-medical-emergency-1236371632/",
+    "summary": "The 81-year-old singer was scheduled to perform in Germany over the weekend.",
+    "categories": [
+      "Music",
+      "Rock",
+      "Concerts",
+      "genre rock",
+      "Music News",
+      "Touring"
+    ],
+    "published": "2026-10-31T16:38:09+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "a5f9cebfd8528583",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Atlanta Gridiron Classic 2026: Here’s Where to Watch Florida Gators vs. Georgia Bulldogs Live Online Free",
+    "link": "https://www.billboard.com/culture/product-recommendations/florida-vs-georgia-watch-college-football-live-online-free-1236370601/",
+    "summary": "Livestream the SEC college football rivalry game on Saturday, Oct. 31 — and possible celebrity sightings at the game.",
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "abc",
+      "college football",
+      "how to watch",
+      "NCAA",
+      "NOADS"
+    ],
+    "published": "2026-10-31T16:30:47+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "3be5dce3adf5ba02",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Christian Musician Kid Rock Compares Abdul El-Sayed to 9/11 Hijackers",
+    "link": "https://consequence.net/2026/10/kid-rock-abdul-el-sayed-9-11-hijackers-maher/",
+    "summary": "During an appearance on Real Time with Bill Maher, Kid Rock argued that the Michigan Senate candidate had assimilated into American society... much like the 9/11 hijackers. Christian Musician Kid Rock Compares Abdul El-Sayed to 9/11 Hijackers Alex Krinsky",
+    "categories": [
+      "Pop Culture News",
+      "Music",
+      "Pop Culture",
+      "Politics",
+      "Real Time With Bill Maher"
+    ],
+    "published": "2026-10-31T16:25:31+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "b48f6338df2e4d7b",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "SZA Seemingly Confirms Coachella 2027 Headlining Appearance, Work on New Album",
+    "link": "https://consequence.net/2026/10/sza-coachella-2027-new-album/",
+    "summary": "In a post to her alternate Instagram account, SZA shared a screenshot of TMZ's recent report on Coachella's 2027 headliners. SZA Seemingly Confirms Coachella 2027 Headlining Appearance, Work on New Album Alex Young",
+    "categories": [
+      "News Bites",
+      "Festival News and Rumors",
+      "Music",
+      "Music News",
+      "News",
+      "Coachella Music Festival",
+      "Pop",
+      "R&B"
+    ],
+    "published": "2026-10-31T16:14:27+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "ce1d4ac3b00eeea5",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "James Hetfield Says Turnstile Turned Down Touring with Metallica",
+    "link": "https://consequence.net/2026/10/james-hetfield-turnstile-turned-down-metallica/",
+    "summary": "\"We wanted to get them on tour, and they said no. They're doing good on their own alread.\" James Hetfield Says Turnstile Turned Down Touring with Metallica Alex Young",
+    "categories": [
+      "News Bites",
+      "Heavy Consequence",
+      "Heavy Music News",
+      "Music",
+      "Music News",
+      "News",
+      "Hard Rock",
+      "Heavy Metal"
+    ],
+    "published": "2026-10-31T14:58:29+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "fc58e3f30234134d",
     "source": "The Needle Drop (website)",
     "source_type": "reviews",
@@ -137,6 +614,141 @@
     "collected": "2026-11-01T02:37:20.954629+00:00"
   },
   {
+    "id": "3c9cc33be0e2438b",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "A Timeline of Nicki Minaj and Donald Trump’s Bizarre MAGA Alliance",
+    "link": "https://www.rollingstone.com/music/music-features/nicki-minaj-donald-trump-timeline-1235650624/",
+    "summary": "How did the rapper and the president get so tight? Here's a full look at what led to this",
+    "categories": [
+      "Music",
+      "Music Features",
+      "Donald Trump",
+      "Nicki Minaj"
+    ],
+    "published": "2026-10-31T14:00:00+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "747fbb632094f8f3",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Michael Douglas Gives Update on Jack Nicholson: He’s ‘Well’ But Has ‘Disappeared’",
+    "link": "https://www.rollingstone.com/music/music-news/michael-douglas-jack-nicholson-update-1235650863/",
+    "summary": "\"He is up there by his house and walking around in his slippers,\" actor says of his longtime friend. \"He deserves it.\"",
+    "categories": [
+      "Music",
+      "Music News",
+      "Jack Nicholson",
+      "Michael Douglas"
+    ],
+    "published": "2026-10-31T13:56:16+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "a0dde35e13c619ec",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Come Back, Faith Hill",
+    "link": "https://www.rollingstone.com/music/music-features/faith-hill-come-back-to-country-music-1235650396/",
+    "summary": "The Grammy-winning country superstar hasn't released a solo album since 2005. Will she ever return to making music?",
+    "categories": [
+      "Music",
+      "Music Features",
+      "Country Music",
+      "Faith Hill",
+      "Tim McGraw"
+    ],
+    "published": "2026-10-31T13:00:00+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "39ecd2ddfbbd7e78",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "My Chemical Romance Confirm Plans for New Album",
+    "link": "https://consequence.net/2026/10/my-chemical-romance-plans-for-new-album/",
+    "summary": "Gerard Way says the band will work on the album in 2027. My Chemical Romance Confirm Plans for New Album Alex Young",
+    "categories": [
+      "Music News",
+      "Music",
+      "News",
+      "Alternative Rock",
+      "Emo"
+    ],
+    "published": "2026-10-31T12:53:59+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "2aee4c6494297d34",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Harry Styles recreate his 2010 ‘X Factor’ audition with Stevie Wonder cover at ‘Harryween’ show",
+    "link": "https://www.nme.com/news/music/watch-harry-styles-recreate-x-factor-audition-stevie-wonder-harryween-3974732?utm_source=rss&utm_medium=rss&utm_campaign=watch-harry-styles-recreate-x-factor-audition-stevie-wonder-harryween",
+    "summary": "The singer also dressed as Elvis Presley as he celebrated Halloween at Madison Square Garden The post Watch Harry Styles recreate his 2010 ‘X Factor’ audition with Stevie Wonder cover at ‘Harryween’ show appeared first on NME .",
+    "categories": [
+      "Music News",
+      "News",
+      "Pop"
+    ],
+    "published": "2026-10-31T11:42:15+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "0e56fc1317e47e7c",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "“Blue dot fever”: Lily Allen dresses up as Ticketmaster unsold seat map for Halloween",
+    "link": "https://www.nme.com/news/music/blue-dot-fever-lily-allen-ticketmaster-unsold-seat-map-halloween-3974727?utm_source=rss&utm_medium=rss&utm_campaign=blue-dot-fever-lily-allen-ticketmaster-unsold-seat-map-halloween",
+    "summary": "The singer was poking fun at the ticket sales controversy surrounding her recent North American tour The post “Blue dot fever”: Lily Allen dresses up as Ticketmaster unsold seat map for Halloween appeared first on NME .",
+    "categories": [
+      "Music News",
+      "News",
+      "Halloween",
+      "Pop"
+    ],
+    "published": "2026-10-31T10:41:59+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "652b79097e650a99",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Greta Thunberg, Paloma Faith and Nemahsis join Macklemore at London ‘Free Palestine’ tour finale",
+    "link": "https://www.nme.com/news/music/greta-thunberg-paloma-faith-and-nemahsis-join-macklemore-at-london-free-palestine-tour-finale-3974723?utm_source=rss&utm_medium=rss&utm_campaign=greta-thunberg-paloma-faith-and-nemahsis-join-macklemore-at-london-free-palestine-tour-finale",
+    "summary": "The sold-out Wembley concert also featured speeches from Holocaust survivor Stephen Kapos and Palestinian activist Arab Barghouthi The post Greta Thunberg, Paloma Faith and Nemahsis join Macklemore at London ‘Free Palestine’ tour finale appeared first on NME .",
+    "categories": [
+      "Music News",
+      "News",
+      "Politics"
+    ],
+    "published": "2026-10-31T09:33:07+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "fa5df87392b4755d",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "My Chemical Romance’s Gerard Way reveals plans to make new album in 2027 and return to touring in 2028",
+    "link": "https://www.nme.com/news/music/my-chemical-romance-gerard-way-plans-new-album-2027-touring-2028-3974719?utm_source=rss&utm_medium=rss&utm_campaign=my-chemical-romance-gerard-way-plans-new-album-2027-touring-2028",
+    "summary": "The band also reunited with The Used's Bert McCracken onstage for the first time since 2005 and debuted a rare ‘Danger Days’ track The post My Chemical Romance’s Gerard Way reveals plans to make new album in 2027 and return to touring in 2028 appeared first on NME .",
+    "categories": [
+      "Music News",
+      "News",
+      "Emo"
+    ],
+    "published": "2026-10-31T08:42:13+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "3a04682226d78929",
     "source": "Pitchfork (album reviews)",
     "source_type": "reviews",
@@ -149,6 +761,41 @@
     ],
     "published": "2026-10-31T04:00:00+00:00",
     "collected": "2026-11-01T02:37:20.954629+00:00"
+  },
+  {
+    "id": "166a0375beaef64f",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Live Nation Defends My Chemical Romance’s Dallas Cowboys Cheerleaders Lookalikes: It Was ‘Parody’",
+    "link": "https://www.rollingstone.com/music/music-news/live-nation-my-chemical-romance-dallas-cowboys-cheerleaders-1235650825/",
+    "summary": "The cheer squad sued the band and the concert promoter last week, asking for damages and a trial",
+    "categories": [
+      "Music",
+      "Music News",
+      "controversy",
+      "courts and crime",
+      "Live Nation",
+      "My Chemical Romance"
+    ],
+    "published": "2026-10-31T02:55:00+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "0b17888f22818f50",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Harryween Is Back From Dead: Harry Styles Dons ‘X Factor’ Outfit for Stevie Wonder Cover",
+    "link": "https://www.rollingstone.com/music/music-news/harry-styles-harryween-stevie-wonder-x-factor-isnt-lovely-1235650398/",
+    "summary": "Singer performs \"Isn't She Lovely,\" his X Factor audition song at age 16, for penultimate MSG concert of 30-night residency",
+    "categories": [
+      "Music",
+      "Music News",
+      "Harry Styles"
+    ],
+    "published": "2026-10-31T02:38:47+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "e5a3fa820dfb7fc3",
@@ -179,6 +826,78 @@
     "collected": "2026-10-31T02:35:28.792164+00:00"
   },
   {
+    "id": "a16dedfe5e498cea",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Raye to Voice Character and Pen Music for Benny Safdie Film Based on 1976 Novel ‘Lizard Music’",
+    "link": "https://www.rollingstone.com/music/music-news/raye-benny-safdie-film-lizard-music-novel-1235650792/",
+    "summary": "Dwayne Johnson, Alicia Silverstone, Regina Hall, Colman Domingo, Jeff Goldblum, Rachel McAdams, and more will also feature in the film",
+    "categories": [
+      "Music",
+      "Music News",
+      "Benny Safdie",
+      "Raye"
+    ],
+    "published": "2026-10-30T23:04:53+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "5b524136d496f49e",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘Grief Is Universal — And Very Specific’: Diana Silvers on Her Devastatingly Beautiful New Record",
+    "link": "https://www.rollingstone.com/music/music-features/diana-silvers-interview-daughter-of-sorts-album-1235636948/",
+    "summary": "Her new folk album Daughter of Sorts is a reflection on loss and the transition from girlhood to womanhood",
+    "categories": [
+      "Music",
+      "Music Features",
+      "Diana Silvers"
+    ],
+    "published": "2026-10-30T21:28:52+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "c33bbb2da91e9899",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Bradford Cox Releases New Atlas Sound Song “Octoberland”: Steam",
+    "link": "https://consequence.net/2026/10/bradford-cox-atlas-sound-octoberland/",
+    "summary": "Marking the project's first new music in 15 years. Bradford Cox Releases New Atlas Sound Song “Octoberland”: Steam Alex Young",
+    "categories": [
+      "News Bites",
+      "Music",
+      "Music News",
+      "News",
+      "Alternative Rock"
+    ],
+    "published": "2026-10-30T21:17:56+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "f25432c17b737881",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Triumph Cancel Fall Leg of 50th Anniversary Tour “Due to Sudden and Unexpected Medical Circumstances”",
+    "link": "https://consequence.net/2026/10/triumph-cancel-fall-tour/",
+    "summary": "The veteran Canadian rock band were set to embark on the second leg of their first tour in 30 years. Triumph Cancel Fall Leg of 50th Anniversary Tour “Due to Sudden and Unexpected Medical Circumstances” Spencer Kaufman",
+    "categories": [
+      "Heavy Music News",
+      "Heavy Consequence",
+      "Heavy Music Concerts",
+      "Music",
+      "Music News",
+      "News",
+      "Classic Rock",
+      "Hard Rock"
+    ],
+    "published": "2026-10-30T21:12:19+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "63ecc7267eeee3ec",
     "source": "Stereogum",
     "source_type": "news",
@@ -193,6 +912,35 @@
     ],
     "published": "2026-10-30T21:05:06+00:00",
     "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "cf65cbef4c3b5f37",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Listen to the First Atlas Sound Song in 15 Years",
+    "link": "https://pitchfork.com/story/listen-to-the-first-atlas-sound-song-in-15-years/",
+    "summary": "“Octoberland” also arrives with a music video",
+    "categories": [
+      "News",
+      "Audio"
+    ],
+    "published": "2026-10-30T21:03:48+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "b0a0b47ef7ac3bb4",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "You Can Now Share Your Pitchfork Reviews",
+    "link": "https://pitchfork.com/story/you-can-now-share-your-pitchfork-reviews/",
+    "summary": "Go ahead and send those 0.0s to 10.0s to your friends and family",
+    "categories": [
+      "News"
+    ],
+    "published": "2026-10-30T19:45:33+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "d73ddb77d085f016",
@@ -213,6 +961,29 @@
     ],
     "published": "2026-10-30T19:15:12+00:00",
     "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "684d6c1131803ec5",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Ministry Release Hate to Go (Take Out or Delivery), Their 17th and Final Album: Stream",
+    "link": "https://consequence.net/2026/10/ministry-hate-to-go-take-out-or-delivery-stream/",
+    "summary": "The legendary industrial band's final studio album is another politically charged effort. Ministry Release Hate to Go (Take Out or Delivery), Their 17th and Final Album: Stream Langdon Hickman",
+    "categories": [
+      "Album Streams",
+      "Heavy Consequence",
+      "Heavy Music News",
+      "Heavy New Music",
+      "Music",
+      "Music News",
+      "New Music Releases",
+      "News",
+      "Industrial",
+      "Industrial Metal"
+    ],
+    "published": "2026-10-30T19:07:45+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "71ffcaebcbbd3b22",
@@ -241,6 +1012,69 @@
     ],
     "published": "2026-10-30T19:00:08+00:00",
     "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "41ba197dff237f99",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Heavy Song of the Week: Ministry Go Out with a Bang on “Crickets”",
+    "link": "https://consequence.net/2026/10/heavy-song-of-the-week-ministry-crickets/",
+    "summary": "Ministry revisit their classic sound on \"Crickets\" from their final album, Hate to Go. Heavy Song of the Week: Ministry Go Out with a Bang on “Crickets” Langdon Hickman",
+    "categories": [
+      "Top Song of the Week",
+      "Heavy Consequence",
+      "Music",
+      "Black Metal",
+      "Doom Metal",
+      "Heavy Song of the Week",
+      "Industrial Metal",
+      "Progressive Metal",
+      "Progressive rock"
+    ],
+    "published": "2026-10-30T18:59:49+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "c7bd2575f62d9fec",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Bose’s QuietComfort Headphones Are $160 Off for a Limited Time",
+    "link": "https://consequence.net/2026/10/bose-quietcomfort-headphones-are-160-off/",
+    "summary": "That's a 45% off discount from their normal price. Bose’s QuietComfort Headphones Are $160 Off for a Limited Time Scoop Harrison",
+    "categories": [
+      "News Bites",
+      "Music",
+      "Music News",
+      "News",
+      "Tech News",
+      "Amazon",
+      "Bose",
+      "Headphones"
+    ],
+    "published": "2026-10-30T18:44:48+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "7dc756596526bdb4",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Zack de la Rocha: Turnstile Are a “Bridge” to Bad Brains, Minor Threat, and The Clash",
+    "link": "https://consequence.net/2026/10/zack-de-la-rocha-turnstile/",
+    "summary": "The Rage Against the Machine vocalists weighs in on the impact of Turnstile. Zack de la Rocha: Turnstile Are a “Bridge” to Bad Brains, Minor Threat, and The Clash Spencer Kaufman",
+    "categories": [
+      "Heavy Music News",
+      "Heavy Consequence",
+      "Music",
+      "Music News",
+      "News",
+      "Hardcore",
+      "Punk"
+    ],
+    "published": "2026-10-30T18:29:46+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "56002e9f1fad909f",
@@ -368,6 +1202,44 @@
     "collected": "2026-10-31T02:35:28.792164+00:00"
   },
   {
+    "id": "ba10237035aa6e0b",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Queens of the Stone Age Release New Album Perfecth: Stream",
+    "link": "https://consequence.net/2026/10/queens-of-the-stone-age-perfecth-album-stream/",
+    "summary": "Josh Homme and company are back with a new nine-song effort. Queens of the Stone Age Release New Album Perfecth: Stream Langdon Hickman",
+    "categories": [
+      "Album Streams",
+      "Heavy Consequence",
+      "Heavy Music News",
+      "Heavy New Music",
+      "Music",
+      "Music News",
+      "New Music Releases",
+      "News",
+      "Alternative Rock",
+      "Hard Rock"
+    ],
+    "published": "2026-10-30T17:44:32+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "0ef594d630f1bf27",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Florence and the Machine Announce Everybody Scream Tour Live Album",
+    "link": "https://pitchfork.com/story/florence-and-the-machine-announce-everybody-scream-tour-live-album/",
+    "summary": "The 22-track effort is out next week",
+    "categories": [
+      "News",
+      "New Releases"
+    ],
+    "published": "2026-10-30T17:38:31+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "4bcdc5fdf5467dff",
     "source": "Stereogum",
     "source_type": "news",
@@ -423,6 +1295,65 @@
     "collected": "2026-10-31T02:35:28.792164+00:00"
   },
   {
+    "id": "ee73f1961f45aec9",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Heavy North Open A New Chapter With Latest Single, ‘Alive’",
+    "link": "https://www.clashmusic.com/news/the-heavy-north-open-a-new-chapter-with-latest-single-alive/",
+    "summary": "The Heavy North are bouncing back with their latest single, ‘Alive.’ A wholehearted embrace of blues-rock nostalgia, the Liverpool outfit put forward a gripping, heart-on-sleeve listen that connects far and wide. From beginning to end, the track centres itself on rich, autumnal acoustics, reflecting on themes of love, infatuation and… The post The Heavy North Open A New Chapter With Latest Single, ‘Alive’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "categories": [
+      "News",
+      "The Heavy North"
+    ],
+    "published": "2026-10-30T16:39:31+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "b877063f2e0ad7cc",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Molly Gone Mad’s Debut Album ‘Modern World’ Is A Huge Step Up",
+    "link": "https://www.clashmusic.com/news/molly-gone-mads-debut-album-modern-world-is-a-huge-step-up/",
+    "summary": "Molly Gone Mad have dropped their debut album ‘Modern World’. Piecing together a bold introduction, the sibling duo offer a contemporary spin on funk, soul and R&B that looks outward. Over fourteen tracks, the outfit pursues a groove-led instrumentation, discovering depth in their acoustics and true-to-self songwriting, which speaks to… The post Molly Gone Mad’s Debut Album ‘Modern World’ Is A Huge Step Up appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "categories": [
+      "News",
+      "Molly Gone Mad"
+    ],
+    "published": "2026-10-30T16:25:16+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "da2152415c39e9d5",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "SILVERWINGKILLER’s New EP ‘DESPERATE STRUGGLE’ Is Remarkable",
+    "link": "https://www.clashmusic.com/news/silverwingkillers-new-ep-desperate-struggle-is-remarkable/",
+    "summary": "SILVERWINGKILLER have shared their new EP ‘DESPERATE STRUGGLE’ in full. The Manchester based band have a fantastic sound, a bracing listen that is invigorating and inspired. A run of singles – such as ‘GUNMAN CORNER’ – epitomise their maverick aesthetic, blending live breakbeats, barbed analogue electronics, and vocals splitting between… The post SILVERWINGKILLER’s New EP ‘DESPERATE STRUGGLE’ Is Remarkable appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "categories": [
+      "News",
+      "SILVERWINGKILLER"
+    ],
+    "published": "2026-10-30T16:08:18+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "ddbef08f426bdf07",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Lily Allen Dressed as an Empty Ticketmaster Map for Halloween",
+    "link": "https://pitchfork.com/story/lily-allen-dressed-as-an-empty-ticketmaster-map-for-halloween/",
+    "summary": "After scaling down her summer tour, Allen dressed up as every pop star’s nightmare: a pox of unsold tickets",
+    "categories": [
+      "News"
+    ],
+    "published": "2026-10-30T16:02:12+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "7d34f8642f66ee72",
     "source": "Stereogum",
     "source_type": "news",
@@ -468,6 +1399,21 @@
     "collected": "2026-10-31T02:35:28.792164+00:00"
   },
   {
+    "id": "09676b887261e680",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Easy Street: Queens Of The Stone Age Interviewed",
+    "link": "https://www.clashmusic.com/features/easy-street-queens-of-the-stone-age-interviewed/",
+    "summary": "Monday morning on the 13th of July 2026, and Queens Of The Stone Age are resting up in the Rosewood Hotel in Holborn ahead of this evening’s sold-out show at the Tottenham Hotspur Stadium. They’ll soon be warming up a crowd of more than 60,000, before their peers System Of A Down shake the… The post Easy Street: Queens Of The Stone Age Interviewed appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "categories": [
+      "Features",
+      "Queens Of The Stone Age"
+    ],
+    "published": "2026-10-30T14:40:34+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "3ce91900c8e200b9",
     "source": "Stereogum",
     "source_type": "news",
@@ -499,6 +1445,21 @@
     "collected": "2026-10-31T02:35:28.792164+00:00"
   },
   {
+    "id": "2debbc27205008ed",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Miguel Atwood-Ferguson – ANANTA: Spirit of Coltrane",
+    "link": "https://www.clashmusic.com/reviews/miguel-atwood-ferguson-ananta-spirit-of-coltrane/",
+    "summary": "Hearing about an album of covers doesn’t normally send a chill through me. Hearing that there will be an album of John Coltrane covers/interpretations sets off internal alarm bells. Many have tried, and failed, to recreate what was groundbreaking, and special, about Coltrane’s work. Not only are the songs complex,… The post Miguel Atwood-Ferguson – ANANTA: Spirit of Coltrane appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "categories": [
+      "Reviews",
+      "Miguel Atwood-Ferguson"
+    ],
+    "published": "2026-10-30T14:02:49+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "c25b57dbbbb74e69",
     "source": "Stereogum",
     "source_type": "news",
@@ -519,6 +1480,21 @@
     "collected": "2026-10-31T02:35:28.792164+00:00"
   },
   {
+    "id": "b5d2af164d83e538",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "8 New Albums You Should Listen to Now: Diiv, Queens of the Stone Age, and More",
+    "link": "https://pitchfork.com/story/8-new-albums-you-should-listen-to-now-diiv-queens-of-the-stone-age/",
+    "summary": "Stream new releases from Diiv, Queens of the Stone Age, Kali Malone, and more",
+    "categories": [
+      "News",
+      "Out This Week"
+    ],
+    "published": "2026-10-30T13:52:20+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "efb8915785cac3c3",
     "source": "Stereogum",
     "source_type": "news",
@@ -535,6 +1511,21 @@
     ],
     "published": "2026-10-30T13:49:03+00:00",
     "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "1d898075a7445f1c",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Juice Webster – Kind Of Fantasy",
+    "link": "https://www.clashmusic.com/reviews/juice-webster-kind-of-fantasy/",
+    "summary": "Sometimes there’s music that makes you feel like you’ve been listening to it your whole life. It immediately gets under your skin and stays in your head forever. Even when an artist is new, their songs might sound as iconic to you as, say, J Mascis or Jason Pierce’s stuff.… The post Juice Webster – Kind Of Fantasy appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "categories": [
+      "Reviews",
+      "Juice Webster"
+    ],
+    "published": "2026-10-30T13:48:29+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "b7c22fd7c27eb8fc",
@@ -658,6 +1649,36 @@
     "collected": "2026-10-31T02:35:28.792164+00:00"
   },
   {
+    "id": "9c21277c8caac368",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Sampa The Great – Nu Zamrock",
+    "link": "https://www.clashmusic.com/reviews/sampa-the-great-nu-zamrock/",
+    "summary": "Instilled with an unwavering confidence nourished by a rich lineage, Sampa The Great signals an anointed rebirth on her third album, ‘Nu Zamrock’. Sampa’s intense and fearless flow punches through a meld of hip-hop, rock, soul, funk, and Kalindula rhythms. Sampa lambasts suffocating industry standards on the nimble ‘Simon Says’,… The post Sampa The Great – Nu Zamrock appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "categories": [
+      "Reviews",
+      "Sampa The Great"
+    ],
+    "published": "2026-10-30T12:55:36+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "9db903a761d0399e",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Wunderhorse Guitarist Harry Fowler Releases Surprise Solo Album ‘Blankets’",
+    "link": "https://www.clashmusic.com/news/wunderhorse-guitarist-harry-fowler-releases-surprise-solo-album-blankets/",
+    "summary": "Wunderhorse guitarist Harry Fowler has surprised fans with new solo album ‘Blankets’. Out now, the album landed without warning on streaming services a few moments ago, but it actually represents the culmination of more than a decade of work. Known for his key role in indie rock breakouts Wunderhorse, Harry… The post Wunderhorse Guitarist Harry Fowler Releases Surprise Solo Album ‘Blankets’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "categories": [
+      "News",
+      "Wunderhorse"
+    ],
+    "published": "2026-10-30T12:17:45+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "876abb047e2c0c77",
     "source": "The Needle Drop (website)",
     "source_type": "reviews",
@@ -671,6 +1692,36 @@
     ],
     "published": "2026-10-30T12:15:50+00:00",
     "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "6789299b7c9533bd",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Leigh-Anne Shares ‘My Ego Told Me To…Do A Fan Edition’",
+    "link": "https://www.clashmusic.com/news/leigh-anne-shares-my-ego-told-me-todo-a-fan-edition/",
+    "summary": "Leigh-Anne has a deluxe edition of her debut album. The pop queen’s solo debut landed earlier this year, with ‘My Ego Told Me To’ finding Leigh-Anne fully unpacking her identity a a woman of colour in British pop music. Leaning in to her heritage, it was a daring, ambitious album,… The post Leigh-Anne Shares ‘My Ego Told Me To…Do A Fan Edition’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "categories": [
+      "News",
+      "Leigh-Anne"
+    ],
+    "published": "2026-10-30T11:52:20+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "f9aeb65ca1261b7c",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Meryl Streek Presents: Lessons They Don’t Teach You At School",
+    "link": "https://www.clashmusic.com/features/meryl-streek-presents-lessons-they-dont-teach-you-at-school/",
+    "summary": "Irish artist Meryl Streek is a force to be reckoned with. A one-man punk band from Dublin, his righteous lyrics act as a rallying cry for those pushed to society’s fringes. A searing live performer, Meryl Streek’s new album ‘Stories The Don’t Teach You At School’ is out now, and… The post Meryl Streek Presents: Lessons They Don’t Teach You At School appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "categories": [
+      "Features",
+      "Meryl Streek"
+    ],
+    "published": "2026-10-30T11:24:07+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "3a2b667903282c62",
@@ -729,6 +1780,21 @@
     "collected": "2026-10-30T04:42:03.083980+00:00"
   },
   {
+    "id": "bbb15f06c4e82060",
+    "source": "Slant (music)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Review: On ‘How to Quit Smoking,’ Dominic Fike Struggles to Kick Bad Habits",
+    "link": "https://www.slantmagazine.com/music/dominic-fike-how-to-quit-smoking-album-review/",
+    "summary": "The singer-songwriter’s restless third album finds him trading old vices for new anxieties. The post Review: On ‘How to Quit Smoking,’ Dominic Fike Struggles to Kick Bad Habits appeared first on Slant Magazine .",
+    "categories": [
+      "Music",
+      "Dominic Fike"
+    ],
+    "published": "2026-10-30T04:00:00+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "ce06b017cc568d51",
     "source": "The Needle Drop (website)",
     "source_type": "reviews",
@@ -742,6 +1808,22 @@
     ],
     "published": "2026-10-30T01:27:22+00:00",
     "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "d26617ed6d519095",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Phoebe Bridgers and Billie Eilish Lend Their Voices to My Chemical Romance’s New Short Film",
+    "link": "https://pitchfork.com/story/phoebe-bridgers-and-billie-eilish-are-in-my-chemical-romances-new-short-film/",
+    "summary": "The band made the animated “Prelude to the End” with visual artist Lauren Tsai",
+    "categories": [
+      "News",
+      "New Releases",
+      "Video"
+    ],
+    "published": "2026-10-30T00:28:52+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "b27bca5e66fa33ac",
@@ -865,6 +1947,21 @@
     "collected": "2026-10-30T02:35:04.244538+00:00"
   },
   {
+    "id": "5c7254ce9abaa5ff",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Phoebe Bridgers Announces Madison Square Garden EP",
+    "link": "https://pitchfork.com/story/phoebe-bridgers-announces-madison-square-garden-ep/",
+    "summary": "Out now via Tidal",
+    "categories": [
+      "News",
+      "New Releases"
+    ],
+    "published": "2026-10-29T17:25:02+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "1be65cf04b0ddd99",
     "source": "Stereogum",
     "source_type": "news",
@@ -879,6 +1976,21 @@
     ],
     "published": "2026-10-29T16:47:04+00:00",
     "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "056c89f2bf800b4d",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Nick Valensi Is Busy Playing With Everyone But the Strokes",
+    "link": "https://pitchfork.com/story/nick-valensi-is-busy-playing-with-everyone-but-the-strokes/",
+    "summary": "He’s on a “temporary break” from his longtime band—but not from performing with other artists",
+    "categories": [
+      "News",
+      "Video"
+    ],
+    "published": "2026-10-29T16:46:28+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "d86f593de0ac6cc9",
@@ -1016,6 +2128,22 @@
     ],
     "published": "2026-10-29T15:36:53+00:00",
     "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "de039d1929b8a359",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Junior Boys Return With New Album The Gore",
+    "link": "https://pitchfork.com/story/junior-boys-return-with-new-album-the-gore/",
+    "summary": "“Underneath the Moon” leads the Canadian duo’s follow-up to Waiting Game",
+    "categories": [
+      "News",
+      "New Releases",
+      "Video"
+    ],
+    "published": "2026-10-29T15:16:52+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "7e5c8b5d3baee337",
@@ -1220,6 +2348,20 @@
     "collected": "2026-10-30T02:35:04.244538+00:00"
   },
   {
+    "id": "b3ecd72baee56c2f",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Maryland Is Getting Its Own (Mini) Sphere",
+    "link": "https://pitchfork.com/story/maryland-is-getting-its-own-mini-sphere/",
+    "summary": "The Prince George’s County Council has authorized up to $215 million for a venue at the D.C. area National Harbor",
+    "categories": [
+      "News"
+    ],
+    "published": "2026-10-28T22:41:52+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "3c8a876b88f190d0",
     "source": "Stereogum",
     "source_type": "news",
@@ -1250,6 +2392,21 @@
     ],
     "published": "2026-10-28T21:56:18+00:00",
     "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "7c3ccef3483face2",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Robyn Cover Tinashe’s “Popstar”",
+    "link": "https://pitchfork.com/story/watch-robyn-cover-tinashes-popstar/",
+    "summary": "She mashed it up Teddybears’ “Punkrocker” for the BBC Live Lounge",
+    "categories": [
+      "News",
+      "Video"
+    ],
+    "published": "2026-10-28T21:12:08+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "4b7c7660061b407f",
@@ -1312,6 +2469,37 @@
     ],
     "published": "2026-10-28T19:24:18+00:00",
     "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "843f252a30c5d5bf",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Diiv Announce Massive 2027 World Tour",
+    "link": "https://pitchfork.com/story/diiv-announce-2027-world-tour/",
+    "summary": "The band will bring their new album ZIRP! across the U.S., Europe, Australia, and Japan",
+    "categories": [
+      "News",
+      "Tours",
+      "Video"
+    ],
+    "published": "2026-10-28T18:39:27+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "256ae18d139bfac3",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Xaviersobased Wants to Collab With Sabrina Carpenter",
+    "link": "https://pitchfork.com/story/xaviersobased-wants-to-collaborate-with-sabrina-carpenter/",
+    "summary": "“Bro, I’ll knock out a whole album with her”",
+    "categories": [
+      "News",
+      "Industry News"
+    ],
+    "published": "2026-10-28T18:38:43+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "3c754c2311d3666a",
@@ -1379,6 +2567,37 @@
     "collected": "2026-10-29T02:36:46.989116+00:00"
   },
   {
+    "id": "65e83e079e5e7d88",
+    "source": "Slant (music)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Ex:Re ‘Save As’ Review: A Mesmerizing Look at Modern Consciousness",
+    "link": "https://www.slantmagazine.com/music/exre-save-as-album-review/",
+    "summary": "The album’s fragmented snapshots of memory offer insights into our collective loneliness. The post Ex:Re ‘Save As’ Review: A Mesmerizing Look at Modern Consciousness appeared first on Slant Magazine .",
+    "categories": [
+      "Music",
+      "Chelsea Wolfe",
+      "Ex:Re",
+      "Marika Hackman"
+    ],
+    "published": "2026-10-28T17:55:33+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "a9fbbf5e36032c09",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Jim James Announces Memoir One Wonders",
+    "link": "https://pitchfork.com/story/jim-james-announces-memoir-one-wonders/",
+    "summary": "“I hope the main thing someone takes away from this book (aside from learning more about the joys and challenges of being a working artist and musician) is that it’s okay to ask for help.\"",
+    "categories": [
+      "News"
+    ],
+    "published": "2026-10-28T17:47:16+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "4efe5976229e533c",
     "source": "Stereogum",
     "source_type": "news",
@@ -1392,6 +2611,21 @@
     ],
     "published": "2026-10-28T17:46:49+00:00",
     "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "ad1690148510db02",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Slayyyter, the Strokes, and Fontaines D.C. Set for Kilby Block Party 2027",
+    "link": "https://pitchfork.com/story/slayyyter-the-strokes-and-fontaines-dc-set-for-kilby-block-party-2027/",
+    "summary": "Deftones, Spoon, Weyes Blood, Atlas Sound, Erika de Casier, and quite a few mystery artists fill out the bill",
+    "categories": [
+      "News",
+      "Festivals"
+    ],
+    "published": "2026-10-28T17:42:10+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "d0b926216cfb405e",
@@ -1474,6 +2708,21 @@
     "collected": "2026-10-29T02:36:46.989116+00:00"
   },
   {
+    "id": "2a909a26028a7ac7",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Kevin Morby and Lonnie Holley’s New Single Raises Money for Gun Safety",
+    "link": "https://pitchfork.com/story/kevin-morbys-new-song-raises-money-for-gun-safety/",
+    "summary": "“It is far and away the darkest and most violent song I’ve ever written”",
+    "categories": [
+      "News",
+      "New Releases"
+    ],
+    "published": "2026-10-28T16:33:16+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "9e0aa8d2f6ca017d",
     "source": "Stereogum",
     "source_type": "news",
@@ -1489,6 +2738,22 @@
     ],
     "published": "2026-10-28T16:16:17+00:00",
     "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "f4f9bc2e76e6f5bb",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Worldpeace DMT Announce 2027 North American Tour",
+    "link": "https://pitchfork.com/story/worldpeace-dmt-announce-2027-north-american-tour/",
+    "summary": "The “laptop twee” duo will Stick Around for Tea in 20 cities throughout March and April",
+    "categories": [
+      "News",
+      "Tours",
+      "Videos"
+    ],
+    "published": "2026-10-28T16:11:30+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "6fef546c1b5604d5",
@@ -1528,6 +2793,37 @@
     ],
     "published": "2026-10-28T16:02:41+00:00",
     "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "7dd830356fc44117",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Ethel Cain Made a Song for Robert Eggers’ Werwulf",
+    "link": "https://pitchfork.com/story/ethel-cain-made-a-song-for-robert-eggers-werwulf/",
+    "summary": "Robin Carolan scored the gothic horror film, which hits theaters on Christmas Day",
+    "categories": [
+      "News",
+      "Film",
+      "Audio"
+    ],
+    "published": "2026-10-28T15:36:42+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "10b4147e0ace4f00",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Saba and Pivot Gang Drop New Song “Location”",
+    "link": "https://pitchfork.com/story/sabas-pivot-gang-drop-new-song-location/",
+    "summary": "The Chicago crew faces off in a games night in the JLean-directed video",
+    "categories": [
+      "News",
+      "Video"
+    ],
+    "published": "2026-10-28T15:25:23+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "8200bfdaf611a50d",
@@ -1574,6 +2870,22 @@
     ],
     "published": "2026-10-28T14:26:15+00:00",
     "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "fb0a027cb7fe201f",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Panda Bear Unveils New Live Album",
+    "link": "https://pitchfork.com/story/panda-bear-unveils-new-live-album/",
+    "summary": "PB Band Live 25 at Power Station gathers 17 tracks cut last year at the famed New York recording studio",
+    "categories": [
+      "News",
+      "New Releases",
+      "Audio"
+    ],
+    "published": "2026-10-28T14:10:42+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "af16f52e23bf2678",
@@ -1664,6 +2976,38 @@
     ],
     "published": "2026-10-28T13:30:47+00:00",
     "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "efaa1657bd85594a",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Massive Attack’s Robert Del Naja Releases New Songs for Gaza Documentary",
+    "link": "https://pitchfork.com/story/massive-attacks-robert-del-naja-releases-new-songs-for-gaza-documentary/",
+    "summary": "The Life Support soundtrack includes his new remix of Kneecap’s “Palestine”",
+    "categories": [
+      "News",
+      "New Releases",
+      "Benefit"
+    ],
+    "published": "2026-10-28T13:14:55+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "02bc8743343e7839",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Everything But the Girl Ready New Album Blue Reservoir",
+    "link": "https://pitchfork.com/story/everything-but-the-girl-ready-new-album-blue-reservoir/",
+    "summary": "Watch the “Young and Dumb” video from Tracey Thorn and Ben Watt’s Fuse follow-up",
+    "categories": [
+      "News",
+      "New Releases",
+      "Video"
+    ],
+    "published": "2026-10-28T11:34:35+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "a33f458e5665e477",
@@ -1800,6 +3144,21 @@
     "collected": "2026-10-28T10:00:03.726989+00:00"
   },
   {
+    "id": "baf75b033af73de1",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Brakence Sets 2027 North American Tour",
+    "link": "https://pitchfork.com/story/brakence-sets-2027-north-american-tour/",
+    "summary": "The producer and singer-songwriter dropped his new album Marrow just last Friday",
+    "categories": [
+      "News",
+      "Tours"
+    ],
+    "published": "2026-10-27T20:42:29+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "a5e1ef347f8bd7ba",
     "source": "Stereogum",
     "source_type": "news",
@@ -1815,6 +3174,21 @@
     ],
     "published": "2026-10-27T20:25:11+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
+  },
+  {
+    "id": "e67f1fdf9d276716",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Hum Are Hitting the Road in 2027",
+    "link": "https://pitchfork.com/story/hum-2027-tour/",
+    "summary": "It’s the Illinois rock band’s first proper run since 2015",
+    "categories": [
+      "News",
+      "Tours"
+    ],
+    "published": "2026-10-27T19:13:09+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "65beb10a3c66f54d",
@@ -1989,6 +3363,22 @@
     "collected": "2026-10-28T10:00:03.726989+00:00"
   },
   {
+    "id": "6231c5fa7f877dcc",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Neil Young Really Wants Trump to Stop Playing “Rockin’ in the Free World”",
+    "link": "https://pitchfork.com/story/neil-young-really-wants-trump-to-stop-playing-rockin-in-the-free-world/",
+    "summary": "He’s suing (again) over the president’s unauthorized use of the song at political rallies",
+    "categories": [
+      "News",
+      "Politics",
+      "Legal"
+    ],
+    "published": "2026-10-27T16:29:52+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "fa3e6ac3fb4853df",
     "source": "Stereogum",
     "source_type": "news",
@@ -2035,6 +3425,22 @@
     ],
     "published": "2026-10-27T15:48:49+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
+  },
+  {
+    "id": "2a01e92317f79c27",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Listen to MJ Lenderman Cover Lambchop’s “Weakened”",
+    "link": "https://pitchfork.com/story/listen-to-mj-lenderman-cover-lambchops-weakened/",
+    "summary": "From the veteran Nashville band's new covers EP Demoed",
+    "categories": [
+      "News",
+      "New Releases",
+      "Audio"
+    ],
+    "published": "2026-10-27T15:27:33+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "f9c6c5f985353d3b",
@@ -2164,6 +3570,21 @@
     "collected": "2026-10-28T10:00:03.726989+00:00"
   },
   {
+    "id": "013c0c65c733ce77",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Shelved David Bowie Concert Film Revived for Immersive Live Show",
+    "link": "https://pitchfork.com/story/shelved-david-bowie-concert-film-revived-for-immersive-live-show/",
+    "summary": "Moonage Daydream director Brett Morgen has remastered the unreleased 1978 film “Stage” for a multi-screen extravaganza",
+    "categories": [
+      "News",
+      "Film"
+    ],
+    "published": "2026-10-27T14:48:01+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "5739511b9718c115",
     "source": "Stereogum",
     "source_type": "news",
@@ -2265,6 +3686,22 @@
     "collected": "2026-10-28T10:00:03.726989+00:00"
   },
   {
+    "id": "f76eebe727ec7fe6",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Factory Floor Return With First Album in 10 Years",
+    "link": "https://pitchfork.com/story/factory-floor-return-with-first-album-in-10-years/",
+    "summary": "Listen to “Continuation” and the title track from One Trip",
+    "categories": [
+      "News",
+      "New Releases",
+      "Audio"
+    ],
+    "published": "2026-10-27T12:13:43+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "3719aeb7a522fcfe",
     "source": "The Needle Drop (website)",
     "source_type": "reviews",
@@ -2295,6 +3732,21 @@
     ],
     "published": "2026-10-27T09:45:08+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
+  },
+  {
+    "id": "f8ef88cf63aff3c6",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Dead Man’s Bones Unveil First New Song in 17 Years",
+    "link": "https://pitchfork.com/story/dead-mans-bones-unveil-first-new-song-in-17-years/",
+    "summary": "The duo of Ryan Gosling and Zach Shields return with “Lost in the Night”",
+    "categories": [
+      "News",
+      "Video"
+    ],
+    "published": "2026-10-27T05:10:37+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "d77692a2026f532a",
@@ -2351,6 +3803,20 @@
     ],
     "published": "2026-10-27T04:00:00+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
+  },
+  {
+    "id": "8eb675ed831b95b8",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Jay-Z Confirmed for Super Bowl 2027 Halftime Show",
+    "link": "https://pitchfork.com/story/jay-z-confirmed-for-super-bowl-2027-halftime-show/",
+    "summary": "The Roc Nation founder will headline his own event at California’s SoFi Stadium on Valentine’s Day",
+    "categories": [
+      "News"
+    ],
+    "published": "2026-10-27T02:21:32+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "f3de2f8d5e89e839",
@@ -2774,6 +4240,22 @@
     "collected": "2026-10-28T10:00:03.726989+00:00"
   },
   {
+    "id": "de0489d3c19c2eb9",
+    "source": "Slant (music)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "DIIV ‘Zirp!’ Review: Distortion Without Dimension",
+    "link": "https://www.slantmagazine.com/music/diiv-zirp-album-review/",
+    "summary": "The album is a bold swing, but perhaps not the one the band needed. The post DIIV ‘Zirp!’ Review: Distortion Without Dimension appeared first on Slant Magazine .",
+    "categories": [
+      "Music",
+      "DIIV",
+      "Interpol"
+    ],
+    "published": "2026-10-25T15:00:00+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "f0a9404344503236",
     "source": "Pitchfork (album reviews)",
     "source_type": "reviews",
@@ -2842,6 +4324,21 @@
     "collected": "2026-10-28T10:00:03.726989+00:00"
   },
   {
+    "id": "20bf321d28740034",
+    "source": "Slant (music)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Taylor Swift’s Debut Set the Blueprint for the Artist’s Pop Instincts and Infamous Fixations",
+    "link": "https://www.slantmagazine.com/music/taylor-swift-self-titled-debut-retrospective-album-review/",
+    "summary": "Twenty years later, the album stands as an admirable, if uneven, document of its time. The post Taylor Swift’s Debut Set the Blueprint for the Artist’s Pop Instincts and Infamous Fixations appeared first on Slant Magazine .",
+    "categories": [
+      "Music",
+      "Taylor Swift"
+    ],
+    "published": "2026-10-24T15:12:06+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "efc90ea43e0ad1a7",
     "source": "Pitchfork (album reviews)",
     "source_type": "reviews",
@@ -2882,6 +4379,22 @@
     ],
     "published": "2026-10-23T19:43:08+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
+  },
+  {
+    "id": "d46f9a15260777ef",
+    "source": "PopCrush",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Miley Cyrus ‘Cold Blooded’: Lyrics + Meaning",
+    "link": "https://popcrush.com/miley-cyrus-cold-blooded-meaning-lyrics/",
+    "summary": "Emma McIntyre, Getty Images",
+    "categories": [
+      "Celebrity News",
+      "Music News",
+      "Miley Cyrus"
+    ],
+    "published": "2026-10-23T07:36:42+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "9906597a75654372",
@@ -3236,6 +4749,21 @@
     "collected": "2026-10-28T10:00:03.726989+00:00"
   },
   {
+    "id": "790bf97ede658906",
+    "source": "Slant (music)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Shabazz Palaces ‘It’s a Style Sport’ Review: A Veteran’s Rulebook, Broken with Flair",
+    "link": "https://www.slantmagazine.com/music/shabazz-palaces-its-a-style-sport-album-review/",
+    "summary": "Ishmael Butler’s latest transforms a lifetime of flyness into a moral code, then puts it on trial. The post Shabazz Palaces ‘It’s a Style Sport’ Review: A Veteran’s Rulebook, Broken with Flair appeared first on Slant Magazine .",
+    "categories": [
+      "Music",
+      "Shabazz Palaces"
+    ],
+    "published": "2026-10-18T15:00:00+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "2eb08c00e2a94544",
     "source": "The Needle Drop (YouTube)",
     "source_type": "video",
@@ -3316,6 +4844,23 @@
     "collected": "2026-10-28T10:00:03.726989+00:00"
   },
   {
+    "id": "38d82ad36d83b3b7",
+    "source": "Slant (music)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Olivia Rodrigo and Chappell Roan Drop “Expectations” Music Video, featuring David Byrne",
+    "link": "https://www.slantmagazine.com/music/olivia-rodrigo-chappell-roan-expectations-remix-music-video-david-byrne/",
+    "summary": "Not to put too fine a point on the track’s new-wave bona fides, the Talking Heads frontman serves as MC. The post Olivia Rodrigo and Chappell Roan Drop “Expectations” Music Video, featuring David Byrne appeared first on Slant Magazine .",
+    "categories": [
+      "Music",
+      "News",
+      "Chappell Roan",
+      "Olivia Rodrigo"
+    ],
+    "published": "2026-10-16T00:17:43+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "968ee61ccca06827",
     "source": "The Needle Drop (YouTube)",
     "source_type": "video",
@@ -3340,6 +4885,21 @@
     "collected": "2026-10-28T10:00:03.726989+00:00"
   },
   {
+    "id": "0dbaff4ef4841271",
+    "source": "Slant (music)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "The Avalanches ‘No Bad Memories’ Review: A Broadcast from the Past",
+    "link": "https://www.slantmagazine.com/music/the-avalanches-no-bad-memories-album-review/",
+    "summary": "The album transforms obsolete technology and jingles into a euphoric exploration of nostalgia. The post The Avalanches ‘No Bad Memories’ Review: A Broadcast from the Past appeared first on Slant Magazine .",
+    "categories": [
+      "Music",
+      "The Avalanches"
+    ],
+    "published": "2026-10-15T02:08:39+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "ac56beeca0352f64",
     "source": "Pitchfork (track reviews)",
     "source_type": "reviews",
@@ -3352,6 +4912,22 @@
     ],
     "published": "2026-10-13T18:52:14+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
+  },
+  {
+    "id": "1c2802d6caecbfbd",
+    "source": "PopCrush",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Avery Cochrane on Her Journey From Odd Jobs to Pop Stardom",
+    "link": "https://popcrush.com/avery-cochrane-debut-album-vengeance-through-my-omnipresence/",
+    "summary": "Samantha Klegerman",
+    "categories": [
+      "Music News",
+      "New Albums",
+      "News"
+    ],
+    "published": "2026-10-13T16:51:11+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "507280ce44b79e0b",
@@ -3382,6 +4958,22 @@
     "collected": "2026-10-28T10:00:03.726989+00:00"
   },
   {
+    "id": "f34e89348ec1a736",
+    "source": "PopCrush",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Britney Spears ‘She’ll Never Be Me’: Lyrics",
+    "link": "https://popcrush.com/britney-spears-shell-never-be-me-lyrics-meaning/",
+    "summary": "Andreas Rentz, Getty Images",
+    "categories": [
+      "Music News",
+      "News",
+      "Britney Spears"
+    ],
+    "published": "2026-10-13T05:18:15+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
     "id": "cb193db0ba1254e7",
     "source": "Pitchfork (Best New Albums)",
     "source_type": "reviews",
@@ -3394,6 +4986,55 @@
     ],
     "published": "2026-10-12T04:03:00+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
+  },
+  {
+    "id": "5db2edc48ab6aade",
+    "source": "Slant (music)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Fontaines D.C. ‘Dopamine Chamber’ Review: Rock Nostalgia as I.P.",
+    "link": "https://www.slantmagazine.com/music/fontaines-dc-dopamine-chamber-album-review/",
+    "summary": "The album’s best songs lean into sinister undertones with relish. The post Fontaines D.C. ‘Dopamine Chamber’ Review: Rock Nostalgia as I.P. appeared first on Slant Magazine .",
+    "categories": [
+      "Music",
+      "Fontaines D.C.",
+      "The Strokes",
+      "Wolf Alice"
+    ],
+    "published": "2026-10-12T04:00:00+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "4286bb1044988d77",
+    "source": "PopCrush",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Britney Spears 'She'll Never Be Me': Lyrics and Song Meaning",
+    "link": "https://popcrush.com/britney-spears-shell-never-be-me-lyrics/",
+    "summary": "Kevin Winter, Getty Images",
+    "categories": [
+      "Music News",
+      "New Albums",
+      "News",
+      "Britney Spears"
+    ],
+    "published": "2026-10-12T03:45:31+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "f431f0284c3a327d",
+    "source": "Slant (music)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Review: With ‘She’s the Best,’ Troye Sivan Loses Himself in His Muses",
+    "link": "https://www.slantmagazine.com/music/troye-sivan-shes-the-best-album-review/",
+    "summary": "There are certainly pleasures to be found on the album, but the singer himself seems to get lost. The post Review: With ‘She’s the Best,’ Troye Sivan Loses Himself in His Muses appeared first on Slant Magazine .",
+    "categories": [
+      "Music",
+      "Troye Sivan"
+    ],
+    "published": "2026-10-09T23:08:53+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "25c1ad1ba56883e4",
@@ -3436,6 +5077,68 @@
     ],
     "published": "2026-10-07T21:04:46+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
+  },
+  {
+    "id": "5fd36166931b4624",
+    "source": "Slant (music)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Review: On ‘Live at Carnegie Hall,’ Cameron Winter’s Wonderful Weirdness Takes Center Stage",
+    "link": "https://www.slantmagazine.com/music/cameron-winter-live-at-carnegie-hall-album-review/",
+    "summary": "The singer gets serious with his craft at one of the nation’s most renowned concert venues. The post Review: On ‘Live at Carnegie Hall,’ Cameron Winter’s Wonderful Weirdness Takes Center Stage appeared first on Slant Magazine .",
+    "categories": [
+      "Music",
+      "Cameron Winter",
+      "Geese"
+    ],
+    "published": "2026-10-06T15:17:03+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "a1224a3c824ee532",
+    "source": "Slant (music)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "The 25 Greatest MTV Video Music Awards Performances of All Time",
+    "link": "https://www.slantmagazine.com/music/greatest-mtv-video-music-awards-vma-performances/",
+    "summary": "From Madonna to Nirvana to Beyoncé, we picked our favorite MTV VMA performances. The post The 25 Greatest MTV Video Music Awards Performances of All Time appeared first on Slant Magazine .",
+    "categories": [
+      "Features",
+      "Lists",
+      "Music",
+      "Axl Rose",
+      "Beastie Boys",
+      "Beyoncé",
+      "Britney Spears",
+      "Christina Aguilera",
+      "Courtney Love",
+      "Eminem",
+      "Gett Off",
+      "Give It Away",
+      "Hole",
+      "I'm a Slave 4 U",
+      "Jon Bon Jovi",
+      "Kanye West",
+      "Lady Gaga",
+      "Like a Virgin",
+      "Lithium",
+      "Livin' on a Prayer",
+      "Madonna",
+      "Marilyn Manson",
+      "Missy Elliott",
+      "MTV",
+      "Nirvana",
+      "Paparazzi",
+      "Prince",
+      "Red Hot Chili Peppers",
+      "Richie Sambora",
+      "Ring the Alarm",
+      "Runaway",
+      "Sabotage",
+      "Single Ladies"
+    ],
+    "published": "2026-10-05T16:19:13+00:00",
+    "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
     "id": "3be08d5132ca3ecf",

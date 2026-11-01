@@ -56,6 +56,7 @@
     "date_source": "musicbrainz",
     "scores": [],
     "sources": [
+      "Pitchfork (news)",
       "Stereogum",
       "The Needle Drop (website)"
     ],
@@ -79,6 +80,16 @@
         "headline": "Everything But The Girl Announce New Album Blue Reservoir: Hear “Young And Dumb”",
         "link": "https://stereogum.com/2515793/everything-but-the-girl-announce-new-album-blue-reservoir-hear-young-and-dumb/music/",
         "published": "2026-10-28T13:39:02+00:00"
+      },
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Everything But the Girl Ready New Album Blue Reservoir",
+        "link": "https://pitchfork.com/story/everything-but-the-girl-ready-new-album-blue-reservoir/",
+        "published": "2026-10-28T11:34:35+00:00"
       }
     ]
   },
@@ -91,9 +102,20 @@
     "date_source": "musicbrainz",
     "scores": [],
     "sources": [
+      "Pitchfork (news)",
       "Stereogum"
     ],
     "mentions": [
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Junior Boys Return With New Album The Gore",
+        "link": "https://pitchfork.com/story/junior-boys-return-with-new-album-the-gore/",
+        "published": "2026-10-29T15:16:52+00:00"
+      },
       {
         "source": "Stereogum",
         "source_type": "news",
@@ -246,6 +268,7 @@
     "date_source": "musicbrainz",
     "scores": [],
     "sources": [
+      "Pitchfork (news)",
       "Stereogum"
     ],
     "mentions": [
@@ -258,6 +281,16 @@
         "headline": "Factory Floor Announce First New Album In 10 Years One Trip: Hear Two Songs",
         "link": "https://stereogum.com/2515714/factory-floor-announce-first-new-album-in-10-years-one-trip-hear-two-songs/music/",
         "published": "2026-10-27T17:27:12+00:00"
+      },
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Factory Floor Return With First Album in 10 Years",
+        "link": "https://pitchfork.com/story/factory-floor-return-with-first-album-in-10-years/",
+        "published": "2026-10-27T12:13:43+00:00"
       }
     ]
   },
@@ -345,41 +378,6 @@
     ]
   },
   {
-    "artist": "Atlas Sound",
-    "title": "Octoberland",
-    "type": "single",
-    "genre": "Rock / Alternative / Indie",
-    "release_date": "2026-10-31",
-    "date_source": "feeds",
-    "scores": [],
-    "sources": [
-      "Stereogum",
-      "The Needle Drop (website)"
-    ],
-    "mentions": [
-      {
-        "source": "The Needle Drop (website)",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "new_song",
-        "score": null,
-        "headline": "Atlas Sound returns with \"Octoberland,\" first new song in 15 years",
-        "link": "https://theneedledrop.com/news/atlas-sound-returns-with-octoberland-first-new-song-in-15-years/",
-        "published": "2026-10-31T00:19:58+00:00"
-      },
-      {
-        "source": "Stereogum",
-        "source_type": "news",
-        "weight": 1.0,
-        "mention": "new_song",
-        "score": null,
-        "headline": "Atlas Sound – “Octoberland”",
-        "link": "https://stereogum.com/2516185/atlas-sound-octoberland/music/",
-        "published": "2026-10-30T21:05:06+00:00"
-      }
-    ]
-  },
-  {
     "artist": "Snooper",
     "title": "Orange Exposure",
     "type": "single",
@@ -413,6 +411,7 @@
     "scores": [],
     "sources": [
       "Pitchfork (album reviews)",
+      "Slant (music)",
       "Stereogum"
     ],
     "mentions": [
@@ -435,6 +434,97 @@
         "headline": "Album Of The Week: DIIV ZIRP!",
         "link": "https://stereogum.com/2515261/album-of-the-week-diiv-zirp/reviews/album-of-the-week/",
         "published": "2026-10-27T20:25:11+00:00"
+      },
+      {
+        "source": "Slant (music)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "DIIV ‘Zirp!’ Review: Distortion Without Dimension",
+        "link": "https://www.slantmagazine.com/music/diiv-zirp-album-review/",
+        "published": "2026-10-25T15:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Atlas Sound",
+    "title": "Octoberland",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Pitchfork (news)",
+      "Stereogum",
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Atlas Sound returns with \"Octoberland,\" first new song in 15 years",
+        "link": "https://theneedledrop.com/news/atlas-sound-returns-with-octoberland-first-new-song-in-15-years/",
+        "published": "2026-10-31T00:19:58+00:00"
+      },
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Atlas Sound – “Octoberland”",
+        "link": "https://stereogum.com/2516185/atlas-sound-octoberland/music/",
+        "published": "2026-10-30T21:05:06+00:00"
+      },
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Listen to the First Atlas Sound Song in 15 Years",
+        "link": "https://pitchfork.com/story/listen-to-the-first-atlas-sound-song-in-15-years/",
+        "published": "2026-10-30T21:03:48+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Dominic Fike",
+    "title": "How to Quit Smoking",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": "2026-10-30",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "Slant (music)",
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "Slant (music)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Review: On ‘How to Quit Smoking,’ Dominic Fike Struggles to Kick Bad Habits",
+        "link": "https://www.slantmagazine.com/music/dominic-fike-how-to-quit-smoking-album-review/",
+        "published": "2026-10-30T04:00:00+00:00"
+      },
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Dominic Fike announces features for ‘How to Quit Smoking’",
+        "link": "https://theneedledrop.com/news/dominic-fike-announces-features-for-how-to-quit-smoking/",
+        "published": "2026-10-28T19:33:16+00:00"
       }
     ]
   },
@@ -494,30 +584,6 @@
         "headline": "evilgiane & Slimesito Announce New Album EVILSLIME 2 Out Friday: Hear “Georgia State”",
         "link": "https://stereogum.com/2515652/evilgiane-slimesito-announce-new-album-evilslime-2-out-friday-hear-georgia-state/news/",
         "published": "2026-10-26T20:37:32+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Dominic Fike",
-    "title": "How to Quit Smoking",
-    "type": "album",
-    "genre": "Pop",
-    "release_date": "2026-10-30",
-    "date_source": "musicbrainz",
-    "scores": [],
-    "sources": [
-      "The Needle Drop (website)"
-    ],
-    "mentions": [
-      {
-        "source": "The Needle Drop (website)",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "announcement",
-        "score": null,
-        "headline": "Dominic Fike announces features for ‘How to Quit Smoking’",
-        "link": "https://theneedledrop.com/news/dominic-fike-announces-features-for-how-to-quit-smoking/",
-        "published": "2026-10-28T19:33:16+00:00"
       }
     ]
   },
@@ -786,6 +852,174 @@
     ]
   },
   {
+    "artist": "Ministry",
+    "title": "Hate to Go (Take Out or Delivery)",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Consequence"
+    ],
+    "mentions": [
+      {
+        "source": "Consequence",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Ministry Release Hate to Go (Take Out or Delivery), Their 17th and Final Album: Stream",
+        "link": "https://consequence.net/2026/10/ministry-hate-to-go-take-out-or-delivery-stream/",
+        "published": "2026-10-30T19:07:45+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Queens of the Stone Age",
+    "title": "Perfecth",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Consequence"
+    ],
+    "mentions": [
+      {
+        "source": "Consequence",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Queens of the Stone Age Release New Album Perfecth: Stream",
+        "link": "https://consequence.net/2026/10/queens-of-the-stone-age-perfecth-album-stream/",
+        "published": "2026-10-30T17:44:32+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "The Heavy North",
+    "title": "Alive",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "The Heavy North Open A New Chapter With Latest Single, ‘Alive’",
+        "link": "https://www.clashmusic.com/news/the-heavy-north-open-a-new-chapter-with-latest-single-alive/",
+        "published": "2026-10-30T16:39:31+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Molly Gone Mad",
+    "title": "Modern World",
+    "type": "album",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Molly Gone Mad’s Debut Album ‘Modern World’ Is A Huge Step Up",
+        "link": "https://www.clashmusic.com/news/molly-gone-mads-debut-album-modern-world-is-a-huge-step-up/",
+        "published": "2026-10-30T16:25:16+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "SILVERWINGKILLER",
+    "title": "DESPERATE STRUGGLE",
+    "type": "ep",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "SILVERWINGKILLER’s New EP ‘DESPERATE STRUGGLE’ Is Remarkable",
+        "link": "https://www.clashmusic.com/news/silverwingkillers-new-ep-desperate-struggle-is-remarkable/",
+        "published": "2026-10-30T16:08:18+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Harry Fowler",
+    "title": "Blankets",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Wunderhorse Guitarist Harry Fowler Releases Surprise Solo Album ‘Blankets’",
+        "link": "https://www.clashmusic.com/news/wunderhorse-guitarist-harry-fowler-releases-surprise-solo-album-blankets/",
+        "published": "2026-10-30T12:17:45+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Ex:Re",
+    "title": "Save As",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-30",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "Slant (music)"
+    ],
+    "mentions": [
+      {
+        "source": "Slant (music)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Ex:Re ‘Save As’ Review: A Mesmerizing Look at Modern Consciousness",
+        "link": "https://www.slantmagazine.com/music/exre-save-as-album-review/",
+        "published": "2026-10-28T17:55:33+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Mei Semones",
     "title": "2 Hands",
     "type": "single",
@@ -817,6 +1051,41 @@
         "headline": "Mei Semones – “2 Hands”",
         "link": "https://stereogum.com/2515990/mei-semones-2-hands-howl-song-video/music/",
         "published": "2026-10-29T17:53:34+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Junior Boys",
+    "title": "Underneath The Moon",
+    "type": "single",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-10-29",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Pitchfork (news)",
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Junior Boys Return With New Album The Gore",
+        "link": "https://pitchfork.com/story/junior-boys-return-with-new-album-the-gore/",
+        "published": "2026-10-29T15:16:52+00:00"
+      },
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Junior Boys Announce New Album The Gore: Hear “Underneath The Moon”",
+        "link": "https://stereogum.com/2515864/junior-boys-the-gore-underneath-the-moon-album-announce/music/",
+        "published": "2026-10-29T13:54:04+00:00"
       }
     ]
   },
@@ -941,30 +1210,6 @@
     ]
   },
   {
-    "artist": "Junior Boys",
-    "title": "Underneath The Moon",
-    "type": "single",
-    "genre": "Electronic / Dance",
-    "release_date": "2026-10-29",
-    "date_source": "feeds",
-    "scores": [],
-    "sources": [
-      "Stereogum"
-    ],
-    "mentions": [
-      {
-        "source": "Stereogum",
-        "source_type": "news",
-        "weight": 1.0,
-        "mention": "new_song",
-        "score": null,
-        "headline": "Junior Boys Announce New Album The Gore: Hear “Underneath The Moon”",
-        "link": "https://stereogum.com/2515864/junior-boys-the-gore-underneath-the-moon-album-announce/music/",
-        "published": "2026-10-29T13:54:04+00:00"
-      }
-    ]
-  },
-  {
     "artist": "Avery Cochrane",
     "title": "You're the Only One (I Never Performed For)",
     "type": "single",
@@ -989,6 +1234,30 @@
     ]
   },
   {
+    "artist": "Phoebe Bridgers",
+    "title": "Madison Square Garden",
+    "type": "ep",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-29",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Pitchfork (news)"
+    ],
+    "mentions": [
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Phoebe Bridgers Announces Madison Square Garden EP",
+        "link": "https://pitchfork.com/story/phoebe-bridgers-announces-madison-square-garden-ep/",
+        "published": "2026-10-29T17:25:02+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Shabazz Palaces",
     "title": "It's a Style Sport",
     "type": "album",
@@ -1000,6 +1269,7 @@
     ],
     "sources": [
       "Pitchfork (album reviews)",
+      "Slant (music)",
       "The Needle Drop (YouTube)",
       "The Needle Drop (website)"
     ],
@@ -1033,6 +1303,16 @@
         "headline": "It’s a Style Sport",
         "link": "https://pitchfork.com/reviews/albums/shabazz-palaces-its-a-style-sport/",
         "published": "2026-10-23T04:01:00+00:00"
+      },
+      {
+        "source": "Slant (music)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Shabazz Palaces ‘It’s a Style Sport’ Review: A Veteran’s Rulebook, Broken with Flair",
+        "link": "https://www.slantmagazine.com/music/shabazz-palaces-its-a-style-sport-album-review/",
+        "published": "2026-10-18T15:00:00+00:00"
       }
     ]
   },
@@ -1045,6 +1325,7 @@
     "date_source": "feeds",
     "scores": [],
     "sources": [
+      "Pitchfork (news)",
       "Stereogum",
       "The Needle Drop (website)"
     ],
@@ -1068,6 +1349,51 @@
         "headline": "Everything But The Girl Announce New Album Blue Reservoir: Hear “Young And Dumb”",
         "link": "https://stereogum.com/2515793/everything-but-the-girl-announce-new-album-blue-reservoir-hear-young-and-dumb/music/",
         "published": "2026-10-28T13:39:02+00:00"
+      },
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Everything But the Girl Ready New Album Blue Reservoir",
+        "link": "https://pitchfork.com/story/everything-but-the-girl-ready-new-album-blue-reservoir/",
+        "published": "2026-10-28T11:34:35+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Pivot Gang",
+    "title": "Location",
+    "type": "single",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-28",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Pitchfork (news)",
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Saba and Pivot Gang Drop New Song “Location”",
+        "link": "https://pitchfork.com/story/sabas-pivot-gang-drop-new-song-location/",
+        "published": "2026-10-28T15:25:23+00:00"
+      },
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Pivot Gang – “Location”",
+        "link": "https://stereogum.com/2515798/pivot-gang-location/music/",
+        "published": "2026-10-28T14:05:20+00:00"
       }
     ]
   },
@@ -1336,26 +1662,72 @@
     ]
   },
   {
-    "artist": "Pivot Gang",
-    "title": "Location",
-    "type": "single",
-    "genre": "Hip-hop / R&B",
+    "artist": "Panda Bear",
+    "title": "PB Band Live 25 at Power Station",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
     "release_date": "2026-10-28",
     "date_source": "feeds",
     "scores": [],
     "sources": [
-      "Stereogum"
+      "Pitchfork (news)"
     ],
     "mentions": [
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Panda Bear Unveils New Live Album",
+        "link": "https://pitchfork.com/story/panda-bear-unveils-new-live-album/",
+        "published": "2026-10-28T14:10:42+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Dead Man's Bones",
+    "title": "Lost In The Night",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-27",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Pitchfork (news)",
+      "Stereogum",
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Dead Man’s Bones share first new song in 17 Years, “Lost In The Night”",
+        "link": "https://theneedledrop.com/news/dead-mans-bones-share-first-new-song-in-17-years-lost-in-the-night/",
+        "published": "2026-10-27T14:52:18+00:00"
+      },
       {
         "source": "Stereogum",
         "source_type": "news",
         "weight": 1.0,
         "mention": "new_song",
         "score": null,
-        "headline": "Pivot Gang – “Location”",
-        "link": "https://stereogum.com/2515798/pivot-gang-location/music/",
-        "published": "2026-10-28T14:05:20+00:00"
+        "headline": "Dead Man’s Bones Share “Lost In The Night,” First New Music In 17 Years",
+        "link": "https://stereogum.com/2515664/dead-mans-bones-share-lost-in-the-night-first-new-music-in-17-years/music/",
+        "published": "2026-10-27T13:05:20+00:00"
+      },
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Dead Man’s Bones Unveil First New Song in 17 Years",
+        "link": "https://pitchfork.com/story/dead-mans-bones-unveil-first-new-song-in-17-years/",
+        "published": "2026-10-27T05:10:37+00:00"
       }
     ]
   },
@@ -1391,41 +1763,6 @@
         "headline": "Nine Perfect Lives share debut single \"Die\" via AD 93",
         "link": "https://theneedledrop.com/news/nine-perfect-lives-share-debut-single-die-via-ad-93/",
         "published": "2026-10-27T15:48:49+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Dead Man's Bones",
-    "title": "Lost In The Night",
-    "type": "single",
-    "genre": "Rock / Alternative / Indie",
-    "release_date": "2026-10-27",
-    "date_source": "feeds",
-    "scores": [],
-    "sources": [
-      "Stereogum",
-      "The Needle Drop (website)"
-    ],
-    "mentions": [
-      {
-        "source": "The Needle Drop (website)",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "new_song",
-        "score": null,
-        "headline": "Dead Man’s Bones share first new song in 17 Years, “Lost In The Night”",
-        "link": "https://theneedledrop.com/news/dead-mans-bones-share-first-new-song-in-17-years-lost-in-the-night/",
-        "published": "2026-10-27T14:52:18+00:00"
-      },
-      {
-        "source": "Stereogum",
-        "source_type": "news",
-        "weight": 1.0,
-        "mention": "new_song",
-        "score": null,
-        "headline": "Dead Man’s Bones Share “Lost In The Night,” First New Music In 17 Years",
-        "link": "https://stereogum.com/2515664/dead-mans-bones-share-lost-in-the-night-first-new-music-in-17-years/music/",
-        "published": "2026-10-27T13:05:20+00:00"
       }
     ]
   },
@@ -1594,6 +1931,30 @@
         "headline": "Trinket – “If Not Soon Then Now”",
         "link": "https://stereogum.com/2515648/trinket-if-not-soon-then-now/music/",
         "published": "2026-10-27T13:44:22+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "MJ Lenderman",
+    "title": "Demoed",
+    "type": "ep",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-27",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Pitchfork (news)"
+    ],
+    "mentions": [
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Listen to MJ Lenderman Cover Lambchop’s “Weakened”",
+        "link": "https://pitchfork.com/story/listen-to-mj-lenderman-cover-lambchops-weakened/",
+        "published": "2026-10-27T15:27:33+00:00"
       }
     ]
   },
@@ -1956,6 +2317,76 @@
     ]
   },
   {
+    "artist": "Olivia Rodrigo & Chappell Roan",
+    "title": "expectations (Remix)",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-10-16",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Slant (music)",
+      "The Needle Drop (YouTube)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (YouTube)",
+        "source_type": "video",
+        "weight": 1.5,
+        "mention": "list",
+        "score": null,
+        "headline": "Olivia Rodrigo, Chappell Roan, Ecco2k, BICEP | Weekly Track Roundup: 10/25/26",
+        "link": "https://www.youtube.com/watch?v=1YxOw8IxHQw",
+        "published": "2026-10-26T04:44:32+00:00"
+      },
+      {
+        "source": "Slant (music)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Olivia Rodrigo and Chappell Roan Drop “Expectations” Music Video, featuring David Byrne",
+        "link": "https://www.slantmagazine.com/music/olivia-rodrigo-chappell-roan-expectations-remix-music-video-david-byrne/",
+        "published": "2026-10-16T00:17:43+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "The Avalanches",
+    "title": "No Bad Memories",
+    "type": "album",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-10-16",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "Slant (music)",
+      "The Needle Drop (YouTube)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (YouTube)",
+        "source_type": "video",
+        "weight": 1.5,
+        "mention": "review",
+        "score": null,
+        "headline": "The Avalanches - No Bad Memories ALBUM REVIEW",
+        "link": "https://www.youtube.com/watch?v=ZAHEPtclKOg",
+        "published": "2026-10-23T02:46:33+00:00"
+      },
+      {
+        "source": "Slant (music)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "The Avalanches ‘No Bad Memories’ Review: A Broadcast from the Past",
+        "link": "https://www.slantmagazine.com/music/the-avalanches-no-bad-memories-album-review/",
+        "published": "2026-10-15T02:08:39+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Zach Bryan",
     "title": "Young Manhood and Other Donatable Organs",
     "type": "ep",
@@ -1991,6 +2422,41 @@
     ]
   },
   {
+    "artist": "Fontaines D.C.",
+    "title": "Dopamine Chamber",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-16",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "Slant (music)",
+      "The Needle Drop (YouTube)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (YouTube)",
+        "source_type": "video",
+        "weight": 1.5,
+        "mention": "review",
+        "score": null,
+        "headline": "Fontaines D.C. - Dopamine Chamber ALBUM REVIEW",
+        "link": "https://www.youtube.com/watch?v=UzvthnAU6nc",
+        "published": "2026-10-21T01:05:11+00:00"
+      },
+      {
+        "source": "Slant (music)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Fontaines D.C. ‘Dopamine Chamber’ Review: Rock Nostalgia as I.P.",
+        "link": "https://www.slantmagazine.com/music/fontaines-dc-dopamine-chamber-album-review/",
+        "published": "2026-10-12T04:00:00+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Chappie",
     "title": "expectations",
     "type": "single",
@@ -2011,54 +2477,6 @@
         "headline": "“expectations”",
         "link": "https://pitchfork.com/reviews/olivia-rodrigo-chappell-roan-expectations/",
         "published": "2026-10-16T13:44:55+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "The Avalanches",
-    "title": "No Bad Memories",
-    "type": "album",
-    "genre": "Electronic / Dance",
-    "release_date": "2026-10-16",
-    "date_source": "musicbrainz",
-    "scores": [],
-    "sources": [
-      "The Needle Drop (YouTube)"
-    ],
-    "mentions": [
-      {
-        "source": "The Needle Drop (YouTube)",
-        "source_type": "video",
-        "weight": 1.5,
-        "mention": "review",
-        "score": null,
-        "headline": "The Avalanches - No Bad Memories ALBUM REVIEW",
-        "link": "https://www.youtube.com/watch?v=ZAHEPtclKOg",
-        "published": "2026-10-23T02:46:33+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Fontaines D.C.",
-    "title": "Dopamine Chamber",
-    "type": "album",
-    "genre": "Rock / Alternative / Indie",
-    "release_date": "2026-10-16",
-    "date_source": "musicbrainz",
-    "scores": [],
-    "sources": [
-      "The Needle Drop (YouTube)"
-    ],
-    "mentions": [
-      {
-        "source": "The Needle Drop (YouTube)",
-        "source_type": "video",
-        "weight": 1.5,
-        "mention": "review",
-        "score": null,
-        "headline": "Fontaines D.C. - Dopamine Chamber ALBUM REVIEW",
-        "link": "https://www.youtube.com/watch?v=UzvthnAU6nc",
-        "published": "2026-10-21T01:05:11+00:00"
       }
     ]
   },
@@ -2095,6 +2513,7 @@
     "date_source": "musicbrainz",
     "scores": [],
     "sources": [
+      "Slant (music)",
       "The Needle Drop (YouTube)"
     ],
     "mentions": [
@@ -2107,6 +2526,16 @@
         "headline": "GREAT ALBUMS: October 2026",
         "link": "https://www.youtube.com/watch?v=qvjpRLaeA5Y",
         "published": "2026-10-18T22:16:02+00:00"
+      },
+      {
+        "source": "Slant (music)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Review: On ‘Live at Carnegie Hall,’ Cameron Winter’s Wonderful Weirdness Takes Center Stage",
+        "link": "https://www.slantmagazine.com/music/cameron-winter-live-at-carnegie-hall-album-review/",
+        "published": "2026-10-06T15:17:03+00:00"
       }
     ]
   },
@@ -2406,30 +2835,6 @@
         "headline": "Lazer Bullet Announce Debut Album 40K Psychosis Angel: Hear “Angel Shit”",
         "link": "https://stereogum.com/2515621/lazer-bullet-announce-debut-album-40k-psychosis-angel-hear-angel-shit/music/",
         "published": "2026-10-26T18:36:19+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Olivia Rodrigo & Chappell Roan",
-    "title": "expectations (Remix)",
-    "type": "single",
-    "genre": "Pop",
-    "release_date": null,
-    "date_source": "feeds",
-    "scores": [],
-    "sources": [
-      "The Needle Drop (YouTube)"
-    ],
-    "mentions": [
-      {
-        "source": "The Needle Drop (YouTube)",
-        "source_type": "video",
-        "weight": 1.5,
-        "mention": "list",
-        "score": null,
-        "headline": "Olivia Rodrigo, Chappell Roan, Ecco2k, BICEP | Weekly Track Roundup: 10/25/26",
-        "link": "https://www.youtube.com/watch?v=1YxOw8IxHQw",
-        "published": "2026-10-26T04:44:32+00:00"
       }
     ]
   },
@@ -2838,6 +3243,78 @@
         "headline": "Jazmine Mary Announces New Album Country Milk: Hear “Shower Beer”",
         "link": "https://stereogum.com/2516105/jazmine-mary-announces-new-album-country-milk-hear-shower-beer/music/",
         "published": "2026-10-30T13:49:03+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Diana Silvers",
+    "title": "Daughter of Sorts",
+    "type": "album",
+    "genre": "Other",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Rolling Stone (music)"
+    ],
+    "mentions": [
+      {
+        "source": "Rolling Stone (music)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "‘Grief Is Universal — And Very Specific’: Diana Silvers on Her Devastatingly Beautiful New Record",
+        "link": "https://www.rollingstone.com/music/music-features/diana-silvers-interview-daughter-of-sorts-album-1235636948/",
+        "published": "2026-10-30T21:28:52+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Florence and the Machine",
+    "title": "Everybody Scream Tour Live Album",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Pitchfork (news)"
+    ],
+    "mentions": [
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Florence and the Machine Announce Everybody Scream Tour Live Album",
+        "link": "https://pitchfork.com/story/florence-and-the-machine-announce-everybody-scream-tour-live-album/",
+        "published": "2026-10-30T17:38:31+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Troye Sivan",
+    "title": "She's the Best",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Slant (music)"
+    ],
+    "mentions": [
+      {
+        "source": "Slant (music)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Review: With ‘She’s the Best,’ Troye Sivan Loses Himself in His Muses",
+        "link": "https://www.slantmagazine.com/music/troye-sivan-shes-the-best-album-review/",
+        "published": "2026-10-09T23:08:53+00:00"
       }
     ]
   }
