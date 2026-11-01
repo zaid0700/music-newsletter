@@ -103,6 +103,12 @@ sources:
     type: reviews
     weight: 1.0
 
+  - name: AllMusic (new releases)                # check
+    url: https://www.allmusic.com/rss/newsletter
+    type: reviews
+    weight: 1.0
+    full_text: true     # each item is a whole weekly newsletter: read all of it
+
 genres:
   - Pop
   - Hip-hop / R&B
