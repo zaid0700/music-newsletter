@@ -37,6 +37,7 @@ RANKING = ROOT / "config" / "ranking.yaml"
 RELEASES = ROOT / "data" / "releases.json"
 DEEZER_CACHE = ROOT / "data" / "deezer.json"
 RANKED = ROOT / "data" / "ranked.json"
+FEATURED = ROOT / "data" / "featured.json"   # releases in each sent issue (newsletter.py)
 
 UAE = ZoneInfo("Asia/Dubai")
 FANS_FOR_FULL_STAR_POWER = 10_000_000
@@ -71,6 +72,15 @@ LIVE = re.compile(r"\blive(\s+\S+){0,2}\s+(at|from)\b"          # Live at..., Li
 def is_live(rel: dict) -> bool:
     """Live albums are left out of the newsletter."""
     return bool(LIVE.search(rel["title"]))
+  
+def release_key(rel: dict) -> str:
+    return f"{norm(main_artist(rel['artist']))}|{norm(rel['title'])}"
+
+def late_friday(rel: dict, start: date, featured: dict) -> bool:
+    """Released on the previous Friday but covered after that issue went out
+    (it's sent at 8:00 on Friday), so it wasn't in it. Include it this week."""
+    prev_friday = (start - timedelta(days=1)).isoformat()
+    return rel["release_date"] == prev_friday and release_key(rel) not in set(featured.get(prev_friday, []))
   
 def in_week(rel: dict, start: date, end: date) -> bool:
     if rel["release_date"]:
@@ -262,9 +272,13 @@ def main() -> None:
     source_weights = {s["name"]: s.get("weight", 1.0) for s in sources["sources"]}
 
     start, end = newsletter_week(args.week_ending)
+    featured = json.loads(FEATURED.read_text()) if FEATURED.exists() else {}
     releases = [r for r in json.loads(RELEASES.read_text())
-                if r["genre"] in genres and in_week(r, start, end) and not is_live(r)]
-    print(f"Week: Sat {start} to Fri {end}: {len(releases)} releases in your genres")
+                if r["genre"] in genres and not is_live(r)
+                and (in_week(r, start, end) or late_friday(r, start, featured))]
+    late = sum(1 for r in releases if late_friday(r, start, featured))
+    print(f"Week: Sat {start} to Fri {end}: {len(releases)} releases in your genres"
+          + (f" (incl. {late} from last Friday, covered after last issue)" if late else ""))
     releases = drop_album_singles(releases)
 
     add_star_power(releases)
