@@ -61,7 +61,14 @@ def newsletter_week(week_ending: date | None = None) -> tuple[date, date]:
 def uae_date(iso: str) -> date:
     return datetime.fromisoformat(iso).astimezone(UAE).date()
 
+LIVE = re.compile(r"\blive\s+(at|from|in|on)\b|[(\[]\s*live\b|\blive\s*[)\]]|\blive\s+(album|recording|session)s?\b"
+                  r"|^live$|\bunplugged\b", re.IGNORECASE)
 
+
+def is_live(rel: dict) -> bool:
+    """Live albums are left out of the newsletter."""
+    return bool(LIVE.search(rel["title"]))
+  
 def in_week(rel: dict, start: date, end: date) -> bool:
     if rel["release_date"]:
         return start <= date.fromisoformat(rel["release_date"]) <= end
@@ -184,7 +191,7 @@ def main() -> None:
 
     start, end = newsletter_week(args.week_ending)
     releases = [r for r in json.loads(RELEASES.read_text())
-                if r["genre"] in genres and in_week(r, start, end)]
+                if r["genre"] in genres and in_week(r, start, end) and not is_live(r)]
     print(f"Week: Sat {start} to Fri {end}: {len(releases)} releases in your genres")
 
     add_star_power(releases)
