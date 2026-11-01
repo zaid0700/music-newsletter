@@ -3,19 +3,22 @@ Personal taste from your Last.fm account (used by rank.py). Optional: if there's
 no Last.fm username in config/ranking.yaml or no LASTFM_API_KEY secret, ranking
 works without it.
 
-  Your artists:     your top artists for the last 12 months and all time.
-                    An artist near the top of your list scores close to 1.0,
-                    one near the bottom about 0.5.
-  Similar artists:  for release artists you don't listen to, Last.fm's list of
+  Your artists:     EVERY artist in your Last.fm library, even ones played once.
+                    Played once scores 0.5; your most-played artist scores 1.0
+                    (log scale, so a handful of plays still counts for a lot).
+                    Current favourites (your last-12-months top 200) get +0.1.
+  Similar artists:  for release artists you've never played, Last.fm's list of
                     similar artists is checked against yours. A close match to one
-                    of your favourites scores up to 0.7, so artists you actually
-                    play always rank above ones that are merely similar.
+                    of your favourites scores up to 0.4, so any artist you've
+                    actually played ranks above ones that are merely similar.
 
 Similar-artist lists are cached in data/lastfm.json for 30 days.
 """
 
 import json
+import math
 import os
+import re
 import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -27,9 +30,11 @@ from rank import main_artist, norm
 ROOT = Path(__file__).resolve().parent.parent
 CACHE = ROOT / "data" / "lastfm.json"
 API = "https://ws.audioscrobbler.com/2.0/"
-TOP_LIMIT = 500
+LIBRARY_PAGE_SIZE = 1000
+MAX_LIBRARY_PAGES = 20      # up to 20,000 artists
+RECENT_BOOST = 0.1
 SIMILAR_LIMIT = 50
-SIMILAR_MAX = 0.7
+SIMILAR_MAX = 0.4           # below the 0.5 floor for artists you've actually played
 REFRESH_DAYS = 30
 
 
@@ -45,17 +50,39 @@ def call(session: requests.Session, method: str, **params) -> dict:
 
 
 def your_artists(session: requests.Session, user: str) -> dict[str, dict]:
-    """{normalised name: {"name", "affinity"}} from your top artists."""
-    mine: dict[str, dict] = {}
-    for period in ("12month", "overall"):
-        artists = call(session, "user.gettopartists", user=user, period=period,
-                       limit=TOP_LIMIT)["topartists"]["artist"]
-        for rank, a in enumerate(artists):
-            affinity = 1.0 - 0.5 * rank / max(len(artists) - 1, 1)
+    """{normalised name: {"name", "plays", "affinity"}} for EVERY artist in your
+    Last.fm library, however few times you've played them.
+
+    Affinity runs from 0.5 (played once) to 1.0 (your most-played artist), on a log
+    scale so a few plays still count for a lot. Artists in your last-12-months top
+    list get a small boost for being current favourites.
+    """
+    plays: dict[str, dict] = {}
+    page, pages = 1, 1
+    while page <= min(pages, MAX_LIBRARY_PAGES):
+        data = call(session, "library.getartists", user=user, limit=LIBRARY_PAGE_SIZE, page=page)
+        block = data.get("artists", {})
+        pages = int(block.get("@attr", {}).get("totalPages", 1) or 1)
+        for a in block.get("artist", []):
             key = norm(a["name"])
-            if key and affinity > mine.get(key, {}).get("affinity", 0):
-                mine[key] = {"name": a["name"], "affinity": round(affinity, 3)}
-    return mine
+            if key:
+                plays[key] = {"name": a["name"], "plays": int(a.get("playcount") or 0)}
+        page += 1
+
+    recent = set()
+    try:
+        top = call(session, "user.gettopartists", user=user, period="12month", limit=200)
+        recent = {norm(a["name"]) for a in top["topartists"]["artist"]}
+    except (requests.RequestException, KeyError, ValueError):
+        pass
+
+    most = max((p["plays"] for p in plays.values()), default=1) or 1
+    for key, p in plays.items():
+        affinity = 0.5 + 0.5 * math.log10(1 + p["plays"]) / math.log10(1 + most)
+        if key in recent:
+            affinity += RECENT_BOOST
+        p["affinity"] = round(min(1.0, affinity), 3)
+    return plays
 
 
 def similar_to(session: requests.Session, artist: str, cache: dict) -> list[dict]:
@@ -93,10 +120,15 @@ def add_personal(releases: list[dict], user: str) -> bool:
     direct = similar_count = 0
     for rel in releases:
         name = main_artist(rel["artist"])
-        hit = mine.get(norm(name)) or mine.get(norm(rel["artist"]))
+        # Check every credited artist ("A & B", "A x B", "A, B and C")
+        credited = [rel["artist"]] + [p for p in re.split(r"\s+(?:&|and|x|with|feat\.?|ft\.?)\s+|,\s*",
+                                                     rel["artist"]) if p.strip()]
+        hits = [mine[norm(n)] for n in credited if norm(n) in mine]
+        hit = max(hits, key=lambda h: h["affinity"]) if hits else None
         if hit:
             rel["personal"] = hit["affinity"]
-            rel["personal_reason"] = "In your Last.fm top artists"
+            n = hit["plays"]
+            rel["personal_reason"] = (f"You've played {hit['name']} {n:,} time{'s' if n != 1 else ''}")
             direct += 1
             continue
 

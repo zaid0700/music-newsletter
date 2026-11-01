@@ -134,27 +134,36 @@ def add_star_power(releases: list[dict]) -> None:
 
 def add_scores(releases: list[dict], cfg: dict, source_weights: dict,
                use_personal: bool = False) -> None:
+    """Three signals, each 0-1:
+      personal         how close the artist is to your Last.fm listening
+      critical_acclaim reviews, review scores and editors' picks
+      popularity       how many sources covered it, plus the artist's Deezer fans
+    """
     for rel in releases:
-        buzz, counted = 0.0, set()
+        acclaim, counted = 0.0, set()
         for m in rel["mentions"]:
             key = (m["source"], m["link"])
-            if key in counted:
+            if key in counted or m["mention"] != "review":
                 continue
             counted.add(key)
-            weight = source_weights.get(m["source"], m.get("weight", 1.0))
-            buzz += cfg["mention_points"].get(m["mention"], 1) * weight
-        buzz += sum(max(0.0, s - 6.0) for s in rel["scores"]) * cfg["score_bonus_per_point"]
-        rel["buzz_points"] = round(buzz, 2)
+            # Best New Albums etc. carry a higher source weight, so they count more
+            acclaim += cfg["review_points"] * source_weights.get(m["source"], m.get("weight", 1.0))
+        acclaim += sum(max(0.0, s - 6.0) for s in rel["scores"]) * cfg["score_bonus_per_point"]
+        rel["acclaim_points"] = round(acclaim, 2)
+        rel["coverage"] = len({m["source"].split(" (")[0] for m in rel["mentions"]})  # publications
 
-    top_buzz = max((r["buzz_points"] for r in releases), default=1) or 1
+    top_acclaim = max((r["acclaim_points"] for r in releases), default=0) or 1
+    top_coverage = max((r["coverage"] for r in releases), default=0) or 1
+
     # Without Last.fm, the personal weight is dropped and the others share 100%.
-    w = {"star_power": cfg["weights"]["star_power"],
-         "critical_buzz": cfg["weights"]["critical_buzz"]}
+    w = {"critical_acclaim": cfg["weights"]["critical_acclaim"],
+         "popularity": cfg["weights"]["popularity"]}
     if use_personal:
-        w["personal"] = cfg["weights"].get("personal", 0)
+        w["personal"] = cfg["weights"]["personal"]
     total = sum(w.values()) or 1
     for rel in releases:
-        rel["critical_buzz"] = round(rel["buzz_points"] / top_buzz, 3)
+        rel["critical_acclaim"] = round(rel["acclaim_points"] / top_acclaim, 3)
+        rel["popularity"] = round(0.5 * rel["coverage"] / top_coverage + 0.5 * rel["star_power"], 3)
         rel.setdefault("personal", 0.0)
         rel.setdefault("personal_reason", "")
         mix = sum(weight * rel[signal] for signal, weight in w.items()) / total
@@ -199,10 +208,10 @@ def main() -> None:
     RANKED.write_text(json.dumps(result, indent=2, ensure_ascii=False))
 
     print(f"\nTop {len(result['top'])} this week")
-    print(f"{'#':>2}  {'score':>5}  {'stars':>5}  {'buzz':>5}  {'you':>5}  release")
+    print(f"{'#':>2}  {'score':>5}  {'you':>5}  {'crit':>5}  {'pop':>5}  release")
     for i, r in enumerate(result["top"], 1):
-        print(f"{i:>2}  {r['rank_score']:>5.2f}  {r['star_power']:>5.2f}  "
-              f"{r['critical_buzz']:>5.2f}  {r['personal']:>5.2f}  "
+        print(f"{i:>2}  {r['rank_score']:>5.2f}  {r['personal']:>5.2f}  "
+              f"{r['critical_acclaim']:>5.2f}  {r['popularity']:>5.2f}  "
               f"{r['artist']} - {r['title']} ({r['type']}, {r['genre']})"
               + (f"  [{r['personal_reason']}]" if r["personal_reason"] else ""))
     for g, rels in result["by_genre"].items():
