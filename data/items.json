@@ -1,5 +1,130 @@
 [
   {
+    "id": "3b246ffc2ce846cb",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "My Chemical Romance to record new record in 2027",
+    "link": "https://theneedledrop.com/news/mcr-new-album-rumors-next-year/",
+    "summary": "In Way's between-song banter, the frontman straightforwardly told the crowd, \"Next year we want to go make a record.\"",
+    "categories": [
+      "News",
+      "my chemical romance"
+    ],
+    "published": "2026-11-01T01:56:23+00:00",
+    "collected": "2026-11-01T02:37:20.954629+00:00"
+  },
+  {
+    "id": "f28d011db1534dba",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Turnstile turned down Metallica's tour offer",
+    "link": "https://theneedledrop.com/news/turnstile-turned-down-metallicas-tour-offer/",
+    "summary": "On the frontman's SiriusXM show, he said, \"We have seen them live. We wanted to get them on tour. They said no; they're doing good on their own already.\"",
+    "categories": [
+      "News",
+      "metallica",
+      "turnstile"
+    ],
+    "published": "2026-11-01T01:54:20+00:00",
+    "collected": "2026-11-01T02:37:20.954629+00:00"
+  },
+  {
+    "id": "b9332737af7fb9c3",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Snooper – “Orange Exposure”",
+    "link": "https://stereogum.com/2516216/snooper-orange-exposure/music/",
+    "summary": "The post Snooper – “Orange Exposure” appeared first on Stereogum .",
+    "categories": [
+      "New Music",
+      "Snooper"
+    ],
+    "published": "2026-10-31T18:12:57+00:00",
+    "collected": "2026-11-01T02:37:20.954629+00:00"
+  },
+  {
+    "id": "0aaa71f09c5e60e3",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "My Chemical Romance Bring Out Bert McCracken, Confirm Plans For New Album",
+    "link": "https://stereogum.com/2516212/my-chemical-romance-bring-out-bert-mccracken-confirm-plans-for-new-album/news/",
+    "summary": "The post My Chemical Romance Bring Out Bert McCracken, Confirm Plans For New Album appeared first on Stereogum .",
+    "categories": [
+      "News",
+      "Bert McCracken",
+      "Gerard Way",
+      "My Chemical Romance",
+      "The Used"
+    ],
+    "published": "2026-10-31T17:59:29+00:00",
+    "collected": "2026-11-01T02:37:20.954629+00:00"
+  },
+  {
+    "id": "1dd72d6fa7dd5fe9",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "James Hetfield Says Turnstile Turned Down Metallica Tour",
+    "link": "https://stereogum.com/2516208/james-hetfield-says-turnstile-turned-down-metallica-tour/news/",
+    "summary": "The post James Hetfield Says Turnstile Turned Down Metallica Tour appeared first on Stereogum .",
+    "categories": [
+      "News",
+      "James Hetfield",
+      "Metallica",
+      "Turnstile"
+    ],
+    "published": "2026-10-31T17:25:39+00:00",
+    "collected": "2026-11-01T02:37:20.954629+00:00"
+  },
+  {
+    "id": "fc58e3f30234134d",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Fire-Toolz releases new single \"Clustered Around My Opening!\"",
+    "link": "https://theneedledrop.com/news/fire-toolz-releases-new-single-clustered-around-my-opening/",
+    "summary": "Following the release of 'Lavender Networks' earlier this year.",
+    "categories": [
+      "News",
+      "fire-toolz"
+    ],
+    "published": "2026-10-31T14:22:05+00:00",
+    "collected": "2026-11-01T02:37:20.954629+00:00"
+  },
+  {
+    "id": "27faa9fddbbb84f1",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Lily Allen's Halloween costume is every pop star's nightmare",
+    "link": "https://theneedledrop.com/news/lily-allens-halloween-costume-is-every-pop-stars-nightmare/",
+    "summary": "A Ticketmaster map of unsold tickets.",
+    "categories": [
+      "News",
+      "lily allen"
+    ],
+    "published": "2026-10-31T14:20:04+00:00",
+    "collected": "2026-11-01T02:37:20.954629+00:00"
+  },
+  {
+    "id": "3a04682226d78929",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.5,
+    "title": "Drukqs (25th Anniversary Edition)",
+    "link": "https://pitchfork.com/reviews/albums/aphex-twin-drukqs-25th-anniversary-edition/",
+    "summary": "Richard D. James’ once divisive 2001 album today looks, with 25 years of hindsight, like the keystone of his career, joining rave mischief and academic rigor in a sprawling, 100-minute package.",
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-10-31T04:00:00+00:00",
+    "collected": "2026-11-01T02:37:20.954629+00:00"
+  },
+  {
     "id": "c04eb0429a867c43",
     "source": "The Needle Drop (website)",
     "source_type": "reviews",
@@ -3274,20 +3399,6 @@
       "Reviews / Tracks"
     ],
     "published": "2026-10-02T19:53:32+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "6926c21461dd3f83",
-    "source": "Pitchfork (Best New Albums)",
-    "source_type": "reviews",
-    "weight": 2.0,
-    "title": "THIS IS SPA TOWN!",
-    "link": "https://pitchfork.com/reviews/albums/300skullsandcounting-jenny-sparks-this-is-spa-town/",
-    "summary": "The UK artist brings a frenzy of club-grime provocation and internet humor to his glitched-out emo, but his portrayal of small-town malaise is what makes it a riot.",
-    "categories": [
-      "Reviews / Albums"
-    ],
-    "published": "2026-10-01T04:03:00+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
   }
 ]
