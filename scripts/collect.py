@@ -20,6 +20,9 @@ import requests
 import yaml
 
 import allmusic
+import sputnik
+
+PAGE_SOURCES = {"allmusic": allmusic, "sputnik": sputnik}
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = ROOT / "config" / "sources.yaml"
@@ -70,27 +73,29 @@ def save_items(items: dict) -> None:
     DATA.write_text(json.dumps(ordered, indent=2, ensure_ascii=False))
 
 
-def collect_allmusic(source: dict, items: dict, now: datetime) -> int:
-    """AllMusic has no feed, so its New Releases page is read directly."""
+def collect_page(source: dict, items: dict, now: datetime) -> int:
+    """AllMusic and Sputnikmusic have no feeds, so their New Releases pages are
+    read directly (see allmusic.py and sputnik.py)."""
+    reader = PAGE_SOURCES[source["type"]]
     try:
-        albums = allmusic.fetch_releases()
+        albums = reader.fetch_releases()
     except (allmusic.Blocked, requests.RequestException) as err:
         print(f"SKIP  {source['name']}: {err}")
         return 0
     if not albums:
         print(f"SKIP  {source['name']}: page loaded but no albums found "
-              "(AllMusic may have changed its layout)")
+              "(the site may have changed its layout)")
         return 0
 
     new_here = 0
-    for entry in allmusic.as_items(albums, source, now):
+    for entry in reader.as_items(albums, source, now):
         iid = item_id(source["name"], {"link": entry["link"]})
         if iid in items:
             continue
         items[iid] = {
             "id": iid,
             "source": source["name"],
-            "source_type": "allmusic",
+            "source_type": "page",
             "weight": source.get("weight", 1.0),
             "title": clean_text(entry["title"], 300),
             "link": entry["link"],
@@ -112,8 +117,8 @@ def main() -> None:
     added = 0
 
     for source in config["sources"]:
-        if source.get("type") == "allmusic":
-            added += collect_allmusic(source, items, now)
+        if source.get("type") in PAGE_SOURCES:
+            added += collect_page(source, items, now)
             continue
         try:
             feed = feedparser.parse(fetch(source["url"]))

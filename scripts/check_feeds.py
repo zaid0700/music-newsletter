@@ -41,16 +41,17 @@ def check(source: dict) -> None:
 def main() -> None:
     config = yaml.safe_load(CONFIG.read_text())
     for source in config["sources"]:
-        if source.get("type") == "allmusic":
-            check_allmusic(source)
+        if source.get("type") in ("allmusic", "sputnik"):
+            check_page(source)
         else:
             check(source)
 
 
-def check_allmusic(source: dict) -> None:
-    import allmusic  # same folder
+def check_page(source: dict) -> None:
+    import allmusic, sputnik  # same folder
+    reader = {"allmusic": allmusic, "sputnik": sputnik}[source["type"]]
     try:
-        albums = allmusic.fetch_releases()
+        albums = reader.fetch_releases()
     except (allmusic.Blocked, requests.RequestException) as err:
         print(f"FAIL  {source['name']}\n      {err}\n")
         return
@@ -58,7 +59,8 @@ def check_allmusic(source: dict) -> None:
         print(f"FAIL  {source['name']}\n      Page loaded but no albums found\n")
         return
     first = albums[0]
-    print(f"OK    {source['name']}  ({len(albums)} albums, week of {first['week'] or '?'})\n"
+    when = first.get("week") or first.get("month") or "?"
+    print(f"OK    {source['name']}  ({len(albums)} albums, {when})\n"
           f"      first: {first['artist']} - {first['title']}\n")
 
 

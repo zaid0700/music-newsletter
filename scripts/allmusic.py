@@ -53,14 +53,23 @@ def parse(page: str) -> list[dict]:
     m = DATE.search(text_of(page[:20000]))
     if m:
         week = datetime.strptime(m.group(0), "%B %d, %Y").date().isoformat()
+    albums = parse_links(page, ALBUM, ARTIST, "https://www.allmusic.com")
+    for a in albums:
+        a["week"] = week
+    return [a for a in albums if a["artist"]]
 
+
+def parse_links(page: str, album_re, artist_re, base: str) -> list[dict]:
+    """Shared by AllMusic and Sputnikmusic: find albums by their album links and
+    pair each with the artist link in the same block.
+    Returns [{artist, title, link, blurb, pos}] (artist may be "" if none found)."""
     # Group album links by album: each album usually has a cover link (no text)
     # and a title link. A block runs from its first link to the next album's first link.
     blocks: list[dict] = []
-    for m in ALBUM.finditer(page):
+    for m in album_re.finditer(page):
         url = m.group("url")
         if url.startswith("/"):
-            url = "https://www.allmusic.com" + url
+            url = base + url
         if blocks and blocks[-1]["link"] == url:
             blocks[-1]["last"] = m
         else:
@@ -71,11 +80,10 @@ def parse(page: str) -> list[dict]:
 
     # Work out the page layout from the first album: does the artist link come
     # before the album title, or after it? Then use that for every album.
-    titled = [b for b in blocks if b.get("title")]
-    if not titled:
+    title_link = next((m for m in album_re.finditer(page) if text_of(m.group("text"))), None)
+    if not title_link:
         return []
-    first_artist = ARTIST.search(page)
-    title_link = next(m for m in ALBUM.finditer(page) if text_of(m.group("text")))
+    first_artist = artist_re.search(page)
     artist_first = bool(first_artist) and first_artist.start() < title_link.start()
 
     albums, seen = [], set()
@@ -87,17 +95,17 @@ def parse(page: str) -> list[dict]:
         next_start = blocks[i + 1]["first"].start() if i + 1 < len(blocks) else b["last"].end() + 3000
 
         if artist_first:   # artist ... title
-            found = ARTIST.findall(page[prev_end:b["last"].start()])
+            found = artist_re.findall(page[prev_end:b["last"].start()])
             artist = text_of(found[-1]) if found else ""
         else:              # title ... artist
-            found = ARTIST.findall(page[b["last"].end():next_start])
+            found = artist_re.findall(page[b["last"].end():next_start])
             artist = text_of(found[0]) if found else ""
 
-        rest = ARTIST.sub("", page[b["last"].end():next_start])
+        rest = artist_re.sub("", page[b["last"].end():next_start])
         blurb = re.sub(r"^(by|from)\s+", "", text_of(rest), flags=re.I)[:600]
         albums.append({"artist": artist, "title": b["title"], "link": b["link"],
-                       "blurb": blurb, "week": week})
-    return [a for a in albums if a["artist"]]
+                       "blurb": blurb, "pos": b["first"].start()})
+    return albums
 
 
 def fetch_releases() -> list[dict]:

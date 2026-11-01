@@ -89,7 +89,7 @@ def load_week() -> dict:
         rel["key"] = key
         rel["links"] = links_for(rel)
         rel["material"] = [
-            {"source": SOURCE_LABELS.get(m["source"], m["source"]),
+            {"source": SOURCE_LABELS.get(m["source"], m["source"].split(" (")[0]),
              "type": m["mention"],
              "headline": m["headline"],
              "summary": useful_summary(summaries.get(m["link"], ""))}
@@ -111,7 +111,7 @@ def links_for(rel: dict) -> list[dict]:
     """One 'read more' link per publication, preferring reviews."""
     chosen = {}
     for m in sorted(rel["mentions"], key=lambda m: m["mention"] != "review"):
-        label = SOURCE_LABELS.get(m["source"], m["source"])
+        label = SOURCE_LABELS.get(m["source"], m["source"].split(" (")[0])
         if label not in chosen:
             kind = "review" if m["mention"] == "review" else ""
             if "YouTube" in m["source"]:

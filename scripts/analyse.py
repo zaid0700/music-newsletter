@@ -54,7 +54,7 @@ RELEASE_HINTS = re.compile(
 
 
 def looks_like_release(item: dict) -> bool:
-    if item["source_type"] in ("reviews", "video", "allmusic"):
+    if item["source_type"] in ("reviews", "video", "page", "allmusic"):
         return True
     return bool(RELEASE_HINTS.search(item["title"]))
 
