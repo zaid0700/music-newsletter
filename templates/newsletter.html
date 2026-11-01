@@ -89,7 +89,7 @@
     {% endif %}
 
     <tr><td style="padding:18px 24px 24px 24px;border-top:1px solid #e4ddd2;font:12px/1.6 Helvetica,Arial,sans-serif;color:#6b655c;">
-      Covers releases from {{ dates }}, ranked by artist popularity (Deezer), coverage in Pitchfork, Stereogum, The Needle Drop and AllMusic{% if personal %}, and your Last.fm listening{% endif %}. Summaries are written by Claude from those publications' headlines. Covers from Deezer and iTunes.
+      Covers releases from {{ dates }}, ranked by {% if personal %}your Last.fm listening, then {% endif %}how widely each release was covered across your music publications and the artist's popularity on Deezer. Summaries are written by Claude from those publications' headlines. Covers from Deezer and iTunes.
     </td></tr>
 
   </table>
