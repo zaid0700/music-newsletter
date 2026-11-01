@@ -286,6 +286,124 @@
     ]
   },
   {
+    "artist": "Orca",
+    "title": "Shed",
+    "type": "ep",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-13",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Orca share new track \"Missing the subway\"",
+        "link": "https://theneedledrop.com/news/orca-share-new-track-missing-the-subway/",
+        "published": "2026-10-30T13:30:24+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Fire-Toolz",
+    "title": "Clustered Around My Opening!",
+    "type": "single",
+    "genre": "Other",
+    "release_date": "2026-10-31",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum",
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Fire-Toolz releases new single \"Clustered Around My Opening!\"",
+        "link": "https://theneedledrop.com/news/fire-toolz-releases-new-single-clustered-around-my-opening/",
+        "published": "2026-10-31T14:22:05+00:00"
+      },
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Fire-Toolz – “Clustered Around My Opening!”",
+        "link": "https://stereogum.com/2516134/fire-toolz-cluster-around-my-opening/music/",
+        "published": "2026-10-30T15:34:26+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Atlas Sound",
+    "title": "Octoberland",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-31",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum",
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Atlas Sound returns with \"Octoberland,\" first new song in 15 years",
+        "link": "https://theneedledrop.com/news/atlas-sound-returns-with-octoberland-first-new-song-in-15-years/",
+        "published": "2026-10-31T00:19:58+00:00"
+      },
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Atlas Sound – “Octoberland”",
+        "link": "https://stereogum.com/2516185/atlas-sound-octoberland/music/",
+        "published": "2026-10-30T21:05:06+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Snooper",
+    "title": "Orange Exposure",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-31",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Snooper – “Orange Exposure”",
+        "link": "https://stereogum.com/2516216/snooper-orange-exposure/music/",
+        "published": "2026-10-31T18:12:57+00:00"
+      }
+    ]
+  },
+  {
     "artist": "DIIV",
     "title": "ZIRP!",
     "type": "album",
@@ -317,6 +435,41 @@
         "headline": "Album Of The Week: DIIV ZIRP!",
         "link": "https://stereogum.com/2515261/album-of-the-week-diiv-zirp/reviews/album-of-the-week/",
         "published": "2026-10-27T20:25:11+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "bloodsports",
+    "title": "Ten Thousand Feet",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum",
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "bloodsports – “Ten Thousand Feet”",
+        "link": "https://stereogum.com/2516011/bloodsports-ten-thousand-feet/music/",
+        "published": "2026-10-30T18:27:25+00:00"
+      },
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "bloodsports share new single, \"Ten Thousand Feet\"",
+        "link": "https://theneedledrop.com/news/bloodsports-share-new-single-ten-thousand-feet/",
+        "published": "2026-10-30T12:15:50+00:00"
       }
     ]
   },
@@ -365,6 +518,270 @@
         "headline": "Dominic Fike announces features for ‘How to Quit Smoking’",
         "link": "https://theneedledrop.com/news/dominic-fike-announces-features-for-how-to-quit-smoking/",
         "published": "2026-10-28T19:33:16+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Doechii",
+    "title": "Lock Jaw",
+    "type": "single",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Doechii – “Lock Jaw”",
+        "link": "https://stereogum.com/2516176/doechii-lock-jaw/music/",
+        "published": "2026-10-30T18:22:48+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Paul Smith",
+    "title": "Lay Your Head Down",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Paul Smith – “Lay Your Head Down”",
+        "link": "https://stereogum.com/2516170/paul-smith-lay-your-head-down/music/",
+        "published": "2026-10-30T18:15:01+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Esmerelda Road",
+    "title": "Here Honey",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Esmerelda Road – “Here Honey”",
+        "link": "https://stereogum.com/2516160/esmerelda-road-here-honey/music/",
+        "published": "2026-10-30T17:58:46+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "doseone & Fatboi Sharif & steel tipped dove",
+    "title": "Truth Ugly",
+    "type": "album",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "doseone, Fatboi Sharif, & steel tipped dove Release New Album Truth Ugly",
+        "link": "https://stereogum.com/2516152/doseone-fatboi-sharif-steel-tipped-dove-release-new-album-truth-ugly/music/",
+        "published": "2026-10-30T17:20:19+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "fanclubwallet",
+    "title": "Creep-O",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "fanclubwallet – “Creep-O”",
+        "link": "https://stereogum.com/2516129/fanclubwallet-creep-o/music/",
+        "published": "2026-10-30T15:19:48+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Benny The Butcher",
+    "title": "Elevate",
+    "type": "single",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Benny The Butcher – “Elevate”",
+        "link": "https://stereogum.com/2516124/benny-the-butcher-elevate/music/",
+        "published": "2026-10-30T14:54:26+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Or Best Offer",
+    "title": "Fast Strong Horse",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Or Best Offer Announce New Album It Will Appear : Hear “Fast Strong Horse”",
+        "link": "https://stereogum.com/2516091/or-best-offer-announce-new-album-it-will-appear-hear-fast-strong-horse/music/",
+        "published": "2026-10-30T14:38:22+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Magdalena Abrego",
+    "title": "Xolo",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Former Deerlady Guitarist Magdalena Abrego Releases Solo Debut Xolo",
+        "link": "https://stereogum.com/2516113/former-deerlady-guitarist-magdalena-abrego-releases-solo-debut-xolo/music/",
+        "published": "2026-10-30T14:20:54+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Jazmine Mary",
+    "title": "Shower Beer",
+    "type": "single",
+    "genre": "Other",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Jazmine Mary Announces New Album Country Milk: Hear “Shower Beer”",
+        "link": "https://stereogum.com/2516105/jazmine-mary-announces-new-album-country-milk-hear-shower-beer/music/",
+        "published": "2026-10-30T13:49:03+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Lambb",
+    "title": "OBSESSION",
+    "type": "single",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Lamb Rebrands As Lambb Following Complaint From Trip-Hop Duo, Shares New Single “OBSESSION”",
+        "link": "https://stereogum.com/2516019/lamb-lambb-rebrand-obsession-single/music/",
+        "published": "2026-10-30T13:32:03+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Orca",
+    "title": "Missing the subway",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Orca share new track \"Missing the subway\"",
+        "link": "https://theneedledrop.com/news/orca-share-new-track-missing-the-subway/",
+        "published": "2026-10-30T13:30:24+00:00"
       }
     ]
   },
@@ -1360,6 +1777,30 @@
     ]
   },
   {
+    "artist": "HMLTD",
+    "title": "FANGS",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-23",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "The Needle Drop (YouTube)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (YouTube)",
+        "source_type": "video",
+        "weight": 1.5,
+        "mention": "review",
+        "score": null,
+        "headline": "HMLTD - FANGS ALBUM REVIEW",
+        "link": "https://www.youtube.com/watch?v=YGFqOLufncA",
+        "published": "2026-10-29T23:04:17+00:00"
+      }
+    ]
+  },
+  {
     "artist": "LustSickPuppy",
     "title": "SHAKER",
     "type": "single",
@@ -1810,6 +2251,30 @@
         "headline": "heavensouls - \"cantu\" of the sower ALBUM REVIEW",
         "link": "https://www.youtube.com/watch?v=Z88G-jkrf78",
         "published": "2026-10-23T23:22:43+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "The Olivia Tremor Control",
+    "title": "The Same Place",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2024-11-29",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "The Needle Drop (YouTube)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (YouTube)",
+        "source_type": "video",
+        "weight": 1.5,
+        "mention": "review",
+        "score": null,
+        "headline": "The Olivia Tremor Control - The Same Place ALBUM REVIEW",
+        "link": "https://www.youtube.com/watch?v=DnG3IkbkGQ0",
+        "published": "2026-11-01T04:41:41+00:00"
       }
     ]
   },
@@ -2325,6 +2790,54 @@
         "headline": "nowhere else to be Announce Self-Titled Debut Album: Hear “r1 (ripples)”",
         "link": "https://stereogum.com/2515773/nowhere-else-to-be-announce-self-titled-debut-album-r1-ripples/music/",
         "published": "2026-10-28T14:53:40+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Or Best Offer",
+    "title": "It Will Appear",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Or Best Offer Announce New Album It Will Appear : Hear “Fast Strong Horse”",
+        "link": "https://stereogum.com/2516091/or-best-offer-announce-new-album-it-will-appear-hear-fast-strong-horse/music/",
+        "published": "2026-10-30T14:38:22+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Jazmine Mary",
+    "title": "Country Milk",
+    "type": "album",
+    "genre": "Other",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Jazmine Mary Announces New Album Country Milk: Hear “Shower Beer”",
+        "link": "https://stereogum.com/2516105/jazmine-mary-announces-new-album-country-milk-hear-shower-beer/music/",
+        "published": "2026-10-30T13:49:03+00:00"
       }
     ]
   }

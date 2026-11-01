@@ -14,7 +14,7 @@
  "huercos|fromthetoolkitoflovers|album": {
   "cover": null,
   "source": null,
-  "checked": "2026-10-30T04:43:45.372270+00:00"
+  "checked": "2026-11-01T09:32:25.824582+00:00"
  },
  "diiv|zirp|album": {
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/31/87/54318724-e4d1-7254-a7d4-d2e671dff8ea/26CRGIM55137.rgb.jpg/600x600bb.jpg",
@@ -55,9 +55,9 @@
   "checked": "2026-10-28T13:05:01.934851+00:00"
  },
  "evilgianeandslimesito|georgiastate|single": {
-  "cover": null,
-  "source": null,
-  "checked": "2026-10-30T04:43:45.372270+00:00"
+  "cover": "https://cdn-images.dzcdn.net/images/cover/760d71a7973c3e2821fc42d82a4d46a4/500x500-000000-80-0-0.jpg",
+  "source": "Deezer",
+  "checked": "2026-11-01T09:32:25.824582+00:00"
  },
  "meiv|nofuturept1and2|single": {
   "checked": "2026-10-28T12:41:39.411800+00:00",
@@ -75,12 +75,12 @@
  "boldyjamesandrealbadman|strobelight|album": {
   "cover": null,
   "source": null,
-  "checked": "2026-10-30T04:43:45.372270+00:00"
+  "checked": "2026-11-01T09:32:25.824582+00:00"
  },
  "phoebebridgers|liveatmadisonsquaregarden|ep": {
   "cover": null,
   "source": null,
-  "checked": "2026-10-30T04:43:45.372270+00:00"
+  "checked": "2026-11-01T09:32:25.824582+00:00"
  },
  "justice|pusher|single": {
   "cover": "https://cdn-images.dzcdn.net/images/cover/e79f46f73f256fb9f7dcacc0cc344d1b/500x500-000000-80-0-0.jpg",
@@ -93,9 +93,9 @@
   "checked": "2026-10-30T04:43:45.372270+00:00"
  },
  "dominicfike|howtoquitsmoking|album": {
-  "cover": null,
-  "source": null,
-  "checked": "2026-10-30T04:43:45.372270+00:00"
+  "cover": "https://cdn-images.dzcdn.net/images/cover/2232798b2952d93cf9abc8ede17251df/500x500-000000-80-0-0.jpg",
+  "source": "Deezer",
+  "checked": "2026-11-01T09:32:25.824582+00:00"
  },
  "meisemones|2hands|single": {
   "cover": "https://cdn-images.dzcdn.net/images/cover/7bced71c6bdf724df609f18b0bb005af/500x500-000000-80-0-0.jpg",
@@ -120,7 +120,7 @@
  "boysnoize|nachsteliebe|single": {
   "cover": null,
   "source": null,
-  "checked": "2026-10-30T04:43:45.372270+00:00"
+  "checked": "2026-11-01T09:32:25.824582+00:00"
  },
  "juniorboys|underneaththemoon|single": {
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/5b/7e/395b7e1b-20c2-6ac7-8d89-9363659866ba/4250506853167_cover.jpg/600x600bb.jpg",
@@ -130,6 +130,31 @@
  "robertdelnaja|lifesupport|album": {
   "cover": null,
   "source": null,
-  "checked": "2026-10-30T04:43:45.372270+00:00"
+  "checked": "2026-11-01T09:32:25.824582+00:00"
+ },
+ "doseoneandfatboisharifandsteeltippeddove|truthugly|album": {
+  "cover": "https://cdn-images.dzcdn.net/images/cover/295c42d4f6f3d67ddb271a490682f937/500x500-000000-80-0-0.jpg",
+  "source": "Deezer",
+  "checked": "2026-11-01T09:32:25.824582+00:00"
+ },
+ "bennythebutcher|elevate|single": {
+  "cover": "https://cdn-images.dzcdn.net/images/cover/1ae05465422cede36b4e24ae0f3021c3/500x500-000000-80-0-0.jpg",
+  "source": "Deezer",
+  "checked": "2026-11-01T09:32:25.824582+00:00"
+ },
+ "diiv|dareme|single": {
+  "cover": "https://cdn-images.dzcdn.net/images/cover/d1bf65b27fd38a3cfb72fb3e0cd3e295/500x500-000000-80-0-0.jpg",
+  "source": "Deezer",
+  "checked": "2026-11-01T09:32:25.824582+00:00"
+ },
+ "deaddeities|deaddeities|album": {
+  "cover": null,
+  "source": null,
+  "checked": "2026-11-01T09:32:25.824582+00:00"
+ },
+ "lambb|obsession|single": {
+  "cover": "https://cdn-images.dzcdn.net/images/cover/16ce3b0a5b777559c2d37d55f23c138f/500x500-000000-80-0-0.jpg",
+  "source": "Deezer",
+  "checked": "2026-11-01T09:32:25.824582+00:00"
  }
 }
