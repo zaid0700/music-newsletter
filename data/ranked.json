@@ -1,7 +1,7 @@
 {
   "week_start": "2026-10-24",
   "week_end": "2026-10-30",
-  "generated": "2026-11-01T11:58:39.595635+00:00",
+  "generated": "2026-11-01T12:06:17.552356+00:00",
   "top": [
     {
       "artist": "evilgiane & Slimesito",
@@ -165,6 +165,16 @@
           "headline": "DIIV ‘Zirp!’ Review: Distortion Without Dimension",
           "link": "https://www.slantmagazine.com/music/diiv-zirp-album-review/",
           "published": "2026-10-25T15:00:00+00:00"
+        },
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "DIIV – “Dare Me”",
+          "link": "https://stereogum.com/2515877/diiv-dare-me-zirp-song/music/",
+          "published": "2026-10-28T21:58:35+00:00"
         }
       ],
       "fans": 38258,
@@ -299,41 +309,6 @@
       "avg_score": null
     },
     {
-      "artist": "evilgiane & Slimesito",
-      "title": "Georgia State",
-      "type": "single",
-      "genre": "Hip-hop / R&B",
-      "release_date": "2026-10-26",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Stereogum"
-      ],
-      "mentions": [
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "announcement",
-          "score": null,
-          "headline": "evilgiane & Slimesito Announce New Album EVILSLIME 2 Out Friday: Hear “Georgia State”",
-          "link": "https://stereogum.com/2515652/evilgiane-slimesito-announce-new-album-evilslime-2-out-friday-hear-georgia-state/news/",
-          "published": "2026-10-26T20:37:32+00:00"
-        }
-      ],
-      "fans": 479,
-      "star_power": 0.383,
-      "personal": 0.903,
-      "personal_reason": "You've played EVILGIANE 197 times",
-      "coverage": 1.0,
-      "publications": [
-        "Stereogum"
-      ],
-      "popularity": 0.303,
-      "rank_score": 0.506,
-      "avg_score": null
-    },
-    {
       "artist": "Phoebe Bridgers",
       "title": "Madison Square Garden",
       "type": "ep",
@@ -460,6 +435,41 @@
       ],
       "popularity": 0.729,
       "rank_score": 0.49,
+      "avg_score": null
+    },
+    {
+      "artist": "Justice",
+      "title": "Pusher",
+      "type": "single",
+      "genre": "Electronic / Dance",
+      "release_date": "2026-10-29",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Stereogum"
+      ],
+      "mentions": [
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Justice – “Pusher” (Feat. Gesaffelstein)",
+          "link": "https://stereogum.com/2515856/justice-gesaffelstein-pusher-grand-theft-auto-vi-soundtrack-score/music/",
+          "published": "2026-10-29T14:09:59+00:00"
+        }
+      ],
+      "fans": 813168,
+      "star_power": 0.844,
+      "personal": 0.787,
+      "personal_reason": "You've played Justice 25 times",
+      "coverage": 1.0,
+      "publications": [
+        "Stereogum"
+      ],
+      "popularity": 0.488,
+      "rank_score": 0.488,
       "avg_score": null
     }
   ],
@@ -915,41 +925,6 @@
         "avg_score": null
       },
       {
-        "artist": "evilgiane & Slimesito",
-        "title": "Georgia State",
-        "type": "single",
-        "genre": "Hip-hop / R&B",
-        "release_date": "2026-10-26",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Stereogum"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "announcement",
-            "score": null,
-            "headline": "evilgiane & Slimesito Announce New Album EVILSLIME 2 Out Friday: Hear “Georgia State”",
-            "link": "https://stereogum.com/2515652/evilgiane-slimesito-announce-new-album-evilslime-2-out-friday-hear-georgia-state/news/",
-            "published": "2026-10-26T20:37:32+00:00"
-          }
-        ],
-        "fans": 479,
-        "star_power": 0.383,
-        "personal": 0.903,
-        "personal_reason": "You've played EVILGIANE 197 times",
-        "coverage": 1.0,
-        "publications": [
-          "Stereogum"
-        ],
-        "popularity": 0.303,
-        "rank_score": 0.506,
-        "avg_score": null
-      },
-      {
         "artist": "Benny The Butcher",
         "title": "Elevate",
         "type": "single",
@@ -982,6 +957,41 @@
         ],
         "popularity": 0.412,
         "rank_score": 0.418,
+        "avg_score": null
+      },
+      {
+        "artist": "Doechii",
+        "title": "Lock Jaw",
+        "type": "single",
+        "genre": "Hip-hop / R&B",
+        "release_date": "2026-10-30",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Stereogum"
+        ],
+        "mentions": [
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Doechii – “Lock Jaw”",
+            "link": "https://stereogum.com/2516176/doechii-lock-jaw/music/",
+            "published": "2026-10-30T18:22:48+00:00"
+          }
+        ],
+        "fans": 155775,
+        "star_power": 0.742,
+        "personal": 0.619,
+        "personal_reason": "You've played Doechii 7 times",
+        "coverage": 1.0,
+        "publications": [
+          "Stereogum"
+        ],
+        "popularity": 0.447,
+        "rank_score": 0.397,
         "avg_score": null
       }
     ],
@@ -1029,6 +1039,16 @@
             "headline": "DIIV ‘Zirp!’ Review: Distortion Without Dimension",
             "link": "https://www.slantmagazine.com/music/diiv-zirp-album-review/",
             "published": "2026-10-25T15:00:00+00:00"
+          },
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "DIIV – “Dare Me”",
+            "link": "https://stereogum.com/2515877/diiv-dare-me-zirp-song/music/",
+            "published": "2026-10-28T21:58:35+00:00"
           }
         ],
         "fans": 38258,
@@ -1128,76 +1148,6 @@
         "avg_score": null
       },
       {
-        "artist": "DIIV",
-        "title": "Dare Me",
-        "type": "single",
-        "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-10-28",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Stereogum"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "DIIV – “Dare Me”",
-            "link": "https://stereogum.com/2515877/diiv-dare-me-zirp-song/music/",
-            "published": "2026-10-28T21:58:35+00:00"
-          }
-        ],
-        "fans": 38258,
-        "star_power": 0.655,
-        "personal": 0.607,
-        "personal_reason": "On your Spotify playlists (2 tracks)",
-        "coverage": 1.0,
-        "publications": [
-          "Stereogum"
-        ],
-        "popularity": 0.412,
-        "rank_score": 0.384,
-        "avg_score": null
-      },
-      {
-        "artist": "The Big Moon",
-        "title": "Forever",
-        "type": "album",
-        "genre": "Rock / Alternative / Indie",
-        "release_date": null,
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "musicOMH"
-        ],
-        "mentions": [
-          {
-            "source": "musicOMH",
-            "source_type": "reviews",
-            "weight": 1.0,
-            "mention": "review",
-            "score": null,
-            "headline": "The Big Moon – Forever",
-            "link": "https://www.musicomh.com/reviews/albums/the-big-moon-forever",
-            "published": "2026-10-29T08:01:43+00:00"
-          }
-        ],
-        "fans": 5631,
-        "star_power": 0.536,
-        "personal": 0.269,
-        "personal_reason": "Similar to Wolf Alice, Blood Red Shoes",
-        "coverage": 1.0,
-        "publications": [
-          "musicOMH"
-        ],
-        "popularity": 0.364,
-        "rank_score": 0.297,
-        "avg_score": null
-      },
-      {
         "artist": "Queens Of The Stone Age",
         "title": "Perfecth",
         "type": "album",
@@ -1229,19 +1179,124 @@
             "headline": "Queens Of The Stone Age – Perfecth",
             "link": "https://www.musicomh.com/reviews/albums/queens-of-the-stone-age-perfecth",
             "published": "2026-10-28T08:31:05+00:00"
+          },
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Queens Of The Stone Age – “Run Away From The Mob”",
+            "link": "https://stereogum.com/2515884/queens-of-the-stone-age-run-away-from-the-mob-perfecth-song/music/",
+            "published": "2026-10-28T21:56:18+00:00"
           }
         ],
         "fans": 1375936,
         "star_power": 0.877,
         "personal": 0.135,
         "personal_reason": "Similar to Desert Sessions, Soundgarden",
-        "coverage": 2.0,
+        "coverage": 3.0,
         "publications": [
           "Consequence",
+          "Stereogum",
           "musicOMH"
         ],
-        "popularity": 0.651,
-        "rank_score": 0.29,
+        "popularity": 0.801,
+        "rank_score": 0.335,
+        "avg_score": null
+      },
+      {
+        "artist": "Atlas Sound",
+        "title": "Octoberland",
+        "type": "single",
+        "genre": "Rock / Alternative / Indie",
+        "release_date": "2026-10-30",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Pitchfork (news)",
+          "Stereogum",
+          "The Needle Drop (website)"
+        ],
+        "mentions": [
+          {
+            "source": "The Needle Drop (website)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Atlas Sound returns with \"Octoberland,\" first new song in 15 years",
+            "link": "https://theneedledrop.com/news/atlas-sound-returns-with-octoberland-first-new-song-in-15-years/",
+            "published": "2026-10-31T00:19:58+00:00"
+          },
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Atlas Sound – “Octoberland”",
+            "link": "https://stereogum.com/2516185/atlas-sound-octoberland/music/",
+            "published": "2026-10-30T21:05:06+00:00"
+          },
+          {
+            "source": "Pitchfork (news)",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Listen to the First Atlas Sound Song in 15 Years",
+            "link": "https://pitchfork.com/story/listen-to-the-first-atlas-sound-song-in-15-years/",
+            "published": "2026-10-30T21:03:48+00:00"
+          }
+        ],
+        "fans": 9299,
+        "star_power": 0.567,
+        "personal": 0.216,
+        "personal_reason": "Similar to Deerhunter, Panda Bear",
+        "coverage": 3.0,
+        "publications": [
+          "Pitchfork",
+          "Stereogum",
+          "The Needle Drop"
+        ],
+        "popularity": 0.677,
+        "rank_score": 0.248,
+        "avg_score": null
+      },
+      {
+        "artist": "Clinic",
+        "title": "Wild In The Streets",
+        "type": "album",
+        "genre": "Rock / Alternative / Indie",
+        "release_date": "2026-10-30",
+        "date_source": "musicbrainz",
+        "scores": [],
+        "sources": [
+          "musicOMH"
+        ],
+        "mentions": [
+          {
+            "source": "musicOMH",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "review",
+            "score": null,
+            "headline": "Clinic – Wild In The Streets",
+            "link": "https://www.musicomh.com/reviews/albums/clinic-wild-in-the-streets",
+            "published": "2026-10-29T13:01:22+00:00"
+          }
+        ],
+        "fans": 5655,
+        "star_power": 0.536,
+        "personal": 0.194,
+        "personal_reason": "Similar to Liars, Grandaddy",
+        "coverage": 1.0,
+        "publications": [
+          "musicOMH"
+        ],
+        "popularity": 0.364,
+        "rank_score": 0.245,
         "avg_score": null
       }
     ],

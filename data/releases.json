@@ -3391,6 +3391,30 @@
     ]
   },
   {
+    "artist": "Darren Hayman",
+    "title": "I'm Your Team",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-16",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Darren Hayman – I’m Your Team",
+        "link": "https://www.musicomh.com/reviews/albums/darren-hayman-im-your-team",
+        "published": "2026-10-21T07:01:17+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Ella Thompson",
     "title": "Triumph And Sadness",
     "type": "album",
@@ -3662,6 +3686,30 @@
         "headline": "“Solar Eclipse”",
         "link": "https://pitchfork.com/reviews/tracks/drake-don-toliver-solar-eclipse/",
         "published": "2026-10-02T19:53:32+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "The Big Moon",
+    "title": "Forever",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-02",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "The Big Moon – Forever",
+        "link": "https://www.musicomh.com/reviews/albums/the-big-moon-forever",
+        "published": "2026-10-29T08:01:43+00:00"
       }
     ]
   },
@@ -4452,54 +4500,6 @@
         "headline": "PISS – You Made Me/Skin On Linen",
         "link": "https://www.musicomh.com/reviews/albums/piss-you-made-me-skin-on-linen",
         "published": "2026-10-30T07:31:20+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "The Big Moon",
-    "title": "Forever",
-    "type": "album",
-    "genre": "Rock / Alternative / Indie",
-    "release_date": null,
-    "date_source": "feeds",
-    "scores": [],
-    "sources": [
-      "musicOMH"
-    ],
-    "mentions": [
-      {
-        "source": "musicOMH",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "review",
-        "score": null,
-        "headline": "The Big Moon – Forever",
-        "link": "https://www.musicomh.com/reviews/albums/the-big-moon-forever",
-        "published": "2026-10-29T08:01:43+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Darren Hayman",
-    "title": "I'm Your Team",
-    "type": "album",
-    "genre": "Rock / Alternative / Indie",
-    "release_date": null,
-    "date_source": "feeds",
-    "scores": [],
-    "sources": [
-      "musicOMH"
-    ],
-    "mentions": [
-      {
-        "source": "musicOMH",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "review",
-        "score": null,
-        "headline": "Darren Hayman – I’m Your Team",
-        "link": "https://www.musicomh.com/reviews/albums/darren-hayman-im-your-team",
-        "published": "2026-10-21T07:01:17+00:00"
       }
     ]
   },
