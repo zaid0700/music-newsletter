@@ -83,17 +83,21 @@ sources:
     type: news
     weight: 1.0
 
-  - name: Slant (music)                          # check
+  - name: XXL
+    url: https://www.xxlmag.com/feed/
+    type: news
+    weight: 1.0
+
+  - name: Slant (music)
     url: https://www.slantmagazine.com/category/music/feed/
     type: reviews
     weight: 1.0
 
-  # --- Hip-hop / R&B ------------------------------------------------------
-    - name: XXL
-    url: https://www.xxlmag.com/feed/
-    type: news
+  - name: musicOMH
+    url: https://www.musicomh.com/reviews/albums/feed
+    type: reviews
     weight: 1.0
-    
+
 genres:
   - Pop
   - Hip-hop / R&B
