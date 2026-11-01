@@ -1,7 +1,7 @@
 {
   "week_start": "2026-10-24",
   "week_end": "2026-10-30",
-  "generated": "2026-11-01T11:00:37.804512+00:00",
+  "generated": "2026-11-01T11:58:39.595635+00:00",
   "top": [
     {
       "artist": "evilgiane & Slimesito",
@@ -299,41 +299,6 @@
       "avg_score": null
     },
     {
-      "artist": "Panda Bear",
-      "title": "PB Band Live 25 at Power Station",
-      "type": "album",
-      "genre": "Rock / Alternative / Indie",
-      "release_date": "2026-10-28",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Pitchfork (news)"
-      ],
-      "mentions": [
-        {
-          "source": "Pitchfork (news)",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "release_news",
-          "score": null,
-          "headline": "Panda Bear Unveils New Live Album",
-          "link": "https://pitchfork.com/story/panda-bear-unveils-new-live-album/",
-          "published": "2026-10-28T14:10:42+00:00"
-        }
-      ],
-      "fans": 27865,
-      "star_power": 0.635,
-      "personal": 0.563,
-      "personal_reason": "You've played Panda Bear 2 times",
-      "coverage": 1.0,
-      "publications": [
-        "Pitchfork"
-      ],
-      "popularity": 0.404,
-      "rank_score": 0.515,
-      "avg_score": null
-    },
-    {
       "artist": "evilgiane & Slimesito",
       "title": "Georgia State",
       "type": "single",
@@ -436,6 +401,65 @@
       ],
       "popularity": 0.398,
       "rank_score": 0.497,
+      "avg_score": null
+    },
+    {
+      "artist": "Everything But The Girl",
+      "title": "Young and Dumb",
+      "type": "single",
+      "genre": "Pop",
+      "release_date": "2026-10-28",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Pitchfork (news)",
+        "Stereogum",
+        "The Needle Drop (website)"
+      ],
+      "mentions": [
+        {
+          "source": "The Needle Drop (website)",
+          "source_type": "reviews",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Everything But The Girl announces new album 'Blue Reservoir,' share \"Young and Dumb\" music video",
+          "link": "https://theneedledrop.com/news/everything-but-the-girl-announces-new-album-blue-reservoir-share-young-and-dumb-music-video/",
+          "published": "2026-10-28T20:12:54+00:00"
+        },
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "announcement",
+          "score": null,
+          "headline": "Everything But The Girl Announce New Album Blue Reservoir: Hear “Young And Dumb”",
+          "link": "https://stereogum.com/2515793/everything-but-the-girl-announce-new-album-blue-reservoir-hear-young-and-dumb/music/",
+          "published": "2026-10-28T13:39:02+00:00"
+        },
+        {
+          "source": "Pitchfork (news)",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Everything But the Girl Ready New Album Blue Reservoir",
+          "link": "https://pitchfork.com/story/everything-but-the-girl-ready-new-album-blue-reservoir/",
+          "published": "2026-10-28T11:34:35+00:00"
+        }
+      ],
+      "fans": 76069,
+      "star_power": 0.697,
+      "personal": 0.687,
+      "personal_reason": "You've played Everything But the Girl 25 times",
+      "coverage": 3.0,
+      "publications": [
+        "Pitchfork",
+        "Stereogum",
+        "The Needle Drop"
+      ],
+      "popularity": 0.729,
+      "rank_score": 0.49,
       "avg_score": null
     }
   ],
@@ -552,8 +576,8 @@
         "title": "Skin & Blisters",
         "type": "album",
         "genre": "Pop",
-        "release_date": null,
-        "date_source": "feeds",
+        "release_date": "2026-10-30",
+        "date_source": "musicbrainz",
         "scores": [],
         "sources": [
           "musicOMH"
@@ -580,6 +604,41 @@
         ],
         "popularity": 0.271,
         "rank_score": 0.153,
+        "avg_score": null
+      },
+      {
+        "artist": "Haiden Henderson",
+        "title": "bleach",
+        "type": "album",
+        "genre": "Pop",
+        "release_date": "2026-10-30",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "uDiscover Music"
+        ],
+        "mentions": [
+          {
+            "source": "uDiscover Music",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "release_news",
+            "score": null,
+            "headline": "Haiden Henderson Releases Debut Album ‘bleach’",
+            "link": "https://www.udiscovermusic.com/news/haiden-henderson-bleach-out-now/",
+            "published": "2026-10-30T20:08:38+00:00"
+          }
+        ],
+        "fans": 4647,
+        "star_power": 0.524,
+        "personal": 0.06,
+        "personal_reason": "Similar to Bella Kay",
+        "coverage": 1.0,
+        "publications": [
+          "uDiscover Music"
+        ],
+        "popularity": 0.36,
+        "rank_score": 0.15,
         "avg_score": null
       },
       {
@@ -662,41 +721,6 @@
         ],
         "popularity": 0.477,
         "rank_score": 0.139,
-        "avg_score": null
-      },
-      {
-        "artist": "Chvrches",
-        "title": "Overthinker",
-        "type": "single",
-        "genre": "Pop",
-        "release_date": "2026-10-27",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Stereogum"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Chvrches – “Overthinker”",
-            "link": "https://stereogum.com/2515747/chvrches-overthinker/music/",
-            "published": "2026-10-27T19:11:24+00:00"
-          }
-        ],
-        "fans": 184668,
-        "star_power": 0.752,
-        "personal": 0.081,
-        "personal_reason": "Similar to Metric, Grimes",
-        "coverage": 1.0,
-        "publications": [
-          "Stereogum"
-        ],
-        "popularity": 0.451,
-        "rank_score": 0.134,
         "avg_score": null
       }
     ],
@@ -1022,41 +1046,6 @@
         "avg_score": null
       },
       {
-        "artist": "Panda Bear",
-        "title": "PB Band Live 25 at Power Station",
-        "type": "album",
-        "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-10-28",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Pitchfork (news)"
-        ],
-        "mentions": [
-          {
-            "source": "Pitchfork (news)",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "release_news",
-            "score": null,
-            "headline": "Panda Bear Unveils New Live Album",
-            "link": "https://pitchfork.com/story/panda-bear-unveils-new-live-album/",
-            "published": "2026-10-28T14:10:42+00:00"
-          }
-        ],
-        "fans": 27865,
-        "star_power": 0.635,
-        "personal": 0.563,
-        "personal_reason": "You've played Panda Bear 2 times",
-        "coverage": 1.0,
-        "publications": [
-          "Pitchfork"
-        ],
-        "popularity": 0.404,
-        "rank_score": 0.515,
-        "avg_score": null
-      },
-      {
         "artist": "Phoebe Bridgers",
         "title": "Madison Square Garden",
         "type": "ep",
@@ -1206,6 +1195,53 @@
         ],
         "popularity": 0.364,
         "rank_score": 0.297,
+        "avg_score": null
+      },
+      {
+        "artist": "Queens Of The Stone Age",
+        "title": "Perfecth",
+        "type": "album",
+        "genre": "Rock / Alternative / Indie",
+        "release_date": "2026-10-30",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Consequence",
+          "musicOMH"
+        ],
+        "mentions": [
+          {
+            "source": "Consequence",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "release_news",
+            "score": null,
+            "headline": "Queens of the Stone Age Release New Album Perfecth: Stream",
+            "link": "https://consequence.net/2026/10/queens-of-the-stone-age-perfecth-album-stream/",
+            "published": "2026-10-30T17:44:32+00:00"
+          },
+          {
+            "source": "musicOMH",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "review",
+            "score": null,
+            "headline": "Queens Of The Stone Age – Perfecth",
+            "link": "https://www.musicomh.com/reviews/albums/queens-of-the-stone-age-perfecth",
+            "published": "2026-10-28T08:31:05+00:00"
+          }
+        ],
+        "fans": 1375936,
+        "star_power": 0.877,
+        "personal": 0.135,
+        "personal_reason": "Similar to Desert Sessions, Soundgarden",
+        "coverage": 2.0,
+        "publications": [
+          "Consequence",
+          "musicOMH"
+        ],
+        "popularity": 0.651,
+        "rank_score": 0.29,
         "avg_score": null
       }
     ],

@@ -343,6 +343,30 @@
     ]
   },
   {
+    "artist": "Lil Baby",
+    "title": "FRESH",
+    "type": "album",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-11-06",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Lil Baby Announces ‘FRESH’ for November 6 Release",
+        "link": "https://www.udiscovermusic.com/news/lil-baby-fresh/",
+        "published": "2026-10-21T12:53:52+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Fire-Toolz",
     "title": "Clustered Around My Opening!",
     "type": "single",
@@ -1079,6 +1103,174 @@
     ]
   },
   {
+    "artist": "Disgusting Sisters",
+    "title": "Skin & Blisters",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": "2026-10-30",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Disgusting Sisters – Skin & Blisters",
+        "link": "https://www.musicomh.com/reviews/albums/disgusting-sisters-skin-blisters",
+        "published": "2026-10-28T08:01:39+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Bleech 9:3",
+    "title": "Lullaby",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Bleech 9:3 Release Cover of The Cure’s ‘Lullaby’",
+        "link": "https://www.udiscovermusic.com/news/bleech-9-3-the-cure-lullaby/",
+        "published": "2026-10-30T23:16:34+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Mergui",
+    "title": "GF",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Mergui Releases ‘GF’ Ahead of ‘Gut Feeling’ EP",
+        "link": "https://www.udiscovermusic.com/news/mergui-gf/",
+        "published": "2026-10-30T22:04:59+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Kirk Franklin",
+    "title": "I Am What I Am",
+    "type": "album",
+    "genre": "Other",
+    "release_date": "2026-10-30",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Kirk Franklin Splits New Album Between Studio And Live Sets",
+        "link": "https://www.udiscovermusic.com/news/kirk-franklin-i-am-what-i-am-out-now/",
+        "published": "2026-10-30T21:53:21+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Joshua Redman",
+    "title": "If Ever I Would Leave You",
+    "type": "single",
+    "genre": "Other",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Joshua Redman Shares Sonny Rollins Tribute Album’s Title Track",
+        "link": "https://www.udiscovermusic.com/news/joshua-redman-if-ever-i-would-leave-you/",
+        "published": "2026-10-30T21:28:26+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Haiden Henderson",
+    "title": "bleach",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Haiden Henderson Releases Debut Album ‘bleach’",
+        "link": "https://www.udiscovermusic.com/news/haiden-henderson-bleach-out-now/",
+        "published": "2026-10-30T20:08:38+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Jordan Davis",
+    "title": "Steady Flame",
+    "type": "single",
+    "genre": "Other",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Jordan Davis Releases New Song ‘Steady Flame’",
+        "link": "https://www.udiscovermusic.com/news/jordan-davis-steady-flame/",
+        "published": "2026-10-30T19:18:28+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Mei Semones",
     "title": "2 Hands",
     "type": "single",
@@ -1313,6 +1505,30 @@
         "headline": "Phoebe Bridgers Announces Madison Square Garden EP",
         "link": "https://pitchfork.com/story/phoebe-bridgers-announces-madison-square-garden-ep/",
         "published": "2026-10-29T17:25:02+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Reba McEntire",
+    "title": "I'm A Survivor",
+    "type": "ep",
+    "genre": "Other",
+    "release_date": "2026-10-29",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Reba McEntire Releases ‘I’m A Survivor’ EP for ‘Reba’ Anniversary",
+        "link": "https://www.udiscovermusic.com/news/reba-mcentire-im-a-survivor-ep/",
+        "published": "2026-10-29T12:50:05+00:00"
       }
     ]
   },
@@ -2160,6 +2376,78 @@
     ]
   },
   {
+    "artist": "twentythree",
+    "title": "Turn Up",
+    "type": "single",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-26",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "twentythree Shares Video for New Single ‘Turn Up’",
+        "link": "https://www.udiscovermusic.com/news/twentythree-turn-it-up/",
+        "published": "2026-10-26T16:19:11+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Karrahbooo",
+    "title": "No Cap",
+    "type": "single",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-26",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Listen to Karrahbooo’s New Song ‘No Cap’",
+        "link": "https://www.udiscovermusic.com/news/karrahbooo-no-cap/",
+        "published": "2026-10-26T15:46:44+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Livingston",
+    "title": "Shapeshifter",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-26",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Listen to Livingston’s New Single ‘Shapeshifter’",
+        "link": "https://www.udiscovermusic.com/news/livingston-shapeshifter/",
+        "published": "2026-10-26T15:00:30+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Bruiser Wolf & Conductor Williams",
     "title": "Ain't Got Time",
     "type": "single",
@@ -2232,6 +2520,30 @@
     ]
   },
   {
+    "artist": "Orchestra Baobab",
+    "title": "Made In Senegal",
+    "type": "album",
+    "genre": "Other",
+    "release_date": "2026-10-23",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Orchestra Baobab – Made In Senegal",
+        "link": "https://www.musicomh.com/reviews/albums/orchestra-baobab-made-in-senegal",
+        "published": "2026-10-23T11:26:43+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Bernie Taupin",
     "title": "The Sea Has No Mercy",
     "type": "album",
@@ -2300,6 +2612,414 @@
         "headline": "Caroline Rose – Gentling The Horse At The Walt Whitman Mall",
         "link": "https://www.musicomh.com/reviews/albums/caroline-rose-gentling-the-horse-at-the-walt-whitman-mall",
         "published": "2026-10-22T07:01:21+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "keshi",
+    "title": "MISS ME",
+    "type": "single",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-23",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "keshi Releases New Single ‘MISS ME’ Ahead of Third Album",
+        "link": "https://www.udiscovermusic.com/news/keshi-miss-me/",
+        "published": "2026-10-23T16:49:19+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "John Legend",
+    "title": "Muse",
+    "type": "album",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-23",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "John Legend Releases New Album ‘Muse’",
+        "link": "https://www.udiscovermusic.com/news/john-legend-muse-out-now/",
+        "published": "2026-10-23T16:45:55+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "EZ MIL",
+    "title": "3RD WRLD VOL. 2",
+    "type": "ep",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-23",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "EZ MIL Releases ‘3RD WRLD VOL. 2’ EP",
+        "link": "https://www.udiscovermusic.com/news/ez-mil-3rd-world-vol-2-ep/",
+        "published": "2026-10-23T16:30:45+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Kenny Whitmire",
+    "title": "Leavin’ Lucy Lonesome",
+    "type": "single",
+    "genre": "Other",
+    "release_date": "2026-10-23",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Kenny Whitmire Releases New Single ‘Leavin’ Lucy Lonesome’",
+        "link": "https://www.udiscovermusic.com/news/kenny-whitmire-leavin-lucy-lonesome/",
+        "published": "2026-10-23T16:20:00+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "JYT",
+    "title": "Just Your Type",
+    "type": "ep",
+    "genre": "Pop",
+    "release_date": "2026-10-23",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Seven Tracks Introduce JYT on ‘Just Your Type’ EP",
+        "link": "https://www.udiscovermusic.com/news/jyt-just-your-type-ep-out-now/",
+        "published": "2026-10-23T16:16:48+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "GIRLSET & Kylie Cantrall",
+    "title": "Glown Up",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-10-23",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Listen To GIRLSET And Kylie Cantrall’s ‘Glown Up’",
+        "link": "https://www.udiscovermusic.com/news/girlset-kylie-cantrall-glown-up/",
+        "published": "2026-10-23T15:27:44+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Arthur Hill",
+    "title": "Record Timing",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-10-23",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Arthur Hill Releases Two-Track Single ‘Record Timing’",
+        "link": "https://www.udiscovermusic.com/news/arthur-hill-record-timing/",
+        "published": "2026-10-23T15:20:15+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "James Newton Howard",
+    "title": "Haymitch Meets Snow",
+    "type": "single",
+    "genre": "Other",
+    "release_date": "2026-10-23",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Listen to ‘Haymitch Meets Snow’ From New Hunger Games Score",
+        "link": "https://www.udiscovermusic.com/news/james-newton-howard-haymitch-meets-snow-hunger-games-soundtrack/",
+        "published": "2026-10-23T15:17:28+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Chase Shakur",
+    "title": "Highly Favored",
+    "type": "single",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-23",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Chase Shakur Releases New Single ‘Highly Favored’",
+        "link": "https://www.udiscovermusic.com/news/chase-shakur-highly-favored/",
+        "published": "2026-10-23T15:09:52+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Bluegirl",
+    "title": "Look At All The Happy People",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-10-23",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Bluegirl Releases Debut Single ‘Look At All The Happy People’",
+        "link": "https://www.udiscovermusic.com/news/bluegirl-look-at-all-the-happy-people/",
+        "published": "2026-10-23T15:04:38+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Brothers Osborne",
+    "title": "Watertown",
+    "type": "album",
+    "genre": "Other",
+    "release_date": "2026-10-23",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Brothers Osborne Release Fifth Album ‘Watertown’",
+        "link": "https://www.udiscovermusic.com/news/brothers-osborne-watertown-out-now/",
+        "published": "2026-10-23T15:00:42+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Girl Group",
+    "title": "SAVIOUR/FATHER/PRINCE",
+    "type": "single",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-10-23",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Girl Group Release New Single ‘SAVIOUR/FATHER/PRINCE’",
+        "link": "https://www.udiscovermusic.com/news/girl-group-saviour-father-prince/",
+        "published": "2026-10-23T13:12:38+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "John Mayer",
+    "title": "Tom and Jerry",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-23",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Listen to John Mayer’s New Single ‘Tom and Jerry’",
+        "link": "https://www.udiscovermusic.com/news/john-mayer-tom-and-jerry/",
+        "published": "2026-10-23T13:10:00+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Jazzy",
+    "title": "Peace & Patience",
+    "type": "album",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-10-23",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Jazzy Releases ‘Depart’ Ahead of Debut Album",
+        "link": "https://www.udiscovermusic.com/news/jazzy-depart/",
+        "published": "2026-10-20T12:45:39+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "YANA",
+    "title": "Your Name Is A River",
+    "type": "single",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-10-21",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "YANA Announces ‘Quiet Rebellion,’ Shares Tara Nome Doyle Collaboration",
+        "link": "https://www.udiscovermusic.com/news/yana-quiet-rebellion/",
+        "published": "2026-10-21T19:03:30+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "The Rolling Stones & Courtney Pine",
+    "title": "Who You Callin' Crazy",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-20",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Courtney Pine Joins The Rolling Stones On New Single",
+        "link": "https://www.udiscovermusic.com/news/the-rolling-stones-who-you-callin-crazy/",
+        "published": "2026-10-20T16:28:45+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Jazzy",
+    "title": "Depart",
+    "type": "single",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-10-20",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Jazzy Releases ‘Depart’ Ahead of Debut Album",
+        "link": "https://www.udiscovermusic.com/news/jazzy-depart/",
+        "published": "2026-10-20T12:45:39+00:00"
       }
     ]
   },
@@ -2647,6 +3367,30 @@
     ]
   },
   {
+    "artist": "Angèle",
+    "title": "Instinct",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": "2026-10-16",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Angèle – Instinct",
+        "link": "https://www.musicomh.com/reviews/albums/angele-instinct",
+        "published": "2026-10-23T06:01:52+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Ella Thompson",
     "title": "Triumph And Sadness",
     "type": "album",
@@ -2691,6 +3435,150 @@
         "headline": "Richard Thompson – Hippies, Thugs And Heroes",
         "link": "https://www.musicomh.com/reviews/albums/richard-thompson-hippies-thugs-and-heroes",
         "published": "2026-10-20T08:31:51+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Giant Rooks",
+    "title": "IF HEAVEN EXISTS, THIS MIGHT BE IT",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-16",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Giant Rooks Release ‘IF HEAVEN EXISTS, THIS MIGHT BE IT’",
+        "link": "https://www.udiscovermusic.com/news/giant-rooks-if-heaven-exists-this-might-be-it/",
+        "published": "2026-10-16T18:10:32+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Take That",
+    "title": "Higher",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-10-16",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Listen To Take That’s Disco-Infused New Single ‘Higher’",
+        "link": "https://www.udiscovermusic.com/news/take-that-higher-dreamers/",
+        "published": "2026-10-16T18:07:35+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Nick Ward",
+    "title": "Making Time",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-16",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Nick Ward Shares ‘Making Time’ From Forthcoming Second Album",
+        "link": "https://www.udiscovermusic.com/news/nick-ward-making-time/",
+        "published": "2026-10-16T18:04:52+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "TOMORA",
+    "title": "Celebration",
+    "type": "ep",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-10-16",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "TOMORA Releases New Five-Track EP ‘Celebration’",
+        "link": "https://www.udiscovermusic.com/news/tomora-celebration-out-now/",
+        "published": "2026-10-16T17:58:30+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Brooke Combe",
+    "title": "Passing Faces",
+    "type": "single",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-16",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Brooke Combe Announces New Album ‘Too Late For Tears’",
+        "link": "https://www.udiscovermusic.com/news/brooke-combe-too-late-for-tears/",
+        "published": "2026-10-16T17:20:25+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Sydney Rose",
+    "title": "It Was My First Time",
+    "type": "ep",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-16",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Listen To Sydney Rose’s New EP ‘It Was My First Time’",
+        "link": "https://www.udiscovermusic.com/news/sydney-rose-it-was-my-first-time-ep-out-now/",
+        "published": "2026-10-16T17:12:52+00:00"
       }
     ]
   },
@@ -2953,6 +3841,41 @@
         "headline": "Alchemical Sisters",
         "link": "https://pitchfork.com/reviews/albums/alchemical-sisters-alchemical-sisters/",
         "published": "2026-10-22T04:03:00+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Diana Silvers",
+    "title": "Daughter of Sorts",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Rolling Stone (music)",
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "Rolling Stone (music)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "‘Grief Is Universal — And Very Specific’: Diana Silvers on Her Devastatingly Beautiful New Record",
+        "link": "https://www.rollingstone.com/music/music-features/diana-silvers-interview-daughter-of-sorts-album-1235636948/",
+        "published": "2026-10-30T21:28:52+00:00"
+      },
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Diana Silvers Announces Sophomore Album ‘Daughter of Sorts’",
+        "link": "https://www.udiscovermusic.com/news/diana-silvers-daughter-of-sorts/",
+        "published": "2026-10-23T14:49:58+00:00"
       }
     ]
   },
@@ -3461,30 +4384,6 @@
     ]
   },
   {
-    "artist": "Diana Silvers",
-    "title": "Daughter of Sorts",
-    "type": "album",
-    "genre": "Other",
-    "release_date": null,
-    "date_source": "feeds",
-    "scores": [],
-    "sources": [
-      "Rolling Stone (music)"
-    ],
-    "mentions": [
-      {
-        "source": "Rolling Stone (music)",
-        "source_type": "news",
-        "weight": 1.0,
-        "mention": "release_news",
-        "score": null,
-        "headline": "‘Grief Is Universal — And Very Specific’: Diana Silvers on Her Devastatingly Beautiful New Record",
-        "link": "https://www.rollingstone.com/music/music-features/diana-silvers-interview-daughter-of-sorts-album-1235636948/",
-        "published": "2026-10-30T21:28:52+00:00"
-      }
-    ]
-  },
-  {
     "artist": "Florence and the Machine",
     "title": "Everybody Scream Tour Live Album",
     "type": "album",
@@ -3577,78 +4476,6 @@
         "headline": "The Big Moon – Forever",
         "link": "https://www.musicomh.com/reviews/albums/the-big-moon-forever",
         "published": "2026-10-29T08:01:43+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Disgusting Sisters",
-    "title": "Skin & Blisters",
-    "type": "album",
-    "genre": "Pop",
-    "release_date": null,
-    "date_source": "feeds",
-    "scores": [],
-    "sources": [
-      "musicOMH"
-    ],
-    "mentions": [
-      {
-        "source": "musicOMH",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "review",
-        "score": null,
-        "headline": "Disgusting Sisters – Skin & Blisters",
-        "link": "https://www.musicomh.com/reviews/albums/disgusting-sisters-skin-blisters",
-        "published": "2026-10-28T08:01:39+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Orchestra Baobab",
-    "title": "Made In Senegal",
-    "type": "album",
-    "genre": "Other",
-    "release_date": null,
-    "date_source": "feeds",
-    "scores": [],
-    "sources": [
-      "musicOMH"
-    ],
-    "mentions": [
-      {
-        "source": "musicOMH",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "review",
-        "score": null,
-        "headline": "Orchestra Baobab – Made In Senegal",
-        "link": "https://www.musicomh.com/reviews/albums/orchestra-baobab-made-in-senegal",
-        "published": "2026-10-23T11:26:43+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Angèle",
-    "title": "Instinct",
-    "type": "album",
-    "genre": "Pop",
-    "release_date": null,
-    "date_source": "feeds",
-    "scores": [],
-    "sources": [
-      "musicOMH"
-    ],
-    "mentions": [
-      {
-        "source": "musicOMH",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "review",
-        "score": null,
-        "headline": "Angèle – Instinct",
-        "link": "https://www.musicomh.com/reviews/albums/angele-instinct",
-        "published": "2026-10-23T06:01:52+00:00"
       }
     ]
   },
@@ -3769,6 +4596,150 @@
         "headline": "Eels – Cookie Happened",
         "link": "https://www.musicomh.com/reviews/albums/eels-cookie-happened",
         "published": "2026-10-16T07:01:35+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Mergui",
+    "title": "Gut Feeling",
+    "type": "ep",
+    "genre": "Pop",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Mergui Releases ‘GF’ Ahead of ‘Gut Feeling’ EP",
+        "link": "https://www.udiscovermusic.com/news/mergui-gf/",
+        "published": "2026-10-30T22:04:59+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Joshua Redman",
+    "title": "If Ever You Would Leave Us (we play for Rollins)",
+    "type": "album",
+    "genre": "Other",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Joshua Redman Shares Sonny Rollins Tribute Album’s Title Track",
+        "link": "https://www.udiscovermusic.com/news/joshua-redman-if-ever-i-would-leave-you/",
+        "published": "2026-10-30T21:28:26+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "aron!",
+    "title": "christmas dream",
+    "type": "ep",
+    "genre": "Pop",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "aron! Announces ‘christmas dream’ EP for November",
+        "link": "https://www.udiscovermusic.com/news/aron-christmas-dream-ep/",
+        "published": "2026-10-26T15:28:40+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "YANA",
+    "title": "Quiet Rebellion",
+    "type": "album",
+    "genre": "Electronic / Dance",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "YANA Announces ‘Quiet Rebellion,’ Shares Tara Nome Doyle Collaboration",
+        "link": "https://www.udiscovermusic.com/news/yana-quiet-rebellion/",
+        "published": "2026-10-21T19:03:30+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Ali G",
+    "title": "Who Iz I?",
+    "type": "album",
+    "genre": "Hip-hop / R&B",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Ali G Announces ‘Who Iz I?’ Soundtrack Ahead of Film",
+        "link": "https://www.udiscovermusic.com/news/ali-g-who-iz-i-soundtrack/",
+        "published": "2026-10-20T12:51:13+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Brooke Combe",
+    "title": "Too Late For Tears",
+    "type": "album",
+    "genre": "Hip-hop / R&B",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Brooke Combe Announces New Album ‘Too Late For Tears’",
+        "link": "https://www.udiscovermusic.com/news/brooke-combe-too-late-for-tears/",
+        "published": "2026-10-16T17:20:25+00:00"
       }
     ]
   }

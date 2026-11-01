@@ -1,5 +1,22 @@
 [
   {
+    "id": "f4428e596a30c8c5",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Gracie Abrams channel ‘Romeo + Juliet’ for performances of ‘Hit The Wall’ and ‘Here You Come, There You Go’ on ‘SNL’",
+    "link": "https://www.nme.com/news/music/watch-gracie-abrams-channel-romeo-juliet-for-performances-of-hit-the-wall-and-here-you-come-there-you-go-on-snl-3974753?utm_source=rss&utm_medium=rss&utm_campaign=watch-gracie-abrams-channel-romeo-juliet-for-performances-of-hit-the-wall-and-here-you-come-there-you-go-on-snl",
+    "summary": "The singer-songwriter releases the deluxe edition of ‘Daughter From Hell’ on November 20 The post Watch Gracie Abrams channel ‘Romeo + Juliet’ for performances of ‘Hit The Wall’ and ‘Here You Come, There You Go’ on ‘SNL’ appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Pop"
+    ],
+    "published": "2026-11-01T11:43:44+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
     "id": "92d27897aaf3c1c1",
     "source": "NME",
     "source_type": "news",
@@ -859,6 +876,28 @@
     "collected": "2026-11-01T10:59:35.314292+00:00"
   },
   {
+    "id": "9ec482d5c3943baa",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Bleech 9:3 Release Cover of The Cure’s ‘Lullaby’",
+    "link": "https://www.udiscovermusic.com/news/bleech-9-3-the-cure-lullaby/",
+    "summary": "The band says the song helped it explore new sonic directions while beginning work on its debut album.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Alternative",
+      "Bleech 9:3",
+      "Bleed",
+      "Homepage Featured",
+      "Live Music",
+      "Lullaby",
+      "Tourniquet"
+    ],
+    "published": "2026-10-30T23:16:34+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
     "id": "a16dedfe5e498cea",
     "source": "Rolling Stone (music)",
     "source_type": "news",
@@ -874,6 +913,55 @@
     ],
     "published": "2026-10-30T23:04:53+00:00",
     "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "f83a74f39034add3",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Nettspend’s ‘Virginia Creeper’ Features Six New Tracks",
+    "link": "https://www.udiscovermusic.com/news/nettspend-virginia-creeper-ep/",
+    "summary": "The six-track release includes 'LL50,' a tribute to Nettspend’s late friend BloodHound Q50.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "early life crisis",
+      "Hip-Hop",
+      "Homepage Featured",
+      "LL50",
+      "Nettspend",
+      "Virginia Creeper"
+    ],
+    "published": "2026-10-30T22:48:44+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "0fd86f67e7a2cf9f",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Listen to Cold War Kids’ Newly Completed ‘Robbers & Cowards’ Songs",
+    "link": "https://www.udiscovermusic.com/news/cold-war-kids-robbers-cowards-20th-anniversary-out-now/",
+    "summary": "The expanded set adds four songs from the album era and six recordings from the band’s 2007 tour.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "20th anniversary",
+      "Alternative",
+      "Cold War Kids",
+      "Complete Cowards",
+      "Hang Me Up to Dry",
+      "Homepage Featured",
+      "Live Music",
+      "Phantogram",
+      "Reissues",
+      "Robbers & Cowards",
+      "Rock",
+      "UMe",
+      "Vinyl"
+    ],
+    "published": "2026-10-30T22:16:52+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
   },
   {
     "id": "b3234eea32268f97",
@@ -934,6 +1022,71 @@
     "collected": "2026-11-01T10:59:35.314292+00:00"
   },
   {
+    "id": "6e3b6a60c8d3c71a",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Mergui Releases ‘GF’ Ahead of ‘Gut Feeling’ EP",
+    "link": "https://www.udiscovermusic.com/news/mergui-gf/",
+    "summary": "The single explores the uncertainty of falling for someone and deciding to take a chance.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "GF",
+      "Gut Feeling",
+      "Homepage Featured",
+      "Jesse Shatkin",
+      "Mergui",
+      "Pop"
+    ],
+    "published": "2026-10-30T22:04:59+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "4ea9a8854f166135",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Kirk Franklin Splits New Album Between Studio And Live Sets",
+    "link": "https://www.udiscovermusic.com/news/kirk-franklin-i-am-what-i-am-out-now/",
+    "summary": "The 14-track double-disc pairs seven choir-rooted live recordings with seven studio tracks and six guest artists.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Davido",
+      "GloRilla",
+      "Homepage Featured",
+      "I Am What I Am",
+      "Karen Clark Sheard",
+      "Kirk Franklin",
+      "R&B"
+    ],
+    "published": "2026-10-30T21:53:21+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "fe4140f389bd8e70",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Proderics x Melodybloom’s ‘true eyes’ Video",
+    "link": "https://www.udiscovermusic.com/news/proderics-melodybloom-true-eyes/",
+    "summary": "The track follows 'wasted time' and draws on betrayal, darker production and Linkin Park.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Alternative",
+      "Homepage Featured",
+      "Music Videos",
+      "proderics x melodybloom",
+      "Republic Records",
+      "strangers",
+      "true eyes"
+    ],
+    "published": "2026-10-30T21:35:35+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
     "id": "5b524136d496f49e",
     "source": "Rolling Stone (music)",
     "source_type": "news",
@@ -948,6 +1101,30 @@
     ],
     "published": "2026-10-30T21:28:52+00:00",
     "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "846fc8709ce533af",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Joshua Redman Shares Sonny Rollins Tribute Album’s Title Track",
+    "link": "https://www.udiscovermusic.com/news/joshua-redman-if-ever-i-would-leave-you/",
+    "summary": "Redman recorded the Sonny Rollins standard with pianist Kevin Hays, bassist Larry Grenadier, and drummer Marcus Gilmore.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Homepage Featured",
+      "If Ever I Would Leave You",
+      "If Ever You Would Leave Us (we play for Rollins)",
+      "Jazz",
+      "Joshua Redman",
+      "Kevin Hays",
+      "Larry Grenadier",
+      "Marcus Gilmore",
+      "Sonny Rollins"
+    ],
+    "published": "2026-10-30T21:28:26+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
   },
   {
     "id": "c33bbb2da91e9899",
@@ -1035,6 +1212,29 @@
     "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
+    "id": "02aecbac7a5ef83f",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Haiden Henderson Releases Debut Album ‘bleach’",
+    "link": "https://www.udiscovermusic.com/news/haiden-henderson-bleach-out-now/",
+    "summary": "The 13-track set was produced by Benny Cassette and co-produced by Henderson.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Bleach",
+      "domino",
+      "Haiden Henderson",
+      "Homepage Featured",
+      "Live Music",
+      "Music Videos",
+      "Pop",
+      "The ‘dumblond’ Tour"
+    ],
+    "published": "2026-10-30T20:08:38+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
     "id": "2652a9cbcdd733c3",
     "source": "XXL",
     "source_type": "news",
@@ -1049,6 +1249,33 @@
     ],
     "published": "2026-10-30T20:03:11+00:00",
     "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
+    "id": "a576fa7652cad8ce",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Mariah Carey Marks ‘Glitter’ Anniversary With Deluxe Edition",
+    "link": "https://www.udiscovermusic.com/news/mariah-carey-glitter-25th-anniversary-editions-out-now-2/",
+    "summary": "The 27-track set adds vault recordings, alternate takes and remixes, alongside two new colored-vinyl editions.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "25th Anniversary",
+      "Def Jam Records",
+      "Glitter",
+      "Homepage Featured",
+      "Loverboy",
+      "Mariah Carey",
+      "Music Videos",
+      "Pop",
+      "R&B",
+      "Reissues",
+      "Soundtracks",
+      "Vinyl"
+    ],
+    "published": "2026-10-30T19:58:56+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
   },
   {
     "id": "28b0b1ff9d8c5899",
@@ -1078,6 +1305,29 @@
     ],
     "published": "2026-10-30T19:45:33+00:00",
     "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "a5b798be3e075bf3",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Jordan Davis Releases New Song ‘Steady Flame’",
+    "link": "https://www.udiscovermusic.com/news/jordan-davis-steady-flame/",
+    "summary": "The new track brings Davis back together with the four writers behind 'Buy Dirt' and 'Tucson Too Late.'",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Buy Dirt",
+      "CMA Awards",
+      "Country",
+      "Homepage Featured",
+      "Jordan Davis",
+      "Learn The Hard Way",
+      "Steady Flame",
+      "Tucson Too Late"
+    ],
+    "published": "2026-10-30T19:18:28+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
   },
   {
     "id": "d73ddb77d085f016",
@@ -1847,6 +2097,73 @@
     "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
+    "id": "33fc77866e68ff69",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Phantogram Marks ‘Three’ Anniversary With New Releases",
+    "link": "https://www.udiscovermusic.com/news/phantogram-three-10th-anniversary-out-now/",
+    "summary": "The anniversary edition pairs a Smoky Sky Blue vinyl pressing with new artwork and a metallic foil cover.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "10th Anniversary",
+      "Aaron Hibell",
+      "Alternative",
+      "Funeral Pyre",
+      "Homepage Featured",
+      "Phantogram",
+      "Remix",
+      "Three",
+      "Vinyl",
+      "You Don’t Get Me High Anymore"
+    ],
+    "published": "2026-10-30T12:53:38+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "6b40b321a5b58eb6",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Kate Moss And Vogue Inspire FILLY’s ‘Kate S.O.S.’",
+    "link": "https://www.udiscovermusic.com/news/filly-kate-sos/",
+    "summary": "The Vienna-based artist drew on Kate Moss, Vogue, and early-2000s nightlife for the new collaboration.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Electronic",
+      "FILLY",
+      "Homepage Featured",
+      "Kate S.O.S.",
+      "The Stylist"
+    ],
+    "published": "2026-10-30T12:46:05+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "395c5e902b4f752b",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Gigi Perez Releases ‘Favor’ for Hunger Games Soundtrack",
+    "link": "https://www.udiscovermusic.com/news/gigi-perez-favor-hunger-games/",
+    "summary": "Perez wrote and produced the song with Aidan Hobbs ahead of the album’s November 13 release.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Dave Cobb",
+      "Favor",
+      "Gigi Perez",
+      "Homepage Featured",
+      "Soundtracks",
+      "The Hunger Games Sunrise On The Reaping",
+      "The Hunger Games: Sunrise on the Reaping (The Album)"
+    ],
+    "published": "2026-10-30T12:42:20+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
     "id": "9db903a761d0399e",
     "source": "Clash",
     "source_type": "news",
@@ -2084,6 +2401,49 @@
     "collected": "2026-11-01T09:31:24.640214+00:00"
   },
   {
+    "id": "e7de00aff3232beb",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "See Noah Kahan’s North American and European Tour Stops",
+    "link": "https://www.udiscovermusic.com/news/noah-kahan-tour/",
+    "summary": "The tour includes four nights at Boston’s Fenway Park and three previously announced shows at Wembley Stadium.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Folk",
+      "Homepage Featured",
+      "Live Music",
+      "Noah Kahan",
+      "Stick Season",
+      "The Great Divide",
+      "The Last Of The Bugs World Tour"
+    ],
+    "published": "2026-10-29T22:49:45+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "713789e8a2ba5d28",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Mei Semones Shares ‘2 Hands’ Video From ‘Howl’",
+    "link": "https://www.udiscovermusic.com/news/mei-semones-2-hands-video/",
+    "summary": "The song reflects Semones’ commitment to music and the musicians who play alongside her.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "2 Hands",
+      "Alternative",
+      "Homepage Featured",
+      "Howl",
+      "Mei Semones",
+      "Music Videos"
+    ],
+    "published": "2026-10-29T22:44:11+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
     "id": "bdd2e6f1e99f4168",
     "source": "The Needle Drop (website)",
     "source_type": "reviews",
@@ -2097,6 +2457,49 @@
     ],
     "published": "2026-10-29T22:39:43+00:00",
     "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "c02bc1202806a12b",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "LL COOL J Sets 11-Show Rock The Bells Residency",
+    "link": "https://www.udiscovermusic.com/news/ll-cool-j-rock-the-bells/",
+    "summary": "The 11 performances begin May 15, with tickets going on sale November 2.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Hip-Hop",
+      "Homepage Featured",
+      "Las Vegas",
+      "Live Music",
+      "LL Cool J",
+      "ROCK THE BELLS: THE RESIDENCY"
+    ],
+    "published": "2026-10-29T22:39:25+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "d72bf82df285b5e4",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "U2 Announces 2027 European Dates for World Tour",
+    "link": "https://www.udiscovermusic.com/news/u2-2027-european-tour-dates/",
+    "summary": "The European leg begins in Stockholm in April, with two London dates set for June.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Carnaval De Luz",
+      "Homepage Featured",
+      "Live Music",
+      "Rock",
+      "The Greatest Show On Earth World Tour",
+      "U2",
+      "Wolf Alice"
+    ],
+    "published": "2026-10-29T22:32:36+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
   },
   {
     "id": "2d86013bac708463",
@@ -2160,6 +2563,28 @@
     ],
     "published": "2026-10-29T19:29:36+00:00",
     "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
+    "id": "329a3ef7969075e5",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Bastille Sets ‘Wild World’ 10th Anniversary Editions",
+    "link": "https://www.udiscovermusic.com/news/bastille-wild-world-10th-anniversary-editions/",
+    "summary": "The release pairs a zoetrope LP with expanded 2LP, 2CD, and digital editions.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "10th Anniversary",
+      "Alternative",
+      "Bastille",
+      "Homepage Featured",
+      "Reissues",
+      "Vinyl",
+      "Wild World"
+    ],
+    "published": "2026-10-29T18:13:53+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
   },
   {
     "id": "c7b475441f9c726c",
@@ -2594,6 +3019,28 @@
     "collected": "2026-11-01T10:59:35.314292+00:00"
   },
   {
+    "id": "4655b9186593bc31",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Donnie Iris, ‘Ah! Leah!’ Singer, Dies at 83",
+    "link": "https://www.udiscovermusic.com/news/donnie-iris-rip/",
+    "summary": "The singer’s career included hits with The Jaggerz and Donnie Iris & The Cruisers.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Ah Leah",
+      "Donnie Iris",
+      "Donnie Iris & The Cruisers",
+      "Homepage Featured",
+      "Rock",
+      "The Jaggerz",
+      "The Rapper"
+    ],
+    "published": "2026-10-29T12:58:58+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
     "id": "f4148183887b93b8",
     "source": "Stereogum",
     "source_type": "news",
@@ -2609,6 +3056,77 @@
     ],
     "published": "2026-10-29T12:58:17+00:00",
     "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "8223a40d888ca72b",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Ozzy Osbourne’s Final Show Gets a December Release",
+    "link": "https://www.udiscovermusic.com/news/ozzy-osbourne-black-sabbath-back-to-the-beginning/",
+    "summary": "The release includes the concert film, a digital album and limited-edition colored vinyl.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Back to the Beginning",
+      "Black Sabbath",
+      "box sets",
+      "Homepage Featured",
+      "Live Music",
+      "Mr. Crowley",
+      "Ozzy Osbourne",
+      "Soundtracks",
+      "Vinyl"
+    ],
+    "published": "2026-10-29T12:52:11+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "a80cb5ba8a0db6b5",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Reba McEntire Releases ‘I’m A Survivor’ EP for ‘Reba’ Anniversary",
+    "link": "https://www.udiscovermusic.com/news/reba-mcentire-im-a-survivor-ep/",
+    "summary": "The four-track release includes the sitcom theme, the original recording, an acoustic version and a Lafemmebear remix.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "25th Anniversary",
+      "Country",
+      "Homepage Featured",
+      "I’m A Survivor - EP",
+      "Reba",
+      "Reba McEntire",
+      "Vinyl",
+      "“I’m A Survivor"
+    ],
+    "published": "2026-10-29T12:50:05+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "6c43c1914f577e55",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Ayra Starr Releases ‘Ms. Paper’ Video With Theodora",
+    "link": "https://www.udiscovermusic.com/news/ayra-starr-ms-paper-video/",
+    "summary": "The video features Theodora and accompanies a track from Starr’s album 'Starrgirl.'",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Ayra Starr",
+      "Homepage Featured",
+      "Mavin Records",
+      "Ms Paper",
+      "Music Videos",
+      "Pop",
+      "Republic Records",
+      "Starrgirl",
+      "Theodora"
+    ],
+    "published": "2026-10-29T12:47:22+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
   },
   {
     "id": "5ebad67628a7ef00",
@@ -3408,6 +3926,25 @@
     "collected": "2026-10-29T02:36:46.989116+00:00"
   },
   {
+    "id": "7b31bd94c3d0120d",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Jennifer Lopez Announces ‘LOVE?’ Vinyl Editions",
+    "link": "https://www.udiscovermusic.com/news/jennifer-lopez-announces-love-vinyl-editions/",
+    "summary": "A 17-track deluxe set will be pressed across two translucent royal-blue LPs.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Homepage Featured",
+      "Jennifer Lopez",
+      "Love",
+      "Pop"
+    ],
+    "published": "2026-10-28T13:38:39+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
     "id": "2ddcbbbb6f5a6c56",
     "source": "The Needle Drop (website)",
     "source_type": "reviews",
@@ -3458,6 +3995,26 @@
     ],
     "published": "2026-10-28T13:14:55+00:00",
     "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "cc747fe659491237",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Sparklmami Announces First U.S. Headline Tour",
+    "link": "https://www.udiscovermusic.com/news/sparklmami-first-us-headline-tour/",
+    "summary": "The dates follow the release of her debut album, 'in this body.'",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Homepage Featured",
+      "In This Body",
+      "Live Music",
+      "Soul",
+      "Sparklmami"
+    ],
+    "published": "2026-10-28T13:00:14+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
   },
   {
     "id": "02bc8743343e7839",
@@ -3856,6 +4413,29 @@
     "collected": "2026-10-28T10:00:03.726989+00:00"
   },
   {
+    "id": "914b3c4cec8250e9",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Laci Kaye Booth Announces Love Letters To Texas Tour",
+    "link": "https://www.udiscovermusic.com/news/lacy-kaye-booth-love-letters-to-texas-tour/",
+    "summary": "The four-show run begins in Dallas on February 10, with stops in Houston, The Woodlands and Austin.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Country",
+      "Homepage Featured",
+      "Laci Kaye Booth",
+      "Live Music",
+      "Love Ain’t For The Faint Of Heart",
+      "Love Letters to Texas",
+      "Megan Moroney",
+      "Stagecoach Festival"
+    ],
+    "published": "2026-10-27T17:45:01+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
     "id": "527a6fa944749d0c",
     "source": "The Needle Drop (website)",
     "source_type": "reviews",
@@ -3870,6 +4450,48 @@
     ],
     "published": "2026-10-27T17:43:06+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
+  },
+  {
+    "id": "3feb4323c6057ba0",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "See Temper City On ‘The Self Aware Tour’ in 2027",
+    "link": "https://www.udiscovermusic.com/news/temper-city-2027-north-american-tour/",
+    "summary": "The group will also play iHeartRadio ALTer EGO and festivals in Phoenix, Austin, and San Diego.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Alternative",
+      "Homepage Featured",
+      "Live Music",
+      "Temper City",
+      "The Self Aware Tour"
+    ],
+    "published": "2026-10-27T17:37:56+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "82736f823c50ef1d",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Cigarettes @ Sunset Announce 2027 US Headline Tour",
+    "link": "https://www.udiscovermusic.com/news/cigarettes-at-sunset-2027-us-tour/",
+    "summary": "The run spans February through May, with stops in Atlanta, Brooklyn, Asheville and Nashville.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "2027 U.S. Headline Tour",
+      "Cigarettes @ Sunset",
+      "Cigarettes At Sunset",
+      "Homepage Featured",
+      "Live Music",
+      "Possum Rock",
+      "Rock"
+    ],
+    "published": "2026-10-27T17:32:26+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
   },
   {
     "id": "531b9e6f8e56b5f3",
@@ -4689,6 +5311,26 @@
     "collected": "2026-10-28T10:00:03.726989+00:00"
   },
   {
+    "id": "3c5a1564ab5c5a87",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Jhené Aiko’s Dreamy Self-Directed Video for ‘Break’",
+    "link": "https://www.udiscovermusic.com/news/jhene-aiko-break-video/",
+    "summary": "The track is a standout from her recent album 'Westside Whimsy.'",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Break",
+      "Homepage Featured",
+      "Jhené Aiko",
+      "Music Video",
+      "R&B"
+    ],
+    "published": "2026-10-26T20:18:59+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
     "id": "32e6ccb0aabff146",
     "source": "The Needle Drop (website)",
     "source_type": "reviews",
@@ -4902,6 +5544,26 @@
     "collected": "2026-10-28T10:00:03.726989+00:00"
   },
   {
+    "id": "ad70d26ab9372964",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "twentythree Shares Video for New Single ‘Turn Up’",
+    "link": "https://www.udiscovermusic.com/news/twentythree-turn-it-up/",
+    "summary": "The Iranian-born, Toronto-based rapper twentythree is back with a new song, 'Turn Up,' and a music video to match.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Hip-Hop",
+      "Homepage Featured",
+      "Pop",
+      "Turn Up",
+      "twentythree"
+    ],
+    "published": "2026-10-26T16:19:11+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
     "id": "baf2819f30fea278",
     "source": "Stereogum",
     "source_type": "news",
@@ -4922,6 +5584,27 @@
     "collected": "2026-10-28T10:00:03.726989+00:00"
   },
   {
+    "id": "7417ab6b5ef89b31",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Black Eyed Peas’ ‘I Gotta Feeling’ Video Reaches One Billion YouTube Views",
+    "link": "https://www.udiscovermusic.com/news/black-eyed-peas-i-gotta-feeling-youtube-billion-views/",
+    "summary": "The 2009 party anthem appeared on the group’s fifth studio album, 'The E.N.D.'",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Black Eyed Peas",
+      "Hip-Hop",
+      "Homepage Featured",
+      "I Gotta Feeling",
+      "Spotify Billions Club",
+      "The End"
+    ],
+    "published": "2026-10-26T15:49:46+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
     "id": "f4c1297589a2f153",
     "source": "Stereogum",
     "source_type": "news",
@@ -4936,6 +5619,71 @@
     ],
     "published": "2026-10-26T15:48:19+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
+  },
+  {
+    "id": "961e8ba1eb321864",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Listen to Karrahbooo’s New Song ‘No Cap’",
+    "link": "https://www.udiscovermusic.com/news/karrahbooo-no-cap/",
+    "summary": "The Atlanta rapper is following up her debut mixtape 'Not Da 2' with more new music.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Hip-Hop",
+      "Homepage Featured",
+      "Karrahbooo",
+      "No Cap"
+    ],
+    "published": "2026-10-26T15:46:44+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "5f381dd1adee8016",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Kassi Ashton Releases ‘Any Place In Time’ and Video",
+    "link": "https://www.udiscovermusic.com/news/kassi-ashton-any-place-in-time/",
+    "summary": "The new song pairs a rare love-song premise with a video featuring Ashton’s husband, Travis Myatt.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Any Place In Time",
+      "Country",
+      "Homepage Featured",
+      "Kassi Ashton",
+      "Made From The Dirt",
+      "Music Videos"
+    ],
+    "published": "2026-10-26T15:35:05+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "ac7bd440265ebd03",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "aron! Announces ‘christmas dream’ EP for November",
+    "link": "https://www.udiscovermusic.com/news/aron-christmas-dream-ep/",
+    "summary": "The nine-song collection combines returning tracks from 'a cozy christmas' with classic holiday songs and new originals.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "a cozy christmas",
+      "Aron",
+      "christmas dream",
+      "Dodie",
+      "Homepage Featured",
+      "Live Music",
+      "Mei Semones",
+      "Pop",
+      "Too Close For Running",
+      "Verve Records"
+    ],
+    "published": "2026-10-26T15:28:40+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
   },
   {
     "id": "f2dcdc3b4a983080",
@@ -4958,6 +5706,27 @@
     ],
     "published": "2026-10-26T15:18:51+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
+  },
+  {
+    "id": "a14525d9f4589675",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Listen to Livingston’s New Single ‘Shapeshifter’",
+    "link": "https://www.udiscovermusic.com/news/livingston-shapeshifter/",
+    "summary": "The song explores the cost of changing yourself to earn someone else’s approval.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Alternative",
+      "Homepage Featured",
+      "Livingston",
+      "Pop",
+      "Recognize",
+      "Shapeshifter"
+    ],
+    "published": "2026-10-26T15:00:30+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
   },
   {
     "id": "3f92f56537e4afb9",
@@ -5228,6 +5997,632 @@
     "collected": "2026-10-28T10:00:03.726989+00:00"
   },
   {
+    "id": "ad02bbd09ff3baa1",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "A Celebration Of Julie London’s Sound and Style",
+    "link": "https://www.udiscovermusic.com/stories/a-celebration-of-julie-londons-sound-and-style/",
+    "summary": "From the intimacy of 'Cry Me a River' to her striking album covers, Julie London’s sound and style still resonate.",
+    "full_text": false,
+    "categories": [
+      "Features",
+      "Google News Stories",
+      "Classic Pop",
+      "Cry Me A River",
+      "Homepage Featured",
+      "Julie London"
+    ],
+    "published": "2026-10-23T18:54:01+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "694da31a8258e33f",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Nelly Furtado’s ‘All Good Things (Come to an End)’ Gets Ian Asher Remix",
+    "link": "https://www.udiscovermusic.com/news/nelly-furtado-all-good-things-come-to-an-end-remix/",
+    "summary": "The producer and DJ’s new rendition of the track arrives just after the 20th anniversary of 'Loose.'",
+    "full_text": false,
+    "categories": [
+      "News",
+      "All Good Things Come To An End",
+      "Ian Asher",
+      "Nelly Furtado",
+      "Pop",
+      "Remix"
+    ],
+    "published": "2026-10-23T17:36:53+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "ef063d42ea0ffaf6",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "keshi Releases New Single ‘MISS ME’ Ahead of Third Album",
+    "link": "https://www.udiscovermusic.com/news/keshi-miss-me/",
+    "summary": "The introspective song is keshi’s first new music since 2025.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Clockenflap",
+      "Homepage Featured",
+      "Island Records",
+      "Keshi",
+      "MISS ME",
+      "R&B",
+      "Vinyl"
+    ],
+    "published": "2026-10-23T16:49:19+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "e20922e3cfcb2b94",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "John Legend Releases New Album ‘Muse’",
+    "link": "https://www.udiscovermusic.com/news/john-legend-muse-out-now/",
+    "summary": "The project grew from Legend’s appearance on Clipse’s ‘Let God Sort ’Em Out.’",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Bodies On The Floor",
+      "Clipse",
+      "Homepage Featured",
+      "John Legend",
+      "muse",
+      "Music Videos",
+      "Pharrell Williams",
+      "R&B",
+      "Soul"
+    ],
+    "published": "2026-10-23T16:45:55+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "a9cb90e6c0ca8ed7",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "EZ MIL Releases ‘3RD WRLD VOL. 2’ EP",
+    "link": "https://www.udiscovermusic.com/news/ez-mil-3rd-world-vol-2-ep/",
+    "summary": "The three-track release also includes 'TALK 2 ME' and 'LET EM,' featuring drummer Luke Holland.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "3RD WRLD VOL. 2",
+      "Aftermath Records",
+      "Eminem",
+      "Ez Mil",
+      "Hideyoshi",
+      "Hip-Hop",
+      "Homepage Featured",
+      "Interscope Records",
+      "MADARA",
+      "Shady Records"
+    ],
+    "published": "2026-10-23T16:30:45+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "e2da09a140807769",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Kenny Whitmire Releases New Single ‘Leavin’ Lucy Lonesome’",
+    "link": "https://www.udiscovermusic.com/news/kenny-whitmire-leavin-lucy-lonesome/",
+    "summary": "The song pairs road-worn lyrics with a homeward-looking story, written by Whitmire, Dan Alley, and Sam Banks.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Country",
+      "Hits Me Tour",
+      "Homepage Featured",
+      "John Osborne",
+      "Kenny Whitmire",
+      "Leavin’ Lucy Lonesome",
+      "Live Music",
+      "Woman To Blame"
+    ],
+    "published": "2026-10-23T16:20:00+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "56ba5d245956ba22",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Seven Tracks Introduce JYT on ‘Just Your Type’ EP",
+    "link": "https://www.udiscovermusic.com/news/jyt-just-your-type-ep-out-now/",
+    "summary": "The five-member group’s seven-track debut includes the single 'Which One.'",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Homepage Featured",
+      "iHeartRadio Jingle Ball Tour",
+      "Just Your Type",
+      "JYT",
+      "Live Music",
+      "Pop",
+      "Which One"
+    ],
+    "published": "2026-10-23T16:16:48+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "fa81422347eb1513",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Amy Winehouse’s ‘Back to Black’ Celebrated at 20th-Anniversary Roundhouse Concert",
+    "link": "https://www.udiscovermusic.com/news/amy-winehouse-back-to-black-20-roundhouse/",
+    "summary": "Flo, Mark Ronson, Jessie Reyez, Baby Rose, and more performed at the Roundhouse Theater’s anniversary celebration in honor of the late singer-songwriter.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Amy Winehouse",
+      "Baby Rose",
+      "Back To Black",
+      "Back To Black 20",
+      "Corinne Bailey Rae",
+      "FLO",
+      "Jessie Reyez",
+      "Jorja Smith",
+      "Lianne La Havas",
+      "Nia Smith",
+      "Roundhouse",
+      "Sasha Keable",
+      "Skye Newman",
+      "Soul",
+      "Terri Walker",
+      "Yebba"
+    ],
+    "published": "2026-10-23T16:13:10+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "73aefd0540e9eace",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Ben Folds Five Set 2027 Tour",
+    "link": "https://www.udiscovermusic.com/news/ben-folds-five-30th-anniversary-tour/",
+    "summary": "The 2027 tour, which kicks off in Tennessee in April, marks the band’s first live dates in more than 15 years.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "30th Anniversary",
+      "Alternative",
+      "Ben Folds Five",
+      "Homepage Featured",
+      "Tour"
+    ],
+    "published": "2026-10-23T16:01:33+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "854156f261cfd87b",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Queens of the Stone Age Announce 2027 Tour",
+    "link": "https://www.udiscovermusic.com/news/queens-of-the-stone-age-2027-us-tour/",
+    "summary": "Queens of the Stone Age will traverse the U.S. with support from Pixies and Wheelchair Sports Camp in May 2027.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "2027",
+      "Alternative",
+      "Queens Of The Stone Age",
+      "US Tour"
+    ],
+    "published": "2026-10-23T15:32:18+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "d7d121ed0a28147b",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Listen To GIRLSET And Kylie Cantrall’s ‘Glown Up’",
+    "link": "https://www.udiscovermusic.com/news/girlset-kylie-cantrall-glown-up/",
+    "summary": "The collaboration follows GIRLSET’s festival appearance and opening dates on Cantrall’s tour.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "GIRLSET",
+      "Glown Up",
+      "Homepage Featured",
+      "JYP Entertainment",
+      "Kylie Cantrall",
+      "Pop",
+      "Republic Records",
+      "Streamer Awards"
+    ],
+    "published": "2026-10-23T15:27:44+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "8e12777380a244bd",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Tragically Hip Musical Releases Original Cast Recording",
+    "link": "https://www.udiscovermusic.com/news/the-tragically-hip-musical/",
+    "summary": "The recording features guest vocals from Owen Riegling, Allison Russell, Elysia Biro, and Braden Lam.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Allison Russell",
+      "Boots Or Hearts",
+      "Homepage Featured",
+      "It's a Good Life If You Don't Weaken",
+      "Kingston Grand Theatre",
+      "Owen Riegling",
+      "Rock",
+      "Soundtracks",
+      "The Tragically Hip",
+      "Wheat Kings"
+    ],
+    "published": "2026-10-23T15:24:33+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "a81bb01535e37729",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Arthur Hill Releases Two-Track Single ‘Record Timing’",
+    "link": "https://www.udiscovermusic.com/news/arthur-hill-record-timing/",
+    "summary": "The release pairs studio and live recordings with a performance video.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Arthur Hill",
+      "Arthway Round The World Tour",
+      "Homepage Featured",
+      "Hot Sprite",
+      "Live Music",
+      "Music Videos",
+      "Orange Wine",
+      "Pop",
+      "Record Timing",
+      "Shaun the Sheep: The Beast of Mossy Bottom",
+      "Winning Formula",
+      "Working On It"
+    ],
+    "published": "2026-10-23T15:20:15+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "5f232c6d63d48f86",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Listen to ‘Haymitch Meets Snow’ From New Hunger Games Score",
+    "link": "https://www.udiscovermusic.com/news/james-newton-howard-haymitch-meets-snow-hunger-games-soundtrack/",
+    "summary": "The 35-track score arrives November 20, alongside the film’s worldwide theatrical release.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Homepage Featured",
+      "James Newton Howard",
+      "Soundtracks",
+      "The Hunger Games Sunrise On The Reaping",
+      "“Haymitch Meets Snow”"
+    ],
+    "published": "2026-10-23T15:17:28+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "ea47357297fb7d8c",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Chase Shakur Releases New Single ‘Highly Favored’",
+    "link": "https://www.udiscovermusic.com/news/chase-shakur-highly-favored/",
+    "summary": "The Atlanta singer pairs the single with a laundromat-set visualizer that plays out like a late-night flirtation.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Chase Shakur",
+      "Def Jam Recordings",
+      "highly favored",
+      "Homepage Featured",
+      "Music Videos",
+      "R&B",
+      "WONDERLOVE+"
+    ],
+    "published": "2026-10-23T15:09:52+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "329f4fd5307258bc",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "dodie Releases ‘Not For Lack Of Trying’ Deluxe Edition",
+    "link": "https://www.udiscovermusic.com/news/dodie-not-for-lack-of-trying-deluxe-edition/",
+    "summary": "The new edition pairs a fresh song with live reworkings recorded during a birthday gathering at a countryside studio.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Alternative",
+      "As Far As We Know",
+      "Dodie",
+      "Fontana Records",
+      "Homepage Featured",
+      "Live Music",
+      "Not For Lack of Clarinets",
+      "Not For Lack Of Trying"
+    ],
+    "published": "2026-10-23T15:08:06+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "2bc9454994235fec",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Bluegirl Releases Debut Single ‘Look At All The Happy People’",
+    "link": "https://www.udiscovermusic.com/news/bluegirl-look-at-all-the-happy-people/",
+    "summary": "The London-based producer and songwriter wrote, produced and performed the track herself.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Bluegirl",
+      "Capitol UK",
+      "Darkroom Records",
+      "Homepage Featured",
+      "Look At All The Happy People",
+      "Music Videos",
+      "Pop"
+    ],
+    "published": "2026-10-23T15:04:38+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "38a69a66860c4549",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Brothers Osborne Release Fifth Album ‘Watertown’",
+    "link": "https://www.udiscovermusic.com/news/brothers-osborne-watertown-out-now/",
+    "summary": "The 11-track album reunites the duo with producer Jay Joyce and features Cody Johnson and Stephen Wilson Jr.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Born and Raised Hell",
+      "Brothers Osborne",
+      "Cody Johnson",
+      "Country",
+      "Homepage Featured",
+      "Jay Joyce",
+      "Music Videos",
+      "Stephen Wilson Jr.",
+      "Watertown"
+    ],
+    "published": "2026-10-23T15:00:42+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "e32f32707729c18f",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘Casual Crime’ Previews Lyn Lapid’s Next Project",
+    "link": "https://www.udiscovermusic.com/news/lyn-lapid-casual-crime/",
+    "summary": "The song follows 'one good thing' and previews a forthcoming project with electro-pop production.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "BUZZKILL",
+      "casual crime",
+      "Homepage Featured",
+      "Lyn Lapid",
+      "Music Videos",
+      "One Good Thing",
+      "Pop"
+    ],
+    "published": "2026-10-23T14:55:47+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "4e9cbbe3f60078c7",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Diana Silvers Announces Sophomore Album ‘Daughter of Sorts’",
+    "link": "https://www.udiscovermusic.com/news/diana-silvers-daughter-of-sorts/",
+    "summary": "Silvers recorded the album at Laurel Canyon’s Houdini mansion with co-producer Jason Lader.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Alternative",
+      "Capitol Records",
+      "Daughter",
+      "Daughter of Sorts",
+      "Diana Silvers",
+      "Homepage Featured",
+      "Jason Lader",
+      "Live Music",
+      "Plans"
+    ],
+    "published": "2026-10-23T14:49:58+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "99cf24629e66e79d",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "2hollis Announces 2027 Tour for ‘Pirouette’",
+    "link": "https://www.udiscovermusic.com/news/2hollis-pirouette-2027-tour/",
+    "summary": "The 2027 run includes arena dates in Los Angeles and London, plus a Brooklyn show at Under The K Bridge Park.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "2Hollis",
+      "Electronic",
+      "Homepage Featured",
+      "Live Music",
+      "Pirouette",
+      "Pop"
+    ],
+    "published": "2026-10-23T13:13:20+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "86421e8a8464006e",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Girl Group Release New Single ‘SAVIOUR/FATHER/PRINCE’",
+    "link": "https://www.udiscovermusic.com/news/girl-group-saviour-father-prince/",
+    "summary": "The single pairs electroclash with a protest-song take on mansplaining.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "BOYS BOYS BOYS",
+      "Electronic",
+      "Girl Group",
+      "Homepage Featured",
+      "Live Music",
+      "Pop",
+      "SAVIOUR/FATHER/PRINCE"
+    ],
+    "published": "2026-10-23T13:12:38+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "3bfb20a5e7e776d9",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "NEEDTOBREATHE Releases ‘Never Gonna Deserve Ya’ With Evan Honer",
+    "link": "https://www.udiscovermusic.com/news/needtobreathe-never-gonna-deserve-ya/",
+    "summary": "The new single pairs the band with Evan Honer ahead of a six-song deluxe expansion due in November.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Evan Honer",
+      "Homepage Featured",
+      "Live Music",
+      "NEEDTOBREATHE",
+      "Rock",
+      "The Long Surrender and The Fellow Passengers of Pain"
+    ],
+    "published": "2026-10-23T13:10:59+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "3876e2a710c3f5a2",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Listen to John Mayer’s New Single ‘Tom and Jerry’",
+    "link": "https://www.udiscovermusic.com/news/john-mayer-tom-and-jerry/",
+    "summary": "Blake Slatkin and Mayer produced the track, which Serban Genhea mixed.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Homepage Featured",
+      "John Mayer",
+      "Mercury Records",
+      "Music Videos",
+      "Rock",
+      "Sob Rock Records",
+      "Tom and Jerry"
+    ],
+    "published": "2026-10-23T13:10:00+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "6de59241fb9ed9e1",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "MPH And Megra Join Forces On ‘Skin To Skin’",
+    "link": "https://www.udiscovermusic.com/news/mph-megra-skin-to-skin/",
+    "summary": "The new single was written and produced by both artists and will appear on MPH’s November album.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Capitol Records",
+      "Electronic",
+      "Homepage Featured",
+      "Megra",
+      "MPH"
+    ],
+    "published": "2026-10-23T13:06:46+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "c33ed1cc6c84e897",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Yeat Compiles Fan-Demanded Songs on ‘Luh Leakyz Vol. 1’",
+    "link": "https://www.udiscovermusic.com/news/yeat-luh-leakyz-vol-1/",
+    "summary": "The 14-track collection includes songs fans first encountered through Yeat’s Fortnite collaboration.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Fortnite",
+      "Hip-Hop",
+      "Homepage Featured",
+      "Luh Leakyz Vol. 1",
+      "Summrs",
+      "Yeat"
+    ],
+    "published": "2026-10-23T13:04:29+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "109488b52db1daf1",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘Highway Love’ Leads Toosii’s 13-Track ‘Platinum Heart 2’",
+    "link": "https://www.udiscovermusic.com/news/toosii-platinum-heart-2/",
+    "summary": "The 13-track sequel features Hunxho and YoungBoy Never Broke Again.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Hip-Hop",
+      "Homepage Featured",
+      "Hunxho",
+      "Platinum Heart 2",
+      "Platinum Nights Tour",
+      "Toosii",
+      "YoungBoy Never Broke Again"
+    ],
+    "published": "2026-10-23T13:02:19+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "1129518f3dc0ef1d",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Game’s ‘Doctor’s Advocate’ Gets Two New Vinyl Variants",
+    "link": "https://www.udiscovermusic.com/news/the-games-doctors-advocate-gets-two-new-vinyl-variants/",
+    "summary": "The 2006 album debuted at No. 1 on the Billboard 200.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Doctor’s Advocate",
+      "Hip-Hop",
+      "Homepage Featured",
+      "The Game"
+    ],
+    "published": "2026-10-23T13:00:16+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
     "id": "7d042c452620971e",
     "source": "musicOMH",
     "source_type": "reviews",
@@ -5387,6 +6782,25 @@
     "collected": "2026-10-28T10:00:03.726989+00:00"
   },
   {
+    "id": "d0aa963072414d4e",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Billy Idol Unveils Long-Lost ‘Sweet Sixteen’ Video",
+    "link": "https://www.udiscovermusic.com/news/billy-idol-unveils-long-lost-sweet-sixteen-video/",
+    "summary": "The video was filmed in 1987 at Florida's Coral Castle.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Billy Idol",
+      "Homepage Featured",
+      "Rock",
+      "Sweet Sixteen"
+    ],
+    "published": "2026-10-22T22:07:24+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
     "id": "bc3cd7b6e9c6b9f0",
     "source": "Pitchfork (track reviews)",
     "source_type": "reviews",
@@ -5399,6 +6813,95 @@
     ],
     "published": "2026-10-22T15:30:36+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
+  },
+  {
+    "id": "e9653c992ff1267d",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Jacquees Joins PlaqueBoyMax for Two New Songs",
+    "link": "https://www.udiscovermusic.com/news/plaqueboymax-jacquees-familiar-she-know-songs/",
+    "summary": "The pair recorded the songs during Jacquees’ appearance on Max’s livestream series.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Familiar",
+      "Homepage Featured",
+      "In The Booth",
+      "Jacquees",
+      "PLAQUEBOYMAX",
+      "R&B",
+      "She Know"
+    ],
+    "published": "2026-10-22T15:12:58+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "04dd85f1a616ca4d",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "6LACK Launches Six-Episode Podcast Series With REVOLT",
+    "link": "https://www.udiscovermusic.com/news/6lack-6-for-6-podcast/",
+    "summary": "The six-part series pairs the R&B artist with guests from music, television, and beyond.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "6LACK",
+      "6LACK Presents: 6 for 6",
+      "Ambré",
+      "Blxst",
+      "DDG",
+      "Gail Bean",
+      "Homepage Featured",
+      "Isaiah John",
+      "Jordan Ward",
+      "Love is the New Gangsta",
+      "Mereba",
+      "R&B",
+      "REVOLT"
+    ],
+    "published": "2026-10-22T15:09:42+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "93d357a7c4ffe6f1",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘Grease’ Soundtrack Gets Liquid-Filled Vinyl Pressing",
+    "link": "https://www.udiscovermusic.com/news/grease-soundtrack-liquid-filled-vinyl-pressing/",
+    "summary": "The collectible two-disc edition features a sealed liquid layer that moves as the records spin.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Grease",
+      "Homepage Featured",
+      "John Travolta",
+      "Olivia Newton-John",
+      "Soundtracks"
+    ],
+    "published": "2026-10-22T13:13:54+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "807304876acb1f74",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Cranberries Announce ‘Wake Up And Smell The Coffee’ 25th Anniversary",
+    "link": "https://www.udiscovermusic.com/news/cranberries-wake-up-and-smell-the-coffee-25th-anniversary/",
+    "summary": "Deluxe editions add Stephen Street mixes, B-sides and Vicar Street recordings.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Alternative",
+      "Homepage Featured",
+      "The Cranberries",
+      "Wake Up And Smell The Coffee"
+    ],
+    "published": "2026-10-22T13:01:56+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
   },
   {
     "id": "9b7e5e12ab011465",
@@ -5496,6 +6999,98 @@
     "categories": [],
     "published": "2026-10-22T03:25:27+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
+  },
+  {
+    "id": "122392f2385f44b1",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "YANA Announces ‘Quiet Rebellion,’ Shares Tara Nome Doyle Collaboration",
+    "link": "https://www.udiscovermusic.com/news/yana-quiet-rebellion/",
+    "summary": "The Polish composer wrote the lyrics for 'Your Name Is A River,' which features Tara Nome Doyle on vocals.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Electronic",
+      "Homepage Featured",
+      "Music Videos",
+      "OPIA Community",
+      "Quiet Rebellion",
+      "Tara Nome Doyle",
+      "YANA",
+      "Your Name Is A River"
+    ],
+    "published": "2026-10-21T19:03:30+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "5f2b89a83bdd1048",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Tianyao Lyu Announces Debut Chopin Album",
+    "link": "https://www.udiscovermusic.com/news/tianyao-lyu-chopin/",
+    "summary": "The announcement comes on Lyu’s 18th birthday, a year after her Chopin Competition breakthrough in Warsaw.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Chopin",
+      "Classical",
+      "Classical News",
+      "Homepage Featured",
+      "International Fryderyk Chopin Piano Competition",
+      "Tianyao Lyu"
+    ],
+    "published": "2026-10-21T19:01:30+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "dfd79e06c7b5e41c",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Nat King Cole’s ‘The Christmas Song’ Anniversary Brings New Releases",
+    "link": "https://www.udiscovermusic.com/news/nat-king-cole-christmas-song-anniversary-releases/",
+    "summary": "The celebration includes three album editions, a book about the Cole family’s Christmas traditions and a new holiday film.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "80th Anniversary",
+      "Books",
+      "Christmas",
+      "Classic Pop",
+      "Hallmark Channel",
+      "Homepage Featured",
+      "Jazz",
+      "Nat 'King' Cole",
+      "Reissues",
+      "The Christmas Song",
+      "The Nat King Cole Show",
+      "Vinyl"
+    ],
+    "published": "2026-10-21T15:06:37+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "58e6194e8766b718",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Lil Baby Announces ‘FRESH’ for November 6 Release",
+    "link": "https://www.udiscovermusic.com/news/lil-baby-fresh/",
+    "summary": "The 17-track album includes “Dead Fresh” and a collaboration with Future, Young Thug, and Rylo Rodriguez.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Dead Fresh",
+      "FRESH",
+      "Fresh Prince of Atlanta",
+      "Hip-Hop",
+      "Homepage Featured",
+      "Lil Baby"
+    ],
+    "published": "2026-10-21T12:53:52+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
   },
   {
     "id": "7b29c098b70b3601",
@@ -5596,6 +7191,143 @@
     "collected": "2026-10-28T10:00:03.726989+00:00"
   },
   {
+    "id": "6fc9e1692446084a",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Tom Petty Estate Shares ‘Fooled Again’ Video",
+    "link": "https://www.udiscovermusic.com/news/tom-petty-fooled-again-video/",
+    "summary": "The video reworks the band’s 1978 BBC performance, while a new box set arrives November 6.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "50th Anniversary",
+      "box sets",
+      "Fooled Again (I Don’t Like It)",
+      "Homepage Featured",
+      "Music Videos",
+      "Origins 1971-1978",
+      "Rock",
+      "Tom Petty",
+      "Tom Petty And The Heartbreakers"
+    ],
+    "published": "2026-10-20T19:30:07+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "4957a2f99977beb8",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Sienna Spiro Adds 22 Dates to North American Tour",
+    "link": "https://www.udiscovermusic.com/news/sienna-spiro-my-house-north-american-tour-dates/",
+    "summary": "The run includes Radio City Music Hall, Red Rocks Amphitheatre and the Grand Ole Opry.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Homepage Featured",
+      "Live Music",
+      "My House",
+      "My House Tour (Extended)",
+      "Pop",
+      "Sienna Spiro",
+      "Tour",
+      "Visitor"
+    ],
+    "published": "2026-10-20T17:34:55+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "5bb6b58af44691e1",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "49 Winchester Announces 2027 ‘Change of Plans’ Tour",
+    "link": "https://www.udiscovermusic.com/news/49-winchester-2027-change-of-plans-tour/",
+    "summary": "The tour starts in Atlanta in February and closes at Billy Bob’s in Fort Worth in May.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "49 Winchester",
+      "Change Of Plans",
+      "Change of Plans Tour",
+      "Country",
+      "Homepage Featured",
+      "Live Music",
+      "Rock"
+    ],
+    "published": "2026-10-20T16:35:34+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "07039c8cba480544",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Deutsche Grammophon Announces First DG Music Festival",
+    "link": "https://www.udiscovermusic.com/classical-news/deutsche-grammophon-music-festival/",
+    "summary": "The November festival will bring Chinese and international artists to Xinghai Concert Hall for concerts, exhibitions and public events.",
+    "full_text": false,
+    "categories": [
+      "Classical News",
+      "Classical",
+      "Daniel Hope",
+      "Deutsche Grammophon",
+      "DG Music Festival",
+      "Homepage Featured",
+      "Live Music",
+      "Xinghai Concert Hall"
+    ],
+    "published": "2026-10-20T16:30:23+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "db9731563346a793",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Courtney Pine Joins The Rolling Stones On New Single",
+    "link": "https://www.udiscovermusic.com/news/the-rolling-stones-who-you-callin-crazy/",
+    "summary": "The track will appear on the five-song deluxe edition of ‘Foreign Tongues,’ due November 27.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Courtney Pine",
+      "Foreign Tongues",
+      "Foreign Tongues Loose Lips",
+      "Homepage Featured",
+      "Rock",
+      "Steve Winwood",
+      "The Rolling Stones",
+      "Vinyl",
+      "Who You Callin’ Crazy"
+    ],
+    "published": "2026-10-20T16:28:45+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "3aa11a915a00c673",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Beatles Story to Move to New Liverpool Site",
+    "link": "https://www.udiscovermusic.com/news/the-beatles-story-liverpool/",
+    "summary": "The expanded attraction will include recreated Beatles locations and a 'Yellow Submarine' themed viewpoint at St Johns Beacon.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Apple Corps",
+      "Homepage Featured",
+      "Liverpool",
+      "Rock",
+      "The Beatles",
+      "The Beatles Story",
+      "Yellow Submarine"
+    ],
+    "published": "2026-10-20T16:25:40+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
     "id": "e4bfa79674c396fc",
     "source": "musicOMH",
     "source_type": "reviews",
@@ -5609,6 +7341,138 @@
     ],
     "published": "2026-10-20T13:01:22+00:00",
     "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
+    "id": "f3f2fdd94087a989",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Mötley Crüe Announces 2027 Las Vegas Residency",
+    "link": "https://www.udiscovermusic.com/news/motley-crue-las-vegas-residency/",
+    "summary": "The band’s fourth Las Vegas residency will feature a fan-voted setlist and eight performances.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Carnival of Sins in Sin City",
+      "Homepage Featured",
+      "Las Vegas",
+      "Live Music",
+      "Metal",
+      "Motley Crue",
+      "Mötley Crüe At The Colosseum At Caesars Palace"
+    ],
+    "published": "2026-10-20T13:01:06+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "f572716376f290b4",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Fortnite Players Can Unlock Three Unreleased Yeat Tracks",
+    "link": "https://www.udiscovermusic.com/news/yeat-fortnite-unreleased-music/",
+    "summary": "Players can find 'HeliMan' through a Battle Royale quest and unlock three more tracks with lobby codes.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "COCOON",
+      "Fortnite",
+      "HeliMan",
+      "Hip-Hop",
+      "Homepage Featured",
+      "Yeat"
+    ],
+    "published": "2026-10-20T12:54:28+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "fd1c860f650a29d5",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Mollie Elizabeth Adds 2027 Dates to People Pleaser Live",
+    "link": "https://www.udiscovermusic.com/news/mollie-elizabeth-2027-tour-dates/",
+    "summary": "The first-ever headline run starts in Chicago on January 20, with stops in New York and West Hollywood.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Capitol Records",
+      "Homepage Featured",
+      "Live Music",
+      "Mollie Elizabeth",
+      "People Pleaser",
+      "People Pleaser Live",
+      "Pop"
+    ],
+    "published": "2026-10-20T12:53:26+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "a5b5a3c1e4ab41d4",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Ali G Announces ‘Who Iz I?’ Soundtrack Ahead of Film",
+    "link": "https://www.udiscovermusic.com/news/ali-g-who-iz-i-soundtrack/",
+    "summary": "The 10-track release features original music and contributions from Jon Batiste, Flowdan, Ms Banks, and others.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Ali G",
+      "Ali G: Who Iz I?",
+      "Andrew Watt",
+      "Hip-Hop",
+      "Hit-Boy",
+      "Homepage Featured",
+      "Questlove",
+      "Soundtracks"
+    ],
+    "published": "2026-10-20T12:51:13+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "cc7cd4abca159608",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Bon Jovi Adds Seven Dates To Their 2027 Forever Tour",
+    "link": "https://www.udiscovermusic.com/news/bon-jovi-forever-tour-2027-dates/",
+    "summary": "The seven-show 2027 run includes dates in Australia, the UK, the United States, and Canada.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Bon Jovi",
+      "Forever",
+      "Forever Tour",
+      "Homepage Featured",
+      "Live Music",
+      "Rock"
+    ],
+    "published": "2026-10-20T12:47:14+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "4b91e3d5867393a1",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Jazzy Releases ‘Depart’ Ahead of Debut Album",
+    "link": "https://www.udiscovermusic.com/news/jazzy-depart/",
+    "summary": "The single precedes Friday’s release of ‘Peace & Patience’ and Jazzy’s October 24 show at Dublin’s 3Arena.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Depart",
+      "Dublin To The World",
+      "Electronic",
+      "Homepage Featured",
+      "Jazzy",
+      "Live Music",
+      "Peace & Patience",
+      "Peace & Patience Headline Tour"
+    ],
+    "published": "2026-10-20T12:45:39+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
   },
   {
     "id": "da783df21555109e",
@@ -5694,6 +7558,27 @@
     "collected": "2026-10-28T10:00:03.726989+00:00"
   },
   {
+    "id": "97eae31f2994a39b",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Black Eyed Peas’ ‘Just Can’t Get Enough’ Joins Spotify Billions Club",
+    "link": "https://www.udiscovermusic.com/news/black-eyed-peas-just-cant-get-enough-spotify-billions-club/",
+    "summary": "The 2011 hit is one of many in the group’s catalogue to reach this milestone.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Black Eyed Peas",
+      "Hip-Hop",
+      "Homepage Featured",
+      "Just Can’t Get Enough",
+      "Spotify Billions Club",
+      "The Beginning"
+    ],
+    "published": "2026-10-19T15:18:52+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
     "id": "6ba1d6ff7edfece9",
     "source": "Pitchfork (Best New Albums)",
     "source_type": "reviews",
@@ -5773,6 +7658,52 @@
     "collected": "2026-10-28T10:00:03.726989+00:00"
   },
   {
+    "id": "c65271d5e3b9fbfb",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Mariah Carey Releases ‘Loverboy Remix’ Video In True 4K",
+    "link": "https://www.udiscovermusic.com/news/mariah-carey-loverboy-remix-video/",
+    "summary": "The David LaChapelle-directed video was reconstructed shot by shot from its original 35mm film elements.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "David LaChapelle",
+      "Glitter",
+      "Homepage Featured",
+      "Loverboy Remix",
+      "Mariah Carey",
+      "Music Videos",
+      "Pop",
+      "R&B",
+      "Reissues",
+      "Vinyl"
+    ],
+    "published": "2026-10-16T22:42:17+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "d838e92653f48f77",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘The Art Of Losing’: American Hi-Fi’s Powerful Sophomore Set",
+    "link": "https://www.udiscovermusic.com/stories/american-hi-fi-the-art-of-losing/",
+    "summary": "With Nick Launay producing, American Hi-Fi sharpened their sound without sacrificing the hooks that made their debut a hit.",
+    "full_text": false,
+    "categories": [
+      "Features",
+      "Google News Stories",
+      "American Hi-Fi",
+      "On This Day",
+      "Pop",
+      "Punk",
+      "The Art Of Losing"
+    ],
+    "published": "2026-10-16T21:22:46+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
     "id": "4ad0bd3889a89ef9",
     "source": "Pitchfork (track reviews)",
     "source_type": "reviews",
@@ -5785,6 +7716,307 @@
     ],
     "published": "2026-10-16T21:21:38+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
+  },
+  {
+    "id": "52c1fc2e75220cb2",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Detroit Singer-Songwriter Ebony Riley Releases Visuals For ‘Sick Of Me’",
+    "link": "https://www.udiscovermusic.com/news/ebony-riley-sick-of-me-video/",
+    "summary": "The track is the opener of the singer’s debut album ‘Beautiful Tragedy.’",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Beautiful Tragedy",
+      "Ebony Riley",
+      "Homepage Featured",
+      "R&B",
+      "Sick Of Me",
+      "Video"
+    ],
+    "published": "2026-10-16T19:05:25+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "89c7b8e40437fb6d",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "U2 Announces 2027 World Tour: The Greatest Show On Earth",
+    "link": "https://www.udiscovermusic.com/news/u2-carnaval-de-luz-tour/",
+    "summary": "Beck is set to join the band on their Latin American dates.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Carnaval De Luz",
+      "Homepage Featured",
+      "Rock",
+      "Tour",
+      "U2"
+    ],
+    "published": "2026-10-16T19:02:21+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "9b3e94a5945dd177",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Beck Shares Live Performance Of ‘Ride Lonesome’ With Sydney Symphony Orchestra",
+    "link": "https://www.udiscovermusic.com/news/beck-ride-lonesome-video/",
+    "summary": "The video comes from Beck’s May 2026 Sydney Opera House concert.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Beck",
+      "Homepage Featured",
+      "Ride Lonesome",
+      "Rock",
+      "Video"
+    ],
+    "published": "2026-10-16T18:38:14+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "31e0aefe7ae4c55e",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Max Richter Releases ‘While The Flood Rages’",
+    "link": "https://www.udiscovermusic.com/news/max-richter-while-the-flood-rages-out-now/",
+    "summary": "The Decca release draws on his third major collaboration with choreographer Wayne McGregor.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Decca Records",
+      "Electronic",
+      "Homepage Featured",
+      "MaddAddam",
+      "Max Richter",
+      "National Album Day",
+      "Wayne McGregor",
+      "While The Flood Rages"
+    ],
+    "published": "2026-10-16T18:28:13+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "8f468a927824d616",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Leyla Ebrahimi’s New Music Video For ‘star’",
+    "link": "https://www.udiscovermusic.com/news/leyla-ebrahimi-star-video/",
+    "summary": "The New York City artist reunites with producers Alexander 23 and Shane Pielocik.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Alexander 23",
+      "Alternative",
+      "Homepage Featured",
+      "Leyla Ebrahimi",
+      "Music Videos",
+      "Planet You Forgot Me",
+      "Shane Pielocik",
+      "Star"
+    ],
+    "published": "2026-10-16T18:25:00+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "018c3a80e7e45731",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Stephan Micus Explores the Sea on ‘Traces in the Sand’",
+    "link": "https://www.udiscovermusic.com/news/stephan-micus-traces-in-the-sand/",
+    "summary": "His 27th solo album for ECM pairs instruments from Borneo, Japan, Armenia, and beyond.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "ECM Records",
+      "Folk",
+      "Homepage Featured",
+      "Stephan Micus",
+      "Traces in the Sand"
+    ],
+    "published": "2026-10-16T18:13:15+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "ed36dba4bfbb2e96",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Giant Rooks Release ‘IF HEAVEN EXISTS, THIS MIGHT BE IT’",
+    "link": "https://www.udiscovermusic.com/news/giant-rooks-if-heaven-exists-this-might-be-it/",
+    "summary": "The band recorded its third album at Angelic Studios and Real World Studios in England.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Alternative",
+      "Giant Rooks",
+      "Homepage Featured",
+      "IF HEAVEN EXISTS THIS MIGHT BE IT"
+    ],
+    "published": "2026-10-16T18:10:32+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "72acbd1aa9de232d",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Listen To Take That’s Disco-Infused New Single ‘Higher’",
+    "link": "https://www.udiscovermusic.com/news/take-that-higher-dreamers/",
+    "summary": "Howard Donald sings lead on the disco-infused track, premiered by Vernon Kay on BBC Radio 2.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "DREAMERS",
+      "Dreamers Tour",
+      "Higher",
+      "Homepage Featured",
+      "Howard Donald",
+      "Pop",
+      "Take That"
+    ],
+    "published": "2026-10-16T18:07:35+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "f7a775b031e0729a",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Nick Ward Shares ‘Making Time’ From Forthcoming Second Album",
+    "link": "https://www.udiscovermusic.com/news/nick-ward-making-time/",
+    "summary": "The track marked Ward’s first session with co-producer Timon Martin and helped reshape his recording process.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Alternative",
+      "Homepage Featured",
+      "Making Time",
+      "Nick Ward",
+      "Timon Martin",
+      "Year Of The Snake"
+    ],
+    "published": "2026-10-16T18:04:52+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "62210480d432155c",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "TOMORA Releases New Five-Track EP ‘Celebration’",
+    "link": "https://www.udiscovermusic.com/news/tomora-celebration-out-now/",
+    "summary": "The duo recorded the EP at RAR Studios in Sussex, with physical editions arriving November 27.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Aurora",
+      "Celebration",
+      "Come Closer",
+      "Electronic",
+      "Homepage Featured",
+      "Live Music",
+      "Tom Rowlands",
+      "Tomora",
+      "Vinyl"
+    ],
+    "published": "2026-10-16T17:58:30+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "a299203f56a4ee80",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Brooke Combe Announces New Album ‘Too Late For Tears’",
+    "link": "https://www.udiscovermusic.com/news/brooke-combe-too-late-for-tears/",
+    "summary": "The singer shared the song ‘Passing Faces’ ahead of a 13-date UK and European headline tour.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Brooke Combe",
+      "Fontana Records",
+      "Homepage Featured",
+      "James Skelly",
+      "Live Music",
+      "Passing Faces",
+      "Soul",
+      "Too Late For Tears"
+    ],
+    "published": "2026-10-16T17:20:25+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "548d34817ebcbec3",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Listen To Sydney Rose’s New EP ‘It Was My First Time’",
+    "link": "https://www.udiscovermusic.com/news/sydney-rose-it-was-my-first-time-ep-out-now/",
+    "summary": "The five-track Mercury Records release includes ‘My First Time,’ ‘Track Team,’ and focus track ‘Proof.’",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Alternative",
+      "Homepage Featured",
+      "It Was My First Time",
+      "Mercury Records",
+      "My First Time",
+      "Proof",
+      "Sydney Rose"
+    ],
+    "published": "2026-10-16T17:12:52+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "76bd98900402719a",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Amy Winehouse’s 2006 ‘Back To Black’ TV Performance Gets YouTube Release",
+    "link": "https://www.udiscovermusic.com/news/amy-winehouse-back-to-black-live-video/",
+    "summary": "The 2006 television appearance accompanies the anniversary campaign for Winehouse’s second album.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Amy Winehouse",
+      "Back To Black",
+      "Back To Black 20",
+      "Homepage Featured",
+      "Live",
+      "Music Video",
+      "Soul"
+    ],
+    "published": "2026-10-16T17:02:54+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
+  },
+  {
+    "id": "a7cb2c15cb22de36",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Tadhg Nolan Signs To Capitol, Releases ‘Mayday (demo)’",
+    "link": "https://www.udiscovermusic.com/news/tadhg-nolan-mayday-demo/",
+    "summary": "The Irish singer-songwriter’s first North American headline shows include a November appearance in Los Angeles.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Capitol Records",
+      "Folk",
+      "Homepage Featured",
+      "Live Music",
+      "Mayday (demo)",
+      "Tadhg Nolan"
+    ],
+    "published": "2026-10-16T16:59:38+00:00",
+    "collected": "2026-11-01T11:57:00.184515+00:00"
   },
   {
     "id": "3772b0d7d23c4347",
