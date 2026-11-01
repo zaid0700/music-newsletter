@@ -1,7 +1,8 @@
 """
-Album covers for the newsletter (used by newsletter.py).
+Album covers and Spotify links for the newsletter (used by newsletter.py).
 
-Covers come from Deezer (free, no key). Albums/EPs are searched as albums and
+If Spotify is set up (see spotify.py), each release's Spotify link and artwork come
+from Spotify search. Otherwise, or if Spotify has no match, covers come from Deezer (free, no key). Albums/EPs are searched as albums and
 singles as tracks, with looser searches if the exact one finds nothing (singles
 are often listed on Deezer as one-track albums). If Deezer has nothing, Apple's
 iTunes Search API (also free, no key) is tried.
@@ -112,33 +113,54 @@ def find_cover(rel: dict, session: requests.Session) -> tuple[str | None, str]:
 
 
 def add_media(releases: list[dict]) -> None:
-    """Adds rel["cover"] (an image URL, or None) to each release."""
+    """Adds rel["cover"] (image URL or None) and rel["spotify"] (link or None).
+    Spotify is tried first for both (if set up); Deezer then iTunes fill any gaps."""
+    import spotify  # optional; does nothing without the SPOTIFY_* secrets
+    sp = spotify.client()
     cache = json.loads(CACHE.read_text()) if CACHE.exists() else {}
     now = datetime.now(timezone.utc)
     session = requests.Session()
-    found_count, by_source = 0, {}
+    found_count, links, by_source = 0, 0, {}
 
     for rel in releases:
         key = f"{norm(rel['artist'])}|{norm(rel['title'])}|{rel['type']}"
         entry = cache.get(key, {})
 
-        if not entry.get("cover"):  # missing covers are looked up again every run
+        # Spotify: link + artwork (looked up again each run until found)
+        if sp.configured and not entry.get("spotify"):
+            try:
+                hit = sp.find(rel)
+            except requests.RequestException as err:
+                print(f"  Spotify search failed for {rel['artist']} - {rel['title']}: {err}")
+                hit = None
+            if hit:
+                entry["spotify"] = hit["url"]
+                if hit["image"]:
+                    entry["cover"], entry["source"] = hit["image"], "Spotify"
+                    by_source["Spotify"] = by_source.get("Spotify", 0) + 1
+
+        # Deezer / iTunes artwork if there's still no cover
+        if not entry.get("cover"):
             cover, how = find_cover(rel, session)
             if cover:
                 by_source[how] = by_source.get(how, 0) + 1
+                entry["cover"], entry["source"] = cover, how
             else:
                 print(f"  No cover: {rel['artist']} - {rel['title']} ({rel['type']}): {how}")
-            entry = {"cover": cover, "source": how if cover else None,
-                     "checked": now.isoformat()}
-            cache[key] = entry
+        entry["checked"] = now.isoformat()
+        cache[key] = entry
 
         rel["cover"] = entry.get("cover")
+        rel["spotify"] = entry.get("spotify")
         found_count += bool(rel["cover"])
+        links += bool(rel["spotify"])
 
     CACHE.parent.mkdir(exist_ok=True)
     CACHE.write_text(json.dumps(cache, indent=1, ensure_ascii=False))
     new = ", ".join(f"{n} new from {s}" for s, n in by_source.items())
     print(f"Covers: {found_count}/{len(releases)} found" + (f" ({new})" if new else ""))
+    if sp.configured:
+        print(f"Spotify links: {links}/{len(releases)}")
     for rel in releases[:3]:
         if rel["cover"]:
             print(f"  e.g. {rel['artist']} - {rel['title']}: {rel['cover']}")

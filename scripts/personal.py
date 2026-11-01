@@ -1,7 +1,12 @@
 """
-Personal taste from your Last.fm account (used by rank.py). Optional: if there's
-no Last.fm username in config/ranking.yaml or no LASTFM_API_KEY secret, ranking
-works without it.
+Personal taste from Last.fm and/or Spotify (used by rank.py). Both are optional:
+Last.fm needs a username in config/ranking.yaml plus the LASTFM_API_KEY secret;
+Spotify needs the three SPOTIFY_* secrets (see spotify.py). With neither, ranking
+works without taste.
+
+  Spotify playlists: artists on playlists you own or collaborate on. One track
+                    scores 0.5; the artist with the most tracks scores 1.0.
+                    If an artist is in both Last.fm and Spotify, the higher wins.
 
   Your artists:     EVERY artist in your Last.fm library, even ones played once.
                     Played once scores 0.5; your most-played artist scores 1.0
@@ -102,18 +107,50 @@ def similar_to(session: requests.Session, artist: str, cache: dict) -> list[dict
     return similar
 
 
-def add_personal(releases: list[dict], user: str) -> bool:
-    """Adds rel["personal"] (0-1) and rel["personal_reason"] to each release.
-    Returns False (and changes nothing) if Last.fm isn't set up or can't be reached."""
-    if not user or not os.environ.get("LASTFM_API_KEY"):
-        print("Personal: Last.fm not set up; ranking without it")
-        return False
-
-    session = requests.Session()
+def spotify_artists() -> dict[str, dict]:
+    """Artists on your own Spotify playlists, scored like Last.fm: one track 0.5,
+    the artist with the most tracks across your playlists 1.0 (log scale)."""
+    import spotify  # optional; does nothing without the SPOTIFY_* secrets
+    sp = spotify.client()
+    if not sp.configured:
+        return {}
     try:
-        mine = your_artists(session, user)
+        counts = sp.playlist_artists()
     except (requests.RequestException, KeyError, ValueError) as err:
-        print(f"Personal: couldn't read Last.fm for {user} ({err}); ranking without it")
+        print(f"  Spotify: couldn't read your playlists ({err})")
+        return {}
+    most = max((c["tracks"] for c in counts.values()), default=1) or 1
+    for c in counts.values():
+        c["affinity"] = round(0.5 + 0.5 * math.log10(1 + c["tracks"]) / math.log10(1 + most), 3)
+        n = c["tracks"]
+        c["reason"] = f"On your Spotify playlists ({n} track{'s' if n != 1 else ''})"
+    return counts
+
+
+def add_personal(releases: list[dict], user: str) -> bool:
+    """Adds rel["personal"] (0-1) and rel["personal_reason"] to each release, from
+    Last.fm and/or Spotify playlists. Returns False (and changes nothing) if neither
+    is set up or reachable."""
+    session = requests.Session()
+    lastfm = {}
+    if user and os.environ.get("LASTFM_API_KEY"):
+        try:
+            lastfm = your_artists(session, user)
+        except (requests.RequestException, KeyError, ValueError) as err:
+            print(f"Personal: couldn't read Last.fm for {user} ({err})")
+    for a in lastfm.values():
+        n = a["plays"]
+        a["reason"] = f"You've played {a['name']} {n:,} time{'s' if n != 1 else ''}"
+    playlists = spotify_artists()
+
+    # One combined list: if an artist is in both, the higher score wins.
+    mine: dict[str, dict] = {}
+    for source in (lastfm, playlists):
+        for key, a in source.items():
+            if key not in mine or a["affinity"] > mine[key]["affinity"]:
+                mine[key] = a
+    if not mine:
+        print("Personal: neither Last.fm nor Spotify set up (or reachable); ranking without taste")
         return False
 
     cache = json.loads(CACHE.read_text()) if CACHE.exists() else {}
@@ -127,18 +164,18 @@ def add_personal(releases: list[dict], user: str) -> bool:
         hit = max(hits, key=lambda h: h["affinity"]) if hits else None
         if hit:
             rel["personal"] = hit["affinity"]
-            n = hit["plays"]
-            rel["personal_reason"] = (f"You've played {hit['name']} {n:,} time{'s' if n != 1 else ''}")
+            rel["personal_reason"] = hit["reason"]
             direct += 1
             continue
 
         best, because = 0.0, []
-        for s in similar_to(session, name, cache):
-            yours = mine.get(norm(s["name"]))
-            if yours:
-                score = SIMILAR_MAX * s["match"] * yours["affinity"]
-                because.append((score, yours["name"]))
-                best = max(best, score)
+        if lastfm:  # similar-artist lookups use Last.fm
+            for s in similar_to(session, name, cache):
+                yours = mine.get(norm(s["name"]))
+                if yours:
+                    score = SIMILAR_MAX * s["match"] * yours["affinity"]
+                    because.append((score, yours["name"]))
+                    best = max(best, score)
         rel["personal"] = round(best, 3)
         names = [n for _, n in sorted(because, reverse=True)[:2]]
         rel["personal_reason"] = f"Similar to {', '.join(names)}" if names else ""
@@ -146,6 +183,6 @@ def add_personal(releases: list[dict], user: str) -> bool:
 
     CACHE.parent.mkdir(exist_ok=True)
     CACHE.write_text(json.dumps(cache, indent=1, ensure_ascii=False))
-    print(f"Personal: {len(mine)} of your Last.fm artists loaded; {direct} releases by artists "
-          f"you listen to, {similar_count} by similar artists")
+    print(f"Personal: {len(lastfm)} Last.fm artists + {len(playlists)} Spotify playlist artists; "
+          f"{direct} releases by artists you listen to, {similar_count} by similar artists")
     return True
