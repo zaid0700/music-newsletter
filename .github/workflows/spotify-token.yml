@@ -1,0 +1,38 @@
+name: Get Spotify token
+
+on:
+  workflow_dispatch:
+    inputs:
+      code:
+        description: "The code from the browser address bar (after code=)"
+        required: true
+
+jobs:
+  token:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Swap code for refresh token
+        env:
+          CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          CODE: ${{ inputs.code }}
+        run: |
+          python3 - <<'EOF'
+          import base64, json, os, urllib.parse, urllib.request
+          basic = base64.b64encode(f"{os.environ['CLIENT_ID']}:{os.environ['CLIENT_SECRET']}".encode()).decode()
+          req = urllib.request.Request(
+              "https://accounts.spotify.com/api/token",
+              data=urllib.parse.urlencode({
+                  "grant_type": "authorization_code",
+                  "code": os.environ["CODE"].strip(),
+                  "redirect_uri": "http://127.0.0.1:8888/callback",
+              }).encode(),
+              headers={"Authorization": f"Basic {basic}",
+                       "Content-Type": "application/x-www-form-urlencoded"})
+          try:
+              tokens = json.load(urllib.request.urlopen(req))
+          except urllib.error.HTTPError as e:
+              raise SystemExit(f"Spotify said: {e.read().decode()}")
+          print("\nREFRESH TOKEN (copy into the SPOTIFY_REFRESH_TOKEN secret):\n")
+          print(tokens["refresh_token"])
+          EOF
