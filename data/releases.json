@@ -426,6 +426,63 @@
     ]
   },
   {
+    "artist": "Atlas Sound",
+    "title": "Octoberland",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Consequence",
+      "Pitchfork (news)",
+      "Stereogum",
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Atlas Sound returns with \"Octoberland,\" first new song in 15 years",
+        "link": "https://theneedledrop.com/news/atlas-sound-returns-with-octoberland-first-new-song-in-15-years/",
+        "published": "2026-10-31T00:19:58+00:00"
+      },
+      {
+        "source": "Consequence",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Bradford Cox Releases New Atlas Sound Song “Octoberland”: Steam",
+        "link": "https://consequence.net/2026/10/bradford-cox-atlas-sound-octoberland/",
+        "published": "2026-10-30T21:17:56+00:00"
+      },
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Atlas Sound – “Octoberland”",
+        "link": "https://stereogum.com/2516185/atlas-sound-octoberland/music/",
+        "published": "2026-10-30T21:05:06+00:00"
+      },
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Listen to the First Atlas Sound Song in 15 Years",
+        "link": "https://pitchfork.com/story/listen-to-the-first-atlas-sound-song-in-15-years/",
+        "published": "2026-10-30T21:03:48+00:00"
+      }
+    ]
+  },
+  {
     "artist": "DIIV",
     "title": "ZIRP!",
     "type": "album",
@@ -468,52 +525,6 @@
         "headline": "DIIV ‘Zirp!’ Review: Distortion Without Dimension",
         "link": "https://www.slantmagazine.com/music/diiv-zirp-album-review/",
         "published": "2026-10-25T15:00:00+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Atlas Sound",
-    "title": "Octoberland",
-    "type": "single",
-    "genre": "Rock / Alternative / Indie",
-    "release_date": "2026-10-30",
-    "date_source": "feeds",
-    "scores": [],
-    "sources": [
-      "Pitchfork (news)",
-      "Stereogum",
-      "The Needle Drop (website)"
-    ],
-    "mentions": [
-      {
-        "source": "The Needle Drop (website)",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "new_song",
-        "score": null,
-        "headline": "Atlas Sound returns with \"Octoberland,\" first new song in 15 years",
-        "link": "https://theneedledrop.com/news/atlas-sound-returns-with-octoberland-first-new-song-in-15-years/",
-        "published": "2026-10-31T00:19:58+00:00"
-      },
-      {
-        "source": "Stereogum",
-        "source_type": "news",
-        "weight": 1.0,
-        "mention": "new_song",
-        "score": null,
-        "headline": "Atlas Sound – “Octoberland”",
-        "link": "https://stereogum.com/2516185/atlas-sound-octoberland/music/",
-        "published": "2026-10-30T21:05:06+00:00"
-      },
-      {
-        "source": "Pitchfork (news)",
-        "source_type": "news",
-        "weight": 1.0,
-        "mention": "new_song",
-        "score": null,
-        "headline": "Listen to the First Atlas Sound Song in 15 Years",
-        "link": "https://pitchfork.com/story/listen-to-the-first-atlas-sound-song-in-15-years/",
-        "published": "2026-10-30T21:03:48+00:00"
       }
     ]
   },
@@ -1271,6 +1282,174 @@
     ]
   },
   {
+    "artist": "Nettspend",
+    "title": "Virginia Creeper",
+    "type": "ep",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Nettspend’s ‘Virginia Creeper’ Features Six New Tracks",
+        "link": "https://www.udiscovermusic.com/news/nettspend-virginia-creeper-ep/",
+        "published": "2026-10-30T22:48:44+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Proderics & Melodybloom",
+    "title": "true eyes",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Watch Proderics x Melodybloom’s ‘true eyes’ Video",
+        "link": "https://www.udiscovermusic.com/news/proderics-melodybloom-true-eyes/",
+        "published": "2026-10-30T21:35:35+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Juice Webster",
+    "title": "Kind Of Fantasy",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-30",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Juice Webster – Kind Of Fantasy",
+        "link": "https://www.clashmusic.com/reviews/juice-webster-kind-of-fantasy/",
+        "published": "2026-10-30T13:48:29+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Tame Impala",
+    "title": "Kiss From A Rose",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Tame Impala Cover “Kiss From A Rose”",
+        "link": "https://stereogum.com/2516062/tame-impala-cover-kiss-from-a-rose/news/",
+        "published": "2026-10-30T13:26:02+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "FILLY",
+    "title": "Kate S.O.S.",
+    "type": "single",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Kate Moss And Vogue Inspire FILLY’s ‘Kate S.O.S.’",
+        "link": "https://www.udiscovermusic.com/news/filly-kate-sos/",
+        "published": "2026-10-30T12:46:05+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Gigi Perez",
+    "title": "Favor",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Gigi Perez Releases ‘Favor’ for Hunger Games Soundtrack",
+        "link": "https://www.udiscovermusic.com/news/gigi-perez-favor-hunger-games/",
+        "published": "2026-10-30T12:42:20+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Meryl Streek",
+    "title": "Stories The Don't Teach You At School",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Meryl Streek Presents: Lessons They Don’t Teach You At School",
+        "link": "https://www.clashmusic.com/features/meryl-streek-presents-lessons-they-dont-teach-you-at-school/",
+        "published": "2026-10-30T11:24:07+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Mei Semones",
     "title": "2 Hands",
     "type": "single",
@@ -1972,6 +2151,30 @@
     ]
   },
   {
+    "artist": "Robert Del Naja",
+    "title": "Palestine (Remix)",
+    "type": "single",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-10-28",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Pitchfork (news)"
+    ],
+    "mentions": [
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Massive Attack’s Robert Del Naja Releases New Songs for Gaza Documentary",
+        "link": "https://pitchfork.com/story/massive-attacks-robert-del-naja-releases-new-songs-for-gaza-documentary/",
+        "published": "2026-10-28T13:14:55+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Dead Man's Bones",
     "title": "Lost In The Night",
     "type": "single",
@@ -2444,6 +2647,30 @@
         "headline": "Listen to Livingston’s New Single ‘Shapeshifter’",
         "link": "https://www.udiscovermusic.com/news/livingston-shapeshifter/",
         "published": "2026-10-26T15:00:30+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Kassi Ashton",
+    "title": "Any Place In Time",
+    "type": "single",
+    "genre": "Other",
+    "release_date": "2026-10-26",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Kassi Ashton Releases ‘Any Place In Time’ and Video",
+        "link": "https://www.udiscovermusic.com/news/kassi-ashton-any-place-in-time/",
+        "published": "2026-10-26T15:35:05+00:00"
       }
     ]
   },
@@ -2952,6 +3179,198 @@
     ]
   },
   {
+    "artist": "Nelly Furtado & Ian Asher",
+    "title": "All Good Things (Come to an End)",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-10-23",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Nelly Furtado’s ‘All Good Things (Come to an End)’ Gets Ian Asher Remix",
+        "link": "https://www.udiscovermusic.com/news/nelly-furtado-all-good-things-come-to-an-end-remix/",
+        "published": "2026-10-23T17:36:53+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Lyn Lapid",
+    "title": "Casual Crime",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-10-23",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "‘Casual Crime’ Previews Lyn Lapid’s Next Project",
+        "link": "https://www.udiscovermusic.com/news/lyn-lapid-casual-crime/",
+        "published": "2026-10-23T14:55:47+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "NEEDTOBREATHE & Evan Honer",
+    "title": "Never Gonna Deserve Ya",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-23",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "NEEDTOBREATHE Releases ‘Never Gonna Deserve Ya’ With Evan Honer",
+        "link": "https://www.udiscovermusic.com/news/needtobreathe-never-gonna-deserve-ya/",
+        "published": "2026-10-23T13:10:59+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "MPH & Megra",
+    "title": "Skin To Skin",
+    "type": "single",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-10-23",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "MPH And Megra Join Forces On ‘Skin To Skin’",
+        "link": "https://www.udiscovermusic.com/news/mph-megra-skin-to-skin/",
+        "published": "2026-10-23T13:06:46+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Yeat",
+    "title": "Luh Leakyz Vol. 1",
+    "type": "album",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-23",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Yeat Compiles Fan-Demanded Songs on ‘Luh Leakyz Vol. 1’",
+        "link": "https://www.udiscovermusic.com/news/yeat-luh-leakyz-vol-1/",
+        "published": "2026-10-23T13:04:29+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Toosii",
+    "title": "Platinum Heart 2",
+    "type": "album",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-23",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "‘Highway Love’ Leads Toosii’s 13-Track ‘Platinum Heart 2’",
+        "link": "https://www.udiscovermusic.com/news/toosii-platinum-heart-2/",
+        "published": "2026-10-23T13:02:19+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Jacquees & PlaqueBoyMax",
+    "title": "Familiar",
+    "type": "single",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-22",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Jacquees Joins PlaqueBoyMax for Two New Songs",
+        "link": "https://www.udiscovermusic.com/news/plaqueboymax-jacquees-familiar-she-know-songs/",
+        "published": "2026-10-22T15:12:58+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Jacquees & PlaqueBoyMax",
+    "title": "She Know",
+    "type": "single",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-22",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Jacquees Joins PlaqueBoyMax for Two New Songs",
+        "link": "https://www.udiscovermusic.com/news/plaqueboymax-jacquees-familiar-she-know-songs/",
+        "published": "2026-10-22T15:12:58+00:00"
+      }
+    ]
+  },
+  {
     "artist": "YANA",
     "title": "Your Name Is A River",
     "type": "single",
@@ -3020,6 +3439,30 @@
         "headline": "Jazzy Releases ‘Depart’ Ahead of Debut Album",
         "link": "https://www.udiscovermusic.com/news/jazzy-depart/",
         "published": "2026-10-20T12:45:39+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Yeat",
+    "title": "HeliMan",
+    "type": "single",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-20",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Fortnite Players Can Unlock Three Unreleased Yeat Tracks",
+        "link": "https://www.udiscovermusic.com/news/yeat-fortnite-unreleased-music/",
+        "published": "2026-10-20T12:54:28+00:00"
       }
     ]
   },
@@ -3603,6 +4046,102 @@
         "headline": "Listen To Sydney Rose’s New EP ‘It Was My First Time’",
         "link": "https://www.udiscovermusic.com/news/sydney-rose-it-was-my-first-time-ep-out-now/",
         "published": "2026-10-16T17:12:52+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Ebony Riley",
+    "title": "Sick Of Me",
+    "type": "single",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-16",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Detroit Singer-Songwriter Ebony Riley Releases Visuals For ‘Sick Of Me’",
+        "link": "https://www.udiscovermusic.com/news/ebony-riley-sick-of-me-video/",
+        "published": "2026-10-16T19:05:25+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Max Richter",
+    "title": "While The Flood Rages",
+    "type": "album",
+    "genre": "Other",
+    "release_date": "2026-10-16",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Max Richter Releases ‘While The Flood Rages’",
+        "link": "https://www.udiscovermusic.com/news/max-richter-while-the-flood-rages-out-now/",
+        "published": "2026-10-16T18:28:13+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Stephan Micus",
+    "title": "Traces in the Sand",
+    "type": "album",
+    "genre": "Other",
+    "release_date": "2026-10-16",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Stephan Micus Explores the Sea on ‘Traces in the Sand’",
+        "link": "https://www.udiscovermusic.com/news/stephan-micus-traces-in-the-sand/",
+        "published": "2026-10-16T18:13:15+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Tadhg Nolan",
+    "title": "Mayday (demo)",
+    "type": "single",
+    "genre": "Other",
+    "release_date": "2026-10-16",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Tadhg Nolan Signs To Capitol, Releases ‘Mayday (demo)’",
+        "link": "https://www.udiscovermusic.com/news/tadhg-nolan-mayday-demo/",
+        "published": "2026-10-16T16:59:38+00:00"
       }
     ]
   },
@@ -4384,6 +4923,30 @@
     ]
   },
   {
+    "artist": "Factory Floor",
+    "title": "nowhere else to be",
+    "type": "single",
+    "genre": "Electronic / Dance",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "list",
+        "score": null,
+        "headline": "The 5 Best Songs Of The Week",
+        "link": "https://stereogum.com/2516038/the-5-best-songs-of-the-week-650/lists/the-5-best-songs-of-the-week/",
+        "published": "2026-10-30T19:15:12+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Or Best Offer",
     "title": "It Will Appear",
     "type": "album",
@@ -4740,6 +5303,78 @@
         "headline": "Brooke Combe Announces New Album ‘Too Late For Tears’",
         "link": "https://www.udiscovermusic.com/news/brooke-combe-too-late-for-tears/",
         "published": "2026-10-16T17:20:25+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "The Healing Power Of Horses",
+    "title": "Trinket",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "list",
+        "score": null,
+        "headline": "The 5 Best Songs Of The Week",
+        "link": "https://stereogum.com/2516038/the-5-best-songs-of-the-week-650/lists/the-5-best-songs-of-the-week/",
+        "published": "2026-10-30T19:15:12+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Miguel Atwood-Ferguson",
+    "title": "ANANTA: Spirit of Coltrane",
+    "type": "album",
+    "genre": "Other",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Miguel Atwood-Ferguson – ANANTA: Spirit of Coltrane",
+        "link": "https://www.clashmusic.com/reviews/miguel-atwood-ferguson-ananta-spirit-of-coltrane/",
+        "published": "2026-10-30T14:02:49+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Sampa The Great",
+    "title": "Nu Zamrock",
+    "type": "album",
+    "genre": "Hip-hop / R&B",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Sampa The Great – Nu Zamrock",
+        "link": "https://www.clashmusic.com/reviews/sampa-the-great-nu-zamrock/",
+        "published": "2026-10-30T12:55:36+00:00"
       }
     ]
   }
