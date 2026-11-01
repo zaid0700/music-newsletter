@@ -254,6 +254,16 @@ def send(subject: str, html: str, text: str) -> None:
         smtp.send_message(msg)
     print("Sent.")
 
+def remember_featured(week: dict) -> None:
+    """Record which releases this issue contained, so next week's issue can add
+    last-Friday releases that were covered too late for this one (see rank.py)."""
+    from rank import FEATURED, release_key
+    featured = json.loads(FEATURED.read_text()) if FEATURED.exists() else {}
+    featured[week["week_end"]] = sorted({release_key(r) for r in week["releases"].values()})
+    for old in sorted(featured)[:-10]:   # keep the last 10 issues
+        del featured[old]
+    FEATURED.write_text(json.dumps(featured, indent=1, ensure_ascii=False))
+
 
 # --------------------------------------------------------------------------- main
 
@@ -276,6 +286,7 @@ def main() -> None:
         print("Not sent (--no-send).")
     else:
         send(subject, html, text)
+        remember_featured(week)
 
 
 if __name__ == "__main__":
