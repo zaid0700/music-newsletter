@@ -10,7 +10,7 @@
       {% if show_cover %}
       <td width="96" valign="top" style="padding-right:14px;">
         {% if r.cover %}
-        <a href="{{ r.links[0].url if r.links else '#' }}"><img src="{{ r.cover }}" width="96" height="96" alt="{{ r.title }} cover" style="display:block;width:96px;height:96px;border:0;border-radius:3px;background:#e4ddd2;"></a>
+        <a href="{{ r.spotify or (r.links[0].url if r.links else '#') }}"><img src="{{ r.cover }}" width="96" height="96" alt="{{ r.title }} cover" style="display:block;width:96px;height:96px;border:0;border-radius:3px;background:#e4ddd2;"></a>
         {% else %}
         <div style="width:96px;height:96px;border-radius:3px;background:#e4ddd2;"></div>
         {% endif %}
@@ -34,7 +34,7 @@
   <div style="font:15px/1.55 Georgia,'Times New Roman',serif;color:#1d1b18;padding:10px 0 0 {{ 30 if n else 0 }}px;">{{ r.blurb }}</div>
   {% endif %}
   <div style="font:13px/1.8 Helvetica,Arial,sans-serif;padding:6px 0 0 {{ 30 if n else 0 }}px;">
-    {% for l in r.links %}<a href="{{ l.url }}" style="color:#b4441c;text-decoration:underline;white-space:nowrap;">{{ l.label }}{% if l.kind %} {{ l.kind }}{% endif %}</a>{% if not loop.last %}<span style="color:#b9b2a7;"> &nbsp;|&nbsp; </span>{% endif %}{% endfor %}
+    {% if r.spotify %}<a href="{{ r.spotify }}" style="color:#1d1b18;font-weight:700;text-decoration:underline;white-space:nowrap;">Listen on Spotify</a>{% if r.links %}<span style="color:#b9b2a7;"> &nbsp;|&nbsp; </span>{% endif %}{% endif %}{% for l in r.links %}<a href="{{ l.url }}" style="color:#b4441c;text-decoration:underline;white-space:nowrap;">{{ l.label }}{% if l.kind %} {{ l.kind }}{% endif %}</a>{% if not loop.last %}<span style="color:#b9b2a7;"> &nbsp;|&nbsp; </span>{% endif %}{% endfor %}
   </div>
 </td></tr>
 {% endmacro %}
@@ -89,7 +89,7 @@
     {% endif %}
 
     <tr><td style="padding:18px 24px 24px 24px;border-top:1px solid #e4ddd2;font:12px/1.6 Helvetica,Arial,sans-serif;color:#6b655c;">
-      Covers releases from {{ dates }}, ranked by {% if personal %}your Last.fm listening, then {% endif %}how widely each release was covered across your music publications and the artist's popularity on Deezer. Summaries are written by Claude from those publications' headlines. Covers from Deezer and iTunes.
+      Covers releases from {{ dates }}, ranked by {% if personal %}your Last.fm listening, then {% endif %}how widely each release was covered across your music publications and the artist's popularity on Deezer. Summaries are written by Claude from those publications' headlines. Artwork from Spotify, Deezer and iTunes.
     </td></tr>
 
   </table>

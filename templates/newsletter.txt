@@ -8,6 +8,9 @@
 {% if r.blurb %}
    {{ r.blurb }}
 {% endif %}
+{% if r.spotify %}
+   Spotify: {{ r.spotify }}
+{% endif %}
 {% for l in r.links %}
    {{ l.label }}{% if l.kind %} {{ l.kind }}{% endif %}: {{ l.url }}
 {% endfor %}
