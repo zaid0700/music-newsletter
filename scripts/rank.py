@@ -61,8 +61,11 @@ def newsletter_week(week_ending: date | None = None) -> tuple[date, date]:
 def uae_date(iso: str) -> date:
     return datetime.fromisoformat(iso).astimezone(UAE).date()
 
-LIVE = re.compile(r"\blive\s+(at|from|in|on)\b|[(\[]\s*live\b|\blive\s*[)\]]|\blive\s+(album|recording|session)s?\b"
-                  r"|^live$|\bunplugged\b", re.IGNORECASE)
+LIVE = re.compile(r"\blive(\s+\S+){0,2}\s+(at|from)\b"          # Live at..., Live 25 at...
+                  r"|(^|[:\-\u2013\u2014(\[])\s*live\s+(in|on)\b"   # Live in Paris, Album: Live in Tokyo
+                  r"|\blive\s+'?\d{2,4}\b"                       # Live 2025, Live '99
+                  r"|[(\[]\s*live\b|\blive\s*[)\]]"               # (Live), [Live]
+                  r"|\blive\s+(album|recording|session)s?\b|^live$|\bunplugged\b", re.IGNORECASE)
 
 
 def is_live(rel: dict) -> bool:
