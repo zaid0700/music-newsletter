@@ -265,6 +265,7 @@ def main() -> None:
     releases = [r for r in json.loads(RELEASES.read_text())
                 if r["genre"] in genres and in_week(r, start, end) and not is_live(r)]
     print(f"Week: Sat {start} to Fri {end}: {len(releases)} releases in your genres")
+    releases = drop_album_singles(releases)
 
     add_star_power(releases)
     from personal import add_personal  # imported here: personal.py imports this file
