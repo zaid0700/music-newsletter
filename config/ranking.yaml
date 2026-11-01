@@ -1,29 +1,29 @@
 # How releases are ranked. Edit the numbers to change what rises to the top.
 #
-# Each release gets up to three scores from 0 to 1, combined with these weights:
-#   star_power:     how big the artist is (Deezer fan count; 10 million fans or more = 1.0)
-#   critical_buzz:  coverage and reviews this week (compared with the week's best-covered release)
-#   personal:       how close the artist is to what you listen to on Last.fm
-#                   (1.0 = one of your most-played artists). Only used if lastfm_user
-#                   is filled in below and the LASTFM_API_KEY secret is set.
+# Each release gets three scores from 0 to 1, combined with these weights:
+#   personal:          how close the artist is to what you listen to on Last.fm.
+#                      Any artist you've played, even once, scores 0.5 to 1.0
+#                      (more plays = higher). Artists similar to ones you play
+#                      score up to 0.4. Needs lastfm_user below and the
+#                      LASTFM_API_KEY secret; without them it's left out.
+#   critical_acclaim:  reviews this week, review scores and editors' picks
+#                      (e.g. Pitchfork Best New Albums), compared with the week's
+#                      most acclaimed release.
+#   popularity:        half how many publications covered it this week, half how
+#                      big the artist is (Deezer fans; 10 million or more = 1.0).
 # The weights don't have to add up to 1; they're used as proportions.
 
-lastfm_user: "zaidaftab"        # your Last.fm username
+lastfm_user: ""        # your Last.fm username, e.g. "sana_music"
 
 weights:
-  star_power: 0.35
-  critical_buzz: 0.35
-  personal: 0.3
+  personal: 0.6
+  critical_acclaim: 0.3
+  popularity: 0.1
 
-# Critical buzz points per mention (then multiplied by the source's weight in sources.yaml)
-mention_points:
-  review: 3
-  new_song: 1
-  release_news: 1
-  announcement: 1
-  list: 1
+# Critical acclaim points per review (then multiplied by the source's weight in sources.yaml)
+review_points: 3
 
-# Each review score point above 6.0 (out of 10) adds this many buzz points. An 8.2 adds 2.2.
+# Each review score point above 6.0 (out of 10) adds this many acclaim points. An 8.2 adds 2.2.
 score_bonus_per_point: 1.0
 
 # Albums count more than singles. The final score is multiplied by these.
