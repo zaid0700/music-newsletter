@@ -38,6 +38,13 @@ def clean_text(raw: str, limit: int = 1000) -> str:
     text = re.sub(r"\s+", " ", text).strip()
     return text[:limit]
 
+def entry_text(entry, source: dict) -> str:
+    """The item's text. Normally a short summary; for sources marked full_text
+    (e.g. a weekly newsletter listing many albums), the whole post."""
+    if source.get("full_text"):
+        body = (entry.get("content") or [{}])[0].get("value") or entry.get("summary", "")
+        return clean_text(body, 8000)
+    return clean_text(entry.get("summary", ""))
 
 def published_utc(entry) -> str | None:
     """Return the entry's publish time as an ISO string in UTC, if it has one."""
@@ -140,7 +147,8 @@ def main() -> None:
                 "weight": source.get("weight", 1.0),
                 "title": clean_text(entry.get("title", ""), 300),
                 "link": entry.get("link", ""),
-                "summary": clean_text(entry.get("summary", "")),
+                "summary": entry_text(entry, source),
+                "full_text": bool(source.get("full_text")),
                 "categories": [t.get("term") for t in entry.get("tags", []) if t.get("term")],
                 "published": published,
                 "collected": now.isoformat(),
