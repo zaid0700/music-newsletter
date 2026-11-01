@@ -45,6 +45,7 @@ SOURCE_LABELS = {  # how each feed is shown in the "Read more" links
     "Stereogum": "Stereogum",
     "The Needle Drop (YouTube)": "The Needle Drop",
     "The Needle Drop (website)": "The Needle Drop",
+    "AllMusic (new releases)": "AllMusic",
 }
 
 WRITING_INSTRUCTIONS = """You write a weekly new-music newsletter for one reader who wants a quick, \

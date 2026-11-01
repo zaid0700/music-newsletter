@@ -41,7 +41,25 @@ def check(source: dict) -> None:
 def main() -> None:
     config = yaml.safe_load(CONFIG.read_text())
     for source in config["sources"]:
-        check(source)
+        if source.get("type") == "allmusic":
+            check_allmusic(source)
+        else:
+            check(source)
+
+
+def check_allmusic(source: dict) -> None:
+    import allmusic  # same folder
+    try:
+        albums = allmusic.fetch_releases()
+    except (allmusic.Blocked, requests.RequestException) as err:
+        print(f"FAIL  {source['name']}\n      {err}\n")
+        return
+    if not albums:
+        print(f"FAIL  {source['name']}\n      Page loaded but no albums found\n")
+        return
+    first = albums[0]
+    print(f"OK    {source['name']}  ({len(albums)} albums, week of {first['week'] or '?'})\n"
+          f"      first: {first['artist']} - {first['title']}\n")
 
 
 if __name__ == "__main__":

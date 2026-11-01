@@ -19,6 +19,8 @@ import feedparser
 import requests
 import yaml
 
+import allmusic
+
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = ROOT / "config" / "sources.yaml"
 DATA = ROOT / "data" / "items.json"
@@ -68,6 +70,40 @@ def save_items(items: dict) -> None:
     DATA.write_text(json.dumps(ordered, indent=2, ensure_ascii=False))
 
 
+def collect_allmusic(source: dict, items: dict, now: datetime) -> int:
+    """AllMusic has no feed, so its New Releases page is read directly."""
+    try:
+        albums = allmusic.fetch_releases()
+    except (allmusic.Blocked, requests.RequestException) as err:
+        print(f"SKIP  {source['name']}: {err}")
+        return 0
+    if not albums:
+        print(f"SKIP  {source['name']}: page loaded but no albums found "
+              "(AllMusic may have changed its layout)")
+        return 0
+
+    new_here = 0
+    for entry in allmusic.as_items(albums, source, now):
+        iid = item_id(source["name"], {"link": entry["link"]})
+        if iid in items:
+            continue
+        items[iid] = {
+            "id": iid,
+            "source": source["name"],
+            "source_type": "allmusic",
+            "weight": source.get("weight", 1.0),
+            "title": clean_text(entry["title"], 300),
+            "link": entry["link"],
+            "summary": clean_text(entry["summary"]),
+            "categories": [],
+            "published": entry["published"],
+            "collected": now.isoformat(),
+        }
+        new_here += 1
+    print(f"OK    {source['name']}: {new_here} new of {len(albums)}")
+    return new_here
+
+
 def main() -> None:
     config = yaml.safe_load(CONFIG.read_text())
     items = load_items()
@@ -76,6 +112,9 @@ def main() -> None:
     added = 0
 
     for source in config["sources"]:
+        if source.get("type") == "allmusic":
+            added += collect_allmusic(source, items, now)
+            continue
         try:
             feed = feedparser.parse(fetch(source["url"]))
         except requests.RequestException as err:
