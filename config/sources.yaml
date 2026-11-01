@@ -66,6 +66,11 @@ sources:
     url: https://www.clashmusic.com/feed/
     type: news
     weight: 1.0
+    
+  - name: uDiscover Music                        # check
+    url: https://www.udiscovermusic.com/feed/
+    type: news
+    weight: 1.0
 
   # --- Pop / mainstream ------------------------------------------------------
   - name: Rolling Stone (music)                  # check
