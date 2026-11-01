@@ -35,6 +35,13 @@ sources:
     type: reviews
     weight: 1.0
 
+  # AllMusic has no RSS feed; its weekly New Releases page is read directly
+  # (scripts/allmusic.py). If AllMusic blocks it, it's skipped automatically.
+  - name: AllMusic (new releases)
+    url: https://www.allmusic.com/newreleases
+    type: allmusic
+    weight: 1.0
+
 genres:
   - Pop
   - Hip-hop / R&B
