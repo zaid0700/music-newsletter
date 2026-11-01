@@ -141,7 +141,8 @@ def describe(item: dict) -> str:
         f"title: {item['title']}",
     ]
     if item.get("summary"):
-        lines.append(f"summary: {item['summary'][:600]}")
+        limit = 8000 if item.get("full_text") else 600
+        lines.append(f"summary: {item['summary'][:limit]}")
     if item.get("categories"):
         lines.append(f"tags: {', '.join(item['categories'][:12])}")
     return "\n".join(lines)
