@@ -564,6 +564,41 @@
     ]
   },
   {
+    "artist": "Queens Of The Stone Age",
+    "title": "Perfecth",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-30",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Consequence",
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "Consequence",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Queens of the Stone Age Release New Album Perfecth: Stream",
+        "link": "https://consequence.net/2026/10/queens-of-the-stone-age-perfecth-album-stream/",
+        "published": "2026-10-30T17:44:32+00:00"
+      },
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Queens Of The Stone Age – Perfecth",
+        "link": "https://www.musicomh.com/reviews/albums/queens-of-the-stone-age-perfecth",
+        "published": "2026-10-28T08:31:05+00:00"
+      }
+    ]
+  },
+  {
     "artist": "evilgiane & Slimesito",
     "title": "EVILSLIME 2",
     "type": "album",
@@ -876,30 +911,6 @@
     ]
   },
   {
-    "artist": "Queens of the Stone Age",
-    "title": "Perfecth",
-    "type": "album",
-    "genre": "Rock / Alternative / Indie",
-    "release_date": "2026-10-30",
-    "date_source": "feeds",
-    "scores": [],
-    "sources": [
-      "Consequence"
-    ],
-    "mentions": [
-      {
-        "source": "Consequence",
-        "source_type": "news",
-        "weight": 1.0,
-        "mention": "release_news",
-        "score": null,
-        "headline": "Queens of the Stone Age Release New Album Perfecth: Stream",
-        "link": "https://consequence.net/2026/10/queens-of-the-stone-age-perfecth-album-stream/",
-        "published": "2026-10-30T17:44:32+00:00"
-      }
-    ]
-  },
-  {
     "artist": "The Heavy North",
     "title": "Alive",
     "type": "single",
@@ -1016,6 +1027,54 @@
         "headline": "Ex:Re ‘Save As’ Review: A Mesmerizing Look at Modern Consciousness",
         "link": "https://www.slantmagazine.com/music/exre-save-as-album-review/",
         "published": "2026-10-28T17:55:33+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Yello",
+    "title": "Time Lab",
+    "type": "album",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-10-30",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Yello – Time Lab",
+        "link": "https://www.musicomh.com/reviews/albums/yello-time-lab",
+        "published": "2026-10-30T08:31:24+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Clinic",
+    "title": "Wild In The Streets",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-30",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Clinic – Wild In The Streets",
+        "link": "https://www.musicomh.com/reviews/albums/clinic-wild-in-the-streets",
+        "published": "2026-10-29T13:01:22+00:00"
       }
     ]
   },
@@ -1271,9 +1330,20 @@
       "Pitchfork (album reviews)",
       "Slant (music)",
       "The Needle Drop (YouTube)",
-      "The Needle Drop (website)"
+      "The Needle Drop (website)",
+      "musicOMH"
     ],
     "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Shabazz Palaces – It’s A Style Sport",
+        "link": "https://www.musicomh.com/reviews/albums/shabazz-palaces-its-a-style-sport",
+        "published": "2026-10-30T07:01:16+00:00"
+      },
       {
         "source": "The Needle Drop (website)",
         "source_type": "reviews",
@@ -2162,6 +2232,78 @@
     ]
   },
   {
+    "artist": "Bernie Taupin",
+    "title": "The Sea Has No Mercy",
+    "type": "album",
+    "genre": "Other",
+    "release_date": "2026-10-23",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Bernie Taupin – The Sea Has No Mercy",
+        "link": "https://www.musicomh.com/reviews/albums/bernie-taupin-the-sea-has-no-mercy",
+        "published": "2026-10-23T07:01:41+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Strawberry Guy",
+    "title": "Give Me A Dream",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": "2026-10-23",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Strawberry Guy – Give Me A Dream",
+        "link": "https://www.musicomh.com/reviews/albums/strawberry-guy-give-me-a-dream",
+        "published": "2026-10-23T06:31:34+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Caroline Rose",
+    "title": "Gentling The Horse At The Walt Whitman Mall",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-23",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Caroline Rose – Gentling The Horse At The Walt Whitman Mall",
+        "link": "https://www.musicomh.com/reviews/albums/caroline-rose-gentling-the-horse-at-the-walt-whitman-mall",
+        "published": "2026-10-22T07:01:21+00:00"
+      }
+    ]
+  },
+  {
     "artist": "LustSickPuppy",
     "title": "SHAKER",
     "type": "single",
@@ -2505,6 +2647,54 @@
     ]
   },
   {
+    "artist": "Ella Thompson",
+    "title": "Triumph And Sadness",
+    "type": "album",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-16",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Ella Thompson – Triumph And Sadness",
+        "link": "https://www.musicomh.com/reviews/albums/ella-thompson-triumph-and-sadness",
+        "published": "2026-10-20T13:01:22+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Richard Thompson",
+    "title": "Hippies, Thugs And Heroes",
+    "type": "album",
+    "genre": "Other",
+    "release_date": "2026-10-16",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Richard Thompson – Hippies, Thugs And Heroes",
+        "link": "https://www.musicomh.com/reviews/albums/richard-thompson-hippies-thugs-and-heroes",
+        "published": "2026-10-20T08:31:51+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Cameron Winter",
     "title": "Live at Carnegie Hall",
     "type": "album",
@@ -2656,6 +2846,30 @@
         "headline": "GREAT ALBUMS: October 2026",
         "link": "https://www.youtube.com/watch?v=qvjpRLaeA5Y",
         "published": "2026-10-18T22:16:02+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Knats",
+    "title": "A Great Day In Newcastle",
+    "type": "album",
+    "genre": "Other",
+    "release_date": "2026-05-01",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Knats – A Great Day In Newcastle",
+        "link": "https://www.musicomh.com/reviews/albums/knats-a-great-day-in-newcastle",
+        "published": "2026-10-21T06:31:12+00:00"
       }
     ]
   },
@@ -3315,6 +3529,246 @@
         "headline": "Review: With ‘She’s the Best,’ Troye Sivan Loses Himself in His Muses",
         "link": "https://www.slantmagazine.com/music/troye-sivan-shes-the-best-album-review/",
         "published": "2026-10-09T23:08:53+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "PISS",
+    "title": "You Made Me/Skin On Linen",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "PISS – You Made Me/Skin On Linen",
+        "link": "https://www.musicomh.com/reviews/albums/piss-you-made-me-skin-on-linen",
+        "published": "2026-10-30T07:31:20+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "The Big Moon",
+    "title": "Forever",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "The Big Moon – Forever",
+        "link": "https://www.musicomh.com/reviews/albums/the-big-moon-forever",
+        "published": "2026-10-29T08:01:43+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Disgusting Sisters",
+    "title": "Skin & Blisters",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Disgusting Sisters – Skin & Blisters",
+        "link": "https://www.musicomh.com/reviews/albums/disgusting-sisters-skin-blisters",
+        "published": "2026-10-28T08:01:39+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Orchestra Baobab",
+    "title": "Made In Senegal",
+    "type": "album",
+    "genre": "Other",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Orchestra Baobab – Made In Senegal",
+        "link": "https://www.musicomh.com/reviews/albums/orchestra-baobab-made-in-senegal",
+        "published": "2026-10-23T11:26:43+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Angèle",
+    "title": "Instinct",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Angèle – Instinct",
+        "link": "https://www.musicomh.com/reviews/albums/angele-instinct",
+        "published": "2026-10-23T06:01:52+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Darren Hayman",
+    "title": "I'm Your Team",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Darren Hayman – I’m Your Team",
+        "link": "https://www.musicomh.com/reviews/albums/darren-hayman-im-your-team",
+        "published": "2026-10-21T07:01:17+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Rachel Chinouriri",
+    "title": "I Think I Spoke Too Soon",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Rachel Chinouriri – I Think I Spoke Too Soon",
+        "link": "https://www.musicomh.com/reviews/albums/rachel-chinouriri-i-think-i-spoke-too-soon",
+        "published": "2026-10-16T15:26:54+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Arborist",
+    "title": "Looking For Love",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Arborist – Looking For Love",
+        "link": "https://www.musicomh.com/reviews/albums/arborist-looking-for-love",
+        "published": "2026-10-16T13:51:43+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Two Shell",
+    "title": "Infinite Now",
+    "type": "album",
+    "genre": "Electronic / Dance",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Two Shell – Infinite Now",
+        "link": "https://www.musicomh.com/reviews/albums/two-shell-infinite-now",
+        "published": "2026-10-16T07:31:11+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Eels",
+    "title": "Cookie Happened",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Eels – Cookie Happened",
+        "link": "https://www.musicomh.com/reviews/albums/eels-cookie-happened",
+        "published": "2026-10-16T07:01:35+00:00"
       }
     ]
   }

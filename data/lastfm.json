@@ -9103,5 +9103,1030 @@
    }
   ],
   "checked": "2026-11-01T10:10:52.064186+00:00"
+ },
+ "yello": {
+  "similar": [
+   {
+    "name": "Boris Blank",
+    "match": 1.0
+   },
+   {
+    "name": "Art of Noise",
+    "match": 0.411825
+   },
+   {
+    "name": "Yosi Horikawa",
+    "match": 0.335879
+   },
+   {
+    "name": "Propaganda",
+    "match": 0.314017
+   },
+   {
+    "name": "Jean Michel Jarre",
+    "match": 0.293421
+   },
+   {
+    "name": "Blancmange",
+    "match": 0.292675
+   },
+   {
+    "name": "Frankie Goes to Hollywood",
+    "match": 0.26365
+   },
+   {
+    "name": "Orchestral Manoeuvres in the Dark",
+    "match": 0.249088
+   },
+   {
+    "name": "Thompson Twins",
+    "match": 0.244282
+   },
+   {
+    "name": "Ultravox",
+    "match": 0.240373
+   },
+   {
+    "name": "Thomas Dolby",
+    "match": 0.23895
+   },
+   {
+    "name": "Bryan Ferry",
+    "match": 0.238756
+   },
+   {
+    "name": "Laid Back",
+    "match": 0.227681
+   },
+   {
+    "name": "Heaven 17",
+    "match": 0.221033
+   },
+   {
+    "name": "Howard Jones",
+    "match": 0.215571
+   },
+   {
+    "name": "The Human League",
+    "match": 0.213448
+   },
+   {
+    "name": "Telex",
+    "match": 0.212669
+   },
+   {
+    "name": "ABC",
+    "match": 0.211488
+   },
+   {
+    "name": "John Foxx",
+    "match": 0.208378
+   },
+   {
+    "name": "Yazoo",
+    "match": 0.208229
+   },
+   {
+    "name": "Eurythmics",
+    "match": 0.208028
+   },
+   {
+    "name": "Visage",
+    "match": 0.207114
+   },
+   {
+    "name": "Camouflage",
+    "match": 0.204731
+   },
+   {
+    "name": "Simple Minds",
+    "match": 0.204297
+   },
+   {
+    "name": "Alphaville",
+    "match": 0.195131
+   },
+   {
+    "name": "Pet Shop Boys",
+    "match": 0.190567
+   },
+   {
+    "name": "China Crisis",
+    "match": 0.189237
+   },
+   {
+    "name": "Erasure",
+    "match": 0.189163
+   },
+   {
+    "name": "Soft Cell",
+    "match": 0.188469
+   },
+   {
+    "name": "Flash and the Pan",
+    "match": 0.180683
+   },
+   {
+    "name": "Bronski Beat",
+    "match": 0.178952
+   },
+   {
+    "name": "Anne Clark",
+    "match": 0.177842
+   },
+   {
+    "name": "Sandra",
+    "match": 0.176846
+   },
+   {
+    "name": "Kraftwerk",
+    "match": 0.173726
+   },
+   {
+    "name": "Faithless",
+    "match": 0.171677
+   },
+   {
+    "name": "Depeche Mode",
+    "match": 0.170495
+   },
+   {
+    "name": "Electronic",
+    "match": 0.167682
+   },
+   {
+    "name": "Icehouse",
+    "match": 0.166945
+   },
+   {
+    "name": "Space",
+    "match": 0.165948
+   },
+   {
+    "name": "A Flock of Seagulls",
+    "match": 0.161084
+   },
+   {
+    "name": "Sparks",
+    "match": 0.157334
+   },
+   {
+    "name": "Trentemøller",
+    "match": 0.151642
+   },
+   {
+    "name": "a-ha",
+    "match": 0.151055
+   },
+   {
+    "name": "Fine Young Cannibals",
+    "match": 0.14878
+   },
+   {
+    "name": "The Shamen",
+    "match": 0.148419
+   },
+   {
+    "name": "Fad Gadget",
+    "match": 0.146615
+   },
+   {
+    "name": "Talk Talk",
+    "match": 0.140548
+   },
+   {
+    "name": "The KLF",
+    "match": 0.138979
+   },
+   {
+    "name": "Gary Numan",
+    "match": 0.137212
+   },
+   {
+    "name": "Culture Club",
+    "match": 0.137136
+   }
+  ],
+  "checked": "2026-11-01T11:00:35.820738+00:00"
+ },
+ "clinic": {
+  "similar": [
+   {
+    "name": "The Beta Band",
+    "match": 1.0
+   },
+   {
+    "name": "Liars",
+    "match": 0.898191
+   },
+   {
+    "name": "Suuns",
+    "match": 0.785971
+   },
+   {
+    "name": "Crystal Stilts",
+    "match": 0.751183
+   },
+   {
+    "name": "The Fiery Furnaces",
+    "match": 0.692033
+   },
+   {
+    "name": "Electrelane",
+    "match": 0.643274
+   },
+   {
+    "name": "Super Furry Animals",
+    "match": 0.605114
+   },
+   {
+    "name": "Wild Beasts",
+    "match": 0.599639
+   },
+   {
+    "name": "The Walkmen",
+    "match": 0.585646
+   },
+   {
+    "name": "The Wedding Present",
+    "match": 0.582573
+   },
+   {
+    "name": "Les Savy Fav",
+    "match": 0.581309
+   },
+   {
+    "name": "Gruff Rhys",
+    "match": 0.533477
+   },
+   {
+    "name": "No Age",
+    "match": 0.527786
+   },
+   {
+    "name": "Julian Cope",
+    "match": 0.50313
+   },
+   {
+    "name": "The Futureheads",
+    "match": 0.500509
+   },
+   {
+    "name": "Mission of Burma",
+    "match": 0.492277
+   },
+   {
+    "name": "Gomez",
+    "match": 0.475283
+   },
+   {
+    "name": "Grandaddy",
+    "match": 0.470799
+   },
+   {
+    "name": "Deerhunter",
+    "match": 0.469199
+   },
+   {
+    "name": "Badly Drawn Boy",
+    "match": 0.465099
+   },
+   {
+    "name": "The Rapture",
+    "match": 0.464605
+   },
+   {
+    "name": "Exploded View",
+    "match": 0.463406
+   },
+   {
+    "name": "The Clean",
+    "match": 0.45646
+   },
+   {
+    "name": "Mercury Rev",
+    "match": 0.453322
+   },
+   {
+    "name": "The Delgados",
+    "match": 0.445133
+   },
+   {
+    "name": "Autolux",
+    "match": 0.444939
+   },
+   {
+    "name": "The Feelies",
+    "match": 0.444247
+   },
+   {
+    "name": "Thurston Moore",
+    "match": 0.441251
+   },
+   {
+    "name": "The Fall",
+    "match": 0.437346
+   },
+   {
+    "name": "Parquet Courts",
+    "match": 0.434492
+   },
+   {
+    "name": "Superchunk",
+    "match": 0.428683
+   },
+   {
+    "name": "The Raveonettes",
+    "match": 0.423395
+   },
+   {
+    "name": "fIREHOSE",
+    "match": 0.420273
+   },
+   {
+    "name": "Atlas Sound",
+    "match": 0.417694
+   },
+   {
+    "name": "Deerhoof",
+    "match": 0.414505
+   },
+   {
+    "name": "These New Puritans",
+    "match": 0.410892
+   },
+   {
+    "name": "Swell Maps",
+    "match": 0.409972
+   },
+   {
+    "name": "Camper Van Beethoven",
+    "match": 0.40659
+   },
+   {
+    "name": "The Good, the Bad & the Queen",
+    "match": 0.40226
+   },
+   {
+    "name": "Menomena",
+    "match": 0.401621
+   },
+   {
+    "name": "Life Without Buildings",
+    "match": 0.400322
+   },
+   {
+    "name": "Lower Dens",
+    "match": 0.399493
+   },
+   {
+    "name": "Oneida",
+    "match": 0.398399
+   },
+   {
+    "name": "Love and Rockets",
+    "match": 0.398326
+   },
+   {
+    "name": "Stephen Malkmus",
+    "match": 0.39821
+   },
+   {
+    "name": "Secret Machines",
+    "match": 0.397286
+   },
+   {
+    "name": "The Coral",
+    "match": 0.396023
+   },
+   {
+    "name": "Art Brut",
+    "match": 0.38935
+   },
+   {
+    "name": "Stephen Malkmus and the Jicks",
+    "match": 0.389207
+   },
+   {
+    "name": "Young Marble Giants",
+    "match": 0.388762
+   }
+  ],
+  "checked": "2026-11-01T11:00:36.387282+00:00"
+ },
+ "piss": {
+  "similar": [
+   {
+    "name": "Cowboy Hunters",
+    "match": 1.0
+   },
+   {
+    "name": "Soul Glo",
+    "match": 0.726168
+   },
+   {
+    "name": "Gouge Away",
+    "match": 0.648959
+   },
+   {
+    "name": "G.L.O.S.S.",
+    "match": 0.645197
+   },
+   {
+    "name": "Show Me the Body",
+    "match": 0.615584
+   },
+   {
+    "name": "Initiate",
+    "match": 0.564927
+   },
+   {
+    "name": "Iceage",
+    "match": 0.522115
+   },
+   {
+    "name": "Pissed Jeans",
+    "match": 0.489857
+   },
+   {
+    "name": "Black Eyes",
+    "match": 0.48708
+   },
+   {
+    "name": "Fucked Up",
+    "match": 0.486839
+   },
+   {
+    "name": "Slut Intent",
+    "match": 0.474013
+   },
+   {
+    "name": "Cerce",
+    "match": 0.45739
+   },
+   {
+    "name": "War on Women",
+    "match": 0.4468
+   },
+   {
+    "name": "Ceremony",
+    "match": 0.434255
+   },
+   {
+    "name": "Haywire 617",
+    "match": 0.433787
+   },
+   {
+    "name": "Couch Slut",
+    "match": 0.413779
+   },
+   {
+    "name": "Gel",
+    "match": 0.399742
+   },
+   {
+    "name": "RATSALAD.",
+    "match": 0.397083
+   },
+   {
+    "name": "Minor Threat",
+    "match": 0.397033
+   },
+   {
+    "name": "Petrol Girls",
+    "match": 0.392416
+   },
+   {
+    "name": "Scowl",
+    "match": 0.385582
+   },
+   {
+    "name": "Turnstile",
+    "match": 0.38506
+   },
+   {
+    "name": "OFF!",
+    "match": 0.378844
+   },
+   {
+    "name": "Negative Approach",
+    "match": 0.377716
+   },
+   {
+    "name": "Taqbir",
+    "match": 0.35661
+   },
+   {
+    "name": "Angel Du$t",
+    "match": 0.35428
+   },
+   {
+    "name": "Punitive Damage",
+    "match": 0.342332
+   },
+   {
+    "name": "Black Flag",
+    "match": 0.340474
+   },
+   {
+    "name": "Faze",
+    "match": 0.332983
+   },
+   {
+    "name": "XCOMM",
+    "match": 0.33247
+   },
+   {
+    "name": "Niis",
+    "match": 0.322543
+   },
+   {
+    "name": "Drug Church",
+    "match": 0.322376
+   },
+   {
+    "name": "Lord Snow",
+    "match": 0.3221
+   },
+   {
+    "name": "Dead Kennedys",
+    "match": 0.320804
+   },
+   {
+    "name": "Shooting Daggers",
+    "match": 0.312506
+   },
+   {
+    "name": "Deaf Club",
+    "match": 0.312417
+   },
+   {
+    "name": "Bad Brains",
+    "match": 0.309622
+   },
+   {
+    "name": "End It",
+    "match": 0.302762
+   },
+   {
+    "name": "Commitment",
+    "match": 0.302678
+   },
+   {
+    "name": "Refused",
+    "match": 0.297692
+   },
+   {
+    "name": "Hüsker Dü",
+    "match": 0.296374
+   },
+   {
+    "name": "Mannequin Pussy",
+    "match": 0.288773
+   },
+   {
+    "name": "Otoboke Beaver",
+    "match": 0.282857
+   },
+   {
+    "name": "Single Mothers",
+    "match": 0.280303
+   },
+   {
+    "name": "Spy",
+    "match": 0.27457
+   },
+   {
+    "name": "Intercourse",
+    "match": 0.271101
+   },
+   {
+    "name": "Stress Positions",
+    "match": 0.260813
+   },
+   {
+    "name": "Gulch",
+    "match": 0.250868
+   },
+   {
+    "name": "Perfect Pussy",
+    "match": 0.25071
+   },
+   {
+    "name": "The Jesus Lizard",
+    "match": 0.250233
+   }
+  ],
+  "checked": "2026-11-01T11:00:36.892576+00:00"
+ },
+ "bigmoon": {
+  "similar": [
+   {
+    "name": "Wolf Alice",
+    "match": 1.0
+   },
+   {
+    "name": "Marika Hackman",
+    "match": 0.843097
+   },
+   {
+    "name": "Black Honey",
+    "match": 0.814363
+   },
+   {
+    "name": "Mystery Jets",
+    "match": 0.810886
+   },
+   {
+    "name": "Bombay Bicycle Club",
+    "match": 0.746106
+   },
+   {
+    "name": "The Maccabees",
+    "match": 0.730592
+   },
+   {
+    "name": "Circa Waves",
+    "match": 0.727065
+   },
+   {
+    "name": "Sunflower Bean",
+    "match": 0.711807
+   },
+   {
+    "name": "Dream Wife",
+    "match": 0.618426
+   },
+   {
+    "name": "Prima Queen",
+    "match": 0.565563
+   },
+   {
+    "name": "The Lathums",
+    "match": 0.547945
+   },
+   {
+    "name": "Blossoms",
+    "match": 0.538572
+   },
+   {
+    "name": "Coach Party",
+    "match": 0.536858
+   },
+   {
+    "name": "Lime Garden",
+    "match": 0.535598
+   },
+   {
+    "name": "Gengahr",
+    "match": 0.52563
+   },
+   {
+    "name": "The Joy Formidable",
+    "match": 0.513867
+   },
+   {
+    "name": "Blood Red Shoes",
+    "match": 0.507535
+   },
+   {
+    "name": "Honeyblood",
+    "match": 0.502962
+   },
+   {
+    "name": "Sundara Karma",
+    "match": 0.502753
+   },
+   {
+    "name": "The Vaccines",
+    "match": 0.490133
+   },
+   {
+    "name": "Sea Girls",
+    "match": 0.489981
+   },
+   {
+    "name": "Porridge Radio",
+    "match": 0.485674
+   },
+   {
+    "name": "Maxïmo Park",
+    "match": 0.485476
+   },
+   {
+    "name": "White Lies",
+    "match": 0.480066
+   },
+   {
+    "name": "Spector",
+    "match": 0.473744
+   },
+   {
+    "name": "Pip Blom",
+    "match": 0.470881
+   },
+   {
+    "name": "The Wombats",
+    "match": 0.470193
+   },
+   {
+    "name": "The Courteeners",
+    "match": 0.46977
+   },
+   {
+    "name": "Charly Bliss",
+    "match": 0.468377
+   },
+   {
+    "name": "Jamie T",
+    "match": 0.46407
+   },
+   {
+    "name": "Johnny Marr",
+    "match": 0.459399
+   },
+   {
+    "name": "We Are Scientists",
+    "match": 0.456677
+   },
+   {
+    "name": "Our Girl",
+    "match": 0.455969
+   },
+   {
+    "name": "The Cribs",
+    "match": 0.444903
+   },
+   {
+    "name": "Sports Team",
+    "match": 0.435496
+   },
+   {
+    "name": "Miles Kane",
+    "match": 0.434985
+   },
+   {
+    "name": "Babyshambles",
+    "match": 0.432909
+   },
+   {
+    "name": "Adult DVD",
+    "match": 0.430696
+   },
+   {
+    "name": "Foals",
+    "match": 0.429377
+   },
+   {
+    "name": "The Futureheads",
+    "match": 0.424565
+   },
+   {
+    "name": "Elbow",
+    "match": 0.421632
+   },
+   {
+    "name": "Peace",
+    "match": 0.419154
+   },
+   {
+    "name": "Idlewild",
+    "match": 0.41666
+   },
+   {
+    "name": "The Rakes",
+    "match": 0.416057
+   },
+   {
+    "name": "Ezra Furman",
+    "match": 0.411395
+   },
+   {
+    "name": "Nadine Shah",
+    "match": 0.405201
+   },
+   {
+    "name": "The Coral",
+    "match": 0.399157
+   },
+   {
+    "name": "Editors",
+    "match": 0.397594
+   },
+   {
+    "name": "Hard-Fi",
+    "match": 0.397008
+   },
+   {
+    "name": "Everything Everything",
+    "match": 0.396329
+   }
+  ],
+  "checked": "2026-11-01T11:00:37.305565+00:00"
+ },
+ "disgustingsisters": {
+  "similar": [
+   {
+    "name": "Chalk",
+    "match": 1.0
+   },
+   {
+    "name": "Cusk",
+    "match": 0.947316
+   },
+   {
+    "name": "Adult DVD",
+    "match": 0.846371
+   },
+   {
+    "name": "Coach Party",
+    "match": 0.782234
+   },
+   {
+    "name": "Man/Woman/Chainsaw",
+    "match": 0.672021
+   },
+   {
+    "name": "Modern Woman",
+    "match": 0.597909
+   },
+   {
+    "name": "La Sécurité",
+    "match": 0.494807
+   },
+   {
+    "name": "Grandmas House",
+    "match": 0.450931
+   },
+   {
+    "name": "Opus Kink",
+    "match": 0.447061
+   },
+   {
+    "name": "Lime Garden",
+    "match": 0.423026
+   },
+   {
+    "name": "Yard Act",
+    "match": 0.415991
+   },
+   {
+    "name": "RIP Magic",
+    "match": 0.396332
+   },
+   {
+    "name": "Bodega",
+    "match": 0.37688
+   },
+   {
+    "name": "Home Counties",
+    "match": 0.347311
+   },
+   {
+    "name": "Sprints",
+    "match": 0.346238
+   },
+   {
+    "name": "ugly ozo",
+    "match": 0.343627
+   },
+   {
+    "name": "Personal Trainer",
+    "match": 0.335021
+   },
+   {
+    "name": "mary in the junkyard",
+    "match": 0.332883
+   },
+   {
+    "name": "Panic Shack",
+    "match": 0.292918
+   },
+   {
+    "name": "Sex Mask",
+    "match": 0.286229
+   },
+   {
+    "name": "Big Special",
+    "match": 0.284202
+   },
+   {
+    "name": "LEMONSUCKR",
+    "match": 0.284061
+   },
+   {
+    "name": "Why Horses?",
+    "match": 0.2811
+   },
+   {
+    "name": "Slow Fiction",
+    "match": 0.27129
+   },
+   {
+    "name": "Fat Dog",
+    "match": 0.262991
+   },
+   {
+    "name": "Swapmeet",
+    "match": 0.255556
+   },
+   {
+    "name": "Sweeping Promises",
+    "match": 0.253891
+   },
+   {
+    "name": "Porridge Radio",
+    "match": 0.253541
+   },
+   {
+    "name": "Formal Sppeedwear",
+    "match": 0.25215
+   },
+   {
+    "name": "Silver Gore",
+    "match": 0.244137
+   },
+   {
+    "name": "My First Time",
+    "match": 0.239741
+   },
+   {
+    "name": "English Teacher",
+    "match": 0.234197
+   },
+   {
+    "name": "Mould",
+    "match": 0.227094
+   },
+   {
+    "name": "Do Nothing",
+    "match": 0.226745
+   },
+   {
+    "name": "Sports Team",
+    "match": 0.22606
+   },
+   {
+    "name": "Courting",
+    "match": 0.220327
+   },
+   {
+    "name": "Deadletter",
+    "match": 0.219225
+   },
+   {
+    "name": "Girl Group",
+    "match": 0.21198
+   },
+   {
+    "name": "Wet Leg",
+    "match": 0.210784
+   },
+   {
+    "name": "Cola",
+    "match": 0.206691
+   },
+   {
+    "name": "Library Card",
+    "match": 0.205161
+   },
+   {
+    "name": "Gurriers",
+    "match": 0.204527
+   },
+   {
+    "name": "Gen and The Degenerates",
+    "match": 0.204431
+   },
+   {
+    "name": "The Orielles",
+    "match": 0.203642
+   },
+   {
+    "name": "Ugly (UK)",
+    "match": 0.201218
+   },
+   {
+    "name": "Goat Girl",
+    "match": 0.195268
+   },
+   {
+    "name": "Cowboyy",
+    "match": 0.184125
+   },
+   {
+    "name": "TV Priest",
+    "match": 0.18045
+   },
+   {
+    "name": "Picture Parlour",
+    "match": 0.180121
+   },
+   {
+    "name": "Fontaines D.C.",
+    "match": 0.179427
+   }
+  ],
+  "checked": "2026-11-01T11:00:37.793705+00:00"
  }
 }

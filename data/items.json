@@ -1,5 +1,21 @@
 [
   {
+    "id": "92d27897aaf3c1c1",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Turnstile turned down the chance to tour with Metallica",
+    "link": "https://www.nme.com/news/music/turnstile-turned-down-the-chance-to-tour-with-metallica-3974749?utm_source=rss&utm_medium=rss&utm_campaign=turnstile-turned-down-the-chance-to-tour-with-metallica",
+    "summary": "James Hetfield has praised the Baltimore hardcore band, urging fans to catch their live show The post Turnstile turned down the chance to tour with Metallica appeared first on NME .",
+    "categories": [
+      "Music News",
+      "News",
+      "Metal"
+    ],
+    "published": "2026-11-01T10:31:13+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
     "id": "251f42309d2f6c69",
     "source": "Billboard",
     "source_type": "news",
@@ -826,6 +842,23 @@
     "collected": "2026-10-31T02:35:28.792164+00:00"
   },
   {
+    "id": "49ae5b05934ca9d4",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "GloRilla, Boyfriend Dress Up Like Ciara, Bow Wow for Halloween",
+    "link": "https://www.xxlmag.com/glorilla-brandon-ingram-ciara-bow-wow-like-you-halloween-costume/",
+    "summary": "glorillapimp/Instagram/Bow Wow/YouTube",
+    "categories": [
+      "News",
+      "Bow Wow",
+      "Ciara",
+      "GloRilla"
+    ],
+    "published": "2026-10-31T00:17:05+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
     "id": "a16dedfe5e498cea",
     "source": "Rolling Stone (music)",
     "source_type": "news",
@@ -841,6 +874,64 @@
     ],
     "published": "2026-10-30T23:04:53+00:00",
     "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "b3234eea32268f97",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "48 Hip-Hop-Inspired Jeopardy! Clues Featuring Rappers",
+    "link": "https://www.xxlmag.com/hip-hop-jeopardy-clues/",
+    "summary": "Theo Wargo/Getty Images for The Rock and Roll Hall of Fame/Daniel Boczarski/Getty Images for iHeartRadio/Mark Blinch/Getty Images/Amanda Edwards/Getty Images",
+    "categories": [
+      "News",
+      "50 Cent",
+      "A$AP Rocky",
+      "Beastie Boys",
+      "Biggie",
+      "biggie smalls",
+      "Cam'ron",
+      "Chance The Rapper",
+      "Chuck D",
+      "Coolio",
+      "cypress hill",
+      "Desiigner",
+      "Dr. Dre",
+      "Drake",
+      "Eminem",
+      "Fat Joe",
+      "Feature",
+      "Fetty Wap",
+      "Frank Ocean",
+      "Future",
+      "Galleries",
+      "Gallery",
+      "Grandmaster Flash",
+      "Ice Spice",
+      "Ice-T",
+      "Iggy Azalea",
+      "ILoveMakonnen",
+      "Jay-Z",
+      "Jeopardy",
+      "JID",
+      "Kendrick Lamar",
+      "Lil Wayne",
+      "Lupe Fiasco",
+      "Maxo Kream",
+      "MC Hammer",
+      "Megan Thee Stallion",
+      "Nicki Minaj",
+      "notorious b.i.g",
+      "Organized Noize",
+      "Public Enemy",
+      "Shock G",
+      "Snoop Dogg",
+      "Sonny Digital",
+      "T-Pain",
+      "The Beastie Boys"
+    ],
+    "published": "2026-10-30T22:11:22+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
   },
   {
     "id": "5b524136d496f49e",
@@ -875,6 +966,21 @@
     ],
     "published": "2026-10-30T21:17:56+00:00",
     "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "260aeebcc1fac230",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Joe Budden Makes a Surprise Appearance as a Rapper on Law & Order",
+    "link": "https://www.xxlmag.com/joe-budden-cameo-appearance-law-order/",
+    "summary": "big_business_/X (2)",
+    "categories": [
+      "News",
+      "Joe Budden"
+    ],
+    "published": "2026-10-30T21:14:18+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
   },
   {
     "id": "f25432c17b737881",
@@ -927,6 +1033,37 @@
     ],
     "published": "2026-10-30T21:03:48+00:00",
     "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "2652a9cbcdd733c3",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Takeoff's Estate Claims His Rape Accuser Deleted Texts - Report",
+    "link": "https://www.xxlmag.com/takeoff-rape-accuser-deleted-texts/",
+    "summary": "Rich Fury/Getty Images for Global Citizen",
+    "categories": [
+      "News",
+      "Migos",
+      "Takeoff"
+    ],
+    "published": "2026-10-30T20:03:11+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
+    "id": "28b0b1ff9d8c5899",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Rocket Williams, Pharrell's 17-Year-Old Son, Previews Some Beats",
+    "link": "https://www.xxlmag.com/pharrell-son-rocket-williams-producer/",
+    "summary": "rocketwilliams/Instagram/Claudio Lavenia/Getty Images",
+    "categories": [
+      "News",
+      "Pharrell"
+    ],
+    "published": "2026-10-30T19:47:09+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
   },
   {
     "id": "b0a0b47ef7ac3bb4",
@@ -1057,6 +1194,21 @@
     "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
+    "id": "1d7cd32c7ab5cc35",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Lil Baby Insists He Never Fell Off",
+    "link": "https://www.xxlmag.com/lil-baby-fall-off-atlanta-rappers-issues/",
+    "summary": "Popcast/YouTube",
+    "categories": [
+      "News",
+      "Lil Baby"
+    ],
+    "published": "2026-10-30T18:32:54+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
     "id": "7dc756596526bdb4",
     "source": "Consequence",
     "source_type": "news",
@@ -1170,6 +1322,21 @@
     ],
     "published": "2026-10-30T17:58:46+00:00",
     "collected": "2026-10-31T02:35:28.792164+00:00"
+  },
+  {
+    "id": "050cb97c99ea3681",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Rick Ross' Felony Battery Charge Dropped in DV Case",
+    "link": "https://www.xxlmag.com/rick-ross-felony-battery-charge-dropped/",
+    "summary": "Ayisha Collins/Getty Images",
+    "categories": [
+      "News",
+      "Rick Ross"
+    ],
+    "published": "2026-10-30T17:58:09+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
   },
   {
     "id": "dbd95ffafee3c279",
@@ -1352,6 +1519,22 @@
     ],
     "published": "2026-10-30T16:02:12+00:00",
     "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "7805b82db62a5435",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Drake to Receive Biggest Record Deal of All Time, Says Akademiks",
+    "link": "https://www.xxlmag.com/drake-biggest-record-deal-all-time/",
+    "summary": "XNY/Star Max/GC Images/One Night With Steiny/YouTube",
+    "categories": [
+      "News",
+      "DJ Akademiks",
+      "Drake"
+    ],
+    "published": "2026-10-30T15:36:38+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
   },
   {
     "id": "7d34f8642f66ee72",
@@ -1724,6 +1907,53 @@
     "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
+    "id": "7aa86fb03f2d6f26",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Yello – Time Lab",
+    "link": "https://www.musicomh.com/reviews/albums/yello-time-lab",
+    "summary": "Dieter Meier and Boris Blank are back in imperious, impish form and doing what they do best. It is hugely enjoyable to witness The post Yello – Time Lab appeared first on musicOMH .",
+    "categories": [
+      "Album Reviews",
+      "Heidi Happy",
+      "Malia",
+      "Yello"
+    ],
+    "published": "2026-10-30T08:31:24+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
+    "id": "b9665e13f4501ecc",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "PISS – You Made Me/Skin On Linen",
+    "link": "https://www.musicomh.com/reviews/albums/piss-you-made-me-skin-on-linen",
+    "summary": "This cathartic scream of unflinching feminist rage might be the most thrilling, challenging and important album to be released this year The post PISS – You Made Me/Skin On Linen appeared first on musicOMH .",
+    "categories": [
+      "Album Reviews",
+      "PISS"
+    ],
+    "published": "2026-10-30T07:31:20+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
+    "id": "d4e63a94e3969314",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Shabazz Palaces – It’s A Style Sport",
+    "link": "https://www.musicomh.com/reviews/albums/shabazz-palaces-its-a-style-sport",
+    "summary": "Ishmael Butler delivers a mixture of swampy arrangements, surreal vocal production and vintage braggadocio feels distinctive, coherent, and fun The post Shabazz Palaces – It’s A Style Sport appeared first on musicOMH .",
+    "categories": [
+      "Album Reviews",
+      "shabazz palaces"
+    ],
+    "published": "2026-10-30T07:01:16+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
     "id": "3a2b667903282c62",
     "source": "Pitchfork (album reviews)",
     "source_type": "reviews",
@@ -1826,6 +2056,22 @@
     "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
+    "id": "c470da54c30a513e",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Yella Beezy's Friend Refuses to Testify in Rapper's Murder Trial",
+    "link": "https://www.xxlmag.com/yella-beezy-friend-pleads-the-fifth-murder-trial/",
+    "summary": "Law&Crime Trials/FOX 4 Dallas-Fort Worth/YouTube (2)",
+    "categories": [
+      "News",
+      "Mo3",
+      "Yella Beezy"
+    ],
+    "published": "2026-10-30T00:20:44+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
     "id": "b27bca5e66fa33ac",
     "source": "The Needle Drop (YouTube)",
     "source_type": "video",
@@ -1866,6 +2112,69 @@
     ],
     "published": "2026-10-29T22:03:08+00:00",
     "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "1da3f250654f31e5",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Maino Dresses Up as Rick Ross for Halloween in Hilarious Video",
+    "link": "https://www.xxlmag.com/maino-rick-ross-halloween-video/",
+    "summary": "XXL/Instagram/Atlanta News First",
+    "categories": [
+      "News",
+      "Maino",
+      "Rick Ross"
+    ],
+    "published": "2026-10-29T20:29:48+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
+    "id": "3f737e620aed32d8",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "BigXthaPlug Says He Made $1 Million Off Streams Last Quarter",
+    "link": "https://www.xxlmag.com/bigxthaplug-1-million-dollars-streaming/",
+    "summary": "Club Shay Shay/YouTube",
+    "categories": [
+      "News",
+      "BigXthaPlug"
+    ],
+    "published": "2026-10-29T19:48:55+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
+    "id": "4692242c1e660150",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "North West's Halloween Costumes as Edward Scissorhands & More",
+    "link": "https://www.xxlmag.com/north-west-2026-halloween-costumes/",
+    "summary": "North West/TikTok",
+    "categories": [
+      "News",
+      "Kanye West",
+      "Kim Kardashian",
+      "North West"
+    ],
+    "published": "2026-10-29T19:29:36+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
+    "id": "c7b475441f9c726c",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Drake Dominates the Billboard 200 With 11 Albums on the Chart",
+    "link": "https://www.xxlmag.com/drake-billboard-200-most-albums/",
+    "summary": "Cole Burston/Getty Images/OVO/Republic Records/Cash Money Records",
+    "categories": [
+      "News",
+      "Drake"
+    ],
+    "published": "2026-10-29T18:07:37+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
   },
   {
     "id": "c02b68e6f45fdd0a",
@@ -2008,6 +2317,22 @@
     "collected": "2026-10-30T02:35:04.244538+00:00"
   },
   {
+    "id": "6d62a64975a7eae5",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "J. Cole Reflects on Backing Out of Kendrick Lamar Battle",
+    "link": "https://www.xxlmag.com/j-cole-reflects-kendrick-lamar-beef/",
+    "summary": "GQ/YouTube/GQ/YouTube(2)/Emma McIntyre/Getty Images for The Recording Academy",
+    "categories": [
+      "News",
+      "J. Cole",
+      "Kendrick Lamar"
+    ],
+    "published": "2026-10-29T16:36:10+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
     "id": "b7e157128dc1ee86",
     "source": "The Needle Drop (website)",
     "source_type": "reviews",
@@ -2102,6 +2427,21 @@
     ],
     "published": "2026-10-29T16:03:18+00:00",
     "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "5811ec2c1e0db22f",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Nicki Minaj Calls New York Governor Kathy Hochul an ‘Evil Woman'",
+    "link": "https://www.xxlmag.com/nicki-minaj-kathy-hochul-diss/",
+    "summary": "Alex Wong/Getty Images/Anna Connors - Pool/Getty Images (2)",
+    "categories": [
+      "News",
+      "Nicki Minaj"
+    ],
+    "published": "2026-10-29T15:49:11+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
   },
   {
     "id": "a1e6df2e8973591b",
@@ -2239,6 +2579,21 @@
     "collected": "2026-10-30T02:35:04.244538+00:00"
   },
   {
+    "id": "2ce58a40e108aef1",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Clinic – Wild In The Streets",
+    "link": "https://www.musicomh.com/reviews/albums/clinic-wild-in-the-streets",
+    "summary": "Hitting the sweet spot between charm and psychedelia, these Halloween-ready tunes will make you dance with a wary look over your shoulder The post Clinic – Wild In The Streets appeared first on musicOMH .",
+    "categories": [
+      "Album Reviews",
+      "Clinic"
+    ],
+    "published": "2026-10-29T13:01:22+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
     "id": "f4148183887b93b8",
     "source": "Stereogum",
     "source_type": "news",
@@ -2290,6 +2645,21 @@
     ],
     "published": "2026-10-29T11:41:15+00:00",
     "collected": "2026-10-30T02:35:04.244538+00:00"
+  },
+  {
+    "id": "542f241bc784f1d7",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "The Big Moon – Forever",
+    "link": "https://www.musicomh.com/reviews/albums/the-big-moon-forever",
+    "summary": "The follow-up to 2022's Here Is Everything concentrates on enjoying itself while delivering a comforting hug in uncertain times The post The Big Moon – Forever appeared first on musicOMH .",
+    "categories": [
+      "Album Reviews",
+      "The Big Moon"
+    ],
+    "published": "2026-10-29T08:01:43+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
   },
   {
     "id": "b81766cdd721033e",
@@ -2424,6 +2794,22 @@
     "collected": "2026-10-29T02:36:46.989116+00:00"
   },
   {
+    "id": "b77ff849406c4b80",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "J. Cole Confirms He's Not Retiring, Reflects on Jay-Z Pressure",
+    "link": "https://www.xxlmag.com/j-cole-retirement-jay-z-pressure-gq-interview/",
+    "summary": "GQ/YouTube/BG048/Bauer-Griffin/GC Images",
+    "categories": [
+      "News",
+      "J. Cole",
+      "Jay-Z"
+    ],
+    "published": "2026-10-28T19:46:32+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
     "id": "5b8974d297bd3610",
     "source": "The Needle Drop (website)",
     "source_type": "reviews",
@@ -2469,6 +2855,21 @@
     ],
     "published": "2026-10-28T19:24:18+00:00",
     "collected": "2026-10-29T02:36:46.989116+00:00"
+  },
+  {
+    "id": "115bcfee19575e76",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Rod Wave Signs Basketball Phenom Abdou Toure to His Sports Agency",
+    "link": "https://www.xxlmag.com/rod-wave-abdou-toure-basketball-razorbacks/",
+    "summary": "Paras Griffin/Getty Images/Arkansas Razorbacks/YouTube",
+    "categories": [
+      "News",
+      "Rod Wave"
+    ],
+    "published": "2026-10-28T19:05:50+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
   },
   {
     "id": "843f252a30c5d5bf",
@@ -2658,6 +3059,21 @@
     "collected": "2026-10-29T02:36:46.989116+00:00"
   },
   {
+    "id": "c6bc5abd95d7c5d5",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Pooh Shiesty Denies Rumor That Several Women Are Pregnant by Him",
+    "link": "https://www.xxlmag.com/pooh-shiesty-women-pregnant-by-him-rumor/",
+    "summary": "XXL/YouTube/Rahmat Hidayat/iStock/Getty Images",
+    "categories": [
+      "News",
+      "Pooh Shiesty"
+    ],
+    "published": "2026-10-28T17:07:41+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
     "id": "f27639ca001f3ca5",
     "source": "The Needle Drop (website)",
     "source_type": "reviews",
@@ -2811,6 +3227,39 @@
     "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
+    "id": "c35e7cc8f19688a8",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Jaÿ-Z Feels No Pressure Headlining 2027 Super Bowl Halftime Show",
+    "link": "https://www.xxlmag.com/jay-z-no-pressure-2027-super-bowl-halftime-show/",
+    "summary": "TMZ/X/nfl/Instagram",
+    "categories": [
+      "News",
+      "Jay-Z",
+      "Super Bowl"
+    ],
+    "published": "2026-10-28T15:34:17+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
+    "id": "ca0c942ae31a112d",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "50 Cent Files $6 Million Lawsuit Against Rick Ross' Ex Tia Kemp",
+    "link": "https://www.xxlmag.com/50-cent-libel-lawsuit-tia-kemp/",
+    "summary": "Bryan Bedder/Getty Images for Paramount Pictures/NStyleAtlanta/YouTube",
+    "categories": [
+      "News",
+      "50 Cent",
+      "Rick Ross",
+      "Tia Kemp"
+    ],
+    "published": "2026-10-28T15:28:40+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
     "id": "10b4147e0ace4f00",
     "source": "Pitchfork (news)",
     "source_type": "news",
@@ -2824,6 +3273,23 @@
     ],
     "published": "2026-10-28T15:25:23+00:00",
     "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "1b6866216e2b85ef",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Jaÿ-Z, J. Cole & Lul Pab’s Mom Write Letters to Lil Durk's Judge",
+    "link": "https://www.xxlmag.com/jay-z-j-cole-lul-pab-mom-letters-lil-durk-bond/",
+    "summary": "BG048/Bauer-Griffin/Michael Loccisano/ Prince Williams/Getty Images (3)",
+    "categories": [
+      "News",
+      "J. Cole",
+      "Jay-Z",
+      "Lil Durk"
+    ],
+    "published": "2026-10-28T15:19:53+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
   },
   {
     "id": "8200bfdaf611a50d",
@@ -3010,6 +3476,36 @@
     "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
+    "id": "8d849169173452dd",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Queens Of The Stone Age – Perfecth",
+    "link": "https://www.musicomh.com/reviews/albums/queens-of-the-stone-age-perfecth",
+    "summary": "John Homme and co's ninth album marks a move away from their signature blunt riffs and opens the door to a mood far more reflective and wistful The post Queens Of The Stone Age – Perfecth appeared first on musicOMH .",
+    "categories": [
+      "Album Reviews",
+      "Queens Of The Stone Age"
+    ],
+    "published": "2026-10-28T08:31:05+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
+    "id": "5119953498986ed2",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Disgusting Sisters – Skin & Blisters",
+    "link": "https://www.musicomh.com/reviews/albums/disgusting-sisters-skin-blisters",
+    "summary": "The Hopkins sisters' debut is full of sass, humour and energy. Is this sonic sugar rush the missing link between Kate Nash and Billie Eilish? The post Disgusting Sisters – Skin & Blisters appeared first on musicOMH .",
+    "categories": [
+      "Album Reviews",
+      "Disgusting Sisters"
+    ],
+    "published": "2026-10-28T08:01:39+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
     "id": "a33f458e5665e477",
     "source": "Pitchfork (album reviews)",
     "source_type": "reviews",
@@ -3093,6 +3589,36 @@
     "collected": "2026-10-28T10:00:03.726989+00:00"
   },
   {
+    "id": "5e1475be8e1a3f48",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Drake's 'Janice STFU' Copyright Infringement Lawsuit Dismissed",
+    "link": "https://www.xxlmag.com/drake-janice-stfu-copyright-lawsuit-dismissed/",
+    "summary": "drake/YouTube",
+    "categories": [
+      "News",
+      "Drake"
+    ],
+    "published": "2026-10-28T00:08:19+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
+    "id": "d41ffaf9a4c83b49",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Macklemore Launches Free Palestine Tour, Performs New Song",
+    "link": "https://www.xxlmag.com/macklemore-free-palestine-tour-dublin-where-is-our-love/",
+    "summary": "Abigail Coates/YouTube",
+    "categories": [
+      "News",
+      "Macklemore"
+    ],
+    "published": "2026-10-27T22:50:54+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
     "id": "64bf9d8a953e3e88",
     "source": "Stereogum",
     "source_type": "news",
@@ -3159,6 +3685,22 @@
     "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
+    "id": "95b1014e86331215",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Blueface Reunites With Nevaeh and Son After Chrisean Rock Split",
+    "link": "https://www.xxlmag.com/blueface-nevaeh-son-chrisean-rock-split/",
+    "summary": "Blueface/Kick.com",
+    "categories": [
+      "News",
+      "Blueface",
+      "Chrisean Rock"
+    ],
+    "published": "2026-10-27T20:30:00+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
     "id": "a5e1ef347f8bd7ba",
     "source": "Stereogum",
     "source_type": "news",
@@ -3174,6 +3716,22 @@
     ],
     "published": "2026-10-27T20:25:11+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
+  },
+  {
+    "id": "1c04e7a86200666f",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Yella Beezy's Trial for the Murder of Mo3 Begins",
+    "link": "https://www.xxlmag.com/yella-beezy-trial-mo3-murder-begins/",
+    "summary": "WFAA/YouTube/WFAA/YouTube(2)/ Alberto E. Rodriguez/Getty Images for BET",
+    "categories": [
+      "News",
+      "Mo3",
+      "Yella Beezy"
+    ],
+    "published": "2026-10-27T19:18:15+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
   },
   {
     "id": "e67f1fdf9d276716",
@@ -3226,6 +3784,23 @@
     ],
     "published": "2026-10-27T18:48:16+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
+  },
+  {
+    "id": "1a5de691c1758f57",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Looze Cannon Takes Over TikTok With Michael Jackson Freestyle",
+    "link": "https://www.xxlmag.com/looze-cannon-michael-jackson-freestyles-tiktok/",
+    "summary": "The Cobain Report/YouTube/Looze Cannon/YouTube",
+    "categories": [
+      "News",
+      "Cordae",
+      "Michael Jackson",
+      "Timbaland"
+    ],
+    "published": "2026-10-27T18:46:33+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
   },
   {
     "id": "841255302eac77f3",
@@ -3310,6 +3885,24 @@
     ],
     "published": "2026-10-27T17:27:12+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
+  },
+  {
+    "id": "f1a77a7dcb1d64cb",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Future and Travis Scott Didn't Attend Drake's 40th Birthday Party",
+    "link": "https://www.xxlmag.com/future-travis-scott-drake-40th-birthday-party/",
+    "summary": "Swan Gallet/WWD via Getty Images/sharoneva1/Instagram",
+    "categories": [
+      "News",
+      "DJ Akademiks",
+      "Drake",
+      "Future",
+      "Travis $cott"
+    ],
+    "published": "2026-10-27T17:17:48+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
   },
   {
     "id": "714a3f952dde0ae3",
@@ -3425,6 +4018,21 @@
     ],
     "published": "2026-10-27T15:48:49+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
+  },
+  {
+    "id": "f6129aca8fe61dcd",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Jay-Z to Perform at Apple Music Super Bowl LXI Halftime Show",
+    "link": "https://www.xxlmag.com/jay-z-2027-super-bowl-halftime-show/",
+    "summary": "Apple Music/YouTube",
+    "categories": [
+      "News",
+      "Jay-Z"
+    ],
+    "published": "2026-10-27T15:40:30+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
   },
   {
     "id": "2a01e92317f79c27",
@@ -3819,6 +4427,21 @@
     "collected": "2026-11-01T10:09:51.242642+00:00"
   },
   {
+    "id": "d4151726f738286e",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "50 Cent Files Complaint Against Tia Kemp for Harrassment - Report",
+    "link": "https://www.xxlmag.com/50-cent-legal-action-tia-kemp-cyberstalking/",
+    "summary": "Bryan Bedder/Getty Images/yuntietiaback/Instagram",
+    "categories": [
+      "News",
+      "50 Cent"
+    ],
+    "published": "2026-10-27T01:19:57+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
     "id": "f3de2f8d5e89e839",
     "source": "The Needle Drop (YouTube)",
     "source_type": "video",
@@ -3829,6 +4452,22 @@
     "categories": [],
     "published": "2026-10-27T00:23:54+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
+  },
+  {
+    "id": "184fb60a062c4eb5",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Skrilla Gets Girlfriend Keyshia Cole's Name Tattooed On His Back",
+    "link": "https://www.xxlmag.com/skrilla-keyshia-cole-tattoo/",
+    "summary": "Joshua Applegate/Aaron J. Thornton/Getty Images (2)",
+    "categories": [
+      "News",
+      "Keyshia Cole",
+      "Skrilla"
+    ],
+    "published": "2026-10-26T23:03:58+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
   },
   {
     "id": "564160f414a62d34",
@@ -3844,6 +4483,152 @@
     ],
     "published": "2026-10-26T23:01:12+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
+  },
+  {
+    "id": "0762adb3afec30e1",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Every Hip-Hop Song and Album Certified Diamond in Music History",
+    "link": "https://www.xxlmag.com/hip-hop-songs-diamond/",
+    "summary": "yuyanga/David Ramos/Carmen Mandato/Getty Images (3)/Aftermath Records/Death Row Records/Interscope Records",
+    "categories": [
+      "News",
+      "50 Cent",
+      "A Boogie Wit da Hoodie",
+      "B.o.B",
+      "Beastie Boys",
+      "Big Sean",
+      "Bryson Tiller",
+      "Cardi B",
+      "Chris Brown",
+      "Drake",
+      "E-40",
+      "Eminem",
+      "Feature",
+      "Fetty Wap",
+      "French Montana",
+      "Future",
+      "Galleries",
+      "Gallery",
+      "Gunna",
+      "Jack Harlow",
+      "Jay-Z",
+      "Juice Wrld",
+      "Kanye West",
+      "Kid Cudi",
+      "Kyle",
+      "Lauryn Hill",
+      "Lil Baby",
+      "Lil Nas X",
+      "Lil Uzi Vert",
+      "Lil Wayne",
+      "Lil Yachty",
+      "Macklemore",
+      "Macklemore &amp; Ryan Lewis",
+      "MC Hammer",
+      "Megan Thee Stallion",
+      "Nelly",
+      "Nicki Minaj",
+      "Notorious B.I.G.",
+      "Outkast",
+      "Pharrell Williams",
+      "Pitbull",
+      "Post Malone",
+      "Roddy Ricch",
+      "Ryan Lewis",
+      "the Black Eyed Peas",
+      "The Weeknd",
+      "Travis $cott",
+      "Trippie Redd",
+      "Tupac Shakur",
+      "Waka Flocka Flame",
+      "Wiz Khalifa",
+      "XXXTentacion"
+    ],
+    "published": "2026-10-26T22:06:19+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
+    "id": "94d4d86952349dec",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Hip-Hop Artists Who've Gone Diamond",
+    "link": "https://www.xxlmag.com/rappers-gone-diamond/",
+    "summary": "Sergey Lifanov/Dia Dipasupil/Theo Wargo/Presley Ann/Steve Granitz/Getty Images (5)",
+    "categories": [
+      "News",
+      "21 Savage",
+      "2Pac",
+      "50 Cent",
+      "A Boogie Wit da Hoodie",
+      "B.o.B",
+      "Beastie Boys",
+      "Big Sean",
+      "Bryson Tiller",
+      "Cardi B",
+      "Chris Brown",
+      "Drake",
+      "E-40",
+      "Eminem",
+      "Feature",
+      "Fetty Wap",
+      "Flo-Rida",
+      "French Montana",
+      "Future",
+      "Galleries",
+      "Gallery",
+      "Gunna",
+      "J. Cole",
+      "Jack Harlow",
+      "Jay-Z",
+      "Juice Wrld",
+      "Juicy J",
+      "Kanye West",
+      "Kendrick Lamar",
+      "Kid Cudi",
+      "Kodak Black",
+      "Kyle",
+      "Lauryn Hill",
+      "Lil Baby",
+      "Lil Jon",
+      "Lil Nas X",
+      "Lil Uzi Vert",
+      "Lil Wayne",
+      "Lil Yachty",
+      "Ludacris",
+      "Macklemore &amp; Ryan Lewis",
+      "MC Hammer",
+      "Nelly",
+      "Nicki Minaj",
+      "Outkast",
+      "Pharrell Williams",
+      "Pitbull",
+      "Post Malone",
+      "Quavo",
+      "Roddy Ricch",
+      "Roscoe Dash",
+      "Snoop Dogg",
+      "swae lee",
+      "T-Pain",
+      "T.I.",
+      "the Black Eyed Peas",
+      "The Notorious B.I.G",
+      "The Notorious B.I.G.",
+      "The Weeknd",
+      "Travis $cott",
+      "Trippie Redd",
+      "Tupac Shakur",
+      "Ty Dolla $ign",
+      "Waka Flocka Flame",
+      "Wale",
+      "Wiz Khalifa",
+      "XXXTentacion",
+      "Young Thug"
+    ],
+    "published": "2026-10-26T21:20:24+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
   },
   {
     "id": "e4e7d72bfb386926",
@@ -3873,6 +4658,21 @@
     "categories": [],
     "published": "2026-10-26T20:36:56+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
+  },
+  {
+    "id": "6dbe48882d41f9c2",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Chris Brown Avoids Prison Time for Hitting Producer With a Bottle",
+    "link": "https://www.xxlmag.com/chris-brown-avoids-prison-london-bottle-attack/",
+    "summary": "James Manning/Getty Images",
+    "categories": [
+      "News",
+      "Chris Brown"
+    ],
+    "published": "2026-10-26T20:31:08+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
   },
   {
     "id": "226bf890ad2eb427",
@@ -3917,6 +4717,53 @@
     ],
     "published": "2026-10-26T20:17:22+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
+  },
+  {
+    "id": "95f9398220cab7a7",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Trump Makes Nicki Minaj's 'Beautiful' Butt a Rally Talking Point",
+    "link": "https://www.xxlmag.com/president-trump-nicki-minaj-beautiful-butt/",
+    "summary": "Sarah Rice/Bloomberg via Getty Images",
+    "categories": [
+      "News",
+      "Donald Trump",
+      "Nicki Minaj"
+    ],
+    "published": "2026-10-26T19:57:30+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
+    "id": "0dbd46a8a2156536",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Vote for the Best Rapper of the Last Decade",
+    "link": "https://www.xxlmag.com/best-rapper-last-decade-bracket/",
+    "summary": "Thomas Skrlj/MLB Photos/Prince Williams/WireImage/Edward Berthelot/Kurt Krieger/Corbis/Michael Owens/Getty Images (4)",
+    "categories": [
+      "News",
+      "21 Savage",
+      "Cardi B",
+      "Drake",
+      "Eminem",
+      "Future",
+      "J. Cole",
+      "Kanye West",
+      "Kendrick Lamar",
+      "Lil Baby",
+      "Lil Uzi Vert",
+      "Nicki Minaj",
+      "Playboi Carti",
+      "Travi$ Scott",
+      "Tyler The Creator",
+      "Ye",
+      "Young Thug",
+      "YoungBoy Never Broke Again"
+    ],
+    "published": "2026-10-26T19:45:38+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
   },
   {
     "id": "43ee78bc69670f1c",
@@ -4381,6 +5228,21 @@
     "collected": "2026-10-28T10:00:03.726989+00:00"
   },
   {
+    "id": "7d042c452620971e",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Orchestra Baobab – Made In Senegal",
+    "link": "https://www.musicomh.com/reviews/albums/orchestra-baobab-made-in-senegal",
+    "summary": "On one of the world music albums of the year and their first in a decade, organic evolution has carried their ethos forward The post Orchestra Baobab – Made In Senegal appeared first on musicOMH .",
+    "categories": [
+      "Album Reviews",
+      "Orchestra Baobab"
+    ],
+    "published": "2026-10-23T11:26:43+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
     "id": "d46f9a15260777ef",
     "source": "PopCrush",
     "source_type": "news",
@@ -4395,6 +5257,52 @@
     ],
     "published": "2026-10-23T07:36:42+00:00",
     "collected": "2026-11-01T10:09:51.242642+00:00"
+  },
+  {
+    "id": "c2349bab4f5a6ea3",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Bernie Taupin – The Sea Has No Mercy",
+    "link": "https://www.musicomh.com/reviews/albums/bernie-taupin-the-sea-has-no-mercy",
+    "summary": "Elton John's lyricist has a fine, weathered baritone of his own, freely wearing its lines of age and experience with distinction, knowledge and humour The post Bernie Taupin – The Sea Has No Mercy appeared first on musicOMH .",
+    "categories": [
+      "Album Reviews",
+      "Bernie Taupin",
+      "Brandi Carlile"
+    ],
+    "published": "2026-10-23T07:01:41+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
+    "id": "566444764dc33ba7",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Strawberry Guy – Give Me A Dream",
+    "link": "https://www.musicomh.com/reviews/albums/strawberry-guy-give-me-a-dream",
+    "summary": "Alexander Stephens’ exquisite second album sees his mastery of melancholic, symphonic pop reach stunning new heights The post Strawberry Guy – Give Me A Dream appeared first on musicOMH .",
+    "categories": [
+      "Album Reviews",
+      "Strawberry Guy"
+    ],
+    "published": "2026-10-23T06:31:34+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
+    "id": "38027db7277856a4",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Angèle – Instinct",
+    "link": "https://www.musicomh.com/reviews/albums/angele-instinct",
+    "summary": "In French and English, and aided by Soulwax, SebastiAn, Caroline Polachek and Justice, the Belgian star is melding a pop sound all of her own The post Angèle – Instinct appeared first on musicOMH .",
+    "categories": [
+      "Album Reviews",
+      "Angèle"
+    ],
+    "published": "2026-10-23T06:01:52+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
   },
   {
     "id": "9906597a75654372",
@@ -4493,6 +5401,21 @@
     "collected": "2026-10-28T10:00:03.726989+00:00"
   },
   {
+    "id": "9b7e5e12ab011465",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Caroline Rose – Gentling The Horse At The Walt Whitman Mall",
+    "link": "https://www.musicomh.com/reviews/albums/caroline-rose-gentling-the-horse-at-the-walt-whitman-mall",
+    "summary": "Their best album since 2018's Loner has the same air of unrestrained chaos running through it. It is the antithesis to AI generated music The post Caroline Rose – Gentling The Horse At The Walt Whitman Mall appeared first on musicOMH .",
+    "categories": [
+      "Album Reviews",
+      "Caroline Rose"
+    ],
+    "published": "2026-10-22T07:01:21+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
     "id": "a37e9b3807a4fb2d",
     "source": "Pitchfork (album reviews)",
     "source_type": "reviews",
@@ -4575,6 +5498,36 @@
     "collected": "2026-10-28T10:00:03.726989+00:00"
   },
   {
+    "id": "7b29c098b70b3601",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Darren Hayman – I’m Your Team",
+    "link": "https://www.musicomh.com/reviews/albums/darren-hayman-im-your-team",
+    "summary": "The prolific creator's latest uses the Yamaha DX7 synthesiser to create 50 minutes of startlingly lovely music to soothe troubled souls The post Darren Hayman – I’m Your Team appeared first on musicOMH .",
+    "categories": [
+      "Album Reviews",
+      "Darren Hayman"
+    ],
+    "published": "2026-10-21T07:01:17+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
+    "id": "26f448fb82ffca8c",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Knats – A Great Day In Newcastle",
+    "link": "https://www.musicomh.com/reviews/albums/knats-a-great-day-in-newcastle",
+    "summary": "The Jazz quintet deliver a fantastic paean to their home city and showcase freewheeling vitality as a musical ensemble The post Knats – A Great Day In Newcastle appeared first on musicOMH .",
+    "categories": [
+      "Album Reviews",
+      "Knats"
+    ],
+    "published": "2026-10-21T06:31:12+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
     "id": "f67b9338664a762e",
     "source": "Pitchfork (album reviews)",
     "source_type": "reviews",
@@ -4641,6 +5594,36 @@
     "categories": [],
     "published": "2026-10-21T01:05:11+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
+  },
+  {
+    "id": "e4bfa79674c396fc",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Ella Thompson – Triumph And Sadness",
+    "link": "https://www.musicomh.com/reviews/albums/ella-thompson-triumph-and-sadness",
+    "summary": "Australian vocalist returns with smoky, late-night ballads and vintage pop-soul that is both deeply intimate and expansive in scope The post Ella Thompson – Triumph And Sadness appeared first on musicOMH .",
+    "categories": [
+      "Album Reviews",
+      "Ella Thompson"
+    ],
+    "published": "2026-10-20T13:01:22+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
+    "id": "da783df21555109e",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Richard Thompson – Hippies, Thugs And Heroes",
+    "link": "https://www.musicomh.com/reviews/albums/richard-thompson-hippies-thugs-and-heroes",
+    "summary": "The Brit folk legend's latest fits comfortably into his catalogue, all fiery Stratocaster riffs, doomy ballads and stories of vagabonds and ne'er-do-wells The post Richard Thompson – Hippies, Thugs And Heroes appeared first on musicOMH .",
+    "categories": [
+      "Album Reviews",
+      "Richard Thompson"
+    ],
+    "published": "2026-10-20T08:31:51+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
   },
   {
     "id": "25546407678c8e3e",
@@ -4804,6 +5787,36 @@
     "collected": "2026-10-28T10:00:03.726989+00:00"
   },
   {
+    "id": "3772b0d7d23c4347",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Rachel Chinouriri – I Think I Spoke Too Soon",
+    "link": "https://www.musicomh.com/reviews/albums/rachel-chinouriri-i-think-i-spoke-too-soon",
+    "summary": "The follow-up to 2024's A Devastating Turn Of Events swaps the jangly guitars and indie hooks for a more polished pop production The post Rachel Chinouriri – I Think I Spoke Too Soon appeared first on musicOMH .",
+    "categories": [
+      "Album Reviews",
+      "Rachel Chinouriri"
+    ],
+    "published": "2026-10-16T15:26:54+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
+    "id": "1d66b0b2e8337543",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Arborist – Looking For Love",
+    "link": "https://www.musicomh.com/reviews/albums/arborist-looking-for-love",
+    "summary": "Mark McCambridge’s fourth album addresses human desires with authenticity and sensitivity, creating an expertly woven musical fabric with deft lyrical turns of phrase The post Arborist – Looking For Love appeared first on musicOMH .",
+    "categories": [
+      "Album Reviews",
+      "Arborist"
+    ],
+    "published": "2026-10-16T13:51:43+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
     "id": "cdc4827c52314a8e",
     "source": "Pitchfork (track reviews)",
     "source_type": "reviews",
@@ -4816,6 +5829,36 @@
     ],
     "published": "2026-10-16T13:44:55+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
+  },
+  {
+    "id": "1909a0c0eeadd5cf",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Two Shell – Infinite Now",
+    "link": "https://www.musicomh.com/reviews/albums/two-shell-infinite-now",
+    "summary": "The elusive duo's second album provides a set of AI-augmented no frills bangers that combine charm with a gritty, urban underbelly The post Two Shell – Infinite Now appeared first on musicOMH .",
+    "categories": [
+      "Album Reviews",
+      "Two Shell"
+    ],
+    "published": "2026-10-16T07:31:11+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
+  },
+  {
+    "id": "91916b259fcba139",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Eels – Cookie Happened",
+    "link": "https://www.musicomh.com/reviews/albums/eels-cookie-happened",
+    "summary": "The latest thoughtfully erudite missive from Mark Everett and co comes with a title inspired by a quote from, of all entities, Cookie Monster The post Eels – Cookie Happened appeared first on musicOMH .",
+    "categories": [
+      "Album Reviews",
+      "Eels"
+    ],
+    "published": "2026-10-16T07:01:35+00:00",
+    "collected": "2026-11-01T10:59:35.314292+00:00"
   },
   {
     "id": "c77e198e62cc7041",

@@ -1,9 +1,10 @@
 {
  "shabazzpalaces|itsastylesport|album": {
   "deezer_url": "https://www.deezer.com/album/1028308462",
-  "cover": "https://cdn-images.dzcdn.net/images/cover/aeb837be59c49239077ffab0acdf4307/500x500-000000-80-0-0.jpg",
-  "spotify": null,
-  "checked": "2026-10-28T12:41:39.411800+00:00"
+  "cover": "https://i.scdn.co/image/ab67616d0000b2731eeeeb22c9e71adc45bc6bd9",
+  "spotify": "https://open.spotify.com/album/24MyPYK5qT4OloO3ta5Noj",
+  "checked": "2026-11-01T11:00:59.266551+00:00",
+  "source": "Spotify"
  },
  "tonyiommiandjrnlande|fromthedark|album": {
   "deezer_url": "https://www.deezer.com/album/1023275711",
@@ -14,28 +15,32 @@
  "huercos|fromthetoolkitoflovers|album": {
   "cover": null,
   "source": null,
-  "checked": "2026-11-01T10:11:14.719891+00:00"
+  "checked": "2026-11-01T11:00:59.266551+00:00"
  },
  "diiv|zirp|album": {
-  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/54/31/87/54318724-e4d1-7254-a7d4-d2e671dff8ea/26CRGIM55137.rgb.jpg/600x600bb.jpg",
-  "source": "iTunes",
-  "checked": "2026-10-28T13:05:01.934851+00:00"
+  "cover": "https://i.scdn.co/image/ab67616d0000b27392eb21c31a0d59b7fe4f3483",
+  "source": "Spotify",
+  "checked": "2026-11-01T11:00:59.266551+00:00",
+  "spotify": "https://open.spotify.com/album/3HaXEC1Zfo0zM6OCqdpofT"
  },
  "petergabriel|whoarewetalkingto|single": {
-  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/25/3c/dd/253cdd6c-3a12-278f-0802-3b6a80a808d8/PeterGabriel_WhoAreWeTalkingTo_3000pxls.jpg/600x600bb.jpg",
-  "source": "iTunes",
-  "checked": "2026-10-28T13:05:01.934851+00:00"
+  "cover": "https://i.scdn.co/image/ab67616d0000b273b84fbf476b6a07add94085a7",
+  "source": "Spotify",
+  "checked": "2026-11-01T11:00:59.266551+00:00",
+  "spotify": "https://open.spotify.com/album/1KJ8n4dVHsQEZyvb1zxvbk"
  },
  "flaminglips|godwillcontrolthewerewolves|single": {
-  "checked": "2026-10-28T12:41:39.411800+00:00",
+  "checked": "2026-11-01T11:00:59.266551+00:00",
   "deezer_url": "https://www.deezer.com/track/4339343322",
-  "cover": "https://cdn-images.dzcdn.net/images/cover/6cce60bbf37ce580c62a8364d74488b8/500x500-000000-80-0-0.jpg",
-  "spotify": null
+  "cover": "https://i.scdn.co/image/ab67616d0000b273538e1e9f4b2d2b30db5b958a",
+  "spotify": "https://open.spotify.com/album/5lLQpUdXL0WMzygm6OqSXf",
+  "source": "Spotify"
  },
  "chvrches|overthinker|single": {
-  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/26/8f/60/268f6064-3770-14e1-428a-9bb67329a9f6/823375530411_Cover.jpg/600x600bb.jpg",
-  "source": "iTunes",
-  "checked": "2026-10-28T13:05:01.934851+00:00"
+  "cover": "https://i.scdn.co/image/ab67616d0000b2734fb447649e5fd65d84e1d9e4",
+  "source": "Spotify",
+  "checked": "2026-11-01T11:00:59.266551+00:00",
+  "spotify": "https://open.spotify.com/album/2vKqcQXs8Rvrcvb2vEgn8Q"
  },
  "deadmansbones|lostinthenight|single": {
   "checked": "2026-10-28T12:41:39.411800+00:00",
@@ -44,10 +49,11 @@
   "spotify": null
  },
  "evilgianeandslimesito|evilslime2|album": {
-  "checked": "2026-10-28T12:41:39.411800+00:00",
+  "checked": "2026-11-01T11:00:59.266551+00:00",
   "deezer_url": "https://www.deezer.com/album/578280371",
-  "cover": "https://cdn-images.dzcdn.net/images/cover/532bdd2d5f02073446350f72731174c5/500x500-000000-80-0-0.jpg",
-  "spotify": null
+  "cover": "https://i.scdn.co/image/ab67616d0000b273501d0013e8be114e461605f8",
+  "spotify": "https://open.spotify.com/album/5YDNuqy3UTdSNXKzKJP2LP",
+  "source": "Spotify"
  },
  "mjlenderman|weakened|single": {
   "cover": null,
@@ -55,9 +61,10 @@
   "checked": "2026-10-28T13:05:01.934851+00:00"
  },
  "evilgianeandslimesito|georgiastate|single": {
-  "cover": "https://cdn-images.dzcdn.net/images/cover/760d71a7973c3e2821fc42d82a4d46a4/500x500-000000-80-0-0.jpg",
-  "source": "Deezer",
-  "checked": "2026-11-01T09:32:25.824582+00:00"
+  "cover": "https://i.scdn.co/image/ab67616d0000b273501d0013e8be114e461605f8",
+  "source": "Spotify",
+  "checked": "2026-11-01T11:00:59.266551+00:00",
+  "spotify": "https://open.spotify.com/track/0eDNjhwLvk58ZP0jcylti2"
  },
  "meiv|nofuturept1and2|single": {
   "checked": "2026-10-28T12:41:39.411800+00:00",
@@ -75,7 +82,7 @@
  "boldyjamesandrealbadman|strobelight|album": {
   "cover": null,
   "source": null,
-  "checked": "2026-11-01T10:11:14.719891+00:00"
+  "checked": "2026-11-01T11:00:59.266551+00:00"
  },
  "phoebebridgers|liveatmadisonsquaregarden|ep": {
   "cover": null,
@@ -83,24 +90,28 @@
   "checked": "2026-11-01T10:11:14.719891+00:00"
  },
  "justice|pusher|single": {
-  "cover": "https://cdn-images.dzcdn.net/images/cover/e79f46f73f256fb9f7dcacc0cc344d1b/500x500-000000-80-0-0.jpg",
-  "source": "Deezer",
-  "checked": "2026-10-30T04:43:45.372270+00:00"
+  "cover": "https://i.scdn.co/image/ab67616d0000b2738feb34dd87c2b399512b5de0",
+  "source": "Spotify",
+  "checked": "2026-11-01T11:00:59.266551+00:00",
+  "spotify": "https://open.spotify.com/album/6T1v6phBadT4WrAHWaybkZ"
  },
  "everythingbutthegirl|younganddumb|single": {
-  "cover": "https://cdn-images.dzcdn.net/images/cover/4d8c3960b0b558b67b7a00f674807787/500x500-000000-80-0-0.jpg",
-  "source": "Deezer",
-  "checked": "2026-10-30T04:43:45.372270+00:00"
+  "cover": "https://i.scdn.co/image/ab67616d0000b273fb2db3dcea87ba1346bc8872",
+  "source": "Spotify",
+  "checked": "2026-11-01T11:00:59.266551+00:00",
+  "spotify": "https://open.spotify.com/album/6hyFFdt3IJXi9bUDukRw4r"
  },
  "dominicfike|howtoquitsmoking|album": {
-  "cover": "https://cdn-images.dzcdn.net/images/cover/2232798b2952d93cf9abc8ede17251df/500x500-000000-80-0-0.jpg",
-  "source": "Deezer",
-  "checked": "2026-11-01T09:32:25.824582+00:00"
+  "cover": "https://i.scdn.co/image/ab67616d0000b2737a5456ace4c059df03b973ee",
+  "source": "Spotify",
+  "checked": "2026-11-01T11:00:59.266551+00:00",
+  "spotify": "https://open.spotify.com/album/4JxUxYheA8Xs2dvEZTWsyg"
  },
  "meisemones|2hands|single": {
-  "cover": "https://cdn-images.dzcdn.net/images/cover/7bced71c6bdf724df609f18b0bb005af/500x500-000000-80-0-0.jpg",
-  "source": "Deezer",
-  "checked": "2026-10-30T04:43:45.372270+00:00"
+  "cover": "https://i.scdn.co/image/ab67616d0000b2736b00a16bae8acc888ce64c9d",
+  "source": "Spotify",
+  "checked": "2026-11-01T11:00:59.266551+00:00",
+  "spotify": "https://open.spotify.com/album/1W8dfBIAzmCLLctGK7V64l"
  },
  "averycochrane|youretheonlyoneineverperformedfor|single": {
   "cover": "https://cdn-images.dzcdn.net/images/cover/658bf53fa3d8103980cba3e5c7cc5eab/500x500-000000-80-0-0.jpg",
@@ -120,12 +131,13 @@
  "boysnoize|nachsteliebe|single": {
   "cover": null,
   "source": null,
-  "checked": "2026-11-01T10:11:14.719891+00:00"
+  "checked": "2026-11-01T11:00:59.266551+00:00"
  },
  "juniorboys|underneaththemoon|single": {
-  "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/39/5b/7e/395b7e1b-20c2-6ac7-8d89-9363659866ba/4250506853167_cover.jpg/600x600bb.jpg",
-  "source": "iTunes",
-  "checked": "2026-10-30T04:43:45.372270+00:00"
+  "cover": "https://i.scdn.co/image/ab67616d0000b273e74bc9185caf906a74c4d1a9",
+  "source": "Spotify",
+  "checked": "2026-11-01T11:00:59.266551+00:00",
+  "spotify": "https://open.spotify.com/album/3oZp5x2fgW6yKJC6zsaeKv"
  },
  "robertdelnaja|lifesupport|album": {
   "cover": null,
@@ -133,19 +145,22 @@
   "checked": "2026-11-01T10:11:14.719891+00:00"
  },
  "doseoneandfatboisharifandsteeltippeddove|truthugly|album": {
-  "cover": "https://cdn-images.dzcdn.net/images/cover/295c42d4f6f3d67ddb271a490682f937/500x500-000000-80-0-0.jpg",
-  "source": "Deezer",
-  "checked": "2026-11-01T09:32:25.824582+00:00"
+  "cover": "https://i.scdn.co/image/ab67616d0000b2738808df25d042a80fcd364de5",
+  "source": "Spotify",
+  "checked": "2026-11-01T11:00:59.266551+00:00",
+  "spotify": "https://open.spotify.com/album/1oy6a1o0scALOdH5HbogIv"
  },
  "bennythebutcher|elevate|single": {
-  "cover": "https://cdn-images.dzcdn.net/images/cover/1ae05465422cede36b4e24ae0f3021c3/500x500-000000-80-0-0.jpg",
-  "source": "Deezer",
-  "checked": "2026-11-01T09:32:25.824582+00:00"
+  "cover": "https://i.scdn.co/image/ab67616d0000b2733174791c52c84ac280b5f6fb",
+  "source": "Spotify",
+  "checked": "2026-11-01T11:00:59.266551+00:00",
+  "spotify": "https://open.spotify.com/album/0QF26JKTaBUg0CNGRZaw1V"
  },
  "diiv|dareme|single": {
-  "cover": "https://cdn-images.dzcdn.net/images/cover/d1bf65b27fd38a3cfb72fb3e0cd3e295/500x500-000000-80-0-0.jpg",
-  "source": "Deezer",
-  "checked": "2026-11-01T09:32:25.824582+00:00"
+  "cover": "https://i.scdn.co/image/ab67616d0000b273347b59529e4edd23093bc224",
+  "source": "Spotify",
+  "checked": "2026-11-01T11:00:59.266551+00:00",
+  "spotify": "https://open.spotify.com/album/1A9wIkzz0hVCcZeYxjbgVn"
  },
  "deaddeities|deaddeities|album": {
   "cover": null,
@@ -160,16 +175,35 @@
  "pandabear|pbbandlive25atpowerstation|album": {
   "cover": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/7c/33/96/7c33965c-f44e-c80e-b952-9c71f355abf8/191508000668.png/600x600bb.jpg",
   "source": "iTunes",
-  "checked": "2026-11-01T10:11:14.719891+00:00"
+  "checked": "2026-11-01T11:00:59.266551+00:00"
  },
  "phoebebridgers|madisonsquaregarden|ep": {
   "cover": null,
   "source": null,
-  "checked": "2026-11-01T10:11:14.719891+00:00"
+  "checked": "2026-11-01T11:00:59.266551+00:00"
  },
  "silverwingkiller|desperatestruggle|ep": {
-  "cover": "https://cdn-images.dzcdn.net/images/cover/cf8fd061efb9be9e2a82f55b7304059d/500x500-000000-80-0-0.jpg",
-  "source": "Deezer",
-  "checked": "2026-11-01T10:11:14.719891+00:00"
+  "cover": "https://i.scdn.co/image/ab67616d0000b273e0fee0b6369a87b789daa806",
+  "source": "Spotify",
+  "checked": "2026-11-01T11:00:59.266551+00:00",
+  "spotify": "https://open.spotify.com/album/5LqFeozf5QTEzzGk5M08CB"
+ },
+ "disgustingsisters|skinandblisters|album": {
+  "spotify": "https://open.spotify.com/album/6RpkmHkZUJAHcbxFp4wumm",
+  "cover": "https://i.scdn.co/image/ab67616d0000b2733f65408d2d6b8f42cba89f99",
+  "source": "Spotify",
+  "checked": "2026-11-01T11:00:59.266551+00:00"
+ },
+ "bigmoon|forever|album": {
+  "spotify": "https://open.spotify.com/album/2Olo9hqVde8YRHF5KCp0pS",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273599a6d3a83c170350aad96b5",
+  "source": "Spotify",
+  "checked": "2026-11-01T11:00:59.266551+00:00"
+ },
+ "yello|timelab|album": {
+  "spotify": "https://open.spotify.com/album/5A9rMiLzm47h4nZmcwoA0c",
+  "cover": "https://i.scdn.co/image/ab67616d0000b2730961ade26236887fdacdaf0f",
+  "source": "Spotify",
+  "checked": "2026-11-01T11:00:59.266551+00:00"
  }
 }

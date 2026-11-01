@@ -303,5 +303,30 @@
   "name": "Panda Bear",
   "fans": 27865,
   "checked": "2026-11-01T10:10:43.916290+00:00"
+ },
+ "yello": {
+  "name": "Yello",
+  "fans": 46239,
+  "checked": "2026-11-01T11:00:18.313776+00:00"
+ },
+ "clinic": {
+  "name": "Clinic",
+  "fans": 5655,
+  "checked": "2026-11-01T11:00:18.698952+00:00"
+ },
+ "piss": {
+  "name": "PISS",
+  "fans": 275,
+  "checked": "2026-11-01T11:00:19.209100+00:00"
+ },
+ "bigmoon": {
+  "name": "The Big Moon",
+  "fans": 5631,
+  "checked": "2026-11-01T11:00:19.630036+00:00"
+ },
+ "disgustingsisters": {
+  "name": "Disgusting Sisters",
+  "fans": 130,
+  "checked": "2026-11-01T11:00:19.983082+00:00"
  }
 }
