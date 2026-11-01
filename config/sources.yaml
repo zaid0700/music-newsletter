@@ -56,7 +56,11 @@ sources:
     url: https://www.nme.com/feed
     type: news
     weight: 1.0
-
+    
+  - name: musicOMH
+    url: https://www.musicomh.com/reviews/albums/feed
+    type: reviews
+    weight: 1.0
 
   - name: Clash                                  # check
     url: https://www.clashmusic.com/feed/
