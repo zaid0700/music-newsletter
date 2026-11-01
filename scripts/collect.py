@@ -19,10 +19,7 @@ import feedparser
 import requests
 import yaml
 
-import allmusic
-import sputnik
-
-PAGE_SOURCES = {"allmusic": allmusic, "sputnik": sputnik}
+PAGE_SOURCES = {} # web-page sources (no RSS); none in use
 
 ROOT = Path(__file__).resolve().parent.parent
 CONFIG = ROOT / "config" / "sources.yaml"
