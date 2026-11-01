@@ -358,5 +358,15 @@
   "name": "Livingston",
   "fans": 19655,
   "checked": "2026-11-01T11:58:18.886157+00:00"
+ },
+ "lilbaby": {
+  "name": "Lil Baby",
+  "fans": 1452986,
+  "checked": "2026-11-01T12:13:28.233473+00:00"
+ },
+ "snooper": {
+  "name": "Snooper",
+  "fans": 1399,
+  "checked": "2026-11-01T12:13:28.659720+00:00"
  }
 }
