@@ -83,13 +83,7 @@ sources:
     url: https://www.slantmagazine.com/category/music/feed/
     type: reviews
     weight: 1.0
-
-  # --- Hip-hop / R&B ---------------------------------------------------------
-  - name: HotNewHipHop                           # check
-    url: https://www.hotnewhiphop.com/rss/news.xml
-    type: news
-    weight: 1.0
-
+    
 genres:
   - Pop
   - Hip-hop / R&B
