@@ -13,7 +13,7 @@
 #                      big the artist is (Deezer fans; 10 million or more = 1.0).
 # The weights don't have to add up to 1; they're used as proportions.
 
-lastfm_user: ""        # your Last.fm username, e.g. "sana_music"
+lastfm_user: "zaidaftab"        # your Last.fm username, e.g. "sana_music"
 
 weights:
   personal: 0.6
