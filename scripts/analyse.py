@@ -74,6 +74,7 @@ What counts as a release:
 Not a release (return nothing for these):
 - Tours, concerts, live TV performances, interviews, lawsuits, awards, gossip, merchandise.
 - Anniversary pieces, reissues, remasters, box sets, and old music.
+- Live albums and live recordings (e.g. "Live at ...", "Live from ...", "(Live)").
 - Lists or roundups where the item doesn't name both the artist and the title.
 
 Fields:
