@@ -1,23 +1,35 @@
 # Feeds the tool reads every day.
 # To add or remove a source, edit this file only. No code changes needed.
 #
-# weight: how much a mention from this source counts toward "critical buzz" (1.0 = normal)
-# type:   "reviews" = review/editorial-pick feed, "news" = general news, "video" = YouTube reviews
+# weight: how much coverage from this publication counts toward "popularity"
+#         (1.0 = normal). Feeds from the same publication, e.g. Pitchfork's three,
+#         count as one publication.
+# type:   "reviews" = review feed, "news" = general news, "video" = YouTube reviews
+#
+# Feeds marked "check" couldn't be tested from Claude's workspace. Run the
+# "Check feeds" workflow (or scripts/check_feeds.py) and delete any that FAIL.
+# A broken feed never stops the newsletter; it's just skipped.
 
 sources:
+  # --- Indie / alternative / general --------------------------------------
   - name: Pitchfork (album reviews)
     url: https://pitchfork.com/feed/feed-album-reviews/rss
     type: reviews
-    weight: 1.5
+    weight: 1.0
 
   - name: Pitchfork (Best New Albums)
     url: https://pitchfork.com/feed/reviews/best/albums/rss
     type: reviews
-    weight: 2.0        # editorial pick, counts extra
+    weight: 1.0
 
   - name: Pitchfork (track reviews)
     url: https://pitchfork.com/feed/feed-track-reviews/rss
     type: reviews
+    weight: 1.0
+
+  - name: Pitchfork (news)                       # check
+    url: https://pitchfork.com/feed/feed-news/rss
+    type: news
     weight: 1.0
 
   - name: Stereogum
@@ -28,18 +40,74 @@ sources:
   - name: The Needle Drop (YouTube)
     url: https://www.youtube.com/feeds/videos.xml?channel_id=UCt7fwAhXDy3oNFTAzF2o8Pw
     type: video
-    weight: 1.5
+    weight: 1.0
 
   - name: The Needle Drop (website)
     url: https://www.theneedledrop.com/feed/
     type: reviews
     weight: 1.0
 
+  - name: Consequence                            # check
+    url: https://consequence.net/feed/
+    type: news
+    weight: 1.0
+
+  - name: NME
+    url: https://www.nme.com/feed
+    type: news
+    weight: 1.0
+
+  - name: Brooklyn Vegan
+    url: https://www.brooklynvegan.com/feed/
+    type: news
+    weight: 1.0
+
+  - name: Clash                                  # check
+    url: https://www.clashmusic.com/feed/
+    type: news
+    weight: 1.0
+
+  # --- Pop / mainstream ------------------------------------------------------
+  - name: Rolling Stone (music)                  # check
+    url: https://www.rollingstone.com/music/feed/
+    type: news
+    weight: 1.0
+
+  - name: Billboard                              # check
+    url: https://www.billboard.com/feed/
+    type: news
+    weight: 1.0
+
+  - name: PopCrush
+    url: https://popcrush.com/category/music-news/feed/
+    type: news
+    weight: 1.0
+
+  # --- Hip-hop / R&B ---------------------------------------------------------
+  - name: HotNewHipHop                           # check
+    url: https://www.hotnewhiphop.com/rss/news.xml
+    type: news
+    weight: 1.0
+
+  # --- Electronic / dance ----------------------------------------------------
+  - name: Dancing Astronaut
+    url: https://dancingastronaut.com/feed/
+    type: news
+    weight: 1.0
+
+  # --- Not RSS -----------------------------------------------------------------
   # AllMusic has no RSS feed; its weekly New Releases page is read directly
   # (scripts/allmusic.py). If AllMusic blocks it, it's skipped automatically.
   - name: AllMusic (new releases)
     url: https://www.allmusic.com/newreleases
     type: allmusic
+    weight: 1.0
+
+  # Sputnikmusic has no RSS feed either; its New Releases page is read directly
+  # (scripts/sputnik.py). Only this month's and last month's albums are kept.
+  - name: Sputnikmusic (new releases)
+    url: https://www.sputnikmusic.com/newreleases.php
+    type: sputnik
     weight: 1.0
 
 genres:
