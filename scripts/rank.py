@@ -43,7 +43,7 @@ FANS_FOR_FULL_STAR_POWER = 10_000_000
 DEEZER_REFRESH_DAYS = 30
 
 
-# --------------------------------------------------------------------------- 1. week
+# --------------------------------------------------------------------------- 1a. week
 
 def newsletter_week(week_ending: date | None = None) -> tuple[date, date]:
     """Return (Saturday, Friday) of the newsletter week in UAE time.
@@ -82,6 +82,75 @@ def in_week(rel: dict, start: date, end: date) -> bool:
     )
 
 
+# --------------------------------------------------------------------------- 1b. album singles
+
+TRACKLIST_CACHE = ROOT / "data" / "tracklists.json"
+
+
+def bare_title(title: str) -> str:
+    """'Song (feat. X) [Radio Edit]' -> normalised 'song'."""
+    return norm(re.sub(r"\s*[(\[].*?[)\]]", "", title))
+
+
+def same_artist(a: str, b: str) -> bool:
+    x, y = norm(main_artist(a)), norm(main_artist(b))
+    return bool(x and y) and (x == y or x in y or y in x)
+
+
+def deezer_tracklist(album: dict, session: requests.Session, cache: dict) -> list[str]:
+    """Bare track titles of the album on Deezer ([] if not found). Cached."""
+    key = f"{norm(album['artist'])}|{norm(album['title'])}"
+    if cache.get(key):
+        return cache[key]
+    tracks = []
+    try:
+        resp = session.get("https://api.deezer.com/search/album", timeout=20,
+                           params={"q": f'artist:"{main_artist(album["artist"])}" album:"{album["title"]}"',
+                                   "limit": 10})
+        resp.raise_for_status()
+        for hit in resp.json().get("data", []):
+            if bare_title(hit.get("title", "")) == bare_title(album["title"]) and \
+                    same_artist(hit.get("artist", {}).get("name", ""), album["artist"]):
+                t = session.get(f"https://api.deezer.com/album/{hit['id']}/tracks",
+                                params={"limit": 100}, timeout=20)
+                t.raise_for_status()
+                tracks = [bare_title(x.get("title", "")) for x in t.json().get("data", [])]
+                break
+        time.sleep(0.2)
+    except requests.RequestException as err:
+        print(f"  Deezer tracklist lookup failed for {album['artist']} - {album['title']}: {err}")
+    cache[key] = tracks
+    return tracks
+
+
+def drop_album_singles(releases: list[dict]) -> list[dict]:
+    """If an album/EP/mixtape is in this week's list, drop singles from it.
+    A single counts as 'from the album' if it was announced in the same article,
+    or its title is on the album's Deezer tracklist. Its coverage moves to the album."""
+    albums = [r for r in releases if r["type"] != "single"]
+    singles = [r for r in releases if r["type"] == "single"]
+    if not albums or not singles:
+        return releases
+
+    cache = json.loads(TRACKLIST_CACHE.read_text()) if TRACKLIST_CACHE.exists() else {}
+    session = requests.Session()
+    dropped = []
+    for single in singles:
+        links = {m["link"] for m in single["mentions"]}
+        for album in albums:
+            if not same_artist(single["artist"], album["artist"]):
+                continue
+            same_article = bool(links & {m["link"] for m in album["mentions"]})
+            if same_article or bare_title(single["title"]) in deezer_tracklist(album, session, cache):
+                known = {m["link"] for m in album["mentions"]}
+                album["mentions"] += [m for m in single["mentions"] if m["link"] not in known]
+                dropped.append(single)
+                print(f"  Dropped single {single['artist']} - {single['title']} "
+                      f"(from the album {album['title']})")
+                break
+    TRACKLIST_CACHE.write_text(json.dumps(cache, indent=1, ensure_ascii=False))
+    return [r for r in releases if r not in dropped]
+  
 # --------------------------------------------------------------------------- 2. stars
 
 def norm(text: str) -> str:
