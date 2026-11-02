@@ -1,5 +1,607 @@
 [
   {
+    "id": "e41731c79be881f3",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Marty Erlichman, Barbra Streisand’s Longtime Manager, Dies at 97",
+    "link": "https://www.billboard.com/pro/marty-erlichman-death-barbra-streisand-manager/",
+    "summary": "An entertainment manager for decades, Erlichman also worked with The Clancy Brothers and Tommy Makem.",
+    "full_text": false,
+    "categories": [
+      "Business",
+      "Management",
+      "Managers",
+      "Music News",
+      "News"
+    ],
+    "published": "2026-11-02T01:12:50+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "f70e6a5ef9a79113",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The 18 Best Musician Halloween Costumes This Year",
+    "link": "https://pitchfork.com/story/the-17-best-musician-halloween-costumes-this-year/",
+    "summary": "From Tinashe as melatonin to Wednesday as the Addams Family, here are our favorite get-ups this year",
+    "full_text": false,
+    "categories": [
+      "News"
+    ],
+    "published": "2026-11-02T00:56:36+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "dbca4e837baaaae2",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "20 years later, My Chemical Romance acquire first No. 1 album with 'Black Parade' re-release",
+    "link": "https://theneedledrop.com/news/20-years-later-my-chemical-romance-acquire-first-no-1-album-with-black-parade-re-release/",
+    "summary": "Originally released on October 23, 2006, The Black Parade initially peaked at number 2, marking it as the band's highest-charting album. The 20-year journey to the number one spot is the longest ever for an album.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "my chemical romance"
+    ],
+    "published": "2026-11-01T23:30:01+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "8f1ca6957252c00b",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Wu-Tang Clan will headline Detroit Lions' Thanksgiving halftime show",
+    "link": "https://theneedledrop.com/news/wu-tang-clan-will-headline-detroit-lions-thanksgiving-halftime-show/",
+    "summary": "The halftime performance will come at the end of the group's global farewell tour, Wu-Tang Forever: The Final Chamber, and on the heels of the group being inducted into the Rock & Roll Hall of Fame on November 14th.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "wu tang",
+      "wu-tang clan"
+    ],
+    "published": "2026-11-01T23:14:27+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "95d5b7b38de8a2ff",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Harry Styles Ended His Historic Madison Square Garden Run — And This Song Captured It All",
+    "link": "https://www.rollingstone.com/music/music-features/harry-styles-madison-square-garden-end-season-2-weight-loss-1235648505/",
+    "summary": "The bass-filled record \"Season 2 Weight Loss\" became an essential part of how we understand the singer, especially across his 30-night New York residency",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "Harry Styles"
+    ],
+    "published": "2026-11-01T23:03:54+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "12ef45bed1ad3ffd",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Wu-Tang Clan to Headline Detroit Lions Thanksgiving Game Halftime Show",
+    "link": "https://www.billboard.com/music/rb-hip-hop/wu-tang-clan-halftime-show-detroit-lions-thanksgiving-game-1236371793/",
+    "summary": "They'll take the halftime performance slot at the Nov. 26 Lions-Bears game, while Antonio Cipriano will perform the national anthem.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "R&B/Hip-Hop",
+      "genre hiphop",
+      "Music News",
+      "News"
+    ],
+    "published": "2026-11-01T22:46:52+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "e79fb37935319048",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘Sunday Night Football’: How to Watch Philadelphia Eagles vs. Washington Commanders Game Live Online Free",
+    "link": "https://www.billboard.com/culture/product-recommendations/sunday-night-football-2026-2027-watch-nfl-live-online-free-1236343279/",
+    "summary": "Watch the PHL Eagles take on the WAS Commanders on Sunday, Nov. 1.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "how to watch",
+      "nbc",
+      "nfl",
+      "NOADS",
+      "peacock",
+      "sports"
+    ],
+    "published": "2026-11-01T22:15:28+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "3eabb167c821bc63",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Harry Styles Dresses as NYC ‘Pizza Rat,’ Gets Jalen Brunson Tribute at Final MSG Residency Show",
+    "link": "https://www.billboard.com/music/pop/harry-styles-pizza-rat-harryween-msg-residency-final-show-1236371781/",
+    "summary": "The pop star marked the occasion with a Halloween tribute to one of the city's most infamous viral sensations.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Pop",
+      "Concerts",
+      "genre pop",
+      "halloween",
+      "Madison Square Garden",
+      "Music News",
+      "residency"
+    ],
+    "published": "2026-11-01T21:36:01+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "60843236f56d2b76",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "My Chemical Romance Tops the Billboard 200 With 20-Year-Old Album",
+    "link": "https://www.rollingstone.com/music/music-news/my-chemical-romance-black-parade-billboard-200-number-one-1235650097/",
+    "summary": "The rock band's The Black Parade reached the top slot with its 20th anniversary reissue, beating out Olivia Rodrigo",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "My Chemical Romance",
+      "Olivia Rodrigo"
+    ],
+    "published": "2026-11-01T21:08:58+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "1425a06b52311fc9",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Morgan Wallen, Garth Brooks, Taylor Swift & More Artists With Most Weeks at No. 1 on Top Country Albums Chart: Full List",
+    "link": "https://www.billboard.com/lists/top-country-albums-number-ones-biggest/",
+    "summary": "Male solo artists dominate, though three female solo artists and two groups have also achieved the feat.",
+    "full_text": false,
+    "categories": [
+      "Country",
+      "Music",
+      "Billboard Lists",
+      "Chart Beat",
+      "genre country"
+    ],
+    "published": "2026-11-01T20:49:13+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "466c837defa2de49",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Kid Rock Reveals He Used AI on New Song with Eminem",
+    "link": "https://consequence.net/2026/11/kid-rock-reveals-he-used-ai-on-song/",
+    "summary": "The newly minted Christian music artist told Bill Maher that using AI saved time when making the song. Kid Rock Reveals He Used AI on New Song with Eminem Travis Bland",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Music",
+      "News",
+      "AI",
+      "Hip-Hop",
+      "Rap",
+      "Real Time With Bill Maher"
+    ],
+    "published": "2026-11-01T20:21:25+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "dc09f95faddac321",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Rawayana Throws Venezuelan-Style Halloween Party in NYC, Feat. Guests Cheo Pardo & Yorghaki",
+    "link": "https://www.billboard.com/music/latin/rawayana-venezuelan-halloween-party-new-york-concert-review-1236371750/",
+    "summary": "Donning wigs and costumes, the trippy-pop band lit up Brooklyn's Barclays Center as part of their ¿Dónde Es El After? World Tour.",
+    "full_text": false,
+    "categories": [
+      "Latin",
+      "Music",
+      "Concerts",
+      "genre latin",
+      "Music News"
+    ],
+    "published": "2026-11-01T20:10:08+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "7787d684d9e64e63",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "My Chemical Romance Earns First No. 1 Album on Billboard 200 After ‘The Black Parade’ Reissue",
+    "link": "https://www.billboard.com/music/chart-beat/my-chemical-romance-number-one-billboard-200-black-parade-1236371717/",
+    "summary": "The Black Parade ’s 20-year-wait to reach No. 1 is the longest ever for an album.",
+    "full_text": false,
+    "categories": [
+      "Chart Beat",
+      "Music",
+      "Billboard 200",
+      "breaking",
+      "genre rock",
+      "Music News"
+    ],
+    "published": "2026-11-01T20:00:11+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "03c0ef7e676865d0",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Juan Atkins, Techno Pioneer and Cybotron Co-Founder, Dies at 64",
+    "link": "https://www.billboard.com/music/music-news/juan-atkins-death-techno-music-pioneer-cybotron-dies-1236371734/",
+    "summary": "The DJ and producer helped bring techno to a global audience through Cybotron, Model 500 and the Belleville Three.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "genre dance",
+      "nsfs",
+      "obituary"
+    ],
+    "published": "2026-11-01T19:42:47+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "d130288e43fa5f08",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Wu-Tang Clan to Headline Halftime Show of Detroit Lions’ Thanksgiving Day Game",
+    "link": "https://consequence.net/2026/11/wu-tang-clan-thanksgiving-day-lions-halftime-show/",
+    "summary": "The halftime show is being executive produced by Eminem. Wu-Tang Clan to Headline Halftime Show of Detroit Lions’ Thanksgiving Day Game Alex Young",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Music",
+      "News",
+      "Hip-Hop",
+      "NFL",
+      "Rap"
+    ],
+    "published": "2026-11-01T19:28:48+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "32413303c7a9fd76",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The First Billboard: All That Was ‘New, Bright & Interesting on the Boards’",
+    "link": "https://www.billboard.com/pro/first-billboard-issue-november-1-1894/",
+    "summary": "Looking back at Nov. 1, 1894, when Billboard published its first issue, one that's vastly different from today's magazine and expanded platforms.",
+    "full_text": false,
+    "categories": [
+      "Chart Beat",
+      "Music",
+      "Billboard"
+    ],
+    "published": "2026-11-01T18:58:55+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "be6379ca0a9c3745",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Harryween: The Best Photos From Harry Styles’ Final MSG Show",
+    "link": "https://www.rollingstone.com/music/music-pictures/harryween-harry-styles-photos-msg-1235650951/",
+    "summary": "The singer brought his record-breaking Together, Together residency to a close after 30 nights — and fans went all out.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Pictures",
+      "Harry Styles"
+    ],
+    "published": "2026-11-01T18:12:13+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "5129e4e588d89a9f",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Harry Styles Covers “Psycho Killer” on Final Night of MSG Residency",
+    "link": "https://consequence.net/2026/11/harry-styles-covers-psycho-killer/",
+    "summary": "The singer also donned a Pizza Rat costume and broke an arena record. Harry Styles Covers “Psycho Killer” on Final Night of MSG Residency Travis Bland",
+    "full_text": false,
+    "categories": [
+      "News Bites",
+      "Live",
+      "Music",
+      "Music News",
+      "News",
+      "Cover Song",
+      "Pop"
+    ],
+    "published": "2026-11-01T17:50:10+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "cae4c6f53e35107f",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Juan Atkins, Techno Music Pioneer, Dead at 64",
+    "link": "https://www.rollingstone.com/music/music-news/juan-atkins-techno-music-pioneer-cybotron-dead-obituary-1235651028/",
+    "summary": "The originator of Detroit techno, Atkins was a founding member of the pioneering electronic music duo Cybotron and released the influential \"No UFO's\" under his Model 500 moniker",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "cybotron",
+      "Juan Atkins",
+      "obit",
+      "Obituary",
+      "RSX"
+    ],
+    "published": "2026-11-01T17:17:49+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "c22ea930b8b8bcb2",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Best 2026 Halloween Costumes, From Paris Hilton as Britney Spears to Kim Kardashian as North West",
+    "link": "https://www.billboard.com/lists/best-halloween-costumes-paris-hilton-kim-kardashian/",
+    "summary": "Boo!",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "halloween"
+    ],
+    "published": "2026-11-01T17:05:55+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "e3b8344bfe4ec456",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Lost Daft Punk Mix From 1997 Discovered and Released",
+    "link": "https://consequence.net/2026/11/dj-uncovers-lost-daft-punk-mix/",
+    "summary": "The French EDM duo sent him the mix to DJ Ralph Lawson to promote their 1997 debut album. Lost Daft Punk Mix From 1997 Discovered and Released Travis Bland",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Music",
+      "News",
+      "Electronic"
+    ],
+    "published": "2026-11-01T16:53:42+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "3eb8d5f9e2e1deef",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Gracie Abrams (And David S. Pumpkins) Returns To SNL",
+    "link": "https://stereogum.com/2516238/gracie-abrams-and-david-s-pumpkins-returns-to-snl/news/",
+    "summary": "The post Gracie Abrams (And David S. Pumpkins) Returns To SNL appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Grace Reiter",
+      "Gracie Abrams",
+      "Inde Navarrette",
+      "Kelly Clarkson",
+      "Nicki Minaj",
+      "Saturday Night Live",
+      "Tom Hanks",
+      "Veronika Slowikowska"
+    ],
+    "published": "2026-11-01T16:50:27+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "c8832fe8e6678ac0",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Techno Pioneer Juan Atkins Has Died",
+    "link": "https://www.clashmusic.com/news/techno-pioneer-juan-atkins-has-died/",
+    "summary": "Detroit techno innovator Juan Atkins has died, it has been confirmed. The seminal electronic producer was a member of the Belleville Three, the trilogy of talents commonly attributed as the main architects of techno. A stunning voice in electronic music, Juan Atkins remained at the forefront, stretching the definitions of… The post Techno Pioneer Juan Atkins Has Died appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Juan Atkins"
+    ],
+    "published": "2026-11-01T16:37:18+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "93d8aac956f76596",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Brian May Clears Up Queen’s Live Future: ‘I’m on a Break’",
+    "link": "https://www.rollingstone.com/music/music-features/brian-may-interview-queen-live-budapest-1235651023/",
+    "summary": "In our new interview, the legendary Queen guitarist explains his thoughts on future live shows, while looking back at 'Flash Gordon' and the 'Queen Budapest' performance",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "Brian May",
+      "Queen",
+      "Roger Taylor",
+      "The Darkness"
+    ],
+    "published": "2026-11-01T16:17:49+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "b07a4f921a6ef476",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "BigXthaPlug Wrestles With Success on ‘Better Over Time’",
+    "link": "https://www.rollingstone.com/music/music-album-reviews/bigxthaplug-better-over-time-new-album-review-1235649228/",
+    "summary": "The Texas rapper is living large and making hits, but that doesn't always mean life is easy",
+    "full_text": false,
+    "categories": [
+      "Album Reviews",
+      "Music",
+      "bigxthaplug",
+      "Hip-Hop",
+      "Rap",
+      "Texas"
+    ],
+    "published": "2026-11-01T16:00:00+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "0adeb8e630dad585",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Juan Atkins, Co-Founder of Techno Music, Dies at 64",
+    "link": "https://pitchfork.com/story/juan-atkins-co-founder-of-techno-music-dies-at-64/",
+    "summary": "The Detroit producer and DJ pioneered the genre as a solo artist and member of the Belleville Three, Cybotron, and Borderland",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Obituary"
+    ],
+    "published": "2026-11-01T15:49:25+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "132dd2ca1a72942c",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Love Affair Singer Steve Ellis Has Died",
+    "link": "https://www.clashmusic.com/news/love-affair-singer-steve-ellis-has-died/",
+    "summary": "British singer Steve Ellis has died. Reports emerged earlier today – November 1st – suggesting the singer had passed away, and the sad news has now been confirmed through his official Facebook account. He was 76 years old. The statement reads: Dear Friends, It’s with a heavy heart that we… The post Love Affair Singer Steve Ellis Has Died appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Steve Ellis"
+    ],
+    "published": "2026-11-01T15:39:40+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "b6612d54fd63528f",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Billy Strings Plays He-Man-Themed Set Dressed As He-Man",
+    "link": "https://stereogum.com/2516231/billy-strings-plays-he-man-themed-set-dressed-as-he-man/news/",
+    "summary": "The post Billy Strings Plays He-Man-Themed Set Dressed As He-Man appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "4 Non Blondes",
+      "Billy Strings",
+      "Masters Of The Universe",
+      "Molly Tuttle",
+      "Slayer",
+      "Snap!"
+    ],
+    "published": "2026-11-01T15:34:14+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "85268604217cd449",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Harry Styles Wraps Up MSG Residency With Pizza Rat Costume, “Psycho Killer” Cover, Jalen Brunson",
+    "link": "https://stereogum.com/2516224/harry-styles-wraps-up-msg-residency-with-pizza-rat-costume-psycho-killer-cover-jalen-brunson/news/",
+    "summary": "The post Harry Styles Wraps Up MSG Residency With Pizza Rat Costume, “Psycho Killer” Cover, Jalen Brunson appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Harry Styles",
+      "Jalen Brunson",
+      "Zoë Kravitz"
+    ],
+    "published": "2026-11-01T14:31:42+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "ad15c829c343a9e6",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Parker McCollum Says He Wanted to Quit Country Music Right When His Career Was Taking Off",
+    "link": "https://www.rollingstone.com/music/music-features/parker-mccollum-interview-quitting-music-1235650478/",
+    "summary": "\"I hadn’t been writing and had just been dying out on the road,\" says the Texas songwriter, who surprise-released a rejuvenating acoustic album in October",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "Country Music",
+      "Parker McCollum",
+      "Texas music"
+    ],
+    "published": "2026-11-01T14:30:00+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "f70f3abe22db43cc",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Disabled Fans Say the Live-Music Industry Can Do Better: ‘We Are Not a Pain in the Ass’",
+    "link": "https://www.rollingstone.com/music/music-features/disabled-fans-live-music-industry-ada-compliance-1235566027/",
+    "summary": "The passage of the Americans With Disabilities Act in 1990 has fostered improvements in accessibility. But concertgoers and advocates say there's still a long way to go in reaching true equal access at shows",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "concerts",
+      "Disability",
+      "festivals",
+      "live music"
+    ],
+    "published": "2026-11-01T14:00:00+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
+    "id": "8c5c555412549039",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Michael Mann Accidentally Shoots Himself at Firing Range",
+    "link": "https://consequence.net/2026/11/michael-mann-shoots-himself-at-firing-range/",
+    "summary": "The director was taken by ambulance to a local hospital. Michael Mann Accidentally Shoots Himself at Firing Range Alex Young",
+    "full_text": false,
+    "categories": [
+      "News Bites",
+      "News",
+      "TV & Movie News",
+      "TV & Movies",
+      "Michael Mann"
+    ],
+    "published": "2026-11-01T13:55:20+00:00",
+    "collected": "2026-11-02T02:40:20.274890+00:00"
+  },
+  {
     "id": "f4428e596a30c8c5",
     "source": "NME",
     "source_type": "news",
@@ -8414,19 +9016,5 @@
     ],
     "published": "2026-10-05T16:19:13+00:00",
     "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "3be08d5132ca3ecf",
-    "source": "Pitchfork (track reviews)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "“Solar Eclipse”",
-    "link": "https://pitchfork.com/reviews/tracks/drake-don-toliver-solar-eclipse/",
-    "summary": "With Texas-born crooner Don Toliver at his side, Drake reworks Ella Langley’s country hit “Choosin’ Texas” into a lounge-trap slow burn.",
-    "categories": [
-      "Reviews / Tracks"
-    ],
-    "published": "2026-10-02T19:53:32+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
   }
 ]
