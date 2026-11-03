@@ -1,5 +1,1991 @@
 [
   {
+    "id": "51017d7b2bae2636",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Here’s Why the My Chemical Romance Lawsuit Really Ended, According to the Band’s Manager",
+    "link": "https://www.billboard.com/pro/my-chemical-romance-cowboys-cheerleaders-lawsuit-why-ended/",
+    "summary": "Court filings reveal a new explanation for why the high-profile legal dispute with the Dallas Cowboys Cheerleaders wrapped up so quickly.",
+    "full_text": false,
+    "categories": [
+      "Business",
+      "Legal News",
+      "lawsuit",
+      "Legal",
+      "Music News",
+      "rock"
+    ],
+    "published": "2026-11-03T02:04:19+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "152525bb4b6a265c",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Dallas Cowboys Cheerleaders Drop My Chemical Romance Lawsuit, but War of Words Rages On",
+    "link": "https://www.rollingstone.com/music/music-news/my-chemical-romance-dallas-cowboys-cheerleaders-uniforms-1235651651/",
+    "summary": "The cheer squad filed the dismissals Monday but added wording that still upset concert giant Live Nation",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "controversy",
+      "courts and crime",
+      "Live Nation",
+      "My Chemical Romance"
+    ],
+    "published": "2026-11-03T01:55:35+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "adc84c40c7ee6101",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Yella Beezy's Friend Admits He Lied in Grand Jury Testimony",
+    "link": "https://www.xxlmag.com/yella-beezy-friend-lied-grand-jury-trial/",
+    "summary": "Law&Crime Trials/YouTube (2)",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Mo3",
+      "Yella Beezy"
+    ],
+    "published": "2026-11-03T01:45:51+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "4db23462e26be46f",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Jingle Ball 2026: Buy Tickets to See Olivia Rodrigo, Sombr, KATSEYE, ADÉLA & More",
+    "link": "https://www.billboard.com/culture/product-recommendations/iheartradio-jingle-ball-2026-buy-tickets-online-shop-prices-1236372531/",
+    "summary": "iHeartRadio is coming back for its annual Jingle Ball with a nine-city tour across the U.S. Shop tickets here starting at $36.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "Billboard Family",
+      "iheartradio jingle ball",
+      "Jingle Ball",
+      "NOADS",
+      "shop",
+      "shopping",
+      "tickets"
+    ],
+    "published": "2026-11-03T01:32:47+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "32c6a052da614665",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "TWS: The Beauty of Growing Up Unscripted",
+    "link": "https://www.billboard.com/lists/tws-interview-to-us-growing-up-unscripted/",
+    "summary": "With their second single album TO US , SHINYU, DOHOON, YOUNGJAE, HANJIN, JIHOON & KYUNGMIN open up about growing up & embracing imperfections.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Pop",
+      "Billboard Korea",
+      "genre kpop",
+      "Global",
+      "Korea",
+      "Music News"
+    ],
+    "published": "2026-11-03T01:00:00+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "6946a618d7ceab55",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Justin Timberlake to Drop a Docuseries Featuring Janet Jackson Discussing Super Bowl Debacle",
+    "link": "https://www.rollingstone.com/music/music-news/justin-timberlake-docuseries-janet-jackson-super-bowl-1235651589/",
+    "summary": "The four-part Apple TV series will cover the infamous 2004 \"wardrobe malfunction\" during the halftime performance",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Janet Jackson",
+      "Justin Timberlake"
+    ],
+    "published": "2026-11-02T23:20:53+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "48027d4c4976bc7a",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Lil Durk Put In Solitary for Talking Back to Jail Staff - Report",
+    "link": "https://www.xxlmag.com/lil-durk-solitary-confinement-talking-back-jail-officers/",
+    "summary": "Darrin Klimek/iStock/Getty Images/Broward County Sheriff's Office",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Lil Durk"
+    ],
+    "published": "2026-11-02T23:01:04+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "a9c9c13c477470d3",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Justin Timberlake Prepping Four-Part “Tell-All” Docuseries Featuring Janet Jackson",
+    "link": "https://stereogum.com/2516399/justin-timberlake-prepping-four-part-tell-all-docuseries-featuring-janet-jackson/news/",
+    "summary": "The post Justin Timberlake Prepping Four-Part “Tell-All” Docuseries Featuring Janet Jackson appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Apple",
+      "Janet Jackson",
+      "Justin Timberlake"
+    ],
+    "published": "2026-11-02T22:55:32+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "85174fe66830440b",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Justin Timberlake to Release 4-Part Docuseries That Includes Janet Jackson as a Guest",
+    "link": "https://www.billboard.com/music/music-news/justin-timberlake-docuseries-janet-jackson-apple-tv-1236372543/",
+    "summary": "The project is set to arrive on Apple TV by the end of the year.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "genre pop",
+      "TV / Film"
+    ],
+    "published": "2026-11-02T22:55:05+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "7fda481f5db41b32",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Panchiko announces a new tour",
+    "link": "https://theneedledrop.com/news/panchiko-announces-a-new-tour/",
+    "summary": "This is in support of their upcoming album ‘Chimera.’",
+    "full_text": false,
+    "categories": [
+      "News",
+      "panchiko"
+    ],
+    "published": "2026-11-02T22:50:28+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "1f17b8a9cf1a688e",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Trent Reznor and Atticus Ross Scored ‘The Further Mis-Adventures of Cliff Booth’",
+    "link": "https://www.rollingstone.com/music/music-news/trent-reznor-atticus-ross-misadventures-cliff-booth-1235651484/",
+    "summary": "The Once Upon a Time ... in Hollywood spinoff directed by David Fincher hits theaters on Nov. 25 and Netflix in December",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "David Fincher",
+      "Trent Reznor and Atticus Ross"
+    ],
+    "published": "2026-11-02T22:49:49+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "86fc0742610c4879",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Tove Lo Extends “ESTRUS World Tour” with Spring 2027 US Dates",
+    "link": "https://consequence.net/2026/11/tove-lo-2027-us-tour-dates/",
+    "summary": "The spring run kicks off April 19th in Dallas and wraps May 7th at Red Rocks Amphitheatre in Colorado. Tove Lo Extends “ESTRUS World Tour” with Spring 2027 US Dates Alex Krinsky",
+    "full_text": false,
+    "categories": [
+      "Tour Dates",
+      "Music",
+      "Music News",
+      "News",
+      "2027 Tour Dates",
+      "Electronic",
+      "Pop"
+    ],
+    "published": "2026-11-02T22:42:03+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "ec9e801f3970b80c",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘Monday Night Football’ 2026: How to Watch Chicago Bears vs. Seattle Seahawks Live Online Free",
+    "link": "https://www.billboard.com/culture/product-recommendations/monday-night-football-2026-2027-watch-nfl-live-online-free-1236339452/",
+    "summary": "Watch the CHI Bears take on the SEA Seahawks on Monday, Nov. 2 — and possible celebrity sightings at the game.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "espn",
+      "how to watch",
+      "nfl",
+      "NOADS",
+      "sports"
+    ],
+    "published": "2026-11-02T22:24:51+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "87b46f6c58b40f7f",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Bruce Springsteen Backs Michigan’s Dr. Abdul El-Sayed for U.S. Senate Amid Haley Stevens Reversal: ‘He’s a Fighter’",
+    "link": "https://www.billboard.com/music/music-news/bruce-springsteen-michigan-abdul-el-sayed-us-senate-1236372511/",
+    "summary": "\"I’m in his corner 100%,\" the Boss said of the Democratic nominee.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "genre rock",
+      "nsfs",
+      "politics"
+    ],
+    "published": "2026-11-02T22:20:21+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "5bf1fbc7f181b906",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Spike Lee Invented the Red Yankees Hat That Fred Durst Made Famous: “He Didn’t Have It Before Me”",
+    "link": "https://consequence.net/2026/11/spike-lee-invented-red-yankees-hat-fred-durst/",
+    "summary": "The legendary director tells the story of how he got New Era to make a red Yankees hat. Spike Lee Invented the Red Yankees Hat That Fred Durst Made Famous: “He Didn’t Have It Before Me” Spencer Kaufman",
+    "full_text": false,
+    "categories": [
+      "Heavy Music News",
+      "Heavy Consequence",
+      "Music",
+      "News",
+      "Nu-Metal",
+      "Spike Lee"
+    ],
+    "published": "2026-11-02T22:15:35+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "cfad1914d088f920",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Ice Cube & Mike Epps Bring Craig & Day-Day Energy to New Podcast",
+    "link": "https://www.xxlmag.com/ice-cube-mike-epps-podcast-listen-and-laugh/",
+    "summary": "Listen and Laugh/YouTube",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Ice Cube",
+      "mike epps"
+    ],
+    "published": "2026-11-02T22:11:02+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "a49113f602eaec6e",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "New Music Releases and Upcoming Albums in 2026 and 2027",
+    "link": "https://pitchfork.com/news/new-album-releases/",
+    "summary": "A regularly updated guide to the new albums, EPs, mixtapes, and projects getting released in the coming weeks and months",
+    "full_text": false,
+    "categories": [
+      "News"
+    ],
+    "published": "2026-11-02T22:05:17+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "c6e8f02afccad9bc",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Taylor Swift’s Songs Written for Movies, Ranked (Critic’s Picks)",
+    "link": "https://www.billboard.com/lists/taylor-swift-movie-songs-ranked/",
+    "summary": "Swift’s soundtrack credits include Cats , The Hunger Games , Where the Crawdads Sing and more.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Pop",
+      "Music News",
+      "taylor swift"
+    ],
+    "published": "2026-11-02T22:05:00+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "7f5542fa2271bffb",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Tate McRae’s ‘Housewife’ Scores Second Week at No. 1 on Billboard Global Charts",
+    "link": "https://www.billboard.com/music/chart-beat/tate-mcrae-housewife-global-charts-nov-7-1236372344/",
+    "summary": "Plus, first top 10s for Jamie Miller and Felipe & Rodrigo.",
+    "full_text": false,
+    "categories": [
+      "Chart Beat",
+      "Music",
+      "breaking",
+      "genre pop",
+      "Music News"
+    ],
+    "published": "2026-11-02T21:58:02+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "960cb1d857a9f605",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Panchiko Announces 2027 US Tour Behind New Album Chimera",
+    "link": "https://consequence.net/2026/11/panchiko-2027-us-tour/",
+    "summary": "The run begins April 13th in San Antonio and includes stops in New York, Denver, Seattle, and Inglewood. Panchiko Announces 2027 US Tour Behind New Album Chimera Alex Krinsky",
+    "full_text": false,
+    "categories": [
+      "Tour Dates",
+      "Music",
+      "Music News",
+      "New Music Releases",
+      "News",
+      "2027 Tour Dates",
+      "Alternative Rock",
+      "Indie Rock"
+    ],
+    "published": "2026-11-02T21:43:45+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "1822e2d5e44046d6",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Steel Guitars by the Dozen: A Cultish Concert Pays Tribute to the Most Country Instrument of All",
+    "link": "https://www.rollingstone.com/music/music-features/steel-guitar-sho-bud-concert-slash-1235651450/",
+    "summary": "Slash, Marcus King, Robert Randolph, and \"Mr. Nashville Sound\" Lloyd Green gathered in Nashville for a celebration of the Sho-Bud pedal steel guitar",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "Ryman Auditorium",
+      "Slash"
+    ],
+    "published": "2026-11-02T21:42:26+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "a1cb245fe33c49e5",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Chastity Belt – “Friends For This”",
+    "link": "https://stereogum.com/2516394/chastity-belt-friends-for-this/music/",
+    "summary": "The post Chastity Belt – “Friends For This” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Chastity Belt"
+    ],
+    "published": "2026-11-02T21:26:54+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "4da8134121a1acb8",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Cardi B Tells Students to Pass Exams Without Using AI: ‘Don’t Ask ChatGPT for the Answer’",
+    "link": "https://www.billboard.com/music/rb-hip-hop/cardi-b-students-dont-use-ai-chatgpt-1236372365/",
+    "summary": "Cardi had a message for the students who attended Johns Hopkins University’s Hoptoberfest over the weekend.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "R&B/Hip-Hop",
+      "AI",
+      "genre hiphop",
+      "Music News"
+    ],
+    "published": "2026-11-02T21:14:47+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "d06ddfc1e43bd669",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Timbaland Sues Ex-Managers for $15M Over Accusations of ‘Financial Misconduct’",
+    "link": "https://www.billboard.com/pro/timbaland-lawsuit-ex-managers-financial-misconduct/",
+    "summary": "The veteran hitmaker claims his longtime manager and partner Gary Marella treated him like \"a piggy bank\" — accusations the manager strongly denies.",
+    "full_text": false,
+    "categories": [
+      "Business",
+      "Legal News",
+      "lawsuit",
+      "Legal",
+      "Music News"
+    ],
+    "published": "2026-11-02T21:11:23+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "2f91fcbfc8b07c2d",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Pixies Unearth Four Archival Tracks, Including Steve Albini Version of “Dig for Fire”",
+    "link": "https://consequence.net/2026/11/pixies-archival-tracks-dig-for-fire-albini/",
+    "summary": "The newly available tracks also include “Go Man Go,” a Black Francis and Kim Deal co-write, plus “Brackish Boy” and “Punk Loop.” Pixies Unearth Four Archival Tracks, Including Steve Albini Version of “Dig for Fire” Alex Krinsky",
+    "full_text": false,
+    "categories": [
+      "New Music Releases",
+      "Music",
+      "Music News",
+      "News",
+      "Alternative Rock",
+      "Indie Rock"
+    ],
+    "published": "2026-11-02T20:42:41+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "e5164bc0316ed52b",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "David Byrne Hails Argentina’s New Generation of Musicians in Latest Curated Playlist: “It’s a Moment!”",
+    "link": "https://consequence.net/2026/11/david-byrne-argentina-playlist/",
+    "summary": "The Talking Heads frontman celebrates a new wave of Argentine artists blending traditional sounds with hip-hop, punk, and electronic music. David Byrne Hails Argentina’s New Generation of Musicians in Latest Curated Playlist: “It’s a Moment!” Pedro Camacho",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Consequence Latino",
+      "News",
+      "Latin music",
+      "Latin Pop",
+      "Pop"
+    ],
+    "published": "2026-11-02T20:17:29+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "c2101d8aedb62b49",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Nettspend, Gracie Abrams, Factory Floor, and More: This Week’s Pitchfork Selects Playlist",
+    "link": "https://pitchfork.com/story/nettspend-gracie-abrams-factory-floor-pitchfork-selects-playlist-songs-of-the-week/",
+    "summary": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Pitchfork",
+      "Pitchfork Selects",
+      "Staff Picks"
+    ],
+    "published": "2026-11-02T20:13:06+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "6efb32a4746962b0",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Spotify's New AI Feature Lets Fans Remix Songs for an Extra $5",
+    "link": "https://www.xxlmag.com/spotify-ai-remix-feature/",
+    "summary": "Tero Vesalainen/iStock /Getty Images Plus/Spotify",
+    "full_text": false,
+    "categories": [
+      "News",
+      "spotify"
+    ],
+    "published": "2026-11-02T20:11:19+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "8382977f720b3300",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Jack Harlow Announces ‘Sweet Action II’ EP",
+    "link": "https://www.clashmusic.com/news/jack-harlow-announces-sweet-action-ii-ep/",
+    "summary": "Jack Harlow will release his new EP ‘Sweet Action II’ later this week. Out on November 6th, the EP follow the original ‘Sweet Action’ which was released six year ago. Since then, Jack Harlow has switched it up numerous times, entering the fashion world, sharing a no-holds-barred album, and then… The post Jack Harlow Announces ‘Sweet Action II’ EP appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Jack Harlow"
+    ],
+    "published": "2026-11-02T20:10:48+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "4cd842ef93add2a3",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Timbaland Sues Ex-Managers for $15 Million, Fires Back at Claim He Blew Fortune",
+    "link": "https://www.rollingstone.com/music/music-news/timbaland-sues-ex-managers-lawsuit-1235651347/",
+    "summary": "\"Holding someone accountable for the responsibilities they were hired and paid to perform is not shifting blame,\" a lawyer for the super-producer says",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "controversy",
+      "courts and crime",
+      "Justin Timberlake",
+      "Missy Elliott",
+      "Timbaland"
+    ],
+    "published": "2026-11-02T20:01:35+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "837d788f2dcddb40",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Viral Bar Owner Who Stole Conan’s Subway Takes Episode Is Back for More",
+    "link": "https://consequence.net/2026/11/debbie-shields-subway-takes-confessions-pod/",
+    "summary": "Shields also sounds off on last call, subway etiquette, and the “coughers, sneezers, and squeezers” keeping her off the train. The Viral Bar Owner Who Stole Conan’s Subway Takes Episode Is Back for More Alex Krinsky",
+    "full_text": false,
+    "categories": [
+      "Pop Culture News",
+      "News",
+      "Pop Culture",
+      "TV & Movie News",
+      "Subway Takes",
+      "Viral"
+    ],
+    "published": "2026-11-02T19:51:53+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "b16b0a8ead2411be",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "A Perfect Circle’s Billy Howerdel Auctioning 120-Plus Items of Gear and Memorabilia",
+    "link": "https://consequence.net/2026/11/a-perfect-circle-billy-howerdel-auction/",
+    "summary": "The collection, which features 123 items spanning a painting, guitars, amps, and even shirts, goes on sale November 8th. A Perfect Circle’s Billy Howerdel Auctioning 120-Plus Items of Gear and Memorabilia Langdon Hickman",
+    "full_text": false,
+    "categories": [
+      "Heavy Music News",
+      "Heavy Consequence",
+      "Music",
+      "Music Instruments and Gear",
+      "Music News",
+      "News",
+      "Alternative Rock",
+      "Hard Rock",
+      "Heavy Metal"
+    ],
+    "published": "2026-11-02T19:44:51+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "8fea71e270f2331b",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "KISS Shares 1977 ‘Makin’ Love’ Budokan Performance",
+    "link": "https://www.udiscovermusic.com/news/kiss-shares-1977-makin-love-budokan-performance/",
+    "summary": "The performance was filmed during KISS’ first tour of Japan.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Kiss",
+      "Makin' Love",
+      "Rock",
+      "Rock And Roll Over"
+    ],
+    "published": "2026-11-02T19:42:03+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "5825acb08ad5a5b1",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Anna Meredith Scores New Film ‘Wicker’",
+    "link": "https://www.udiscovermusic.com/news/anna-meredith-wicker-soundtrack/",
+    "summary": "The composer built the score around strings and a range of recorders, including a 7-foot contrabass.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Anna Meredith",
+      "Escape On Cart",
+      "Homepage Featured",
+      "Mercury KX",
+      "Soundtracks",
+      "Wicker"
+    ],
+    "published": "2026-11-02T19:36:21+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "4dfec2e5ead79cba",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Florence + The Machine Announce Live Tour Album",
+    "link": "https://www.udiscovermusic.com/news/florence-the-machine-live-tour-album/",
+    "summary": "The release follows the tour’s North American and UK/EU legs earlier this year.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Alternative",
+      "Everybody Scream Tour",
+      "Everybody Scream Tour Live",
+      "Florence + The Machine",
+      "Homepage Featured",
+      "Live Music",
+      "Vinyl",
+      "Which Witch"
+    ],
+    "published": "2026-11-02T19:33:45+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "cce50cdb14ce7dd5",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Godzilla Minus Zero Review: Bigger, Louder, Chonkier, and Beautiful",
+    "link": "https://consequence.net/2026/11/godzilla-minus-zero-review-takashi-yamazaki/",
+    "summary": "The sequel to the Oscar-winning Minus One captures everything that made the first movie so glorious. Godzilla Minus Zero Review: Bigger, Louder, Chonkier, and Beautiful Liz Shannon Miller",
+    "full_text": false,
+    "categories": [
+      "TV & Movie Reviews",
+      "Movie Reviews",
+      "Reviews",
+      "TV & Movies",
+      "Godzilla"
+    ],
+    "published": "2026-11-02T19:32:08+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "20287fe7c191e488",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Two Def Leppard Music Videos Join Pause Collection",
+    "link": "https://www.udiscovermusic.com/news/def-leppard-puse-collection/",
+    "summary": "Limited-edition art prints of stills from 'Pour Some Sugar on Me' and 'Photograph' are available to purchase now.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Art",
+      "Def Leppard",
+      "Homepage Featured",
+      "Pause",
+      "Photograph",
+      "Pour Some Sugar On Me",
+      "Rock"
+    ],
+    "published": "2026-11-02T19:28:27+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "6034455df19ec2bb",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "nate sib and The Kid LAROI Remix ‘Face Card’",
+    "link": "https://www.udiscovermusic.com/news/nate-sib-face-card/",
+    "summary": "The remix adds The Kid LAROI to a song from nate sib’s debut album, 'Reborn.'",
+    "full_text": false,
+    "categories": [
+      "News",
+      "A Perfect World Tour",
+      "Face Card",
+      "Homepage Featured",
+      "Music Videos",
+      "Nate Sib",
+      "Pop",
+      "Reborn",
+      "The Kid LAROI"
+    ],
+    "published": "2026-11-02T19:10:14+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "468e76e62fceff9b",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Cardi B Condemns Bullying in NYC After Javits Frimpong's Death",
+    "link": "https://www.xxlmag.com/cardi-b-condemns-bullying-javits-frimpong-murder/",
+    "summary": "Arnold Jerocki/Getty Images for Vogue/Courtesy of Thomas Frimprong",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Cardi B"
+    ],
+    "published": "2026-11-02T19:10:13+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "626ba2bb6cc86c5d",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Boy Throb Announce 2027 North American Tour",
+    "link": "https://consequence.net/2026/11/boy-throb-2027-north-american-tour/",
+    "summary": "Now with fourth member Darshan Magdum officially joining the group in the United States, the 20-date outing marks Boy Throb's first tour as a quartet. Boy Throb Announce 2027 North American Tour Paolo Ragusa",
+    "full_text": false,
+    "categories": [
+      "Tour Dates",
+      "Music",
+      "Music News",
+      "News",
+      "2027 Tour Dates",
+      "Pop"
+    ],
+    "published": "2026-11-02T19:07:45+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "815443e588c1023a",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Carter Faith Releases ‘Still The Sparrow Sings’ From ‘Heartland’",
+    "link": "https://www.udiscovermusic.com/news/carter-faith-still-the-sparrow-sings/",
+    "summary": "The song appears on the forthcoming soundtrack to Netflix’s 'Heartland,' starring Jessica Chastain.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Awards",
+      "Carter Faith",
+      "Cherry Valley Forever Tour",
+      "Country",
+      "Heartland",
+      "Homepage Featured",
+      "Live Music",
+      "Music Videos",
+      "Soundtracks",
+      "Still The Sparrow Sings"
+    ],
+    "published": "2026-11-02T18:48:11+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "5209b3623d67e5bb",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Deep Purple’s Ian Gillan Gives Update After “Medical Emergency,” Band Postpones Remainder of Tour",
+    "link": "https://consequence.net/2026/11/deep-purple-ian-gillan-update-medical-emergency/",
+    "summary": "The singer's has been advised to refrain from touring due to \"very serious risks.\" Deep Purple’s Ian Gillan Gives Update After “Medical Emergency,” Band Postpones Remainder of Tour Spencer Kaufman",
+    "full_text": false,
+    "categories": [
+      "Heavy Music News",
+      "Heavy Consequence",
+      "Music",
+      "Music News",
+      "News",
+      "Classic Rock",
+      "Hard Rock"
+    ],
+    "published": "2026-11-02T18:44:34+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "1afc2c352c0e39a3",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Trent Reznor and Atticus Ross Are Back at It (Scoring David Fincher Movies)",
+    "link": "https://pitchfork.com/story/trent-reznor-and-atticus-ross-david-fincher-mis-adventures-of-cliff-booth/",
+    "summary": "The duo’s work on The Further Mis-Adventures of Cliff Booth will be their sixth collaboration",
+    "full_text": false,
+    "categories": [
+      "News"
+    ],
+    "published": "2026-11-02T18:39:08+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "91068291895f7bb0",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "David Mamet, Andy Garcia, Paul Anka Consent to Receive 2026 Kennedy Center Honors",
+    "link": "https://consequence.net/2026/11/2026-kennedy-center-honors-david-mamet-andy-garcia/",
+    "summary": "The stars willing to receive an award from the Trump-controlled cultural institution also include singers Barbara Mandrell and Paul Anka. David Mamet, Andy Garcia, Paul Anka Consent to Receive 2026 Kennedy Center Honors Liz Shannon Miller",
+    "full_text": false,
+    "categories": [
+      "TV & Movie News",
+      "Music",
+      "Music News",
+      "News",
+      "TV & Movies",
+      "Andy Garcia",
+      "David Mamet"
+    ],
+    "published": "2026-11-02T18:10:36+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "4617644ce04c4191",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Kennedy Center 2026 Honorees Include Paul Anka, Barbara Mandrell, David Foster",
+    "link": "https://stereogum.com/2516347/kennedy-center-2026-honorees-include-paul-anka-barbara-mandrell-david-foster/news/",
+    "summary": "The post Kennedy Center 2026 Honorees Include Paul Anka, Barbara Mandrell, David Foster appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Barbara Mandrell",
+      "David Foster",
+      "Kennedy Center Honors",
+      "Paul Anka"
+    ],
+    "published": "2026-11-02T18:06:51+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "27879f8500d24a79",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "My Chemical Romance’s Black Parade First Anniversary Reissue to Ever Top Billboard 200",
+    "link": "https://consequence.net/2026/11/my-chemical-romance-anniversay-reissue-debut-1-billboard/",
+    "summary": "The release also saw the band net their first UK number 1. My Chemical Romance’s Black Parade First Anniversary Reissue to Ever Top Billboard 200 Langdon Hickman",
+    "full_text": false,
+    "categories": [
+      "Heavy Music News",
+      "Heavy Consequence",
+      "Music",
+      "Music News",
+      "News",
+      "Alternative Rock",
+      "Emo",
+      "Pop Punk"
+    ],
+    "published": "2026-11-02T18:06:25+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "39adb6b950598014",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Sleeper Hit Support Group: \"Medicine\" by Megan Moroney",
+    "link": "https://theneedledrop.com/sleeper-hit-support-group-medicine-by-megan-moroney/",
+    "summary": "\"I'm far from the first person to make this comparison, but Moroney feels like an alternate universe version of Taylor Swift that never left country.\"",
+    "full_text": false,
+    "categories": [
+      "Editorial",
+      "sleeper hit support group",
+      "megan moroney"
+    ],
+    "published": "2026-11-02T18:05:00+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "9b0dd965a4c1bd9c",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Aerosmith Bring Out Run-DMC, Alice in Chains Members, and More Friends to Rock Night Two at Hollywood Bowl: Review + Setlist",
+    "link": "https://consequence.net/2026/11/aerosmith-hollywood-bowl-night-two-review-setlist/",
+    "summary": "Lzzy Hale, Tom Morello, Grace Potter, Marcus King, and Train’s Pat Monahan also joined the rockers for night two of their comeback concerts. Aerosmith Bring Out Run-DMC, Alice in Chains Members, and More Friends to Rock Night Two at Hollywood Bowl: Review + Setlist Nika Clelland",
+    "full_text": false,
+    "categories": [
+      "Concert Reviews",
+      "Heavy Consequence",
+      "Live",
+      "Music",
+      "News",
+      "Reviews",
+      "Classic Rock",
+      "Hard Rock"
+    ],
+    "published": "2026-11-02T18:03:15+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "96a878426663a74b",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Listen To Maiya Blaney’s Understated Mary Bed EP",
+    "link": "https://stereogum.com/2516313/listen-to-maiya-blaneys-understated-mary-bed-ep/music/",
+    "summary": "The post Listen To Maiya Blaney’s Understated <em>Mary Bed</em> EP appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Maiya Blaney"
+    ],
+    "published": "2026-11-02T18:00:12+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "b6061358d608ee21",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Drake Pulling Up to Ye's Show Was Not on Anyone's Bingo Card",
+    "link": "https://www.xxlmag.com/drake-kanye-west-houston-show/",
+    "summary": "yzyupdates/X/Marcus Ingram/Getty Images",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Drake",
+      "Kanye West"
+    ],
+    "published": "2026-11-02T17:58:53+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "36c7f200456e9118",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Starcleaner Reunion Are Building Their Own Little Universe",
+    "link": "https://www.clashmusic.com/features/starcleaner-reunion-are-building-their-own-little-universe/",
+    "summary": "There’s something otherworldly about Starcleaner Reunion. The New York four-piece first bonded over a shared love of Brazilian psychedelia, C86 jangle and ’90s noise, influences that have followed them through years of making music together. Their sound sits somewhere between nostalgia and futurism, a quality that comes into focus on… The post Starcleaner Reunion Are Building Their Own Little Universe appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "Features",
+      "Starcleaner Reunion"
+    ],
+    "published": "2026-11-02T17:50:06+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "d04089b802eba92d",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Scorpions Announce 2027 Tour Following Postponement of 2026 Dates",
+    "link": "https://consequence.net/2026/11/scorpions-2027-tour/",
+    "summary": "The shows kick off in late April and run through until July as the \"Peace, Love, and Rock N' Roll Tour.\" Scorpions Announce 2027 Tour Following Postponement of 2026 Dates Langdon Hickman",
+    "full_text": false,
+    "categories": [
+      "Heavy Music News",
+      "Heavy Consequence",
+      "Heavy Music Concerts",
+      "Live",
+      "Music",
+      "Music News",
+      "News",
+      "Tour Dates",
+      "Classic Rock",
+      "Hard Rock",
+      "Heavy Metal"
+    ],
+    "published": "2026-11-02T17:50:05+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "8c8a127269262d9f",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Andy Garcia, David Foster, Paul Anka Lead Kennedy Center Honors",
+    "link": "https://www.rollingstone.com/music/music-news/andy-garcia-david-foster-paul-anka-kennedy-center-honors-1235651317/",
+    "summary": "David Mamet and Barbara Mandrell are also honorees for this year’s event that will be celebrated on Dec. 7",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Andy Garcia",
+      "Barbara Mandrell",
+      "David Mamet",
+      "Paul Anka"
+    ],
+    "published": "2026-11-02T17:49:03+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "d4f2f4083963d7c2",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Joshua Idehen – “Say Less”",
+    "link": "https://stereogum.com/2516336/joshua-idehen-say-less/music/",
+    "summary": "The post Joshua Idehen – “Say Less” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Joe Goddard",
+      "Joshua Idehen"
+    ],
+    "published": "2026-11-02T17:48:00+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "63602afe6ce94f73",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Olivia Rodrigo Announces New Holiday Single “take me home (4 christmas)”",
+    "link": "https://consequence.net/2026/11/olivia-rodrigo-take-me-home-4-christmas-holiday-song/",
+    "summary": "Rodrigo's first-ever holiday song arrives on Thursday, November 5th. Olivia Rodrigo Announces New Holiday Single “take me home (4 christmas)” Paolo Ragusa",
+    "full_text": false,
+    "categories": [
+      "News Bites",
+      "Music",
+      "Music News",
+      "News",
+      "Christmas Music",
+      "Pop"
+    ],
+    "published": "2026-11-02T17:36:24+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "737bb8cc752482aa",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Band To Watch: RIP Magic",
+    "link": "https://stereogum.com/2516252/band-to-watch-rip-magic/interviews/band-to-watch/",
+    "summary": "The post Band To Watch: RIP Magic appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "Band To Watch",
+      "Interviews",
+      "RIP Magic"
+    ],
+    "published": "2026-11-02T17:31:04+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "4fae0f143cfd744e",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Sufjan Stevens releases new single “On This Christmas (It Only Gets Better)”",
+    "link": "https://theneedledrop.com/news/sufjan-stevens-releases-new-single-on-this-christmas-it-only-gets-better/",
+    "summary": "His holiday compilation album is out November 6.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "sufjan stevens"
+    ],
+    "published": "2026-11-02T17:29:49+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "462907a4b42d9973",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Olivia Rodrigo Confirms Festive Single ‘Take Me Home (4 Christmas)’",
+    "link": "https://www.clashmusic.com/news/olivia-rodrigo-confirms-festive-single-take-me-home-4-christmas/",
+    "summary": "Olivia Rodrigo has confirmed plans for a new festive single called ”Take Me Home (4 Christmas)’. The American star hasn’t put a foot wrong this year, with her album ‘you seem pretty sad for a girl so in love’ topping the charts in 17 different countries. A massive international success,… The post Olivia Rodrigo Confirms Festive Single ‘Take Me Home (4 Christmas)’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Olivia Rodrigo"
+    ],
+    "published": "2026-11-02T17:23:44+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "205d84a269b90bfa",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Computerwife – “Hammered”",
+    "link": "https://stereogum.com/2516335/computerwife-hammered-born-from-a-wish/music/",
+    "summary": "The post Computerwife – “Hammered” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Computerwife"
+    ],
+    "published": "2026-11-02T17:19:06+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "119b7b56840a46fc",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Deep Purple Postpone European Tour Following Ian Gillan Health Emergency",
+    "link": "https://www.clashmusic.com/news/deep-purple-postpone-european-tour-following-ian-gillan-health-emergency/",
+    "summary": "Deep Purple have been forced to postpone the remaining dates on their European tour. The legendary hard rock group returned this year, with the sprightly full length ‘SPLAT!’ turning the volume up once more. Rapturously received by fans, Deep Purple tapped back in to their roots for a record that… The post Deep Purple Postpone European Tour Following Ian Gillan Health Emergency appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Deep Purple"
+    ],
+    "published": "2026-11-02T17:09:44+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "d661e9d80d8ccdb4",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Interpol announce intimate London replacement show after Bloc Party co-headline gig cancelled",
+    "link": "https://www.nme.com/news/music/interpol-london-olympia-british-airways-arc-bloc-party-replacement-show-tickets-3974851?utm_source=rss&utm_medium=rss&utm_campaign=interpol-london-olympia-british-airways-arc-bloc-party-replacement-show-tickets",
+    "summary": "\"This intimate show is a way for us to celebrate ‘This Mirror Weighs A Ton’ with fans before touring further in 2027\" The post Interpol announce intimate London replacement show after Bloc Party co-headline gig cancelled appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News"
+    ],
+    "published": "2026-11-02T17:08:50+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "d4cb4608f3312087",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Harry Styles cover Talking Heads’ ‘Psycho Killer’ (and dress as NYC ‘pizza rat’) at final night of MSG residency",
+    "link": "https://www.nme.com/news/music/watch-harry-styles-cover-talking-heads-psycho-killer-and-dress-as-nyc-pizza-rat-at-final-night-of-msg-residency-3974850?utm_source=rss&utm_medium=rss&utm_campaign=watch-harry-styles-cover-talking-heads-psycho-killer-and-dress-as-nyc-pizza-rat-at-final-night-of-msg-residency",
+    "summary": "NBA star Jalen Brunson also came out as a special guest to celebrate Styles completing 30 shows at the venue The post Watch Harry Styles cover Talking Heads’ ‘Psycho Killer’ (and dress as NYC ‘pizza rat’) at final night of MSG residency appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Pop"
+    ],
+    "published": "2026-11-02T17:05:36+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "63b8abe682404796",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Kings of Leon, Ella Langley, Flo Rida Tapped for Morgan Wallen’s Sand in My Boots Fest",
+    "link": "https://www.rollingstone.com/music/music-country/morgan-wallen-kings-of-leon-sand-in-my-boots-lineup-1235651282/",
+    "summary": "Kygo, Empire of the Sun, Nelly and more will perform at festival returning to Gulf Shores, Alabama in May",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Country",
+      "Ella Langley",
+      "Flo Rida",
+      "Kings Of Leon",
+      "Morgan Wallen"
+    ],
+    "published": "2026-11-02T17:00:28+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "5bbfc4ef60adf645",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Zach Bryan’s New Song Is a Cover By an Obscure Kentucky Songwriter",
+    "link": "https://www.rollingstone.com/music/music-country/zach-bryan-covers-kentucky-hurricane-ian-noe-1235651328/",
+    "summary": "Bryan interprets “Kentucky Hurricane,” off Ian Noe's Canyon Falls Trailer Band album, in a new video he uploaded to YouTube",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Country",
+      "Ian Noe",
+      "Zach Bryan"
+    ],
+    "published": "2026-11-02T16:59:21+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "1900316884459d21",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Primavera Sound Barcelona 2027 unveils its day by day schedule",
+    "link": "https://theneedledrop.com/news/primavera-sound-barcelona-2027-lineup-by-day/",
+    "summary": "The festival returns next year for its 25th edition at Parc del Fòrum, running June 3 to 5.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "primavera sound"
+    ],
+    "published": "2026-11-02T16:55:18+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "3726f14d5a8e0e33",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Oso Oso – “the facts”",
+    "link": "https://stereogum.com/2516332/oso-oso-the-facts/music/",
+    "summary": "The post Oso Oso – “the facts” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Oso Oso"
+    ],
+    "published": "2026-11-02T16:51:09+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "4262e452ad993f5b",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Kevin Saunderson and Derrick May Honor Belleville Three ‘Brother’ Juan Atkins",
+    "link": "https://www.rollingstone.com/music/music-news/juan-atkins-tribute-derrick-may-kevin-saunderson-techno-1235651287/",
+    "summary": "“We shared a journey that changed music forever,” Saunderson wrote of his friend and fellow techno pioneer",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Juan Atkins",
+      "Techno"
+    ],
+    "published": "2026-11-02T16:43:53+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "1eb2de0f875cab7a",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Steven Tyler Addresses Bill Burr’s Claim That Aerosmith Won’t Play More Shows",
+    "link": "https://stereogum.com/2516327/steven-tyler-addresses-bill-burrs-claim-that-aerosmith-wont-play-more-shows/news/",
+    "summary": "The post Steven Tyler Addresses Bill Burr’s Claim That Aerosmith Won’t Play More Shows appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Aerosmith",
+      "Bill Burr",
+      "Steven Tyler"
+    ],
+    "published": "2026-11-02T16:38:51+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "3df3112eb5ec9fc7",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Sexyy Red, Maino, Coi Leray & More Dress Up in Halloween Costumes",
+    "link": "https://www.xxlmag.com/rappers-halloween-costumes-2026/",
+    "summary": "Zou Zheng/Xinhua via Getty Images/CoiLeray/Instagram/mainohustlehard/Instagram/sexyyred/Instagram/joeybadass/Instagram",
+    "full_text": false,
+    "categories": [
+      "News",
+      "50 Cent",
+      "Alicia Keys",
+      "Bow Wow",
+      "Chief Keef",
+      "Ciara",
+      "Coi Leray",
+      "Dave East",
+      "Doja Cat",
+      "Eazy-E",
+      "G Herbo",
+      "GloRilla",
+      "Ice Spice",
+      "Jim Jones",
+      "Joey Bada$$",
+      "Juelz Santana",
+      "Latto",
+      "Ludacris",
+      "Maino",
+      "Molly Santana",
+      "Queen Latifah",
+      "Scar Lip",
+      "Sexyy Red",
+      "Slick Rick",
+      "Swizz Beatz",
+      "The Game"
+    ],
+    "published": "2026-11-02T16:35:59+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "c85e28e5bf7cb394",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Britney Spears Says Kevin Federline and Jamie Lynn Spears Made Her ‘Feel Like a Slave’",
+    "link": "https://www.rollingstone.com/music/music-news/britney-spears-find-a-new-family-1235651260/",
+    "summary": "Spears alleged her sister wouldn’t let her hold her daughter Ivey, says she “will find a new family”",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Britney Spears",
+      "Jamie Lynn Spears",
+      "Kevin Federline"
+    ],
+    "published": "2026-11-02T16:32:46+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "e5afc698d9a30a73",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Their Library: Gloria de Oliveira",
+    "link": "https://www.clashmusic.com/features/their-library-gloria-de-oliveira/",
+    "summary": "Gloria de Oliveira’s songwriting seems to construct entire realms with just a few notes. The Brazilian-German artist relishes subtlety, and recently combined with producer Randall Dunn – known for his work with Anna von Hausswolf, Marissa Nadler and beyond – to forge something new. Out now, ‘The Lying Swans’ sits… The post Their Library: Gloria de Oliveira appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "Features",
+      "Gloria de Oliveira"
+    ],
+    "published": "2026-11-02T16:30:20+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "f7c4ff2843f0b3eb",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Yaeji Plots a Dance Dance Revolution in New Single “DDR”",
+    "link": "https://pitchfork.com/story/yaeji-plots-a-dance-dance-revolution-in-new-ddr-video/",
+    "summary": "The singer-producer’s first song of the year is a collaboration with Enayet and K Wata",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Video"
+    ],
+    "published": "2026-11-02T16:27:19+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "68b92289a586a4ef",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Wiki Drops New Mixtape Papiseed Street Vol. 2",
+    "link": "https://stereogum.com/2516316/wiki-drops-new-mixtape-papiseed-street-vol-2/music/",
+    "summary": "The post Wiki Drops New Mixtape <em>Papiseed Street Vol. 2</em> appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Wiki"
+    ],
+    "published": "2026-11-02T16:02:54+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "a5494d43af86dcc3",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "smush – “john dearly”",
+    "link": "https://stereogum.com/2516309/smush-john-dearly/news/",
+    "summary": "The post smush – “john dearly” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Smush"
+    ],
+    "published": "2026-11-02T15:45:32+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "d6d24a19898d4295",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Bill Bailey turned into Dwarf for ‘World of Warcraft’ nature doc parody ‘Planet Azeroth’",
+    "link": "https://www.nme.com/news/gaming-news/bill-bailey-turned-into-dwarf-for-world-of-warcraft-nature-doc-parody-planet-azeroth-3974837?utm_source=rss&utm_medium=rss&utm_campaign=bill-bailey-turned-into-dwarf-for-world-of-warcraft-nature-doc-parody-planet-azeroth",
+    "summary": "The British comedy legend is taking on David Attenborough at his own game The post Bill Bailey turned into Dwarf for ‘World of Warcraft’ nature doc parody ‘Planet Azeroth’ appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Gaming News",
+      "News"
+    ],
+    "published": "2026-11-02T15:45:20+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "3090bad32b7f441c",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Listen to Sam Smith and Jacob Lusk’s ‘My Guy’",
+    "link": "https://www.udiscovermusic.com/news/sam-smith-jacob-lusk-my-guy/",
+    "summary": "The new version pairs Lusk’s lead on the second verse with Smith’s vocal harmonies.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Capitol Records",
+      "Hazel Eyes",
+      "Homepage Featured",
+      "Jacob Lusk",
+      "Live Music",
+      "Music Videos",
+      "My Guy",
+      "Pop",
+      "R&B",
+      "Sam Smith"
+    ],
+    "published": "2026-11-02T15:43:02+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "8a57d593f98576d5",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Preservation Hall Jazz Band Joins Lauren Daigle for Christmas Songs",
+    "link": "https://www.udiscovermusic.com/news/lauren-daigle-christmas-songs/",
+    "summary": "The New Orleans native recorded two holiday standards with the Preservation Hall Jazz Band.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Go Tell It On The Mountain",
+      "Homepage Featured",
+      "Lauren Daigle",
+      "Pop",
+      "Preservation Hall Jazz Band",
+      "Sleigh Ride",
+      "The Behold Christmas Tour",
+      "Vinyl"
+    ],
+    "published": "2026-11-02T15:38:53+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "f69a3c7820f74f1d",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Detroit techno co-founder Juan Atkins has died at 64",
+    "link": "https://theneedledrop.com/news/detroit-techno-founder-juan-atkins-has-died-at-64/",
+    "summary": "The techno genre pioneer was set to perform a set in Mexico City.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "juan atkins"
+    ],
+    "published": "2026-11-02T15:36:35+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "f8f2325e8da45f1d",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Will Linley Releases New EP ‘Could This Be Forever?’",
+    "link": "https://www.udiscovermusic.com/news/will-linley-could-this-be-forever/",
+    "summary": "The South African songwriter’s five-song collection moves between acoustic pop and alternative sounds.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Could This Be Forever?",
+      "Homepage Featured",
+      "Island Records",
+      "Life of the Party",
+      "Pop",
+      "What If It Happens",
+      "Will Linley"
+    ],
+    "published": "2026-11-02T15:31:21+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "192aa2b42a87710b",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Yaeji – “ddr”",
+    "link": "https://stereogum.com/2516296/yaeji-ddr/music/",
+    "summary": "The post Yaeji – “ddr” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Enayet",
+      "Giseong Jun",
+      "K Wata",
+      "Yaeji"
+    ],
+    "published": "2026-11-02T15:23:15+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "587d4a8e638508c5",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Naya Yeira Finds Soulful Renewal On New EP ‘almost there’",
+    "link": "https://www.clashmusic.com/news/naya-yeira-finds-soulful-renewal-on-new-ep-almost-there/",
+    "summary": "Naya Yeira has shared her new EP ‘almost there’ in full. The songwriter digs deep on the EP, which represents her biggest body of work yet. A substantial piece of alt-soul autobiography, it was recorded in London, with Naya working in the studio alongside Sean Hamilton. Focus single ‘spiders’ speaks… The post Naya Yeira Finds Soulful Renewal On New EP ‘almost there’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Naya Yeira"
+    ],
+    "published": "2026-11-02T15:17:36+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "567e24e667e472e9",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "My Chemical Romance Land First #1 Album With The Black Parade 20 Years After Its Original Release",
+    "link": "https://stereogum.com/2516272/my-chemical-romance-land-first-1-album-with-the-black-parade-20-years-after-its-original-release/news/",
+    "summary": "The post My Chemical Romance Land First #1 Album With <em>The Black Parade</em> 20 Years After Its Original Release appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Drake",
+      "Ella Langley",
+      "Morgan Wallen",
+      "My Chemical Romance",
+      "Noah Kahan",
+      "Olivia Dean",
+      "Olivia Rodrigo",
+      "Taylor Swift",
+      "Zach Bryan"
+    ],
+    "published": "2026-11-02T15:14:13+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "0b1b73218ea5d759",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Sufjan Stevens – “On This Christmas (It Only Gets Better)”",
+    "link": "https://stereogum.com/2516288/sufjan-stevens-on-this-christmas-it-only-gets-better/music/",
+    "summary": "The post Sufjan Stevens – “On This Christmas (It Only Gets Better)” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Sufjan Stevens"
+    ],
+    "published": "2026-11-02T15:12:36+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "9088095ac1dc7303",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Listen to Sufjan Stevens’ New Song “On This Christmas (It Only Gets Better)”",
+    "link": "https://pitchfork.com/story/listen-to-sufjan-stevens-new-song-on-this-christmas-it-only-gets-better/",
+    "summary": "He dug into the vault for his holiday compilation Worst Christmas Ever!",
+    "full_text": false,
+    "categories": [
+      "News",
+      "New Releases",
+      "Audio"
+    ],
+    "published": "2026-11-02T15:07:32+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "6cd059738a74c536",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Techno Pioneer Juan Atkins Dead At 64",
+    "link": "https://stereogum.com/2516275/techno-pioneer-juan-atkins-dead-at-64/news/",
+    "summary": "The post Techno Pioneer Juan Atkins Dead At 64 appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Cybotron",
+      "Infiniti",
+      "Juan Atkins",
+      "Model 500",
+      "The Belleville Three"
+    ],
+    "published": "2026-11-02T14:55:38+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "9654d457cab0eb31",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Bess Atwell Introduces New Album ‘Cut A Figure’",
+    "link": "https://www.clashmusic.com/news/bess-atwell-introduces-new-album-cut-a-figure/",
+    "summary": "Bess Atwell has shared plans for her new album ‘Cut A Figure’. The UK artist has a yearning to travel, with The National’s Aaron Dessner overseeing her ace 2024 album ‘Light Sleeper’. “The songs I really enjoyed performing from my last record were the rare moments where I put down… The post Bess Atwell Introduces New Album ‘Cut A Figure’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Bess Atwell"
+    ],
+    "published": "2026-11-02T14:40:11+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "33d67db63e66172d",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Wednesday Covered Deftones, ‘Til Tuesday, & More In Addams Family Costumes",
+    "link": "https://stereogum.com/2516273/wednesday-covered-deftones-til-tuesday-more-in-addams-family-costumes/news/",
+    "summary": "The post Wednesday Covered Deftones, ‘Til Tuesday, & More In Addams Family Costumes appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "'Til Tuesday",
+      "Big Star",
+      "Deftones",
+      "Flyleaf",
+      "Gary Stewart",
+      "Lucinda Williams",
+      "Snail Mail",
+      "Tanner York",
+      "The Addams Family",
+      "The Cranberries",
+      "Unwound",
+      "Wednesday"
+    ],
+    "published": "2026-11-02T14:37:25+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "128eb8ce2cd3bf72",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "50 Cent’s ‘Many Men’ Joins Spotify Billions Club",
+    "link": "https://www.udiscovermusic.com/news/50-cent-many-men-spotify-billions-club/",
+    "summary": "The track comes from the rapper’s debut album ‘Get Rich Or Die Tryin’.’",
+    "full_text": false,
+    "categories": [
+      "News",
+      "50 Cent",
+      "Get Rich Or Die Tryin",
+      "Hip-Hop",
+      "Many Men",
+      "Spotify Billions Club"
+    ],
+    "published": "2026-11-02T14:10:29+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "cd93519ebe0d43d0",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Elton John’s ‘Sacrifice’ Video Surpasses One Billion YouTube Views",
+    "link": "https://www.udiscovermusic.com/news/elton-john-sacrifice-youtube-billion-views/",
+    "summary": "The 1989 ballad becomes the pop legend’s first music video to reach this milestone.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Elton John",
+      "Homepage Featured",
+      "Rock",
+      "Sacrifice",
+      "Sleeping With The Past",
+      "YouTube"
+    ],
+    "published": "2026-11-02T14:08:51+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "c6f7f600edfdbf39",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Alternative Number Ones: Marcy Playground’s “Sex And Candy”",
+    "link": "https://stereogum.com/2515639/the-alternative-number-ones-marcy-playgrounds-sex-and-candy/columns/the-alternative-number-ones/",
+    "summary": "In The Alternative Number Ones, I’m reviewing every #1 single in the history of the Billboard Modern Rock Tracks/Alternative Songs, starting with the moment that the chart launched in 1988. This column is a companion piece to The Number Ones . The column is now biweekly, alternating with The Number Ones on Mondays. For almost the first decade of the Billboard Modern Rock chart's existence, it was impossible for a song to hold down the #1 spot for more than nine weeks at a time. Between 1988 and 1997, four songs topped the chart for nine weeks apiece: U2's \" Mysterious Ways ,\" the Lemonheads' \" Into Your Arms ,\" Live's \" Lightning Crashes ,\" and Oasis' \" Wonderwall .\" That's it. These were not all gargantuan event-songs that reshaped alt-rock culture. Thanks to the presence of \"Lightning Crashes,\" I can't even really say that they were all good songs, necessarily. But they were all huge . If you spent any time listening to alternative radio in that time, you heard all of those songs one",
+    "full_text": false,
+    "categories": [
+      "Columns",
+      "The Alternative Number Ones",
+      "John Wozniak",
+      "Marcy Playground"
+    ],
+    "published": "2026-11-02T14:07:11+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "260cbc56961e34d0",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Mighty Hoopla celebrates 10th anniversary with huge 2027 line-up including Robyn, Pussycat Dolls, Kelis, Bebe Rexha, FLO, Nicola Roberts and more",
+    "link": "https://www.nme.com/news/music/mighty-hoopla-announces-10th-anniversary-2027-line-up-robyn-pussycat-dolls-kelis-bebe-rexha-flo-3974826?utm_source=rss&utm_medium=rss&utm_campaign=mighty-hoopla-announces-10th-anniversary-2027-line-up-robyn-pussycat-dolls-kelis-bebe-rexha-flo",
+    "summary": "Other names on the bull include Sophie Ellis-Bextor, Jordin Sparks and B*Witched The post Mighty Hoopla celebrates 10th anniversary with huge 2027 line-up including Robyn, Pussycat Dolls, Kelis, Bebe Rexha, FLO, Nicola Roberts and more appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Live Music News",
+      "Pop"
+    ],
+    "published": "2026-11-02T13:33:31+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "7cddee65ef0c8e04",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘Final Fantasy’ composer Nobuo Uematsu says game scores are becoming too similar – and Hollywood’s to blame",
+    "link": "https://www.nme.com/news/gaming-news/final-fantasy-composer-nobuo-uematsu-says-game-scores-are-becoming-too-similar-and-hollywoods-to-blame-3974822?utm_source=rss&utm_medium=rss&utm_campaign=final-fantasy-composer-nobuo-uematsu-says-game-scores-are-becoming-too-similar-and-hollywoods-to-blame",
+    "summary": "\"It has become increasingly difficult to differentiate a work just through its feel alone\" The post ‘Final Fantasy’ composer Nobuo Uematsu says game scores are becoming too similar – and Hollywood’s to blame appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Gaming News",
+      "News"
+    ],
+    "published": "2026-11-02T13:29:13+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "fc2d17c16dec152b",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "WHAT'S IN MY BAG?!!",
+    "link": "https://theneedledrop.com/opinion/whats-in-my-bag-1x6nobgxo40/",
+    "summary": "What's Anthony picking up at Uncle Joe's?",
+    "full_text": false,
+    "categories": [
+      "Opinion",
+      "Edited by Brandon"
+    ],
+    "published": "2026-11-02T13:08:01+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "61301bfae8f110f7",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "J. COLE IS NOT RETIRING NOW 😒",
+    "link": "https://theneedledrop.com/opinion/j-cole-is-not-retiring-now-snqixcqejyo/",
+    "summary": "So J. Cole isn't retiring anymore...?",
+    "full_text": false,
+    "categories": [
+      "Opinion",
+      "Edited by Isaiah",
+      "j. cole"
+    ],
+    "published": "2026-11-02T13:06:05+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "f6dbd827d46ebdae",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "The Olivia Tremor Control - The Same Place [GUEST REVIEW]",
+    "link": "https://theneedledrop.com/album-reviews/the-olivia-tremor-control-the-same-place-album-review-dng3ikbkgq0/",
+    "summary": "After 27 years, the Olivia Tremor Control are back in the Same Place.",
+    "full_text": false,
+    "categories": [
+      "Album Reviews",
+      "Edited by Isaiah",
+      "the olivia tremor control",
+      "8/10",
+      "Guest Reviews",
+      "giggens",
+      "psych rock",
+      "psych folk",
+      "sound collage"
+    ],
+    "published": "2026-11-02T13:05:11+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "f8f7d25690559a2d",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "HMLTD - FANGS",
+    "link": "https://theneedledrop.com/album-reviews/hmltd-fangs-album-review-ygfqolufnca/",
+    "summary": "At the very least, FANGS isn’t a boring listen.",
+    "full_text": false,
+    "categories": [
+      "Album Reviews",
+      "Edited by Isaiah",
+      "hmltd",
+      "5/10",
+      "art rock",
+      "darkwave",
+      "new rave"
+    ],
+    "published": "2026-11-02T12:58:26+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "9f316089ff494a8e",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Itch Share New Song ‘Planned Obsolescence’",
+    "link": "https://www.clashmusic.com/news/the-itch-share-new-song-planned-obsolescence/",
+    "summary": "The Itch have shared their new single ‘Planned Obsolescence’. Out now, it finds the duo moving beyond the indie-dance bedlam of subversive debut album ‘It’s The Hope That Kills You’, locating something fresh in the process. A summer spent on the road has evidently sharpened their creative instincts, and new… The post The Itch Share New Song ‘Planned Obsolescence’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "The Itch"
+    ],
+    "published": "2026-11-02T12:56:41+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "5160aa8f470e0080",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Raye to compose for and appear in upcoming Benny Safdie film 'Lizard Music'",
+    "link": "https://theneedledrop.com/news/raye-to-compose-for-and-appear-in-upcoming-benny-safdie-film-lizard-music/",
+    "summary": "At the time of writing, Raye is the only composer credited on the film.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "raye"
+    ],
+    "published": "2026-11-02T12:55:22+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "b41492e885961719",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Xbox Game Pass confirms November 2026 additions",
+    "link": "https://www.nme.com/news/gaming-news/xbox-game-pass-confirms-november-2026-additions-3974805?utm_source=rss&utm_medium=rss&utm_campaign=xbox-game-pass-confirms-november-2026-additions",
+    "summary": "Meanwhile, 'GoldenEye 007' and other big games are set to leave the service this month The post Xbox Game Pass confirms November 2026 additions appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Gaming News",
+      "News",
+      "Xbox Game Pass"
+    ],
+    "published": "2026-11-02T12:53:41+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "b01250bcfc05f7c8",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "RAYE Will Headline BST Hyde Park 2027",
+    "link": "https://www.clashmusic.com/live/raye-will-headline-bst-hyde-park-2027/",
+    "summary": "RAYE will headline next summer’s BST Hyde Park. The singer has blazed a path through 2026, opening with her GRAMMY triumph as Best Song For Social Change with ‘Ice Cream Man’. Since then, RAYE has completed a mammoth sold out run at The O2 Arena in London, before bringing her… The post RAYE Will Headline BST Hyde Park 2027 appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "Live",
+      "RAYE"
+    ],
+    "published": "2026-11-02T12:17:23+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "9e035879e4206dc5",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Atlas Sound Returns With ‘Octoberland’ – His First New Release In 15 Years",
+    "link": "https://www.clashmusic.com/news/atlas-sound-returns-with-octoberland-his-first-new-release-in-15-years/",
+    "summary": "American project Atlas Sound returns with new single ‘Octoberland’. The project is helmed by Atlanta, Georgia musician Bradford Cox, who also spearheads the celebrated group Deerhunter. During its initial run, Atlas Sound released three excellent albums on 4AD, with 2009’s ‘Logos’ standing as it peaks. New single ‘Octoberland’ is the… The post Atlas Sound Returns With ‘Octoberland’ – His First New Release In 15 Years appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Atlas Sound"
+    ],
+    "published": "2026-11-02T12:06:44+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "a29adde42e405f37",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "La Roux – Old Flames",
+    "link": "https://www.musicomh.com/reviews/albums/la-roux-old-flames",
+    "summary": "Elly Jackson returns with heartfelt pop songs about breaking up, resentment, vulnerability and all that entails The post La Roux – Old Flames appeared first on musicOMH .",
+    "full_text": false,
+    "categories": [
+      "Album Reviews",
+      "La Roux"
+    ],
+    "published": "2026-11-02T08:31:35+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "485d6293ea3d11fe",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Late Loop",
+    "link": "https://pitchfork.com/reviews/albums/andy-stott-late-loop/",
+    "summary": "Featuring heartbroken vocal performances and stripped of frills like basslines or reverb, the Manchester producer’s latest album of bruised electronica is his starkest and most forlorn yet.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-02T05:03:00+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "71eefcb360f701f3",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "The Girl of Your Dreams",
+    "link": "https://pitchfork.com/reviews/albums/ashe-the-girl-of-your-dreams/",
+    "summary": "The “Stop the Wedding!” singer’s vintage-styled new album combines stately pop classicism and exuberant ’70s pastiche.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-02T05:02:00+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "dfef1e1c5f39155a",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Passing the Cup of Sorrows",
+    "link": "https://pitchfork.com/reviews/albums/william-basinski-passing-the-cup-of-sorrows/",
+    "summary": "The Disintegration Loops made the composer’s name synonymous with weighty meditations on memory and loss, but his latest album—calm, focused, tender—is a reminder of his fondness for beauty.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-02T05:01:00+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
+    "id": "13d7f0289313e8c9",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Everything in Readiness",
+    "link": "https://pitchfork.com/reviews/albums/shovel-dance-collective-everything-in-readiness/",
+    "summary": "Marrying lush arrangements and field-recording experiments, the English revivalists honor folk music’s radical tradition by reinforcing its contemporary significance.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-02T05:00:00+00:00",
+    "collected": "2026-11-03T02:39:08.900285+00:00"
+  },
+  {
     "id": "e41731c79be881f3",
     "source": "Billboard",
     "source_type": "news",
