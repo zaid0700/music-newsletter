@@ -1,5 +1,1603 @@
 [
   {
+    "id": "8f79360cd7c083fc",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Stevie Wonder’s Eviction Lawsuit Escalates as Rent-Free Resident Demands Repairs to Walls and Plumbing",
+    "link": "https://www.rollingstone.com/music/music-news/stevie-wonder-eviction-lawsuit-woman-rent-free-repairs-1235653031/",
+    "summary": "Carmen Efferson, reportedly Wonder's one-time fiancée, claimed the singer failed to make the necessary repairs to the Hollywood Home",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "controversy",
+      "COURTS",
+      "Stevie Wonder"
+    ],
+    "published": "2026-11-05T02:35:22+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "d93e11d6758a0216",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Billboard’s Music Industry Events Calendar",
+    "link": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/",
+    "summary": "A complete rundown of the most important events across the music business.",
+    "full_text": false,
+    "categories": [
+      "Business",
+      "Business News",
+      "billboard pro",
+      "conferences",
+      "Events",
+      "festivals",
+      "Touring"
+    ],
+    "published": "2026-11-05T01:47:00+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "49d7c8b8994ec1dc",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Judge Torn on Lil Durk Bail Question After Murder-for-Hire Verdict: ‘A Question of Psychology’",
+    "link": "https://www.billboard.com/pro/lil-durk-bail-motion-judge-torn-rapper-jail/",
+    "summary": "The rapper's lawyers want him out of jail ahead of a second racketeering trial. Prosecutors say he'll flee.",
+    "full_text": false,
+    "categories": [
+      "Business",
+      "Legal News",
+      "genre hiphop",
+      "Hip Hop",
+      "Legal"
+    ],
+    "published": "2026-11-05T01:11:32+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "db3d860aa8ea6569",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "50 Cent Jokingly Sends Diddy a Happy Birthday Message With Jail Photo: ‘Wishing You Many More LOL’",
+    "link": "https://www.billboard.com/music/rb-hip-hop/50-cent-diddy-happy-birthday-1236374084/",
+    "summary": "50's petty is unmatched.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "R&B/Hip-Hop",
+      "genre hiphop",
+      "Music News"
+    ],
+    "published": "2026-11-05T00:59:33+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "ce8c1b3f83ce204e",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Jimmy Kimmel Takes Dig at Trump With Nicki Minaj Joke: ‘The Only A– on Trump’s Mind Tonight Is the One That Got Handed to Him’",
+    "link": "https://www.billboard.com/culture/politics/jimmy-kimmel-president-donald-trump-nicki-minaj-ass-joke-1236374399/",
+    "summary": "The late-night host continues to spar with Trump by rubbing the president's nose in last night's historic midterm losses.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Politics",
+      "genre hiphop",
+      "politics",
+      "TV/Film"
+    ],
+    "published": "2026-11-05T00:18:56+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "d374e5dc2ec0739b",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Druski Get Down to This Viral Latin Hit With Marcello Hernandez Ahead of ‘SNL’ Hosting Debut",
+    "link": "https://www.billboard.com/culture/tv-film/druski-snl-hosting-promo-dame-hombro-dance-1236374373/",
+    "summary": "The boundary-pushing comedian also suggested that this will be the \"last-ever\" episode of the series.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "TV/Film",
+      "Music News",
+      "saturday night live",
+      "snl",
+      "TV / Film"
+    ],
+    "published": "2026-11-04T23:05:22+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "1c11b65060c6be95",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Warner Records Nashville Lays Off Five, Including EVP of Marketing Victoria Mason",
+    "link": "https://www.billboard.com/pro/warner-records-nashville-layoffs-five-staffers-cut-label/",
+    "summary": "Others affected include senior vp of publicity Fount Lynch and vp of radio Anna Cage.",
+    "full_text": false,
+    "categories": [
+      "Business",
+      "Record Labels",
+      "Executive Turntable",
+      "Music News",
+      "nashville",
+      "warner music group",
+      "warner records"
+    ],
+    "published": "2026-11-04T23:05:19+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "3b8ce6af24fcebe1",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch This Is Lorelei Play The Singer in My Band Songs on KCRW",
+    "link": "https://pitchfork.com/story/watch-this-is-lorelei-play-the-singer-in-my-band-songs-on-kcrw/",
+    "summary": "Nate Amos brought five tracks from his latest album to the public radio station",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Video"
+    ],
+    "published": "2026-11-04T22:47:12+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "dca3458be5af74eb",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "SM Entertainment Reports Revenue Decline On Lower Music Sales, Concert Revenue",
+    "link": "https://www.billboard.com/pro/k-pop-label-sm-entertainment-revenue-lower-music-sales/",
+    "summary": "The K-pop label said it had fewer major releases in the quarter \"as our major artists focused on expanding their overseas activities.\"",
+    "full_text": false,
+    "categories": [
+      "Business",
+      "Record Labels",
+      "earnings report",
+      "financials",
+      "Music News",
+      "results",
+      "SM Entertainment"
+    ],
+    "published": "2026-11-04T22:38:26+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "d051f41c5c26eb48",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Billboard Hot Latin Songs Top 10 Countdown for Nov. 7, 2026 | Billboard Latin",
+    "link": "https://www.billboard.com/video/billboard-hot-latin-songs-top-10-countdown-for-nov-7-2026/",
+    "summary": "Fuerza Regida, Carín León, Karol G, and Omar Courtz rise in the top 10 of Billboard’s Hot Latin Songs. Narrator: Here’s the Billboard Hot Latin Songs top 10 for the week dated November 7th. “Matadora” opens the countdown at No. 10. Carín León rises to nine. “Alguien que te amaba” pushes to a new high […]",
+    "full_text": false,
+    "categories": [
+      "Media",
+      "Videos",
+      "Billboard",
+      "genre latin",
+      "Music News"
+    ],
+    "published": "2026-11-04T22:32:28+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "2b1be787aeb0cf1b",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "With God on Their Side: Bob Dylan & Pope Leo XIV Commune at the Vatican",
+    "link": "https://www.billboard.com/music/music-news/bob-dylan-meets-pope-leo-xiv-vatican-rome-1236374334/",
+    "summary": "The musician is set to play a show at the Palazzo dello Sport in Rome.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "genre rock"
+    ],
+    "published": "2026-11-04T22:26:05+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "72f2f37be3863955",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Sonesta International Hotels Brings Exclusive Access to Billboard Latin Week",
+    "link": "https://www.billboard.com/culture/events/sonesta-brings-exclusive-access-to-billboard-latin-week-1236374356/",
+    "summary": "Sonesta Travel Pass members had their En Vivo experience taken to the next level",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Events",
+      "Billboard Latin Week",
+      "SonestaLMW2026"
+    ],
+    "published": "2026-11-04T22:23:05+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "69f233f1f8c795a7",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Cynthia Erivo has been cast in ‘Snoop’ as 2Pac's mother.",
+    "link": "https://theneedledrop.com/news/cynthia-erivo-has-been-cast-in-snoop-as-2pacs-mother/",
+    "summary": "The film is expected to be released on August 6, 2027.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "cynthia erivo",
+      "tupac shakur",
+      "snoop dogg"
+    ],
+    "published": "2026-11-04T21:56:39+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "a30b443e4c2ef35a",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Abdul El-Sayed Embraced His Swiftie Status All the Way to the U.S. Senate",
+    "link": "https://www.rollingstone.com/music/music-news/abdul-el-sayed-taylor-swift-1235652663/",
+    "summary": "The physician, who has spoken about his respect for Swift, just won the heated race for Michigan's open Senate seat",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Taylor Swift"
+    ],
+    "published": "2026-11-04T21:43:39+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "885802029e16d590",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Vinylphyle Celebrates Its 1-Year Anniversary",
+    "link": "https://www.udiscovermusic.com/stories/vinylphyle-celebrates-its-1-year-anniversary/",
+    "summary": "The vinyl series marks its first year with thank-you messages from the team behind its releases.",
+    "full_text": false,
+    "categories": [
+      "Features",
+      "Alternative",
+      "Heart",
+      "Homepage Featured",
+      "Rock",
+      "Vinylphyle"
+    ],
+    "published": "2026-11-04T21:39:29+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "3fc8bfbfbbf386ec",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Feds Reject Lil Durk Support Letters, Want Rapper to Stay in Jail",
+    "link": "https://www.xxlmag.com/lil-durk-feds-reject-celebrity-support-letters/",
+    "summary": "Broward Sheriff's Office /Maurice Van Steen/Andrew Chin/Getty Images (2)",
+    "full_text": false,
+    "categories": [
+      "News",
+      "J. Cole",
+      "Jay-Z",
+      "Lil Durk"
+    ],
+    "published": "2026-11-04T21:28:24+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "e457df6747739d9f",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Midterms Gave Us a Blue Wave — And Some Hilarious Music Memes",
+    "link": "https://www.rollingstone.com/music/music-news/2026-midterm-election-music-memes-1235652733/",
+    "summary": "Few corners of the internet are having more fun than music fans on X",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Bobby Pulido",
+      "Harry Styles",
+      "Tinashe"
+    ],
+    "published": "2026-11-04T21:05:35+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "703d690e38a942e0",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "As Nicki Minaj Rallied for Trump’s GOP, Her Lawyers Told Court She Still Owes Them $295,000",
+    "link": "https://www.rollingstone.com/music/music-news/nicki-minaj-default-bid-president-trump-new-hampshire-1235652674/",
+    "summary": "The rapper turned out for GOP candidates in New Hampshire on Tuesday just as her ex-lawyers said in court filings that she \"failed to pay\" them after settling a copyright lawsuit",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "controversy",
+      "courts and crime",
+      "Nicki Minaj"
+    ],
+    "published": "2026-11-04T20:47:45+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "5f6060f9bb81d0e4",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Sam And Louise Sullivan – “Trying Your Luck (4-track)” (The Strokes Cover)",
+    "link": "https://stereogum.com/2516537/sam-and-louise-sullivan-trying-your-luck-the-strokes-cover/music/",
+    "summary": "The post Sam And Louise Sullivan – “Trying Your Luck (4-track)” (The Strokes Cover) appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Sam And Louise Sullivan",
+      "The Strokes"
+    ],
+    "published": "2026-11-04T20:38:04+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "d3cd12fad6a5e560",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Desert Age Documentary 10th Anniversary Re-Release: See Photos of Kyuss, Black Flag, and More",
+    "link": "https://consequence.net/2026/11/desert-age-documentary-10th-anniversary-photos-kyuss-black-flag/",
+    "summary": "The special edition of the documentary premieres November 7th in Palm Springs, followed by a November 20th online release. Desert Age Documentary 10th Anniversary Re-Release: See Photos of Kyuss, Black Flag, and More Spencer Kaufman",
+    "full_text": false,
+    "categories": [
+      "Photo Galleries",
+      "Heavy Consequence",
+      "Heavy Music News",
+      "Music",
+      "News",
+      "Rock Documentary",
+      "stoner rock"
+    ],
+    "published": "2026-11-04T20:00:46+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "76f3e7f477b99f84",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Cynthia Erivo Cast as Tupac Shakur's Mother in Snoop Dogg Biopic",
+    "link": "https://www.xxlmag.com/cynthia-erivo-tupac-shakur-mother-snoop-dogg-biopic/",
+    "summary": "Amy Sussman/Getty Images/Kevin Winter/Getty Images for iHeartRadio",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Tupac Shakur"
+    ],
+    "published": "2026-11-04T20:00:37+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "8cdc6f0c403ef573",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "GIFT – “Every Step”",
+    "link": "https://stereogum.com/2516370/gift-every-step-frenzy-for-the-thrill-song-video/music/",
+    "summary": "The post GIFT – “Every Step” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Gift"
+    ],
+    "published": "2026-11-04T19:36:50+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "6b89154ab81e6584",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘This Had Better Work’: Why This Folk-Country Band Sold Their House to Go on Tour",
+    "link": "https://www.rollingstone.com/music/music-features/wild-horses-band-sells-house-to-tour-1235652279/",
+    "summary": "Wild Horses, a Minnesota roots-music trio, found a wealth of songs for new album The In Between after throwing themselves into hard times",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "Country Music",
+      "Wild Horses"
+    ],
+    "published": "2026-11-04T19:28:48+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "f3b5db9799e3f5cf",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Bob Dylan Meets With Pope Leo XIV in a Private Audience",
+    "link": "https://www.rollingstone.com/music/music-news/bob-dylan-pope-leo-xiv-meet-private-audience-1235652631/",
+    "summary": "His Holiness quoted the songwriter’s unpublished song “Go Away You Bomb” in his book Disarmed and Disarming: Peace Is a Gift",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Bob Dylan",
+      "Pope Leo XIV"
+    ],
+    "published": "2026-11-04T19:18:44+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "90f09dd8cd382176",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Cynthia Erivo to Play Tupac’s Mom in Snoop Dogg Biopic",
+    "link": "https://consequence.net/2026/11/cynthia-erivo-snoop-biopic-afeni-shakur-tupac/",
+    "summary": "The actress and performer, who's just one Oscar win away from EGOT-ing, will bring Afeni Shakur to the screen. Cynthia Erivo to Play Tupac’s Mom in Snoop Dogg Biopic Liz Shannon Miller",
+    "full_text": false,
+    "categories": [
+      "News Bites",
+      "News",
+      "TV & Movie News",
+      "TV & Movies",
+      "Cynthia Erivo"
+    ],
+    "published": "2026-11-04T19:02:34+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "4a92661a3ae95bff",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Looze Cannon's Big Michael Freestyles Are Comedy Gold",
+    "link": "https://www.xxlmag.com/looze-cannon-big-michael-freestyles/",
+    "summary": "Loozecannon1/TikTok/Glen Cannon II/Apple Music",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Feature",
+      "List",
+      "Lists",
+      "Looze Cannon",
+      "Michael Jackson",
+      "Mobb Deep",
+      "Too Short",
+      "Yung Miami"
+    ],
+    "published": "2026-11-04T18:51:14+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "01861f1b8c83da3c",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Of Course ‘Choosin’ Texas’ Is the Soundtrack to Texas’ Political Revolution",
+    "link": "https://www.rollingstone.com/music/music-features/choosin-texas-song-midterm-elections-talarico-1235652646/",
+    "summary": "From memes to TikTok videos, some released by the candidates themselves, Ella Langley's hit song has yet again taken on a new meaning",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "2026 midterms",
+      "Ella Langley",
+      "James Talarico",
+      "Texas"
+    ],
+    "published": "2026-11-04T18:36:28+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "5d7684462c5c490e",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Christine And The Queens – “Rendez-vous Avec Toi”",
+    "link": "https://stereogum.com/2516516/christine-and-the-queens-rendez-vous-avec-toi/music/",
+    "summary": "The post Christine And The Queens – “Rendez-vous Avec Toi” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Christine And The Queens"
+    ],
+    "published": "2026-11-04T18:31:40+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "bb27fce65461fa10",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Cardi B Introduces Son Grey Diggs to the World in New Photos",
+    "link": "https://www.xxlmag.com/cardi-b-stefon-diggs-son-photos/",
+    "summary": "iamcardib/Instagram/Paras Griffin/Getty Images for Beautycon/Sundial Media & Technology Group",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Cardi B"
+    ],
+    "published": "2026-11-04T18:13:16+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "f8c70a53ec003654",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Everything Everything fight modern life on new album ‘Poison Pop’: “It’s about this drink that kills you, but you still want it”",
+    "link": "https://www.nme.com/news/music/everything-everything-grappling-with-modern-life-poison-pop-interview-ai-3974839?utm_source=rss&utm_medium=rss&utm_campaign=everything-everything-grappling-with-modern-life-poison-pop-interview-ai",
+    "summary": "Frontman Jonathan Higgs opens up about feeling inspired by early material, accidentally predicting a dystopian future, living in the real world, and now being the time to reject \"the enshittification of everything around you\" The post Everything Everything fight modern life on new album ‘Poison Pop’: “It’s about this drink that kills you, but you still want it” appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music Interviews",
+      "Music News",
+      "News",
+      "Indie"
+    ],
+    "published": "2026-11-04T18:00:36+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "ed35e9b1df910b88",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Bob Dylan Meets Pope Leo",
+    "link": "https://consequence.net/2026/11/bob-dylan-meets-pope-leo/",
+    "summary": "The two midwesterners reportedly exchanged greetings and a few lighthearted remarks. Bob Dylan Meets Pope Leo Alex Young",
+    "full_text": false,
+    "categories": [
+      "News Bites",
+      "Music",
+      "Music News",
+      "News",
+      "Pope Leo"
+    ],
+    "published": "2026-11-04T17:57:14+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "9083adfcd09fcdbb",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Bob Dylan, Wearing Hoodie, Meets Pope",
+    "link": "https://pitchfork.com/story/bob-dylan-wearing-hoodie-meets-pope/",
+    "summary": "Not quite Heaven’s door, but close",
+    "full_text": false,
+    "categories": [
+      "News"
+    ],
+    "published": "2026-11-04T17:51:17+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "e2f204af43c90fb7",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "How Carlos Santana and Natalia Lafourcade Came Together for ‘Hermano,’ an Ode to Migrants",
+    "link": "https://www.rollingstone.com/music/music-latin/carlos-santana-natalia-lafourcade-hermano-song-1235652652/",
+    "summary": "\"I don’t walk around with my tail between my legs and apologize for being a Mexican in the United States,\" Santana tells Rolling Stone",
+    "full_text": false,
+    "categories": [
+      "Latin Music",
+      "Music",
+      "Carlos Santana",
+      "Natalia Lafourcade"
+    ],
+    "published": "2026-11-04T17:41:56+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "393fa9a32f52fb76",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "CoSign: Hudson Freeman Turns the Rapture Inside Out on Doom Country",
+    "link": "https://consequence.net/2026/11/hudson-freeman-doom-country-cosign-interview/",
+    "summary": "The singer-songwriter's new album is a road record taking place at the end of the world. CoSign: Hudson Freeman Turns the Rapture Inside Out on Doom Country Paolo Ragusa",
+    "full_text": false,
+    "categories": [
+      "Music Interviews",
+      "CoSigns",
+      "Features",
+      "Interviews",
+      "Music",
+      "Music Features",
+      "Indie Folk",
+      "Indie Rock",
+      "Singer-Songwriter"
+    ],
+    "published": "2026-11-04T17:40:05+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "f1d7caa50f9cdd56",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "The Chats announce a new tour",
+    "link": "https://theneedledrop.com/news/the-chats-announce-a-new-tour/",
+    "summary": "This is in support of their upcoming album 'Half Cut.'",
+    "full_text": false,
+    "categories": [
+      "News",
+      "the chats"
+    ],
+    "published": "2026-11-04T17:32:47+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "e9e3eff768355ccd",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Lou Diamond Phillips on Gangland, Young Guns 3, and The Chair Company Season 2: Podcast",
+    "link": "https://consequence.net/2026/11/lou-diamond-phillips-gangland-young-guns-3/",
+    "summary": "The veteran actor discusses bringing authenticity to his new crime drama, revisiting beloved characters, and why his latest television role is getting even stranger. Lou Diamond Phillips on Gangland, Young Guns 3, and The Chair Company Season 2: Podcast Kyle Meredith",
+    "full_text": false,
+    "categories": [
+      "Kyle Meredith With... Podcast",
+      "Consequence Podcast Network",
+      "TV & Movie Interviews",
+      "TV & Movies",
+      "Lou Diamond Phillips",
+      "Thriller",
+      "Western"
+    ],
+    "published": "2026-11-04T17:30:14+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "1a0f9475802a7012",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Pearl Jam Still Auditioning Drummers: “We Want to Play Some Shows Next Year”",
+    "link": "https://consequence.net/2026/11/pearl-jam-still-auditioning-drummers/",
+    "summary": "Bassist Jeff Ament reveals the band is \"not in any massive rush\" to find a new drummer. Pearl Jam Still Auditioning Drummers: “We Want to Play Some Shows Next Year” Spencer Kaufman",
+    "full_text": false,
+    "categories": [
+      "Heavy Music News",
+      "Heavy Consequence",
+      "Music",
+      "Music News",
+      "News",
+      "Alternative Rock",
+      "Grunge",
+      "Hard Rock"
+    ],
+    "published": "2026-11-04T17:26:57+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "0ecfef3258d3a695",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Juanes to Release 25-Song Greatest Hits Collection Celebrating His 25-Year Career",
+    "link": "https://consequence.net/2026/11/juanes-greatest-hits-celebrating-25-years/",
+    "summary": "The Colombian star looks back on a quarter-century of hits as he tours in support of his latest album and heads into the 2026 Latin Grammys with two nominations. Juanes to Release 25-Song Greatest Hits Collection Celebrating His 25-Year Career Pedro Camacho",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Consequence Latino",
+      "News",
+      "Latin Pop",
+      "Latin rock"
+    ],
+    "published": "2026-11-04T17:17:15+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "d34c962176e06dd3",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Four Tet Produced a Tech-House Remix for the Durutti Column",
+    "link": "https://pitchfork.com/story/four-tet-remixes-the-durutti-column/",
+    "summary": "“When I was asked to do a remix it felt like the universe was confirming I was connected to this music”",
+    "full_text": false,
+    "categories": [
+      "News",
+      "New Releases"
+    ],
+    "published": "2026-11-04T17:14:12+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "118a4cb24b920ab3",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Blueface Posts Alleged Texts From All Three of His Kids' Mothers",
+    "link": "https://www.xxlmag.com/blueface-messages-three-baby-mothers/",
+    "summary": "Arnold Turner/Getty Images for 6th Hollywood Unlocked Impact Awards/bluefasebabyy/Instagram",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Blueface",
+      "Chrisean Rock",
+      "Jaidyn Alexis"
+    ],
+    "published": "2026-11-04T17:10:52+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "2fe9f2ca091ec81f",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Robin Finck Is Selling His Nine Inch Nails and GN’R Guitars",
+    "link": "https://www.rollingstone.com/music/music-news/robin-finck-nine-inch-nails-guns-n-roses-guitars-1235651930/",
+    "summary": "Musician selling guitar he played at Woodstock '94 and on Twin Peaks: The Return",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Guns N' Roses",
+      "Nine Inch Nails",
+      "Robin Finck"
+    ],
+    "published": "2026-11-04T17:02:09+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "d598f67742579a04",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Love Remain – “Shadow Swim”",
+    "link": "https://stereogum.com/2516506/love-remain-shadow-swim/music/",
+    "summary": "The post Love Remain – “Shadow Swim” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Love Remain"
+    ],
+    "published": "2026-11-04T16:48:56+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "75314d8e0509b512",
+    "source": "Slant (music)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Twisted Teens ‘The Holy Cross Tigers’ Review: Ramshackle Rock That’s More Than Meets the Eye",
+    "link": "https://www.slantmagazine.com/music/twisted-teens-the-holy-cross-tigers-album-review/",
+    "summary": "Every explosive guitar solo feels both wildly improvised and carefully considered. The post Twisted Teens ‘The Holy Cross Tigers’ Review: Ramshackle Rock That’s More Than Meets the Eye appeared first on Slant Magazine .",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Wild Pink"
+    ],
+    "published": "2026-11-04T16:47:57+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "3e820e87766a651d",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Australian Punkers The Chats Announce Spring 2027 North American Tour",
+    "link": "https://consequence.net/2026/11/the-chats-2027-north-american-tour/",
+    "summary": "The tour kicks off April 4th and features Chainwhip and Gymshorts as support. Australian Punkers The Chats Announce Spring 2027 North American Tour Langdon Hickman",
+    "full_text": false,
+    "categories": [
+      "Heavy Music News",
+      "Heavy Consequence",
+      "Live",
+      "Music",
+      "Music News",
+      "News",
+      "Tour Dates",
+      "Punk",
+      "Punk Rock"
+    ],
+    "published": "2026-11-04T16:46:04+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "3da3cc74516c6134",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Kiwi Jr. – “Something Wicked”",
+    "link": "https://stereogum.com/2516446/kiwi-jr-something-wicked-blowin-up/music/",
+    "summary": "The post Kiwi Jr. – “Something Wicked” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Kiwi Jr"
+    ],
+    "published": "2026-11-04T16:43:19+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "b8142b004f37706c",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Christine And The The Queens makes funky return with new single ‘Rendez-vous Avec Toi’: “The electricity remains eternally mysterious”",
+    "link": "https://www.nme.com/news/music/christine-the-queens-releases-new-single-rendez-vous-avec-toi-listen-3975012?utm_source=rss&utm_medium=rss&utm_campaign=christine-the-queens-releases-new-single-rendez-vous-avec-toi-listen",
+    "summary": "The French singer will return to the stage next month, promising fans \"a first listen to unreleased songs from the next album\" The post Christine And The The Queens makes funky return with new single ‘Rendez-vous Avec Toi’: “The electricity remains eternally mysterious” appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Pop"
+    ],
+    "published": "2026-11-04T16:42:52+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "0c05716b1bdf5f69",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Quivers – “Bottle The Nervous”",
+    "link": "https://stereogum.com/2516500/quivers-bottle-the-nervous/music/",
+    "summary": "The post Quivers – “Bottle The Nervous” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Quivers"
+    ],
+    "published": "2026-11-04T16:38:22+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "19569f971899c4d8",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Live Preview: 5 Acts (& Venues) To Check Out At Simple Things 2026",
+    "link": "https://www.clashmusic.com/live/live-preview-5-acts-venues-to-check-out-at-simple-things-2026/",
+    "summary": "This coming Saturday (7th November), Simple Things festival returns for its 12th edition. The annual one-day, multi-venue festival not only hosts some of the world’s most cutting-edge music, but also works in intertwined tandem with its Bristol location. The city is a hot bed of forward-thinking music, boasting a sometimes… The post Live Preview: 5 Acts (& Venues) To Check Out At Simple Things 2026 appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "Live",
+      "Simple Things"
+    ],
+    "published": "2026-11-04T16:38:16+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "53b453dcf3f75a11",
+    "source": "Slant (music)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Alanis Morissette ‘Good Weather for Immaculate Conception’ Review: Seasonal Oddity Disorder",
+    "link": "https://www.slantmagazine.com/music/alanis-morissette-good-weather-for-immaculate-conception-album-review/",
+    "summary": "The singer-songwriter attempts to lend her idiosyncrasies to mostly conventional fare. The post Alanis Morissette ‘Good Weather for Immaculate Conception’ Review: Seasonal Oddity Disorder appeared first on Slant Magazine .",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Alanis Morissette"
+    ],
+    "published": "2026-11-04T16:26:12+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "8ef3be91ca40cd08",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Greta Van Fleet’s Audience Used to Be Old Dudes in Zeppelin Shirts. Something Changed",
+    "link": "https://www.rollingstone.com/music/music-features/greta-van-fleet-audience-age-interview-1235652490/",
+    "summary": "The Nashville-based rock band now has a noticeably younger base. “There were these kids hearing that music for the first time,” says singer Josh Kiszka",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "Greta Van Fleet",
+      "Nashville Now"
+    ],
+    "published": "2026-11-04T16:21:13+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "94071e5e1909c0e9",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Kanye West Announces 2027 Concert at Mexico City’s Iconic Estadio Azteca",
+    "link": "https://consequence.net/2026/11/kanye-west-concert-mexico-estadio-azteca/",
+    "summary": "The March 2027 concert follows Ye's first Mexican performances in more than 17 years, held earlier this year at Plaza de Toros México. Kanye West Announces 2027 Concert at Mexico City’s Iconic Estadio Azteca Pedro Camacho",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Consequence Latino",
+      "News",
+      "Hip-Hop",
+      "Latin America",
+      "Pop",
+      "Rap"
+    ],
+    "published": "2026-11-04T16:11:35+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "8c032ff11571836a",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Crate – “Crushed To Nothing”",
+    "link": "https://stereogum.com/2516498/crate-crushed-to-nothing/music/",
+    "summary": "The post Crate – “Crushed To Nothing” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Crate"
+    ],
+    "published": "2026-11-04T16:03:43+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "5f18fd8a59afd5e5",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Queens Of The Stone Age on 2027 tour plans: “We’re going to do something that’s beyond what we’ve ever done before”",
+    "link": "https://www.nme.com/news/music/queens-of-the-stone-age-tease-2027-tour-plans-beyond-what-weve-ever-done-before-3975001?utm_source=rss&utm_medium=rss&utm_campaign=queens-of-the-stone-age-tease-2027-tour-plans-beyond-what-weve-ever-done-before",
+    "summary": "Josh Homme has said the band are currently in their \"third act\", following the release of new album 'Perfecth' The post Queens Of The Stone Age on 2027 tour plans: “We’re going to do something that’s beyond what we’ve ever done before” appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Live Music News",
+      "Rock"
+    ],
+    "published": "2026-11-04T16:01:11+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "16babf40e197d53e",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Iron Maiden and Z2 Comics Announce Somewhere In Time Graphic Novel",
+    "link": "https://consequence.net/2026/11/iron-maiden-announce-somewhere-in-time-graphic-novel/",
+    "summary": "The new graphic album is Z2's third collaboration with the band, following Piece of Mind and Bruce Dickinson's The Mandrake Project. Iron Maiden and Z2 Comics Announce Somewhere In Time Graphic Novel Langdon Hickman",
+    "full_text": false,
+    "categories": [
+      "Heavy Music News",
+      "Heavy Consequence",
+      "Music",
+      "Music News",
+      "News",
+      "Comic Books",
+      "Graphic Novel",
+      "Heavy Metal"
+    ],
+    "published": "2026-11-04T16:00:11+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "3a6b6ebb0993958f",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Hannah Jadagu – “Curse”",
+    "link": "https://stereogum.com/2516488/hannah-jadagu-curse/music/",
+    "summary": "The post Hannah Jadagu – “Curse” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Hannah Jadagu",
+      "Sam Wilbert"
+    ],
+    "published": "2026-11-04T15:51:02+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "5afc3573b9018854",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Blue Bendy – “Vocal Fry Academia”",
+    "link": "https://stereogum.com/2516494/blue-bendy-vocal-fry-academia/music/",
+    "summary": "The post Blue Bendy – “Vocal Fry Academia” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Blue Bendy",
+      "Olivia Morgan"
+    ],
+    "published": "2026-11-04T15:46:15+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "f6f40e196309dac5",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Morat Are Redefining What a Latin Superstar Looks Like, One Pop-Rock Song At a Time",
+    "link": "https://consequence.net/2026/11/morat-redefine-latin-band-us-interview/",
+    "summary": "With millions of tickets sold and arenas packed across the globe, the Colombian band know a thing or two about making it big without losing themselves along the way. Morat Are Redefining What a Latin Superstar Looks Like, One Pop-Rock Song At a Time Pedro Camacho",
+    "full_text": false,
+    "categories": [
+      "Music Interviews",
+      "Consequence Latino",
+      "Interviews",
+      "Music",
+      "Latin music",
+      "Latin Pop",
+      "Pop-Rock"
+    ],
+    "published": "2026-11-04T15:41:47+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "b1e3eb1cdc418475",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Cult of Luna Unleash “Sadness Will Reign” Featuring Gojira’s Joe Duplantier",
+    "link": "https://consequence.net/2026/11/cult-of-luna-sadness-will-reign-joe-duplantier/",
+    "summary": "The new album In the Shadow of Your Shadow arrives this Friday. Cult of Luna Unleash “Sadness Will Reign” Featuring Gojira’s Joe Duplantier Langdon Hickman",
+    "full_text": false,
+    "categories": [
+      "Heavy Music News",
+      "Heavy Consequence",
+      "Heavy New Music",
+      "Music",
+      "Music News",
+      "Music Videos",
+      "New Music Releases",
+      "News",
+      "Heavy Metal",
+      "post-metal"
+    ],
+    "published": "2026-11-04T15:40:31+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "708e95dc40eba4e1",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Former Dragon Ball Z Composer Nathan Johnson Elected Attorney General of Texas",
+    "link": "https://consequence.net/2026/11/dragon-ball-z-nathan-johnson-attorney-general-texas/",
+    "summary": "Johnson composed the music for 67 full episodes and 5 movies in the Dragon Ball franchise. Former Dragon Ball Z Composer Nathan Johnson Elected Attorney General of Texas Wren Graves",
+    "full_text": false,
+    "categories": [
+      "News Bites",
+      "News",
+      "TV & Movie News"
+    ],
+    "published": "2026-11-04T15:25:56+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "fcc41a5fe122d6bf",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Font – “Cling”",
+    "link": "https://stereogum.com/2516485/font-cling/music/",
+    "summary": "The post Font – “Cling” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Font"
+    ],
+    "published": "2026-11-04T15:22:26+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "9544225b066ff167",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Dave Grohl “Broke Down in Tears” After Performing with AC/DC",
+    "link": "https://consequence.net/2026/11/dave-grohl-broke-down-in-tears-performing-ac-dc/",
+    "summary": "The Foo Fighters frontman called the occasion a full-circle moment. Dave Grohl “Broke Down in Tears” After Performing with AC/DC Spencer Kaufman",
+    "full_text": false,
+    "categories": [
+      "Heavy Music News",
+      "Heavy Consequence",
+      "Music",
+      "Music News",
+      "News",
+      "Classic Rock",
+      "Hard Rock"
+    ],
+    "published": "2026-11-04T15:19:48+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "2426559cd063d01a",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Mamalarky Announce New Album Hover: Hear “Sad Songs”",
+    "link": "https://stereogum.com/2516471/mamalarky-announce-new-album-hover-hear-sad-songs/music/",
+    "summary": "The post Mamalarky Announce New Album <em>Hover</em>: Hear “Sad Songs” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Mamalarky",
+      "Otium"
+    ],
+    "published": "2026-11-04T15:15:18+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "7b947ae75eb158b9",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Christine & The Queens Returns With New Single ‘Rendez-vous avec toi’",
+    "link": "https://www.clashmusic.com/artists/christine-the-queens-returns-with-new-single-rendez-vous-avec-toi/",
+    "summary": "Christine & The Queens returns with new single ‘Rendez-vous avec toi’. The French artist has had a busy 12 months, recently popping up on a viral moment alongside electronic producer Logic1000. Chris continues to work on new ideas under Christine & the Queens, and this release points to the melodic… The post Christine & The Queens Returns With New Single ‘Rendez-vous avec toi’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "Artists"
+    ],
+    "published": "2026-11-04T15:14:54+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "23ab054daffb6584",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Christine and the Queens Returns with Two New Songs",
+    "link": "https://pitchfork.com/story/christine-and-the-queens-returns-with-two-new-songs/",
+    "summary": "“Rendez-vous avec toi” arrives alongside an English counterpart, “Rendez-vous in your arms”",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Video"
+    ],
+    "published": "2026-11-04T15:07:21+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "2372deed35795e3b",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Volcano – “Lay Low” & “Salt”",
+    "link": "https://stereogum.com/2516475/volcano-lay-low-salt/music/",
+    "summary": "The post Volcano – “Lay Low” & “Salt” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Sanguisugabogg",
+      "Volcano"
+    ],
+    "published": "2026-11-04T14:51:30+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "ea7d483f40c3963d",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘KPop Demon Hunters’ bonus collection added to Netflix – with 78 minutes of new content",
+    "link": "https://www.nme.com/news/film/kpop-demon-hunters-bonus-collection-added-to-netflix-with-78-minutes-of-new-content-3974975?utm_source=rss&utm_medium=rss&utm_campaign=kpop-demon-hunters-bonus-collection-added-to-netflix-with-78-minutes-of-new-content",
+    "summary": "The slate includes short-form stories, stop-motion adventures and a selection of dance videos The post ‘KPop Demon Hunters’ bonus collection added to Netflix – with 78 minutes of new content appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Film News",
+      "Music News",
+      "News",
+      "K-pop"
+    ],
+    "published": "2026-11-04T14:50:29+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "55e125e9eaca230f",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "lots of hands – “anything for now”",
+    "link": "https://stereogum.com/2516380/lots-of-hands-anything-for-now/music/",
+    "summary": "The post lots of hands – “anything for now” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Lots Of Hands"
+    ],
+    "published": "2026-11-04T14:45:18+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "de8aa90051cce58c",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Bricknasty’s ‘forever’ EP Is A Quicksilver Document",
+    "link": "https://www.clashmusic.com/news/bricknastys-forever-ep-is-a-quicksilver-document/",
+    "summary": "Bricknasty have shared their new ‘forever’ EP in full. The Dublin collective have masterminded three tapes, each bustling with fresh ideas and a lawless sense of creativity. Out now via boutique label FAMM, new EP ‘forever’ finds the group spinning the dials once more. Seven tracks that zero in on… The post Bricknasty’s ‘forever’ EP Is A Quicksilver Document appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Bricknasty"
+    ],
+    "published": "2026-11-04T14:36:07+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "fcee63f8e7f9d1e0",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Big Moon Are Creating Their Own Future",
+    "link": "https://www.clashmusic.com/features/the-big-moon-are-creating-their-own-future/",
+    "summary": "The release campaign for The Big Moon’s fourth record, ‘Forever’, was shrouded in cynicism. Not at the fault of the record, or the band for that matter, but the circumstances that surrounded it. In 2024, frontwoman Juliette Jackson was diagnosed with a benign ear cyst that would lead to the… The post The Big Moon Are Creating Their Own Future appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "Features",
+      "The Big Moon"
+    ],
+    "published": "2026-11-04T14:35:29+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "91b4290416c9aad9",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Shygirl – “Eternal”",
+    "link": "https://stereogum.com/2516468/shygirl-eternal/music/",
+    "summary": "The post Shygirl – “Eternal” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Shygirl"
+    ],
+    "published": "2026-11-04T14:24:35+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "8f8f6619865e254f",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Breaking Benjamin Announce 2027 US Tour with Starset, P.O.D., and Filter",
+    "link": "https://consequence.net/2026/11/breaking-benjamin-2027-us-tour-starset-p-o-d-filter/",
+    "summary": "The 16-date outing launches in February. Breaking Benjamin Announce 2027 US Tour with Starset, P.O.D., and Filter Spencer Kaufman",
+    "full_text": false,
+    "categories": [
+      "Heavy Music News",
+      "Heavy Consequence",
+      "Heavy Music Concerts",
+      "Live",
+      "Music",
+      "Music News",
+      "News",
+      "Tour Dates",
+      "Hard Rock",
+      "Post-Grunge"
+    ],
+    "published": "2026-11-04T14:20:22+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "d06cedeca19f1e1c",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Every song confirmed for the ‘Grand Theft Auto 6’ soundtrack so far",
+    "link": "https://www.nme.com/guides/gaming-guides/grand-theft-auto-6-soundtrack-every-confirmed-song-artist-so-far-3973760?utm_source=rss&utm_medium=rss&utm_campaign=grand-theft-auto-6-soundtrack-every-confirmed-song-artist-so-far",
+    "summary": "Rockstar Games have promised “the biggest and widest-ranging selection” of music yet The post Every song confirmed for the ‘Grand Theft Auto 6’ soundtrack so far appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Gaming Guides",
+      "Guides",
+      "Video game music"
+    ],
+    "published": "2026-11-04T14:18:47+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "36c21a739f356c62",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Cure Are “Bursting” With Songs, Plan To Tour In 2027",
+    "link": "https://www.clashmusic.com/news/the-cure-are-bursting-with-songs-plan-to-tour-in-2027/",
+    "summary": "The Cure’s Robert Smith has revealed the band have big planned for 2027. The mercurial goth legends returned in 2024 with their excellent album ‘Songs of a Lost World’. Garnering universal praise, The Cure followed this with a batch of remixes, a live album, and some superb concerts. This year… The post The Cure Are “Bursting” With Songs, Plan To Tour In 2027 appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "The Cure"
+    ],
+    "published": "2026-11-04T14:10:12+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "aea800feea5e082a",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Liars – “Beat Creep Some Eyes”",
+    "link": "https://stereogum.com/2516465/liars-beat-creep-some-eyes/music/",
+    "summary": "The post Liars – “Beat Creep Some Eyes” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Angus Andrew",
+      "Clemens Habicht",
+      "Liars"
+    ],
+    "published": "2026-11-04T13:55:58+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "e3e636df0ff3b708",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Sam Fender Shares Rolling Stones Cover for John Lewis Ad",
+    "link": "https://www.udiscovermusic.com/news/sam-fender-rolling-stones-cover-john-lewis-ad/",
+    "summary": "The recording features a choir from Fender’s former school and brass from the Easington Colliery Band.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Christmas",
+      "Homepage Featured",
+      "John Lewis",
+      "Rock",
+      "Rolling Stones",
+      "Sam Fender",
+      "“You Can’t Always Get What You Want”"
+    ],
+    "published": "2026-11-04T13:52:30+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "c2674b2f6ebd22e2",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Dave Grohl “walked off stage and broke down in tears” after playing ‘Highway To Hell’ with AC/DC",
+    "link": "https://www.nme.com/news/music/dave-grohl-walked-off-stage-and-broke-down-in-tears-after-playing-highway-to-hell-with-ac-dc-3974969?utm_source=rss&utm_medium=rss&utm_campaign=dave-grohl-walked-off-stage-and-broke-down-in-tears-after-playing-highway-to-hell-with-ac-dc",
+    "summary": "“That was one of the most full-circle moments of my entire life” The post Dave Grohl “walked off stage and broke down in tears” after playing ‘Highway To Hell’ with AC/DC appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Rock"
+    ],
+    "published": "2026-11-04T13:51:19+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "86f3a69da933893a",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Vincent Mason Announces 2027 ‘When You’re Not Around’ Tour",
+    "link": "https://www.udiscovermusic.com/news/vincent-mason-2027-tour/",
+    "summary": "The run begins February 11 in St. Louis and includes a home-state show at Atlanta’s Tabernacle.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Country",
+      "Homepage Featured",
+      "Live Music",
+      "Vincent Mason",
+      "When You’re Not Around Tour"
+    ],
+    "published": "2026-11-04T13:49:59+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "2508a6f117e13f3e",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Gnomes Unleash A Savage Psych-Garage EP",
+    "link": "https://www.clashmusic.com/news/the-gnomes-unleash-a-savage-psych-garage-ep/",
+    "summary": "Australian rockers The Gnomes have shared their new EP in full. The band breezed in to the U.K. earlier this year, playing a string of shows at Brighton’s Great Escape. A wild, gnarly experience, The Gnomes blew away the competition with their psych-infused garage-punk. New EP ‘With A Gnome’ is… The post The Gnomes Unleash A Savage Psych-Garage EP appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "The Gnomes"
+    ],
+    "published": "2026-11-04T13:46:49+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "2195fafd2b90bd32",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Do Nothing – Friend World",
+    "link": "https://www.musicomh.com/reviews/albums/do-nothing-friend-world",
+    "summary": "The Nottingham outfit deliver on their 2023 debut Snake Sideways' promise with tracks that feel looser, bolder and strikingly confident The post Do Nothing – Friend World appeared first on musicOMH .",
+    "full_text": false,
+    "categories": [
+      "Album Reviews",
+      "Do Nothing"
+    ],
+    "published": "2026-11-04T13:31:39+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "1a6ee80b4153ea6d",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "DIIV Go Pop, And Mean It",
+    "link": "https://www.clashmusic.com/features/diiv-go-pop-and-mean-it/",
+    "summary": "With ‘ZIRP!’ out this week, Zachary Cole Smith talks A. G. Cook, anti-capitalist propaganda, fatherhood, and why Spotify is a ZIRP company. ‘ZIRP!’ is DIIV’s pop record, but it never stops sounding like DIIV. The guitars still swirl the way they always have, yet the songs are faster, the hooks… The post DIIV Go Pop, And Mean It appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "Features",
+      "DIIV"
+    ],
+    "published": "2026-11-04T13:22:00+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "80b7e289e4054755",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Blu DeTiger – N.Y. Baby",
+    "link": "https://www.clashmusic.com/reviews/blu-detiger-n-y-baby/",
+    "summary": "Blu DeTiger is a New York baby through and through – and her sophomore album is indisputable proof of that. Inspired by the city that raised her, ‘N.Y. Baby’ is a set of ten tracks born from the chaos, possibility and freedom that growing up in New York has brought… The post Blu DeTiger – N.Y. Baby appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "Reviews",
+      "Blu DeTiger"
+    ],
+    "published": "2026-11-04T12:50:17+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "c89edb3ea923fe80",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Queens of the Stone Age - Perfecth",
+    "link": "https://theneedledrop.com/album-reviews/queens-of-the-stone-age-perfecth-album-review-kourfioyqws/",
+    "summary": "Sadly this is QOTSA's weakest album by a wide margin.",
+    "full_text": false,
+    "categories": [
+      "Album Reviews",
+      "Edited by Isaiah",
+      "queens of the stone age",
+      "3/10",
+      "alt rock"
+    ],
+    "published": "2026-11-04T12:39:07+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "6ea2e1131e8a09ad",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Internet Cafe Share New Single ‘Trapdoor’",
+    "link": "https://www.clashmusic.com/news/internet-cafe-share-new-single-trapdoor/",
+    "summary": "Internet Cafe have shared their new single ‘Trapdoor’. The South London duo – Imi Smith and Luke Ferrero – have a strictly DIY background, making fragrant alt-pop to their own elixir. Drawing influence from visual arts, Internet Cafe have a strong visual appeal within their music, whether that’s the oblique… The post Internet Cafe Share New Single ‘Trapdoor’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Internet Cafe"
+    ],
+    "published": "2026-11-04T12:12:00+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "2b1a01bf4eea09e5",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Shygirl Drops New Single ‘Eternal’",
+    "link": "https://www.clashmusic.com/news/shygirl-drops-new-single-eternal/",
+    "summary": "Shygirl has shared her new single ‘Eternal’. The alt-pop maven will release her new album ‘Swallow!’ on November 6th. Her broadest and most in-depth release yet, the album is bedecked in radiant colour, transforming club tropes into subversive and carnal pop odes. ’Eternal’ is a case in point. Shygirl is… The post Shygirl Drops New Single ‘Eternal’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Shygirl"
+    ],
+    "published": "2026-11-04T11:32:30+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "ead5503d79384b32",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "On Tha Run",
+    "link": "https://pitchfork.com/reviews/albums/baby-osamaa-on-tha-run/",
+    "summary": "With delirious melodic instincts, the Bronx rapper’s new tape evokes Young Money-era swag on a SoundCloud budget.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-04T05:03:00+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "d8e2e92521344ad3",
+    "source": "Pitchfork (Best New Albums)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "On Tha Run",
+    "link": "https://pitchfork.com/reviews/albums/baby-osamaa-on-tha-run/",
+    "summary": "With delirious melodic instincts, the Bronx rapper’s new tape evokes Young Money-era swag on a SoundCloud budget.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-04T05:03:00+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "629f19aca32236c9",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Catedral Gótica",
+    "link": "https://pitchfork.com/reviews/albums/niagara-catedral-gotica/",
+    "summary": "The Lisbon trio trades the laid-back feel of its earlier, more disco-indebted work for skeletal machine minimalism, twisted sequencer fugues, and lo-fi ambient that conceals more than it reveals.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-04T05:02:00+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "5fee2a9e64027850",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Follow the Light",
+    "link": "https://pitchfork.com/reviews/albums/june-mcdoom-follow-the-light/",
+    "summary": "On her debut album, the musician combines her family’s Jamaican mento legacy with her personal love of folk for a set of graceful, winningly direct songs.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-04T05:01:00+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
+    "id": "afb43fbb17fbcc59",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "What to Make of These Mortal Hands",
+    "link": "https://pitchfork.com/reviews/albums/dis-fig-what-to-make-of-these-mortal-hands/",
+    "summary": "Experimental artist Felicia Chen’s high-contrast compositions unite whispers and shrieks, intimate acoustics and inhuman distortion.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-04T05:00:00+00:00",
+    "collected": "2026-11-05T02:44:44.403339+00:00"
+  },
+  {
     "id": "04c0c39d9689b0d7",
     "source": "Billboard",
     "source_type": "news",
@@ -12536,52 +14134,6 @@
       "Geese"
     ],
     "published": "2026-10-06T15:17:03+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "a1224a3c824ee532",
-    "source": "Slant (music)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "The 25 Greatest MTV Video Music Awards Performances of All Time",
-    "link": "https://www.slantmagazine.com/music/greatest-mtv-video-music-awards-vma-performances/",
-    "summary": "From Madonna to Nirvana to Beyoncé, we picked our favorite MTV VMA performances. The post The 25 Greatest MTV Video Music Awards Performances of All Time appeared first on Slant Magazine .",
-    "categories": [
-      "Features",
-      "Lists",
-      "Music",
-      "Axl Rose",
-      "Beastie Boys",
-      "Beyoncé",
-      "Britney Spears",
-      "Christina Aguilera",
-      "Courtney Love",
-      "Eminem",
-      "Gett Off",
-      "Give It Away",
-      "Hole",
-      "I'm a Slave 4 U",
-      "Jon Bon Jovi",
-      "Kanye West",
-      "Lady Gaga",
-      "Like a Virgin",
-      "Lithium",
-      "Livin' on a Prayer",
-      "Madonna",
-      "Marilyn Manson",
-      "Missy Elliott",
-      "MTV",
-      "Nirvana",
-      "Paparazzi",
-      "Prince",
-      "Red Hot Chili Peppers",
-      "Richie Sambora",
-      "Ring the Alarm",
-      "Runaway",
-      "Sabotage",
-      "Single Ladies"
-    ],
-    "published": "2026-10-05T16:19:13+00:00",
     "collected": "2026-11-01T10:09:51.242642+00:00"
   }
 ]
