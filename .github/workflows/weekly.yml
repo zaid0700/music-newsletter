@@ -2,7 +2,7 @@ name: Weekly newsletter
 
 on:
   schedule:
-    - cron: "0 4 * * 5"       # every Friday at 04:00 UTC = 08:00 UAE
+    - cron: "0 4 * * 6"       # every Saturday at 04:00 UTC = 08:00 UAE
   workflow_dispatch:          # manual "Run workflow" button
     inputs:
       week_ending:
