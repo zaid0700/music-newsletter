@@ -4713,5 +4713,47 @@
    "score": null
   }
  ],
- "23e865b833a79106": []
+ "23e865b833a79106": [],
+ "37acdb76c78e2d22": [
+  {
+   "artist": "Slayyyter",
+   "title": "Hey Boyyy",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  },
+  {
+   "artist": "Slayyyter",
+   "title": "Wor$t Man in America",
+   "type": "album",
+   "genre": "Pop",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "c978fe077b0a6981": [
+  {
+   "artist": "Lil Baby",
+   "title": "Fresh",
+   "type": "album",
+   "genre": "Hip-hop / R&B",
+   "release_date": "2026-11-06",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "90af03550f7e7d81": [
+  {
+   "artist": "Ane Brun",
+   "title": "I Thought We Were The Same",
+   "type": "album",
+   "genre": "Pop",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ]
 }

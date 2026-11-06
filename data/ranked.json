@@ -1,7 +1,7 @@
 {
   "week_start": "2026-10-31",
   "week_end": "2026-11-06",
-  "generated": "2026-11-06T07:23:44.171242+00:00",
+  "generated": "2026-11-06T07:41:54.984415+00:00",
   "top": [
     {
       "artist": "Ecco2k",
@@ -351,9 +351,20 @@
       "date_source": "feeds",
       "scores": [],
       "sources": [
+        "Billboard",
         "uDiscover Music"
       ],
       "mentions": [
+        {
+          "source": "Billboard",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "release_news",
+          "score": null,
+          "headline": "Lil Baby Brings ‘Fresh’ to Life: Stream It Now",
+          "link": "https://www.billboard.com/music/rb-hip-hop/lil-baby-fresh-stream-it-now-1236375792/",
+          "published": "2026-11-06T07:33:36+00:00"
+        },
         {
           "source": "uDiscover Music",
           "source_type": "news",
@@ -369,12 +380,13 @@
       "star_power": 0.88,
       "personal": 0.675,
       "personal_reason": "You've played Lil Baby 20 times",
-      "coverage": 1.0,
+      "coverage": 2.0,
       "publications": [
+        "Billboard",
         "uDiscover Music"
       ],
-      "popularity": 0.381,
-      "rank_score": 0.616,
+      "popularity": 0.497,
+      "rank_score": 0.639,
       "avg_score": null
     },
     {
@@ -481,6 +493,80 @@
       "popularity": 0.256,
       "rank_score": 0.559,
       "avg_score": null
+    }
+  ],
+  "discover": [
+    {
+      "artist": "Snooper",
+      "title": "Orange Exposure",
+      "type": "single",
+      "genre": "Rock / Alternative / Indie",
+      "release_date": "2026-10-31",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Stereogum"
+      ],
+      "mentions": [
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Snooper – “Orange Exposure”",
+          "link": "https://stereogum.com/2516216/snooper-orange-exposure/music/",
+          "published": "2026-10-31T18:12:57+00:00"
+        }
+      ],
+      "fans": 1399,
+      "star_power": 0.449,
+      "personal": 0.161,
+      "personal_reason": "Similar to Powerplant, Guerilla Toss",
+      "coverage": 1.0,
+      "publications": [
+        "Stereogum"
+      ],
+      "popularity": 0.251,
+      "rank_score": 0.179,
+      "avg_score": null,
+      "discover_score": 0.132
+    },
+    {
+      "artist": "Bleech 9:3",
+      "title": "Lullaby",
+      "type": "single",
+      "genre": "Rock / Alternative / Indie",
+      "release_date": "2026-10-30",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "uDiscover Music"
+      ],
+      "mentions": [
+        {
+          "source": "uDiscover Music",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Bleech 9:3 Release Cover of The Cure’s ‘Lullaby’",
+          "link": "https://www.udiscovermusic.com/news/bleech-9-3-the-cure-lullaby/",
+          "published": "2026-10-30T23:16:34+00:00"
+        }
+      ],
+      "fans": 946,
+      "star_power": 0.425,
+      "personal": 0.016,
+      "personal_reason": "Similar to Interpol, Wolf Alice",
+      "coverage": 1.0,
+      "publications": [
+        "uDiscover Music"
+      ],
+      "popularity": 0.244,
+      "rank_score": 0.062,
+      "avg_score": null,
+      "discover_score": 0.013
     }
   ],
   "by_genre": {
@@ -650,6 +736,41 @@
         "avg_score": null
       },
       {
+        "artist": "Slayyyter",
+        "title": "Hey Boyyy",
+        "type": "single",
+        "genre": "Pop",
+        "release_date": "2026-11-06",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Rolling Stone (music)"
+        ],
+        "mentions": [
+          {
+            "source": "Rolling Stone (music)",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Slayyyter Goes Looking for Love in ‘Hey Boyyy’ Music Video",
+            "link": "https://www.rollingstone.com/music/music-news/slayyyter-hey-boyyy-single-music-video-1235653808/",
+            "published": "2026-11-06T07:39:25+00:00"
+          }
+        ],
+        "fans": 31748,
+        "star_power": 0.643,
+        "personal": 0.603,
+        "personal_reason": "You've played Slayyyter 5 times",
+        "coverage": 1.0,
+        "publications": [
+          "Rolling Stone"
+        ],
+        "popularity": 0.31,
+        "rank_score": 0.544,
+        "avg_score": null
+      },
+      {
         "artist": "nate sib & The Kid LAROI",
         "title": "Face Card (Remix)",
         "type": "single",
@@ -789,41 +910,6 @@
         "popularity": 0.632,
         "rank_score": 0.126,
         "avg_score": null
-      },
-      {
-        "artist": "JENNIE",
-        "title": "Someone to Hold",
-        "type": "single",
-        "genre": "Pop",
-        "release_date": "2026-11-06",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Billboard"
-        ],
-        "mentions": [
-          {
-            "source": "Billboard",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "JENNIE’s ‘Someone to Hold’ Is Here: Stream It Now",
-            "link": "https://www.billboard.com/music/pop/jennie-someone-to-hold-stream-it-now-1236375680/",
-            "published": "2026-11-06T06:09:18+00:00"
-          }
-        ],
-        "fans": 653081,
-        "star_power": 0.831,
-        "personal": 0.0,
-        "personal_reason": "",
-        "coverage": 1.0,
-        "publications": [
-          "Billboard"
-        ],
-        "popularity": 0.366,
-        "rank_score": 0.073,
-        "avg_score": null
       }
     ],
     "Hip-hop / R&B": [
@@ -871,9 +957,20 @@
         "date_source": "feeds",
         "scores": [],
         "sources": [
+          "Billboard",
           "uDiscover Music"
         ],
         "mentions": [
+          {
+            "source": "Billboard",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "release_news",
+            "score": null,
+            "headline": "Lil Baby Brings ‘Fresh’ to Life: Stream It Now",
+            "link": "https://www.billboard.com/music/rb-hip-hop/lil-baby-fresh-stream-it-now-1236375792/",
+            "published": "2026-11-06T07:33:36+00:00"
+          },
           {
             "source": "uDiscover Music",
             "source_type": "news",
@@ -889,12 +986,13 @@
         "star_power": 0.88,
         "personal": 0.675,
         "personal_reason": "You've played Lil Baby 20 times",
-        "coverage": 1.0,
+        "coverage": 2.0,
         "publications": [
+          "Billboard",
           "uDiscover Music"
         ],
-        "popularity": 0.381,
-        "rank_score": 0.616,
+        "popularity": 0.497,
+        "rank_score": 0.639,
         "avg_score": null
       },
       {
@@ -1145,41 +1243,6 @@
         "avg_score": null
       },
       {
-        "artist": "Snooper",
-        "title": "Orange Exposure",
-        "type": "single",
-        "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-10-31",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Stereogum"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Snooper – “Orange Exposure”",
-            "link": "https://stereogum.com/2516216/snooper-orange-exposure/music/",
-            "published": "2026-10-31T18:12:57+00:00"
-          }
-        ],
-        "fans": 1399,
-        "star_power": 0.449,
-        "personal": 0.161,
-        "personal_reason": "Similar to Powerplant, Guerilla Toss",
-        "coverage": 1.0,
-        "publications": [
-          "Stereogum"
-        ],
-        "popularity": 0.251,
-        "rank_score": 0.179,
-        "avg_score": null
-      },
-      {
         "artist": "Cage The Elephant",
         "title": "Make It Easy",
         "type": "single",
@@ -1259,6 +1322,64 @@
         ],
         "popularity": 0.39,
         "rank_score": 0.078,
+        "avg_score": null
+      },
+      {
+        "artist": "Twisted Teens",
+        "title": "The Holy Cross Tigers",
+        "type": "album",
+        "genre": "Rock / Alternative / Indie",
+        "release_date": "2026-11-06",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Pitchfork (album reviews)",
+          "Pitchfork (news)",
+          "Slant (music)"
+        ],
+        "mentions": [
+          {
+            "source": "Pitchfork (news)",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "release_news",
+            "score": null,
+            "headline": "Go Fishing With Twisted Teens in Video for “I Spend My Time Crying”",
+            "link": "https://pitchfork.com/story/go-fishing-with-twisted-teens-in-new-video-for-i-spend-my-time-crying/",
+            "published": "2026-11-06T05:18:01+00:00"
+          },
+          {
+            "source": "Pitchfork (album reviews)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "review",
+            "score": null,
+            "headline": "The Holy Cross Tigers",
+            "link": "https://pitchfork.com/reviews/albums/twisted-teens-the-holy-cross-tigers/",
+            "published": "2026-11-05T05:03:00+00:00"
+          },
+          {
+            "source": "Slant (music)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "review",
+            "score": null,
+            "headline": "Twisted Teens ‘The Holy Cross Tigers’ Review: Ramshackle Rock That’s More Than Meets the Eye",
+            "link": "https://www.slantmagazine.com/music/twisted-teens-the-holy-cross-tigers-album-review/",
+            "published": "2026-11-04T16:47:57+00:00"
+          }
+        ],
+        "fans": 631,
+        "star_power": 0.4,
+        "personal": 0.0,
+        "personal_reason": "",
+        "coverage": 2.0,
+        "publications": [
+          "Pitchfork",
+          "Slant"
+        ],
+        "popularity": 0.353,
+        "rank_score": 0.071,
         "avg_score": null
       }
     ],

@@ -1,5 +1,60 @@
 [
   {
+    "id": "37acdb76c78e2d22",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Slayyyter Goes Looking for Love in ‘Hey Boyyy’ Music Video",
+    "link": "https://www.rollingstone.com/music/music-news/slayyyter-hey-boyyy-single-music-video-1235653808/",
+    "summary": "The track will appear on the singer's forthcoming album, Wor$t Man in America",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Slayyyter"
+    ],
+    "published": "2026-11-06T07:39:25+00:00",
+    "collected": "2026-11-06T07:41:14.560831+00:00"
+  },
+  {
+    "id": "c978fe077b0a6981",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Lil Baby Brings ‘Fresh’ to Life: Stream It Now",
+    "link": "https://www.billboard.com/music/rb-hip-hop/lil-baby-fresh-stream-it-now-1236375792/",
+    "summary": "\"Fresh\" is the followup to 2025's \"WHAM,\" which arrived at No. 1 on the Billboard 200, one of his four leaders on the all-genres albums chart.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "R&B/Hip-Hop",
+      "bbnews",
+      "genre hiphop",
+      "genre rap"
+    ],
+    "published": "2026-11-06T07:33:36+00:00",
+    "collected": "2026-11-06T07:41:14.560831+00:00"
+  },
+  {
+    "id": "90af03550f7e7d81",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Ane Brun – I Thought We Were The Same",
+    "link": "https://www.musicomh.com/reviews/albums/ane-brun-i-thought-we-were-the-same",
+    "summary": "The Norwegian star's lushly arranged, quietly understated paean to human connection finds her immersed in hooky electronica and glacial ballads The post Ane Brun – I Thought We Were The Same appeared first on musicOMH .",
+    "full_text": false,
+    "categories": [
+      "Album Reviews",
+      "Ane Brun",
+      "ARY",
+      "Emilie Nicolas",
+      "Röyksopp"
+    ],
+    "published": "2026-11-06T07:31:47+00:00",
+    "collected": "2026-11-06T07:41:14.560831+00:00"
+  },
+  {
     "id": "9776a2f3a5bcc023",
     "source": "Billboard",
     "source_type": "news",

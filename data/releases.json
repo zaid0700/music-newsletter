@@ -887,6 +887,41 @@
     ]
   },
   {
+    "artist": "Lil Baby",
+    "title": "FRESH",
+    "type": "album",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-11-06",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Billboard",
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "Billboard",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Lil Baby Brings ‘Fresh’ to Life: Stream It Now",
+        "link": "https://www.billboard.com/music/rb-hip-hop/lil-baby-fresh-stream-it-now-1236375792/",
+        "published": "2026-11-06T07:33:36+00:00"
+      },
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Lil Baby Announces ‘FRESH’ for November 6 Release",
+        "link": "https://www.udiscovermusic.com/news/lil-baby-fresh/",
+        "published": "2026-10-21T12:53:52+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Shygirl",
     "title": "Swallow!",
     "type": "album",
@@ -918,30 +953,6 @@
         "headline": "Shygirl Drops New Single ‘Eternal’",
         "link": "https://www.clashmusic.com/news/shygirl-drops-new-single-eternal/",
         "published": "2026-11-04T11:32:30+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Lil Baby",
-    "title": "FRESH",
-    "type": "album",
-    "genre": "Hip-hop / R&B",
-    "release_date": "2026-11-06",
-    "date_source": "feeds",
-    "scores": [],
-    "sources": [
-      "uDiscover Music"
-    ],
-    "mentions": [
-      {
-        "source": "uDiscover Music",
-        "source_type": "news",
-        "weight": 1.0,
-        "mention": "announcement",
-        "score": null,
-        "headline": "Lil Baby Announces ‘FRESH’ for November 6 Release",
-        "link": "https://www.udiscovermusic.com/news/lil-baby-fresh/",
-        "published": "2026-10-21T12:53:52+00:00"
       }
     ]
   },
@@ -1158,6 +1169,54 @@
         "headline": "JENNIE’s ‘Someone to Hold’ Is Here: Stream It Now",
         "link": "https://www.billboard.com/music/pop/jennie-someone-to-hold-stream-it-now-1236375680/",
         "published": "2026-11-06T06:09:18+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Slayyyter",
+    "title": "Hey Boyyy",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-11-06",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Rolling Stone (music)"
+    ],
+    "mentions": [
+      {
+        "source": "Rolling Stone (music)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Slayyyter Goes Looking for Love in ‘Hey Boyyy’ Music Video",
+        "link": "https://www.rollingstone.com/music/music-news/slayyyter-hey-boyyy-single-music-video-1235653808/",
+        "published": "2026-11-06T07:39:25+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Ane Brun",
+    "title": "I Thought We Were The Same",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": "2026-11-06",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Ane Brun – I Thought We Were The Same",
+        "link": "https://www.musicomh.com/reviews/albums/ane-brun-i-thought-we-were-the-same",
+        "published": "2026-11-06T07:31:47+00:00"
       }
     ]
   },
@@ -8278,6 +8337,30 @@
         "headline": "Bess Atwell Introduces New Album ‘Cut A Figure’",
         "link": "https://www.clashmusic.com/news/bess-atwell-introduces-new-album-cut-a-figure/",
         "published": "2026-11-02T14:40:11+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Slayyyter",
+    "title": "Wor$t Man in America",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Rolling Stone (music)"
+    ],
+    "mentions": [
+      {
+        "source": "Rolling Stone (music)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Slayyyter Goes Looking for Love in ‘Hey Boyyy’ Music Video",
+        "link": "https://www.rollingstone.com/music/music-news/slayyyter-hey-boyyy-single-music-video-1235653808/",
+        "published": "2026-11-06T07:39:25+00:00"
       }
     ]
   }
