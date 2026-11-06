@@ -1,5 +1,25 @@
 [
   {
+    "id": "9776a2f3a5bcc023",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Lil Baby, JENNIE, Dove Cameron, XG, Boys Noize & More: New Music Friday Guide",
+    "link": "https://www.billboard.com/music/music-news/lil-baby-jennie-dove-cameron-new-music-friday-guide-1236374328/",
+    "summary": "Check out the must-hear releases of the week.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "friday music guide",
+      "genre dance",
+      "genre hiphop",
+      "genre pop"
+    ],
+    "published": "2026-11-06T06:16:41+00:00",
+    "collected": "2026-11-06T06:29:51.039891+00:00"
+  },
+  {
     "id": "909d1a4e69b3d517",
     "source": "Billboard",
     "source_type": "news",

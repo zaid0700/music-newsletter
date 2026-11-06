@@ -1,72 +1,238 @@
 {
-  "week_start": "2026-10-31",
-  "week_end": "2026-11-06",
-  "generated": "2026-11-06T06:16:37.458067+00:00",
+  "week_start": "2026-10-24",
+  "week_end": "2026-10-30",
+  "generated": "2026-11-06T06:30:53.849994+00:00",
   "top": [
     {
-      "artist": "Shygirl",
-      "title": "Swallow!",
+      "artist": "Yeat",
+      "title": "Luh Leakyz Vol. 1",
       "type": "album",
-      "genre": "Electronic / Dance",
-      "release_date": "2026-11-06",
+      "genre": "Hip-hop / R&B",
+      "release_date": "2026-10-23",
       "date_source": "feeds",
       "scores": [],
       "sources": [
-        "Clash",
-        "Slant (music)"
+        "uDiscover Music"
       ],
       "mentions": [
+        {
+          "source": "uDiscover Music",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "release_news",
+          "score": null,
+          "headline": "Yeat Compiles Fan-Demanded Songs on ‘Luh Leakyz Vol. 1’",
+          "link": "https://www.udiscovermusic.com/news/yeat-luh-leakyz-vol-1/",
+          "published": "2026-10-23T13:04:29+00:00"
+        }
+      ],
+      "fans": 232116,
+      "star_power": 0.767,
+      "personal": 0.971,
+      "personal_reason": "You've played Yeat 642 times",
+      "coverage": 1.0,
+      "publications": [
+        "uDiscover Music"
+      ],
+      "popularity": 0.427,
+      "rank_score": 0.808,
+      "avg_score": null
+    },
+    {
+      "artist": "Shabazz Palaces",
+      "title": "It's a Style Sport",
+      "type": "album",
+      "genre": "Hip-hop / R&B",
+      "release_date": "2026-10-28",
+      "date_source": "feeds",
+      "scores": [
+        7
+      ],
+      "sources": [
+        "Pitchfork (album reviews)",
+        "Slant (music)",
+        "The Needle Drop (YouTube)",
+        "The Needle Drop (website)",
+        "musicOMH"
+      ],
+      "mentions": [
+        {
+          "source": "musicOMH",
+          "source_type": "reviews",
+          "weight": 1.0,
+          "mention": "review",
+          "score": null,
+          "headline": "Shabazz Palaces – It’s A Style Sport",
+          "link": "https://www.musicomh.com/reviews/albums/shabazz-palaces-its-a-style-sport",
+          "published": "2026-10-30T07:01:16+00:00"
+        },
+        {
+          "source": "The Needle Drop (website)",
+          "source_type": "reviews",
+          "weight": 1.0,
+          "mention": "review",
+          "score": 7,
+          "headline": "Shabazz Palaces - It's a Style Sport",
+          "link": "https://theneedledrop.com/album-reviews/shabazz-palaces-its-a-style-sport-album-review-hayeg997l3q/",
+          "published": "2026-10-29T11:41:15+00:00"
+        },
+        {
+          "source": "The Needle Drop (YouTube)",
+          "source_type": "video",
+          "weight": 1.5,
+          "mention": "review",
+          "score": null,
+          "headline": "Shabazz Palaces - It's a Style Sport ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=HAyEg997L3Q",
+          "published": "2026-10-28T03:06:27+00:00"
+        },
+        {
+          "source": "Pitchfork (album reviews)",
+          "source_type": "reviews",
+          "weight": 1.5,
+          "mention": "review",
+          "score": null,
+          "headline": "It’s a Style Sport",
+          "link": "https://pitchfork.com/reviews/albums/shabazz-palaces-its-a-style-sport/",
+          "published": "2026-10-23T04:01:00+00:00"
+        },
         {
           "source": "Slant (music)",
           "source_type": "reviews",
           "weight": 1.0,
           "mention": "review",
           "score": null,
-          "headline": "Review: Shygirl’s ‘Swallow!’ Goes Deep and Gets Real",
-          "link": "https://www.slantmagazine.com/music/shygirl-swallow-album-review/",
-          "published": "2026-11-05T16:14:55+00:00"
-        },
-        {
-          "source": "Clash",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "announcement",
-          "score": null,
-          "headline": "Shygirl Drops New Single ‘Eternal’",
-          "link": "https://www.clashmusic.com/news/shygirl-drops-new-single-eternal/",
-          "published": "2026-11-04T11:32:30+00:00"
-        },
+          "headline": "Shabazz Palaces ‘It’s a Style Sport’ Review: A Veteran’s Rulebook, Broken with Flair",
+          "link": "https://www.slantmagazine.com/music/shabazz-palaces-its-a-style-sport-album-review/",
+          "published": "2026-10-18T15:00:00+00:00"
+        }
+      ],
+      "fans": 7385,
+      "star_power": 0.553,
+      "personal": 0.603,
+      "personal_reason": "You've played Shabazz Palaces 5 times",
+      "coverage": 4.0,
+      "publications": [
+        "Pitchfork",
+        "Slant",
+        "The Needle Drop",
+        "musicOMH"
+      ],
+      "popularity": 0.701,
+      "rank_score": 0.632,
+      "avg_score": 7.0
+    },
+    {
+      "artist": "Boldy James & Real Bad Man",
+      "title": "Strobelight",
+      "type": "album",
+      "genre": "Hip-hop / R&B",
+      "release_date": "2026-10-28",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Stereogum"
+      ],
+      "mentions": [
         {
           "source": "Stereogum",
           "source_type": "news",
           "weight": 1.0,
-          "mention": "new_song",
+          "mention": "release_news",
           "score": null,
-          "headline": "Shygirl – “Eternal”",
-          "link": "https://stereogum.com/2516468/shygirl-eternal/music/",
-          "published": "2026-11-04T14:24:35+00:00"
+          "headline": "Boldy James & Real Bad Man Release New Album Strobelight",
+          "link": "https://stereogum.com/2515832/boldy-james-real-bad-man-release-new-album-strobelight/music/",
+          "published": "2026-10-28T18:04:00+00:00"
         }
       ],
-      "fans": 26006,
-      "star_power": 0.631,
-      "personal": 0.885,
-      "personal_reason": "You've played Shygirl 143 times",
-      "coverage": 3.0,
+      "fans": 15003,
+      "star_power": 0.597,
+      "personal": 0.699,
+      "personal_reason": "You've played Boldy James 31 times",
+      "coverage": 1.0,
       "publications": [
-        "Clash",
-        "Slant",
         "Stereogum"
       ],
-      "popularity": 0.552,
-      "rank_score": 0.785,
+      "popularity": 0.359,
+      "rank_score": 0.597,
+      "avg_score": null
+    },
+    {
+      "artist": "Anderson .Paak & Cordae",
+      "title": "Heavy Is the Crown",
+      "type": "album",
+      "genre": "Hip-hop / R&B",
+      "release_date": "2026-10-23",
+      "date_source": "musicbrainz",
+      "scores": [],
+      "sources": [
+        "Pitchfork (album reviews)"
+      ],
+      "mentions": [
+        {
+          "source": "Pitchfork (album reviews)",
+          "source_type": "reviews",
+          "weight": 1.5,
+          "mention": "review",
+          "score": null,
+          "headline": "Heavy Is the Crown",
+          "link": "https://pitchfork.com/reviews/albums/anderson-paak-cordae-heavy-is-the-crown/",
+          "published": "2026-10-29T04:01:00+00:00"
+        }
+      ],
+      "fans": 254932,
+      "star_power": 0.772,
+      "personal": 0.607,
+      "personal_reason": "On your Spotify playlists (2 tracks)",
+      "coverage": 1.0,
+      "publications": [
+        "Pitchfork"
+      ],
+      "popularity": 0.429,
+      "rank_score": 0.554,
+      "avg_score": null
+    },
+    {
+      "artist": "Huerco S.",
+      "title": "From the Toolkit of Lovers",
+      "type": "album",
+      "genre": "Electronic / Dance",
+      "release_date": null,
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Pitchfork (album reviews)"
+      ],
+      "mentions": [
+        {
+          "source": "Pitchfork (album reviews)",
+          "source_type": "reviews",
+          "weight": 1.5,
+          "mention": "review",
+          "score": null,
+          "headline": "From the Toolkit of Lovers",
+          "link": "https://pitchfork.com/reviews/albums/loidis-from-the-toolkit-of-lovers/",
+          "published": "2026-10-27T04:03:00+00:00"
+        }
+      ],
+      "fans": 22217,
+      "star_power": 0.621,
+      "personal": 0.563,
+      "personal_reason": "You've played Huerco S. 2 times",
+      "coverage": 1.0,
+      "publications": [
+        "Pitchfork"
+      ],
+      "popularity": 0.368,
+      "rank_score": 0.504,
       "avg_score": null
     },
     {
       "artist": "evilgiane & Slimesito",
-      "title": "EVILSLIME 2",
-      "type": "album",
+      "title": "Georgia State",
+      "type": "single",
       "genre": "Hip-hop / R&B",
-      "release_date": "2026-10-30",
+      "release_date": "2026-10-26",
       "date_source": "feeds",
       "scores": [],
       "sources": [
@@ -92,286 +258,51 @@
       "publications": [
         "Stereogum"
       ],
-      "popularity": 0.253,
-      "rank_score": 0.708,
+      "popularity": 0.273,
+      "rank_score": 0.5,
       "avg_score": null
     },
     {
-      "artist": "DIIV",
-      "title": "ZIRP!",
-      "type": "album",
-      "genre": "Rock / Alternative / Indie",
-      "release_date": "2026-11-06",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Clash",
-        "Pitchfork (album reviews)",
-        "Slant (music)",
-        "Stereogum"
-      ],
-      "mentions": [
-        {
-          "source": "Clash",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "release_news",
-          "score": null,
-          "headline": "DIIV Go Pop, And Mean It",
-          "link": "https://www.clashmusic.com/features/diiv-go-pop-and-mean-it/",
-          "published": "2026-11-04T13:22:00+00:00"
-        },
-        {
-          "source": "Pitchfork (album reviews)",
-          "source_type": "reviews",
-          "weight": 1.5,
-          "mention": "review",
-          "score": null,
-          "headline": "ZIRP!",
-          "link": "https://pitchfork.com/reviews/albums/diiv-zirp/",
-          "published": "2026-10-30T04:03:00+00:00"
-        },
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "review",
-          "score": null,
-          "headline": "Album Of The Week: DIIV ZIRP!",
-          "link": "https://stereogum.com/2515261/album-of-the-week-diiv-zirp/reviews/album-of-the-week/",
-          "published": "2026-10-27T20:25:11+00:00"
-        },
-        {
-          "source": "Slant (music)",
-          "source_type": "reviews",
-          "weight": 1.0,
-          "mention": "review",
-          "score": null,
-          "headline": "DIIV ‘Zirp!’ Review: Distortion Without Dimension",
-          "link": "https://www.slantmagazine.com/music/diiv-zirp-album-review/",
-          "published": "2026-10-25T15:00:00+00:00"
-        }
-      ],
-      "fans": 38258,
-      "star_power": 0.655,
-      "personal": 0.607,
-      "personal_reason": "On your Spotify playlists (2 tracks)",
-      "coverage": 4.0,
-      "publications": [
-        "Clash",
-        "Pitchfork",
-        "Slant",
-        "Stereogum"
-      ],
-      "popularity": 0.662,
-      "rank_score": 0.623,
-      "avg_score": null
-    },
-    {
-      "artist": "Nettspend",
-      "title": "Virginia Creeper",
+      "artist": "Phoebe Bridgers",
+      "title": "Madison Square Garden",
       "type": "ep",
-      "genre": "Hip-hop / R&B",
-      "release_date": "2026-10-30",
+      "genre": "Rock / Alternative / Indie",
+      "release_date": "2026-10-29",
       "date_source": "feeds",
       "scores": [],
       "sources": [
-        "uDiscover Music"
+        "Pitchfork (news)"
       ],
       "mentions": [
         {
-          "source": "uDiscover Music",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "release_news",
-          "score": null,
-          "headline": "Nettspend’s ‘Virginia Creeper’ Features Six New Tracks",
-          "link": "https://www.udiscovermusic.com/news/nettspend-virginia-creeper-ep/",
-          "published": "2026-10-30T22:48:44+00:00"
-        }
-      ],
-      "fans": 13282,
-      "star_power": 0.589,
-      "personal": 0.965,
-      "personal_reason": "You've played nettspend 584 times",
-      "coverage": 1.0,
-      "publications": [
-        "uDiscover Music"
-      ],
-      "popularity": 0.336,
-      "rank_score": 0.621,
-      "avg_score": null
-    },
-    {
-      "artist": "Lil Baby",
-      "title": "FRESH",
-      "type": "album",
-      "genre": "Hip-hop / R&B",
-      "release_date": "2026-11-06",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "uDiscover Music"
-      ],
-      "mentions": [
-        {
-          "source": "uDiscover Music",
+          "source": "Pitchfork (news)",
           "source_type": "news",
           "weight": 1.0,
           "mention": "announcement",
           "score": null,
-          "headline": "Lil Baby Announces ‘FRESH’ for November 6 Release",
-          "link": "https://www.udiscovermusic.com/news/lil-baby-fresh/",
-          "published": "2026-10-21T12:53:52+00:00"
+          "headline": "Phoebe Bridgers Announces Madison Square Garden EP",
+          "link": "https://pitchfork.com/story/phoebe-bridgers-announces-madison-square-garden-ep/",
+          "published": "2026-10-29T17:25:02+00:00"
         }
       ],
-      "fans": 1452986,
-      "star_power": 0.88,
-      "personal": 0.675,
-      "personal_reason": "You've played Lil Baby 20 times",
+      "fans": 209777,
+      "star_power": 0.76,
+      "personal": 0.707,
+      "personal_reason": "You've played Phoebe Bridgers 36 times",
       "coverage": 1.0,
       "publications": [
-        "uDiscover Music"
+        "Pitchfork"
       ],
-      "popularity": 0.452,
-      "rank_score": 0.608,
+      "popularity": 0.424,
+      "rank_score": 0.498,
       "avg_score": null
     },
     {
-      "artist": "Dominic Fike",
-      "title": "How to Quit Smoking",
+      "artist": "Strawberry Guy",
+      "title": "Give Me A Dream",
       "type": "album",
       "genre": "Pop",
-      "release_date": "2026-10-30",
-      "date_source": "musicbrainz",
-      "scores": [],
-      "sources": [
-        "Rolling Stone (music)",
-        "Slant (music)",
-        "The Needle Drop (website)"
-      ],
-      "mentions": [
-        {
-          "source": "Rolling Stone (music)",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "review",
-          "score": null,
-          "headline": "Dominic Fike Might Be Growing Up, But He’s Angsty as Ever",
-          "link": "https://www.rollingstone.com/music/music-album-reviews/dominic-fike-how-to-quit-smoking-review-1235651962/",
-          "published": "2026-11-03T20:28:14+00:00"
-        },
-        {
-          "source": "Slant (music)",
-          "source_type": "reviews",
-          "weight": 1.0,
-          "mention": "review",
-          "score": null,
-          "headline": "Review: On ‘How to Quit Smoking,’ Dominic Fike Struggles to Kick Bad Habits",
-          "link": "https://www.slantmagazine.com/music/dominic-fike-how-to-quit-smoking-album-review/",
-          "published": "2026-10-30T04:00:00+00:00"
-        },
-        {
-          "source": "The Needle Drop (website)",
-          "source_type": "reviews",
-          "weight": 1.0,
-          "mention": "announcement",
-          "score": null,
-          "headline": "Dominic Fike announces features for ‘How to Quit Smoking’",
-          "link": "https://theneedledrop.com/news/dominic-fike-announces-features-for-how-to-quit-smoking/",
-          "published": "2026-10-28T19:33:16+00:00"
-        }
-      ],
-      "fans": 83539,
-      "star_power": 0.703,
-      "personal": 0.563,
-      "personal_reason": "You've played Dominic Fike 2 times",
-      "coverage": 3.0,
-      "publications": [
-        "Rolling Stone",
-        "Slant",
-        "The Needle Drop"
-      ],
-      "popularity": 0.581,
-      "rank_score": 0.568,
-      "avg_score": null
-    },
-    {
-      "artist": "Ecco2k",
-      "title": "Sky Burial",
-      "type": "single",
-      "genre": "Electronic / Dance",
-      "release_date": "2026-11-03",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "The Needle Drop (website)"
-      ],
-      "mentions": [
-        {
-          "source": "The Needle Drop (website)",
-          "source_type": "reviews",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "Ecco2k shares new single \"Sky Burial\"",
-          "link": "https://theneedledrop.com/news/ecco2k-shares-new-single-sky-burial/",
-          "published": "2026-11-03T20:09:46+00:00"
-        }
-      ],
-      "fans": 14518,
-      "star_power": 0.595,
-      "personal": 0.968,
-      "personal_reason": "You've played Ecco2K 610 times",
-      "coverage": 1.0,
-      "publications": [
-        "The Needle Drop"
-      ],
-      "popularity": 0.338,
-      "rank_score": 0.545,
-      "avg_score": null
-    },
-    {
-      "artist": "doseone & Fatboi Sharif & steel tipped dove",
-      "title": "Truth Ugly",
-      "type": "album",
-      "genre": "Hip-hop / R&B",
-      "release_date": "2026-10-30",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Stereogum"
-      ],
-      "mentions": [
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "release_news",
-          "score": null,
-          "headline": "doseone, Fatboi Sharif, & steel tipped dove Release New Album Truth Ugly",
-          "link": "https://stereogum.com/2516152/doseone-fatboi-sharif-steel-tipped-dove-release-new-album-truth-ugly/music/",
-          "published": "2026-10-30T17:20:19+00:00"
-        }
-      ],
-      "fans": 1273,
-      "star_power": 0.444,
-      "personal": 0.647,
-      "personal_reason": "You've played Doseone 12 times",
-      "coverage": 1.0,
-      "publications": [
-        "Stereogum"
-      ],
-      "popularity": 0.278,
-      "rank_score": 0.536,
-      "avg_score": null
-    },
-    {
-      "artist": "La Roux",
-      "title": "Old Flames",
-      "type": "album",
-      "genre": "Pop",
-      "release_date": "2026-11-06",
+      "release_date": "2026-10-23",
       "date_source": "musicbrainz",
       "scores": [],
       "sources": [
@@ -384,49 +315,91 @@
           "weight": 1.0,
           "mention": "review",
           "score": null,
-          "headline": "La Roux – Old Flames",
-          "link": "https://www.musicomh.com/reviews/albums/la-roux-old-flames",
-          "published": "2026-11-02T08:31:35+00:00"
+          "headline": "Strawberry Guy – Give Me A Dream",
+          "link": "https://www.musicomh.com/reviews/albums/strawberry-guy-give-me-a-dream",
+          "published": "2026-10-23T06:31:34+00:00"
         }
       ],
-      "fans": 152659,
-      "star_power": 0.741,
+      "fans": 52583,
+      "star_power": 0.674,
       "personal": 0.54,
-      "personal_reason": "You've played La Roux 1 time",
+      "personal_reason": "You've played Strawberry Guy 1 time",
       "coverage": 1.0,
       "publications": [
         "musicOMH"
       ],
-      "popularity": 0.396,
-      "rank_score": 0.497,
+      "popularity": 0.39,
+      "rank_score": 0.495,
       "avg_score": null
     },
     {
-      "artist": "Olivia Rodrigo",
-      "title": "Take Me Home (4 Christmas)",
+      "artist": "Justice",
+      "title": "Pusher",
       "type": "single",
-      "genre": "Pop",
-      "release_date": "2026-11-06",
+      "genre": "Electronic / Dance",
+      "release_date": "2026-10-29",
       "date_source": "feeds",
       "scores": [],
       "sources": [
-        "Billboard",
-        "Clash",
-        "Consequence",
-        "Pitchfork (news)",
-        "Rolling Stone (music)",
         "Stereogum"
       ],
       "mentions": [
         {
-          "source": "Consequence",
+          "source": "Stereogum",
           "source_type": "news",
           "weight": 1.0,
           "mention": "new_song",
           "score": null,
-          "headline": "Olivia Rodrigo Unveils New Holiday Song “Take me home (4 christmas)”",
-          "link": "https://consequence.net/2026/11/olivia-rodrigo-take-me-home-4-christmas-holiday-song-stream/",
-          "published": "2026-11-06T01:28:00+00:00"
+          "headline": "Justice – “Pusher” (Feat. Gesaffelstein)",
+          "link": "https://stereogum.com/2515856/justice-gesaffelstein-pusher-grand-theft-auto-vi-soundtrack-score/music/",
+          "published": "2026-10-29T14:09:59+00:00"
+        }
+      ],
+      "fans": 813168,
+      "star_power": 0.844,
+      "personal": 0.787,
+      "personal_reason": "You've played Justice 25 times",
+      "coverage": 1.0,
+      "publications": [
+        "Stereogum"
+      ],
+      "popularity": 0.458,
+      "rank_score": 0.482,
+      "avg_score": null
+    },
+    {
+      "artist": "Everything But The Girl",
+      "title": "Young and Dumb",
+      "type": "single",
+      "genre": "Pop",
+      "release_date": "2026-10-28",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Pitchfork (news)",
+        "Stereogum",
+        "The Needle Drop (website)"
+      ],
+      "mentions": [
+        {
+          "source": "The Needle Drop (website)",
+          "source_type": "reviews",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Everything But The Girl announces new album 'Blue Reservoir,' share \"Young and Dumb\" music video",
+          "link": "https://theneedledrop.com/news/everything-but-the-girl-announces-new-album-blue-reservoir-share-young-and-dumb-music-video/",
+          "published": "2026-10-28T20:12:54+00:00"
+        },
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "announcement",
+          "score": null,
+          "headline": "Everything But The Girl Announce New Album Blue Reservoir: Hear “Young And Dumb”",
+          "link": "https://stereogum.com/2515793/everything-but-the-girl-announce-new-album-blue-reservoir-hear-young-and-dumb/music/",
+          "published": "2026-10-28T13:39:02+00:00"
         },
         {
           "source": "Pitchfork (news)",
@@ -434,146 +407,34 @@
           "weight": 1.0,
           "mention": "new_song",
           "score": null,
-          "headline": "Listen to Olivia Rodrigo’s New Song “Take Me Home (4 Christmas)”",
-          "link": "https://pitchfork.com/story/listen-to-olivia-rodrigos-new-song-take-me-home-4-christmas/",
-          "published": "2026-11-06T01:15:37+00:00"
-        },
-        {
-          "source": "Rolling Stone (music)",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "release_news",
-          "score": null,
-          "headline": "Olivia Rodrigo, Noted ‘Sex and the City’ Fan, Recruits Cynthia Nixon For Christmas Video",
-          "link": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-cynthia-nixon-christmas-song-1235651368/",
-          "published": "2026-11-06T01:09:06+00:00"
-        },
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "Olivia Rodrigo – “take me home (4 christmas)”",
-          "link": "https://stereogum.com/2516456/olivia-rodrigo-take-me-home-4-christmas/music/",
-          "published": "2026-11-06T01:04:10+00:00"
-        },
-        {
-          "source": "Billboard",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "Olivia Rodrigo Unwraps Holiday Single ‘Take Me Home (4 Christmas)’: Stream It Now",
-          "link": "https://www.billboard.com/music/music-news/olivia-rodrigo-new-song-take-me-home-4-christmas-video-1236375403/",
-          "published": "2026-11-06T01:00:25+00:00"
-        },
-        {
-          "source": "Consequence",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "announcement",
-          "score": null,
-          "headline": "Olivia Rodrigo Announces New Holiday Single “take me home (4 christmas)”",
-          "link": "https://consequence.net/2026/11/olivia-rodrigo-take-me-home-4-christmas-holiday-song/",
-          "published": "2026-11-02T17:36:24+00:00"
-        },
-        {
-          "source": "Clash",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "announcement",
-          "score": null,
-          "headline": "Olivia Rodrigo Confirms Festive Single ‘Take Me Home (4 Christmas)’",
-          "link": "https://www.clashmusic.com/news/olivia-rodrigo-confirms-festive-single-take-me-home-4-christmas/",
-          "published": "2026-11-02T17:23:44+00:00"
+          "headline": "Everything But the Girl Ready New Album Blue Reservoir",
+          "link": "https://pitchfork.com/story/everything-but-the-girl-ready-new-album-blue-reservoir/",
+          "published": "2026-10-28T11:34:35+00:00"
         }
       ],
-      "fans": 1851406,
-      "star_power": 0.895,
-      "personal": 0.58,
-      "personal_reason": "You've played Olivia Rodrigo 3 times",
-      "coverage": 6.0,
+      "fans": 76069,
+      "star_power": 0.697,
+      "personal": 0.687,
+      "personal_reason": "You've played Everything But the Girl 25 times",
+      "coverage": 3.0,
       "publications": [
-        "Billboard",
-        "Clash",
-        "Consequence",
         "Pitchfork",
-        "Rolling Stone",
-        "Stereogum"
+        "Stereogum",
+        "The Needle Drop"
       ],
-      "popularity": 0.958,
-      "rank_score": 0.485,
+      "popularity": 0.639,
+      "rank_score": 0.471,
       "avg_score": null
     }
   ],
   "by_genre": {
     "Pop": [
       {
-        "artist": "Dominic Fike",
-        "title": "How to Quit Smoking",
+        "artist": "Strawberry Guy",
+        "title": "Give Me A Dream",
         "type": "album",
         "genre": "Pop",
-        "release_date": "2026-10-30",
-        "date_source": "musicbrainz",
-        "scores": [],
-        "sources": [
-          "Rolling Stone (music)",
-          "Slant (music)",
-          "The Needle Drop (website)"
-        ],
-        "mentions": [
-          {
-            "source": "Rolling Stone (music)",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "review",
-            "score": null,
-            "headline": "Dominic Fike Might Be Growing Up, But He’s Angsty as Ever",
-            "link": "https://www.rollingstone.com/music/music-album-reviews/dominic-fike-how-to-quit-smoking-review-1235651962/",
-            "published": "2026-11-03T20:28:14+00:00"
-          },
-          {
-            "source": "Slant (music)",
-            "source_type": "reviews",
-            "weight": 1.0,
-            "mention": "review",
-            "score": null,
-            "headline": "Review: On ‘How to Quit Smoking,’ Dominic Fike Struggles to Kick Bad Habits",
-            "link": "https://www.slantmagazine.com/music/dominic-fike-how-to-quit-smoking-album-review/",
-            "published": "2026-10-30T04:00:00+00:00"
-          },
-          {
-            "source": "The Needle Drop (website)",
-            "source_type": "reviews",
-            "weight": 1.0,
-            "mention": "announcement",
-            "score": null,
-            "headline": "Dominic Fike announces features for ‘How to Quit Smoking’",
-            "link": "https://theneedledrop.com/news/dominic-fike-announces-features-for-how-to-quit-smoking/",
-            "published": "2026-10-28T19:33:16+00:00"
-          }
-        ],
-        "fans": 83539,
-        "star_power": 0.703,
-        "personal": 0.563,
-        "personal_reason": "You've played Dominic Fike 2 times",
-        "coverage": 3.0,
-        "publications": [
-          "Rolling Stone",
-          "Slant",
-          "The Needle Drop"
-        ],
-        "popularity": 0.581,
-        "rank_score": 0.568,
-        "avg_score": null
-      },
-      {
-        "artist": "La Roux",
-        "title": "Old Flames",
-        "type": "album",
-        "genre": "Pop",
-        "release_date": "2026-11-06",
+        "release_date": "2026-10-23",
         "date_source": "musicbrainz",
         "scores": [],
         "sources": [
@@ -586,134 +447,29 @@
             "weight": 1.0,
             "mention": "review",
             "score": null,
-            "headline": "La Roux – Old Flames",
-            "link": "https://www.musicomh.com/reviews/albums/la-roux-old-flames",
-            "published": "2026-11-02T08:31:35+00:00"
+            "headline": "Strawberry Guy – Give Me A Dream",
+            "link": "https://www.musicomh.com/reviews/albums/strawberry-guy-give-me-a-dream",
+            "published": "2026-10-23T06:31:34+00:00"
           }
         ],
-        "fans": 152659,
-        "star_power": 0.741,
+        "fans": 52583,
+        "star_power": 0.674,
         "personal": 0.54,
-        "personal_reason": "You've played La Roux 1 time",
+        "personal_reason": "You've played Strawberry Guy 1 time",
         "coverage": 1.0,
         "publications": [
           "musicOMH"
         ],
-        "popularity": 0.396,
-        "rank_score": 0.497,
+        "popularity": 0.39,
+        "rank_score": 0.495,
         "avg_score": null
       },
       {
-        "artist": "Olivia Rodrigo",
-        "title": "Take Me Home (4 Christmas)",
+        "artist": "Everything But The Girl",
+        "title": "Young and Dumb",
         "type": "single",
         "genre": "Pop",
-        "release_date": "2026-11-06",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Billboard",
-          "Clash",
-          "Consequence",
-          "Pitchfork (news)",
-          "Rolling Stone (music)",
-          "Stereogum"
-        ],
-        "mentions": [
-          {
-            "source": "Consequence",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Olivia Rodrigo Unveils New Holiday Song “Take me home (4 christmas)”",
-            "link": "https://consequence.net/2026/11/olivia-rodrigo-take-me-home-4-christmas-holiday-song-stream/",
-            "published": "2026-11-06T01:28:00+00:00"
-          },
-          {
-            "source": "Pitchfork (news)",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Listen to Olivia Rodrigo’s New Song “Take Me Home (4 Christmas)”",
-            "link": "https://pitchfork.com/story/listen-to-olivia-rodrigos-new-song-take-me-home-4-christmas/",
-            "published": "2026-11-06T01:15:37+00:00"
-          },
-          {
-            "source": "Rolling Stone (music)",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "release_news",
-            "score": null,
-            "headline": "Olivia Rodrigo, Noted ‘Sex and the City’ Fan, Recruits Cynthia Nixon For Christmas Video",
-            "link": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-cynthia-nixon-christmas-song-1235651368/",
-            "published": "2026-11-06T01:09:06+00:00"
-          },
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Olivia Rodrigo – “take me home (4 christmas)”",
-            "link": "https://stereogum.com/2516456/olivia-rodrigo-take-me-home-4-christmas/music/",
-            "published": "2026-11-06T01:04:10+00:00"
-          },
-          {
-            "source": "Billboard",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Olivia Rodrigo Unwraps Holiday Single ‘Take Me Home (4 Christmas)’: Stream It Now",
-            "link": "https://www.billboard.com/music/music-news/olivia-rodrigo-new-song-take-me-home-4-christmas-video-1236375403/",
-            "published": "2026-11-06T01:00:25+00:00"
-          },
-          {
-            "source": "Consequence",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "announcement",
-            "score": null,
-            "headline": "Olivia Rodrigo Announces New Holiday Single “take me home (4 christmas)”",
-            "link": "https://consequence.net/2026/11/olivia-rodrigo-take-me-home-4-christmas-holiday-song/",
-            "published": "2026-11-02T17:36:24+00:00"
-          },
-          {
-            "source": "Clash",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "announcement",
-            "score": null,
-            "headline": "Olivia Rodrigo Confirms Festive Single ‘Take Me Home (4 Christmas)’",
-            "link": "https://www.clashmusic.com/news/olivia-rodrigo-confirms-festive-single-take-me-home-4-christmas/",
-            "published": "2026-11-02T17:23:44+00:00"
-          }
-        ],
-        "fans": 1851406,
-        "star_power": 0.895,
-        "personal": 0.58,
-        "personal_reason": "You've played Olivia Rodrigo 3 times",
-        "coverage": 6.0,
-        "publications": [
-          "Billboard",
-          "Clash",
-          "Consequence",
-          "Pitchfork",
-          "Rolling Stone",
-          "Stereogum"
-        ],
-        "popularity": 0.958,
-        "rank_score": 0.485,
-        "avg_score": null
-      },
-      {
-        "artist": "Charlotte Adigéry & Bolis Pupul",
-        "title": "From Healer to Dealer",
-        "type": "single",
-        "genre": "Pop",
-        "release_date": "2026-11-03",
+        "release_date": "2026-10-28",
         "date_source": "feeds",
         "scores": [],
         "sources": [
@@ -723,24 +479,24 @@
         ],
         "mentions": [
           {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Charlotte Adigéry & Bolis Pupul Announce New Album Mainland Madinina: Hear “From Healer To Dealer”",
-            "link": "https://stereogum.com/2516425/charlotte-adigery-bolis-pupul-announce-new-album-mainland-madinina-hear-from-healer-to-dealer/music/",
-            "published": "2026-11-03T16:38:53+00:00"
-          },
-          {
             "source": "The Needle Drop (website)",
             "source_type": "reviews",
             "weight": 1.0,
             "mention": "new_song",
             "score": null,
-            "headline": "Charlotte Adigéry & Bolis Pupul return with new album 'Mainland Mandinina'",
-            "link": "https://theneedledrop.com/news/charlotte-adigery-bolis-pupul-return-with-new-album-mainland-mandinina/",
-            "published": "2026-11-03T16:03:29+00:00"
+            "headline": "Everything But The Girl announces new album 'Blue Reservoir,' share \"Young and Dumb\" music video",
+            "link": "https://theneedledrop.com/news/everything-but-the-girl-announces-new-album-blue-reservoir-share-young-and-dumb-music-video/",
+            "published": "2026-10-28T20:12:54+00:00"
+          },
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "announcement",
+            "score": null,
+            "headline": "Everything But The Girl Announce New Album Blue Reservoir: Hear “Young And Dumb”",
+            "link": "https://stereogum.com/2515793/everything-but-the-girl-announce-new-album-blue-reservoir-hear-young-and-dumb/music/",
+            "published": "2026-10-28T13:39:02+00:00"
           },
           {
             "source": "Pitchfork (news)",
@@ -748,31 +504,31 @@
             "weight": 1.0,
             "mention": "new_song",
             "score": null,
-            "headline": "Charlotte Adigéry and Bolis Pupul Line Up New Album and Tour",
-            "link": "https://pitchfork.com/story/charlotte-adigery-and-bolis-pupul-line-up-new-album-and-tour/",
-            "published": "2026-11-03T14:08:24+00:00"
+            "headline": "Everything But the Girl Ready New Album Blue Reservoir",
+            "link": "https://pitchfork.com/story/everything-but-the-girl-ready-new-album-blue-reservoir/",
+            "published": "2026-10-28T11:34:35+00:00"
           }
         ],
-        "fans": 6768,
-        "star_power": 0.547,
-        "personal": 0.744,
-        "personal_reason": "You've played Charlotte Adigéry 69 times",
+        "fans": 76069,
+        "star_power": 0.697,
+        "personal": 0.687,
+        "personal_reason": "You've played Everything But the Girl 25 times",
         "coverage": 3.0,
         "publications": [
           "Pitchfork",
           "Stereogum",
           "The Needle Drop"
         ],
-        "popularity": 0.519,
-        "rank_score": 0.474,
+        "popularity": 0.639,
+        "rank_score": 0.471,
         "avg_score": null
       },
       {
-        "artist": "nate sib & The Kid LAROI",
-        "title": "Face Card (Remix)",
+        "artist": "Nelly Furtado & Ian Asher",
+        "title": "All Good Things (Come to an End)",
         "type": "single",
         "genre": "Pop",
-        "release_date": "2026-11-02",
+        "release_date": "2026-10-23",
         "date_source": "feeds",
         "scores": [],
         "sources": [
@@ -785,32 +541,192 @@
             "weight": 1.0,
             "mention": "new_song",
             "score": null,
-            "headline": "nate sib and The Kid LAROI Remix ‘Face Card’",
-            "link": "https://www.udiscovermusic.com/news/nate-sib-face-card/",
-            "published": "2026-11-02T19:10:14+00:00"
+            "headline": "Nelly Furtado’s ‘All Good Things (Come to an End)’ Gets Ian Asher Remix",
+            "link": "https://www.udiscovermusic.com/news/nelly-furtado-all-good-things-come-to-an-end-remix/",
+            "published": "2026-10-23T17:36:53+00:00"
           }
         ],
-        "fans": 1396,
-        "star_power": 0.449,
-        "personal": 0.592,
-        "personal_reason": "You've played Nate Sib 4 times",
+        "fans": 1467896,
+        "star_power": 0.881,
+        "personal": 0.54,
+        "personal_reason": "You've played Nelly Furtado 1 time",
         "coverage": 1.0,
         "publications": [
           "uDiscover Music"
         ],
-        "popularity": 0.28,
-        "rank_score": 0.349,
+        "popularity": 0.472,
+        "rank_score": 0.364,
         "avg_score": null
       },
       {
-        "artist": "Disgusting Sisters",
-        "title": "Skin & Blisters",
+        "artist": "Haiden Henderson",
+        "title": "bleach",
         "type": "album",
         "genre": "Pop",
         "release_date": "2026-10-30",
-        "date_source": "musicbrainz",
+        "date_source": "feeds",
         "scores": [],
         "sources": [
+          "uDiscover Music"
+        ],
+        "mentions": [
+          {
+            "source": "uDiscover Music",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "release_news",
+            "score": null,
+            "headline": "Haiden Henderson Releases Debut Album ‘bleach’",
+            "link": "https://www.udiscovermusic.com/news/haiden-henderson-bleach-out-now/",
+            "published": "2026-10-30T20:08:38+00:00"
+          }
+        ],
+        "fans": 4647,
+        "star_power": 0.524,
+        "personal": 0.06,
+        "personal_reason": "Similar to Bella Kay",
+        "coverage": 1.0,
+        "publications": [
+          "uDiscover Music"
+        ],
+        "popularity": 0.33,
+        "rank_score": 0.141,
+        "avg_score": null
+      },
+      {
+        "artist": "Peter Gabriel",
+        "title": "Who Are We Talking To?",
+        "type": "single",
+        "genre": "Pop",
+        "release_date": "2026-10-26",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Stereogum"
+        ],
+        "mentions": [
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Peter Gabriel – “Who Are We Talking To?”",
+            "link": "https://stereogum.com/2515593/peter-gabriel-who-are-we-talking-to/music/",
+            "published": "2026-10-26T16:46:09+00:00"
+          }
+        ],
+        "fans": 520909,
+        "star_power": 0.817,
+        "personal": 0.079,
+        "personal_reason": "Similar to Yes, Supertramp",
+        "coverage": 1.0,
+        "publications": [
+          "Stereogum"
+        ],
+        "popularity": 0.447,
+        "rank_score": 0.133,
+        "avg_score": null
+      },
+      {
+        "artist": "Mei Semones",
+        "title": "2 Hands",
+        "type": "single",
+        "genre": "Pop",
+        "release_date": "2026-10-29",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Stereogum",
+          "The Needle Drop (website)"
+        ],
+        "mentions": [
+          {
+            "source": "The Needle Drop (website)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Mei Semones shares new single “2 Hands” from upcoming album ‘Howl’",
+            "link": "https://theneedledrop.com/news/mei-semones-shares-new-single-2-hands-from-upcoming-album-howl/",
+            "published": "2026-10-29T22:39:43+00:00"
+          },
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Mei Semones – “2 Hands”",
+            "link": "https://stereogum.com/2515990/mei-semones-2-hands-howl-song-video/music/",
+            "published": "2026-10-29T17:53:34+00:00"
+          }
+        ],
+        "fans": 3451,
+        "star_power": 0.505,
+        "personal": 0.071,
+        "personal_reason": "Similar to Lamp, Frankie Cosmos",
+        "coverage": 2.0,
+        "publications": [
+          "Stereogum",
+          "The Needle Drop"
+        ],
+        "popularity": 0.442,
+        "rank_score": 0.128,
+        "avg_score": null
+      }
+    ],
+    "Hip-hop / R&B": [
+      {
+        "artist": "Yeat",
+        "title": "Luh Leakyz Vol. 1",
+        "type": "album",
+        "genre": "Hip-hop / R&B",
+        "release_date": "2026-10-23",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "uDiscover Music"
+        ],
+        "mentions": [
+          {
+            "source": "uDiscover Music",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "release_news",
+            "score": null,
+            "headline": "Yeat Compiles Fan-Demanded Songs on ‘Luh Leakyz Vol. 1’",
+            "link": "https://www.udiscovermusic.com/news/yeat-luh-leakyz-vol-1/",
+            "published": "2026-10-23T13:04:29+00:00"
+          }
+        ],
+        "fans": 232116,
+        "star_power": 0.767,
+        "personal": 0.971,
+        "personal_reason": "You've played Yeat 642 times",
+        "coverage": 1.0,
+        "publications": [
+          "uDiscover Music"
+        ],
+        "popularity": 0.427,
+        "rank_score": 0.808,
+        "avg_score": null
+      },
+      {
+        "artist": "Shabazz Palaces",
+        "title": "It's a Style Sport",
+        "type": "album",
+        "genre": "Hip-hop / R&B",
+        "release_date": "2026-10-28",
+        "date_source": "feeds",
+        "scores": [
+          7
+        ],
+        "sources": [
+          "Pitchfork (album reviews)",
+          "Slant (music)",
+          "The Needle Drop (YouTube)",
+          "The Needle Drop (website)",
           "musicOMH"
         ],
         "mentions": [
@@ -820,31 +736,142 @@
             "weight": 1.0,
             "mention": "review",
             "score": null,
-            "headline": "Disgusting Sisters – Skin & Blisters",
-            "link": "https://www.musicomh.com/reviews/albums/disgusting-sisters-skin-blisters",
-            "published": "2026-10-28T08:01:39+00:00"
+            "headline": "Shabazz Palaces – It’s A Style Sport",
+            "link": "https://www.musicomh.com/reviews/albums/shabazz-palaces-its-a-style-sport",
+            "published": "2026-10-30T07:01:16+00:00"
+          },
+          {
+            "source": "The Needle Drop (website)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "review",
+            "score": 7,
+            "headline": "Shabazz Palaces - It's a Style Sport",
+            "link": "https://theneedledrop.com/album-reviews/shabazz-palaces-its-a-style-sport-album-review-hayeg997l3q/",
+            "published": "2026-10-29T11:41:15+00:00"
+          },
+          {
+            "source": "The Needle Drop (YouTube)",
+            "source_type": "video",
+            "weight": 1.5,
+            "mention": "review",
+            "score": null,
+            "headline": "Shabazz Palaces - It's a Style Sport ALBUM REVIEW",
+            "link": "https://www.youtube.com/watch?v=HAyEg997L3Q",
+            "published": "2026-10-28T03:06:27+00:00"
+          },
+          {
+            "source": "Pitchfork (album reviews)",
+            "source_type": "reviews",
+            "weight": 1.5,
+            "mention": "review",
+            "score": null,
+            "headline": "It’s a Style Sport",
+            "link": "https://pitchfork.com/reviews/albums/shabazz-palaces-its-a-style-sport/",
+            "published": "2026-10-23T04:01:00+00:00"
+          },
+          {
+            "source": "Slant (music)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "review",
+            "score": null,
+            "headline": "Shabazz Palaces ‘It’s a Style Sport’ Review: A Veteran’s Rulebook, Broken with Flair",
+            "link": "https://www.slantmagazine.com/music/shabazz-palaces-its-a-style-sport-album-review/",
+            "published": "2026-10-18T15:00:00+00:00"
           }
         ],
-        "fans": 130,
-        "star_power": 0.302,
-        "personal": 0.102,
-        "personal_reason": "Similar to Yard Act, Bodega",
-        "coverage": 1.0,
+        "fans": 7385,
+        "star_power": 0.553,
+        "personal": 0.603,
+        "personal_reason": "You've played Shabazz Palaces 5 times",
+        "coverage": 4.0,
         "publications": [
+          "Pitchfork",
+          "Slant",
+          "The Needle Drop",
           "musicOMH"
         ],
-        "popularity": 0.221,
-        "rank_score": 0.138,
-        "avg_score": null
-      }
-    ],
-    "Hip-hop / R&B": [
+        "popularity": 0.701,
+        "rank_score": 0.632,
+        "avg_score": 7.0
+      },
       {
-        "artist": "evilgiane & Slimesito",
-        "title": "EVILSLIME 2",
+        "artist": "Boldy James & Real Bad Man",
+        "title": "Strobelight",
         "type": "album",
         "genre": "Hip-hop / R&B",
-        "release_date": "2026-10-30",
+        "release_date": "2026-10-28",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Stereogum"
+        ],
+        "mentions": [
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "release_news",
+            "score": null,
+            "headline": "Boldy James & Real Bad Man Release New Album Strobelight",
+            "link": "https://stereogum.com/2515832/boldy-james-real-bad-man-release-new-album-strobelight/music/",
+            "published": "2026-10-28T18:04:00+00:00"
+          }
+        ],
+        "fans": 15003,
+        "star_power": 0.597,
+        "personal": 0.699,
+        "personal_reason": "You've played Boldy James 31 times",
+        "coverage": 1.0,
+        "publications": [
+          "Stereogum"
+        ],
+        "popularity": 0.359,
+        "rank_score": 0.597,
+        "avg_score": null
+      },
+      {
+        "artist": "Anderson .Paak & Cordae",
+        "title": "Heavy Is the Crown",
+        "type": "album",
+        "genre": "Hip-hop / R&B",
+        "release_date": "2026-10-23",
+        "date_source": "musicbrainz",
+        "scores": [],
+        "sources": [
+          "Pitchfork (album reviews)"
+        ],
+        "mentions": [
+          {
+            "source": "Pitchfork (album reviews)",
+            "source_type": "reviews",
+            "weight": 1.5,
+            "mention": "review",
+            "score": null,
+            "headline": "Heavy Is the Crown",
+            "link": "https://pitchfork.com/reviews/albums/anderson-paak-cordae-heavy-is-the-crown/",
+            "published": "2026-10-29T04:01:00+00:00"
+          }
+        ],
+        "fans": 254932,
+        "star_power": 0.772,
+        "personal": 0.607,
+        "personal_reason": "On your Spotify playlists (2 tracks)",
+        "coverage": 1.0,
+        "publications": [
+          "Pitchfork"
+        ],
+        "popularity": 0.429,
+        "rank_score": 0.554,
+        "avg_score": null
+      },
+      {
+        "artist": "evilgiane & Slimesito",
+        "title": "Georgia State",
+        "type": "single",
+        "genre": "Hip-hop / R&B",
+        "release_date": "2026-10-26",
         "date_source": "feeds",
         "scores": [],
         "sources": [
@@ -870,84 +897,14 @@
         "publications": [
           "Stereogum"
         ],
-        "popularity": 0.253,
-        "rank_score": 0.708,
+        "popularity": 0.273,
+        "rank_score": 0.5,
         "avg_score": null
       },
       {
-        "artist": "Nettspend",
-        "title": "Virginia Creeper",
-        "type": "ep",
-        "genre": "Hip-hop / R&B",
-        "release_date": "2026-10-30",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "uDiscover Music"
-        ],
-        "mentions": [
-          {
-            "source": "uDiscover Music",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "release_news",
-            "score": null,
-            "headline": "Nettspend’s ‘Virginia Creeper’ Features Six New Tracks",
-            "link": "https://www.udiscovermusic.com/news/nettspend-virginia-creeper-ep/",
-            "published": "2026-10-30T22:48:44+00:00"
-          }
-        ],
-        "fans": 13282,
-        "star_power": 0.589,
-        "personal": 0.965,
-        "personal_reason": "You've played nettspend 584 times",
-        "coverage": 1.0,
-        "publications": [
-          "uDiscover Music"
-        ],
-        "popularity": 0.336,
-        "rank_score": 0.621,
-        "avg_score": null
-      },
-      {
-        "artist": "Lil Baby",
-        "title": "FRESH",
-        "type": "album",
-        "genre": "Hip-hop / R&B",
-        "release_date": "2026-11-06",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "uDiscover Music"
-        ],
-        "mentions": [
-          {
-            "source": "uDiscover Music",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "announcement",
-            "score": null,
-            "headline": "Lil Baby Announces ‘FRESH’ for November 6 Release",
-            "link": "https://www.udiscovermusic.com/news/lil-baby-fresh/",
-            "published": "2026-10-21T12:53:52+00:00"
-          }
-        ],
-        "fans": 1452986,
-        "star_power": 0.88,
-        "personal": 0.675,
-        "personal_reason": "You've played Lil Baby 20 times",
-        "coverage": 1.0,
-        "publications": [
-          "uDiscover Music"
-        ],
-        "popularity": 0.452,
-        "rank_score": 0.608,
-        "avg_score": null
-      },
-      {
-        "artist": "doseone & Fatboi Sharif & steel tipped dove",
-        "title": "Truth Ugly",
-        "type": "album",
+        "artist": "Benny The Butcher",
+        "title": "Elevate",
+        "type": "single",
         "genre": "Hip-hop / R&B",
         "release_date": "2026-10-30",
         "date_source": "feeds",
@@ -960,321 +917,286 @@
             "source": "Stereogum",
             "source_type": "news",
             "weight": 1.0,
-            "mention": "release_news",
+            "mention": "new_song",
             "score": null,
-            "headline": "doseone, Fatboi Sharif, & steel tipped dove Release New Album Truth Ugly",
-            "link": "https://stereogum.com/2516152/doseone-fatboi-sharif-steel-tipped-dove-release-new-album-truth-ugly/music/",
-            "published": "2026-10-30T17:20:19+00:00"
+            "headline": "Benny The Butcher – “Elevate”",
+            "link": "https://stereogum.com/2516124/benny-the-butcher-elevate/music/",
+            "published": "2026-10-30T14:54:26+00:00"
           }
         ],
-        "fans": 1273,
-        "star_power": 0.444,
-        "personal": 0.647,
-        "personal_reason": "You've played Doseone 12 times",
-        "coverage": 1.0,
-        "publications": [
-          "Stereogum"
-        ],
-        "popularity": 0.278,
-        "rank_score": 0.536,
-        "avg_score": null
-      },
-      {
-        "artist": "Jack Harlow",
-        "title": "Sweet Action II",
-        "type": "ep",
-        "genre": "Hip-hop / R&B",
-        "release_date": "2026-11-06",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Clash"
-        ],
-        "mentions": [
-          {
-            "source": "Clash",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "announcement",
-            "score": null,
-            "headline": "Jack Harlow Announces ‘Sweet Action II’ EP",
-            "link": "https://www.clashmusic.com/news/jack-harlow-announces-sweet-action-ii-ep/",
-            "published": "2026-11-02T20:10:48+00:00"
-          }
-        ],
-        "fans": 344256,
-        "star_power": 0.791,
+        "fans": 38599,
+        "star_power": 0.655,
         "personal": 0.677,
-        "personal_reason": "You've played Jack Harlow 21 times",
-        "coverage": 1.0,
-        "publications": [
-          "Clash"
-        ],
-        "popularity": 0.416,
-        "rank_score": 0.479,
-        "avg_score": null
-      },
-      {
-        "artist": "Wiki",
-        "title": "Papiseed Street Vol. 2",
-        "type": "mixtape",
-        "genre": "Hip-hop / R&B",
-        "release_date": "2026-11-02",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Stereogum"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "release_news",
-            "score": null,
-            "headline": "Wiki Drops New Mixtape Papiseed Street Vol. 2",
-            "link": "https://stereogum.com/2516316/wiki-drops-new-mixtape-papiseed-street-vol-2/music/",
-            "published": "2026-11-02T16:02:54+00:00"
-          }
-        ],
-        "fans": 2214,
-        "star_power": 0.478,
-        "personal": 0.58,
-        "personal_reason": "You've played Wiki 3 times",
+        "personal_reason": "You've played Benny the Butcher 21 times",
         "coverage": 1.0,
         "publications": [
           "Stereogum"
         ],
-        "popularity": 0.291,
-        "rank_score": 0.444,
+        "popularity": 0.382,
+        "rank_score": 0.412,
         "avg_score": null
       }
     ],
     "Rock / Alternative / Indie": [
       {
-        "artist": "DIIV",
-        "title": "ZIRP!",
-        "type": "album",
+        "artist": "Phoebe Bridgers",
+        "title": "Madison Square Garden",
+        "type": "ep",
         "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-11-06",
+        "release_date": "2026-10-29",
         "date_source": "feeds",
         "scores": [],
         "sources": [
-          "Clash",
-          "Pitchfork (album reviews)",
-          "Slant (music)",
+          "Pitchfork (news)"
+        ],
+        "mentions": [
+          {
+            "source": "Pitchfork (news)",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "announcement",
+            "score": null,
+            "headline": "Phoebe Bridgers Announces Madison Square Garden EP",
+            "link": "https://pitchfork.com/story/phoebe-bridgers-announces-madison-square-garden-ep/",
+            "published": "2026-10-29T17:25:02+00:00"
+          }
+        ],
+        "fans": 209777,
+        "star_power": 0.76,
+        "personal": 0.707,
+        "personal_reason": "You've played Phoebe Bridgers 36 times",
+        "coverage": 1.0,
+        "publications": [
+          "Pitchfork"
+        ],
+        "popularity": 0.424,
+        "rank_score": 0.498,
+        "avg_score": null
+      },
+      {
+        "artist": "DIIV",
+        "title": "Dare Me",
+        "type": "single",
+        "genre": "Rock / Alternative / Indie",
+        "release_date": "2026-10-28",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
           "Stereogum"
         ],
         "mentions": [
           {
-            "source": "Clash",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "release_news",
-            "score": null,
-            "headline": "DIIV Go Pop, And Mean It",
-            "link": "https://www.clashmusic.com/features/diiv-go-pop-and-mean-it/",
-            "published": "2026-11-04T13:22:00+00:00"
-          },
-          {
-            "source": "Pitchfork (album reviews)",
-            "source_type": "reviews",
-            "weight": 1.5,
-            "mention": "review",
-            "score": null,
-            "headline": "ZIRP!",
-            "link": "https://pitchfork.com/reviews/albums/diiv-zirp/",
-            "published": "2026-10-30T04:03:00+00:00"
-          },
-          {
             "source": "Stereogum",
             "source_type": "news",
             "weight": 1.0,
-            "mention": "review",
+            "mention": "new_song",
             "score": null,
-            "headline": "Album Of The Week: DIIV ZIRP!",
-            "link": "https://stereogum.com/2515261/album-of-the-week-diiv-zirp/reviews/album-of-the-week/",
-            "published": "2026-10-27T20:25:11+00:00"
-          },
-          {
-            "source": "Slant (music)",
-            "source_type": "reviews",
-            "weight": 1.0,
-            "mention": "review",
-            "score": null,
-            "headline": "DIIV ‘Zirp!’ Review: Distortion Without Dimension",
-            "link": "https://www.slantmagazine.com/music/diiv-zirp-album-review/",
-            "published": "2026-10-25T15:00:00+00:00"
+            "headline": "DIIV – “Dare Me”",
+            "link": "https://stereogum.com/2515877/diiv-dare-me-zirp-song/music/",
+            "published": "2026-10-28T21:58:35+00:00"
           }
         ],
         "fans": 38258,
         "star_power": 0.655,
         "personal": 0.607,
         "personal_reason": "On your Spotify playlists (2 tracks)",
-        "coverage": 4.0,
-        "publications": [
-          "Clash",
-          "Pitchfork",
-          "Slant",
-          "Stereogum"
-        ],
-        "popularity": 0.662,
-        "rank_score": 0.623,
-        "avg_score": null
-      },
-      {
-        "artist": "Tame Impala",
-        "title": "Kiss From A Rose",
-        "type": "single",
-        "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-10-30",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Stereogum"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Tame Impala Cover “Kiss From A Rose”",
-            "link": "https://stereogum.com/2516062/tame-impala-cover-kiss-from-a-rose/news/",
-            "published": "2026-10-30T13:26:02+00:00"
-          }
-        ],
-        "fans": 1164566,
-        "star_power": 0.867,
-        "personal": 0.771,
-        "personal_reason": "You've played Tame Impala 111 times",
         "coverage": 1.0,
         "publications": [
           "Stereogum"
         ],
-        "popularity": 0.447,
-        "rank_score": 0.472,
+        "popularity": 0.382,
+        "rank_score": 0.378,
         "avg_score": null
       },
       {
-        "artist": "Toro y Moi",
-        "title": "Motive",
+        "artist": "The Flaming Lips",
+        "title": "God Will Control the Werewolves",
         "type": "single",
         "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-11-05",
+        "release_date": "2026-10-26",
         "date_source": "feeds",
         "scores": [],
         "sources": [
-          "Stereogum"
+          "Stereogum",
+          "The Needle Drop (website)"
         ],
         "mentions": [
+          {
+            "source": "The Needle Drop (website)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "announcement",
+            "score": null,
+            "headline": "The Flaming Lips announce new album ‘The Teardrop Throbs,’ share new single “God Will Control the Werewolves”",
+            "link": "https://theneedledrop.com/news/the-flaming-lips-announce-new-album-the-teardrop-throbs-share-new-single-god-will-control-the-werewolves/",
+            "published": "2026-10-26T23:01:12+00:00"
+          },
           {
             "source": "Stereogum",
             "source_type": "news",
             "weight": 1.0,
             "mention": "announcement",
             "score": null,
-            "headline": "Toro y Moi Announces New Album Unusua: Hear “Motive”",
-            "link": "https://stereogum.com/2516622/toro-y-moi-announces-new-album-unusua-hear-motive/music/",
-            "published": "2026-11-05T17:38:32+00:00"
+            "headline": "The Flaming Lips Announce First Post-Steven Drozd Album The Teardrop Throbs: Hear “God Will Control The Werewolves”",
+            "link": "https://stereogum.com/2515626/the-flaming-lips-announce-first-post-steven-drozd-album-the-teardrop-throbs-hear-god-will-control-the-werewolves/music/",
+            "published": "2026-10-26T19:04:46+00:00"
           }
         ],
-        "fans": 59746,
-        "star_power": 0.682,
-        "personal": 0.669,
-        "personal_reason": "You've played Toro y Moi 18 times",
-        "coverage": 1.0,
-        "publications": [
-          "Stereogum"
-        ],
-        "popularity": 0.373,
-        "rank_score": 0.406,
-        "avg_score": null
-      },
-      {
-        "artist": "Liars",
-        "title": "Beat Creep Some Eyes",
-        "type": "single",
-        "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-11-04",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Stereogum"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Liars – “Beat Creep Some Eyes”",
-            "link": "https://stereogum.com/2516465/liars-beat-creep-some-eyes/music/",
-            "published": "2026-11-04T13:55:58+00:00"
-          }
-        ],
-        "fans": 14640,
-        "star_power": 0.595,
+        "fans": 66924,
+        "star_power": 0.689,
         "personal": 0.54,
-        "personal_reason": "You've played Liars 1 time",
-        "coverage": 1.0,
+        "personal_reason": "You've played The Flaming Lips 1 time",
+        "coverage": 2.0,
         "publications": [
-          "Stereogum"
+          "Stereogum",
+          "The Needle Drop"
         ],
-        "popularity": 0.338,
-        "rank_score": 0.336,
+        "popularity": 0.516,
+        "rank_score": 0.373,
         "avg_score": null
       },
       {
-        "artist": "Computerwife",
-        "title": "Hammered",
-        "type": "single",
+        "artist": "HMLTD",
+        "title": "FANGS",
+        "type": "album",
         "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-11-02",
-        "date_source": "feeds",
-        "scores": [],
+        "release_date": "2026-10-23",
+        "date_source": "musicbrainz",
+        "scores": [
+          5
+        ],
         "sources": [
-          "Stereogum"
+          "The Needle Drop (YouTube)",
+          "The Needle Drop (website)"
         ],
         "mentions": [
           {
-            "source": "Stereogum",
-            "source_type": "news",
+            "source": "The Needle Drop (website)",
+            "source_type": "reviews",
             "weight": 1.0,
-            "mention": "new_song",
+            "mention": "review",
+            "score": 5,
+            "headline": "HMLTD - FANGS",
+            "link": "https://theneedledrop.com/album-reviews/hmltd-fangs-album-review-ygfqolufnca/",
+            "published": "2026-11-02T12:58:26+00:00"
+          },
+          {
+            "source": "The Needle Drop (YouTube)",
+            "source_type": "video",
+            "weight": 1.5,
+            "mention": "review",
             "score": null,
-            "headline": "Computerwife – “Hammered”",
-            "link": "https://stereogum.com/2516335/computerwife-hammered-born-from-a-wish/music/",
-            "published": "2026-11-02T17:19:06+00:00"
+            "headline": "HMLTD - FANGS ALBUM REVIEW",
+            "link": "https://www.youtube.com/watch?v=YGFqOLufncA",
+            "published": "2026-10-29T23:04:17+00:00"
           }
         ],
-        "fans": 616,
-        "star_power": 0.399,
-        "personal": 0.563,
-        "personal_reason": "You've played Computerwife 2 times",
+        "fans": 2997,
+        "star_power": 0.497,
+        "personal": 0.27,
+        "personal_reason": "Similar to Model/Actriz, Squid",
         "coverage": 1.0,
         "publications": [
-          "Stereogum"
+          "The Needle Drop"
         ],
-        "popularity": 0.26,
-        "rank_score": 0.33,
-        "avg_score": null
+        "popularity": 0.319,
+        "rank_score": 0.285,
+        "avg_score": 5.0
       },
       {
-        "artist": "Queens of the Stone Age",
-        "title": "Perfecth",
-        "type": "album",
+        "artist": "Atlas Sound",
+        "title": "Octoberland",
+        "type": "single",
         "genre": "Rock / Alternative / Indie",
         "release_date": "2026-10-30",
         "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Clash",
+          "Consequence",
+          "Pitchfork (news)",
+          "Stereogum",
+          "The Needle Drop (website)"
+        ],
+        "mentions": [
+          {
+            "source": "Clash",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Atlas Sound Returns With ‘Octoberland’ – His First New Release In 15 Years",
+            "link": "https://www.clashmusic.com/news/atlas-sound-returns-with-octoberland-his-first-new-release-in-15-years/",
+            "published": "2026-11-02T12:06:44+00:00"
+          },
+          {
+            "source": "The Needle Drop (website)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Atlas Sound returns with \"Octoberland,\" first new song in 15 years",
+            "link": "https://theneedledrop.com/news/atlas-sound-returns-with-octoberland-first-new-song-in-15-years/",
+            "published": "2026-10-31T00:19:58+00:00"
+          },
+          {
+            "source": "Consequence",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Bradford Cox Releases New Atlas Sound Song “Octoberland”: Steam",
+            "link": "https://consequence.net/2026/10/bradford-cox-atlas-sound-octoberland/",
+            "published": "2026-10-30T21:17:56+00:00"
+          },
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Atlas Sound – “Octoberland”",
+            "link": "https://stereogum.com/2516185/atlas-sound-octoberland/music/",
+            "published": "2026-10-30T21:05:06+00:00"
+          },
+          {
+            "source": "Pitchfork (news)",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Listen to the First Atlas Sound Song in 15 Years",
+            "link": "https://pitchfork.com/story/listen-to-the-first-atlas-sound-song-in-15-years/",
+            "published": "2026-10-30T21:03:48+00:00"
+          }
+        ],
+        "fans": 9299,
+        "star_power": 0.567,
+        "personal": 0.216,
+        "personal_reason": "Similar to Deerhunter, Panda Bear",
+        "coverage": 5.0,
+        "publications": [
+          "Clash",
+          "Consequence",
+          "Pitchfork",
+          "Stereogum",
+          "The Needle Drop"
+        ],
+        "popularity": 0.827,
+        "rank_score": 0.28,
+        "avg_score": null
+      },
+      {
+        "artist": "PISS",
+        "title": "You Made Me/Skin On Linen",
+        "type": "album",
+        "genre": "Rock / Alternative / Indie",
+        "release_date": null,
+        "date_source": "feeds",
         "scores": [
-          3
+          9
         ],
         "sources": [
-          "Consequence",
-          "NME",
           "The Needle Drop (website)",
           "musicOMH"
         ],
@@ -1284,30 +1206,10 @@
             "source_type": "reviews",
             "weight": 1.0,
             "mention": "review",
-            "score": 3,
-            "headline": "Queens of the Stone Age - Perfecth",
-            "link": "https://theneedledrop.com/album-reviews/queens-of-the-stone-age-perfecth-album-review-kourfioyqws/",
-            "published": "2026-11-04T12:39:07+00:00"
-          },
-          {
-            "source": "NME",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "release_news",
-            "score": null,
-            "headline": "Josh Homme on reworking Iggy Pop collab ‘Sunday’ for Queens Of The Stone Age’s ‘Perfecth’ – and if they’ll work together again",
-            "link": "https://www.nme.com/news/music/josh-homme-reworking-iggy-pop-collab-sunday-queens-of-the-stone-age-perfecth-3974893?utm_source=rss&utm_medium=rss&utm_campaign=josh-homme-reworking-iggy-pop-collab-sunday-queens-of-the-stone-age-perfecth",
-            "published": "2026-11-03T13:36:57+00:00"
-          },
-          {
-            "source": "Consequence",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "release_news",
-            "score": null,
-            "headline": "Queens of the Stone Age Release New Album Perfecth: Stream",
-            "link": "https://consequence.net/2026/10/queens-of-the-stone-age-perfecth-album-stream/",
-            "published": "2026-10-30T17:44:32+00:00"
+            "score": 9,
+            "headline": "PISS - you made me / skin on linen",
+            "link": "https://theneedledrop.com/album-reviews/piss-you-made-me-skin-on-linen-album-review-naxdhd-r3yq/",
+            "published": "2026-11-05T15:13:57+00:00"
           },
           {
             "source": "musicOMH",
@@ -1315,127 +1217,172 @@
             "weight": 1.0,
             "mention": "review",
             "score": null,
-            "headline": "Queens Of The Stone Age – Perfecth",
-            "link": "https://www.musicomh.com/reviews/albums/queens-of-the-stone-age-perfecth",
-            "published": "2026-10-28T08:31:05+00:00"
+            "headline": "PISS – You Made Me/Skin On Linen",
+            "link": "https://www.musicomh.com/reviews/albums/piss-you-made-me-skin-on-linen",
+            "published": "2026-10-30T07:31:20+00:00"
           }
         ],
-        "fans": 1375936,
-        "star_power": 0.877,
-        "personal": 0.135,
-        "personal_reason": "Similar to Desert Sessions, Soundgarden",
-        "coverage": 4.0,
+        "fans": 275,
+        "star_power": 0.349,
+        "personal": 0.2,
+        "personal_reason": "Similar to Soul Glo, Show Me the Body",
+        "coverage": 2.0,
         "publications": [
-          "Consequence",
-          "NME",
           "The Needle Drop",
           "musicOMH"
         ],
-        "popularity": 0.751,
-        "rank_score": 0.32,
-        "avg_score": 3.0
+        "popularity": 0.38,
+        "rank_score": 0.254,
+        "avg_score": 9.0
       }
     ],
     "Electronic / Dance": [
       {
-        "artist": "Shygirl",
-        "title": "Swallow!",
+        "artist": "Huerco S.",
+        "title": "From the Toolkit of Lovers",
         "type": "album",
         "genre": "Electronic / Dance",
-        "release_date": "2026-11-06",
+        "release_date": null,
         "date_source": "feeds",
         "scores": [],
         "sources": [
-          "Clash",
-          "Slant (music)"
+          "Pitchfork (album reviews)"
         ],
         "mentions": [
           {
-            "source": "Slant (music)",
+            "source": "Pitchfork (album reviews)",
             "source_type": "reviews",
-            "weight": 1.0,
+            "weight": 1.5,
             "mention": "review",
             "score": null,
-            "headline": "Review: Shygirl’s ‘Swallow!’ Goes Deep and Gets Real",
-            "link": "https://www.slantmagazine.com/music/shygirl-swallow-album-review/",
-            "published": "2026-11-05T16:14:55+00:00"
-          },
-          {
-            "source": "Clash",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "announcement",
-            "score": null,
-            "headline": "Shygirl Drops New Single ‘Eternal’",
-            "link": "https://www.clashmusic.com/news/shygirl-drops-new-single-eternal/",
-            "published": "2026-11-04T11:32:30+00:00"
-          },
+            "headline": "From the Toolkit of Lovers",
+            "link": "https://pitchfork.com/reviews/albums/loidis-from-the-toolkit-of-lovers/",
+            "published": "2026-10-27T04:03:00+00:00"
+          }
+        ],
+        "fans": 22217,
+        "star_power": 0.621,
+        "personal": 0.563,
+        "personal_reason": "You've played Huerco S. 2 times",
+        "coverage": 1.0,
+        "publications": [
+          "Pitchfork"
+        ],
+        "popularity": 0.368,
+        "rank_score": 0.504,
+        "avg_score": null
+      },
+      {
+        "artist": "Justice",
+        "title": "Pusher",
+        "type": "single",
+        "genre": "Electronic / Dance",
+        "release_date": "2026-10-29",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Stereogum"
+        ],
+        "mentions": [
           {
             "source": "Stereogum",
             "source_type": "news",
             "weight": 1.0,
             "mention": "new_song",
             "score": null,
-            "headline": "Shygirl – “Eternal”",
-            "link": "https://stereogum.com/2516468/shygirl-eternal/music/",
-            "published": "2026-11-04T14:24:35+00:00"
+            "headline": "Justice – “Pusher” (Feat. Gesaffelstein)",
+            "link": "https://stereogum.com/2515856/justice-gesaffelstein-pusher-grand-theft-auto-vi-soundtrack-score/music/",
+            "published": "2026-10-29T14:09:59+00:00"
           }
         ],
-        "fans": 26006,
-        "star_power": 0.631,
-        "personal": 0.885,
-        "personal_reason": "You've played Shygirl 143 times",
-        "coverage": 3.0,
+        "fans": 813168,
+        "star_power": 0.844,
+        "personal": 0.787,
+        "personal_reason": "You've played Justice 25 times",
+        "coverage": 1.0,
         "publications": [
-          "Clash",
-          "Slant",
           "Stereogum"
         ],
-        "popularity": 0.552,
-        "rank_score": 0.785,
+        "popularity": 0.458,
+        "rank_score": 0.482,
         "avg_score": null
       },
       {
-        "artist": "Ecco2k",
-        "title": "Sky Burial",
+        "artist": "Boys Noize",
+        "title": "Nächsteliebe",
         "type": "single",
         "genre": "Electronic / Dance",
-        "release_date": "2026-11-03",
+        "release_date": "2026-10-29",
         "date_source": "feeds",
         "scores": [],
         "sources": [
-          "The Needle Drop (website)"
+          "Stereogum"
         ],
         "mentions": [
           {
-            "source": "The Needle Drop (website)",
-            "source_type": "reviews",
+            "source": "Stereogum",
+            "source_type": "news",
             "weight": 1.0,
             "mention": "new_song",
             "score": null,
-            "headline": "Ecco2k shares new single \"Sky Burial\"",
-            "link": "https://theneedledrop.com/news/ecco2k-shares-new-single-sky-burial/",
-            "published": "2026-11-03T20:09:46+00:00"
+            "headline": "Boys Noize – “Nächsteliebe” (Feat. Brutalismus 3000)",
+            "link": "https://stereogum.com/2516002/boys-noize-nachsteliebe-feat-brutalismus-3000/music/",
+            "published": "2026-10-29T17:45:19+00:00"
           }
         ],
-        "fans": 14518,
-        "star_power": 0.595,
-        "personal": 0.968,
-        "personal_reason": "You've played Ecco2K 610 times",
+        "fans": 169313,
+        "star_power": 0.747,
+        "personal": 0.236,
+        "personal_reason": "Similar to Justice, Sebastian",
         "coverage": 1.0,
         "publications": [
-          "The Needle Drop"
+          "Stereogum"
         ],
-        "popularity": 0.338,
-        "rank_score": 0.545,
+        "popularity": 0.419,
+        "rank_score": 0.204,
         "avg_score": null
       },
       {
-        "artist": "Yaeji",
-        "title": "DDR",
+        "artist": "Girl Group",
+        "title": "SAVIOUR/FATHER/PRINCE",
         "type": "single",
         "genre": "Electronic / Dance",
-        "release_date": "2026-11-02",
+        "release_date": "2026-10-23",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "uDiscover Music"
+        ],
+        "mentions": [
+          {
+            "source": "uDiscover Music",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Girl Group Release New Single ‘SAVIOUR/FATHER/PRINCE’",
+            "link": "https://www.udiscovermusic.com/news/girl-group-saviour-father-prince/",
+            "published": "2026-10-23T13:12:38+00:00"
+          }
+        ],
+        "fans": 1162,
+        "star_power": 0.438,
+        "personal": 0.243,
+        "personal_reason": "Similar to Wet Leg, Fontaines D.C.",
+        "coverage": 1.0,
+        "publications": [
+          "uDiscover Music"
+        ],
+        "popularity": 0.295,
+        "rank_score": 0.181,
+        "avg_score": null
+      },
+      {
+        "artist": "Junior Boys",
+        "title": "Underneath The Moon",
+        "type": "single",
+        "genre": "Electronic / Dance",
+        "release_date": "2026-10-29",
         "date_source": "feeds",
         "scores": [],
         "sources": [
@@ -1449,9 +1396,9 @@
             "weight": 1.0,
             "mention": "new_song",
             "score": null,
-            "headline": "Yaeji Plots a Dance Dance Revolution in New Single “DDR”",
-            "link": "https://pitchfork.com/story/yaeji-plots-a-dance-dance-revolution-in-new-ddr-video/",
-            "published": "2026-11-02T16:27:19+00:00"
+            "headline": "Junior Boys Return With New Album The Gore",
+            "link": "https://pitchfork.com/story/junior-boys-return-with-new-album-the-gore/",
+            "published": "2026-10-29T15:16:52+00:00"
           },
           {
             "source": "Stereogum",
@@ -1459,127 +1406,57 @@
             "weight": 1.0,
             "mention": "new_song",
             "score": null,
-            "headline": "Yaeji – “ddr”",
-            "link": "https://stereogum.com/2516296/yaeji-ddr/music/",
-            "published": "2026-11-02T15:23:15+00:00"
+            "headline": "Junior Boys Announce New Album The Gore: Hear “Underneath The Moon”",
+            "link": "https://stereogum.com/2515864/junior-boys-the-gore-underneath-the-moon-album-announce/music/",
+            "published": "2026-10-29T13:54:04+00:00"
           }
         ],
-        "fans": 28827,
-        "star_power": 0.637,
-        "personal": 0.726,
-        "personal_reason": "You've played Yaeji 50 times",
+        "fans": 11452,
+        "star_power": 0.58,
+        "personal": 0.162,
+        "personal_reason": "Similar to The Knife, Caribou",
         "coverage": 2.0,
         "publications": [
           "Pitchfork",
           "Stereogum"
         ],
-        "popularity": 0.455,
-        "rank_score": 0.451,
+        "popularity": 0.472,
+        "rank_score": 0.178,
         "avg_score": null
       },
       {
-        "artist": "Yello",
-        "title": "Time Lab",
-        "type": "album",
+        "artist": "MPH & Megra",
+        "title": "Skin To Skin",
+        "type": "single",
         "genre": "Electronic / Dance",
-        "release_date": "2026-10-30",
-        "date_source": "musicbrainz",
-        "scores": [],
-        "sources": [
-          "musicOMH"
-        ],
-        "mentions": [
-          {
-            "source": "musicOMH",
-            "source_type": "reviews",
-            "weight": 1.0,
-            "mention": "review",
-            "score": null,
-            "headline": "Yello – Time Lab",
-            "link": "https://www.musicomh.com/reviews/albums/yello-time-lab",
-            "published": "2026-10-30T08:31:24+00:00"
-          }
-        ],
-        "fans": 46239,
-        "star_power": 0.666,
-        "personal": 0.048,
-        "personal_reason": "Similar to Kraftwerk, Depeche Mode",
-        "coverage": 1.0,
-        "publications": [
-          "musicOMH"
-        ],
-        "popularity": 0.366,
-        "rank_score": 0.143,
-        "avg_score": null
-      },
-      {
-        "artist": "SILVERWINGKILLER",
-        "title": "DESPERATE STRUGGLE",
-        "type": "ep",
-        "genre": "Electronic / Dance",
-        "release_date": "2026-10-30",
+        "release_date": "2026-10-23",
         "date_source": "feeds",
         "scores": [],
         "sources": [
-          "Clash"
+          "uDiscover Music"
         ],
         "mentions": [
           {
-            "source": "Clash",
+            "source": "uDiscover Music",
             "source_type": "news",
             "weight": 1.0,
-            "mention": "review",
+            "mention": "new_song",
             "score": null,
-            "headline": "SILVERWINGKILLER’s New EP ‘DESPERATE STRUGGLE’ Is Remarkable",
-            "link": "https://www.clashmusic.com/news/silverwingkillers-new-ep-desperate-struggle-is-remarkable/",
-            "published": "2026-10-30T16:08:18+00:00"
+            "headline": "MPH And Megra Join Forces On ‘Skin To Skin’",
+            "link": "https://www.udiscovermusic.com/news/mph-megra-skin-to-skin/",
+            "published": "2026-10-23T13:06:46+00:00"
           }
         ],
-        "fans": 49,
-        "star_power": 0.243,
-        "personal": 0.097,
-        "personal_reason": "Similar to P.V.A.",
+        "fans": 2339,
+        "star_power": 0.481,
+        "personal": 0.174,
+        "personal_reason": "Similar to Sammy Virji, KH",
         "coverage": 1.0,
         "publications": [
-          "Clash"
+          "uDiscover Music"
         ],
-        "popularity": 0.197,
-        "rank_score": 0.102,
-        "avg_score": null
-      },
-      {
-        "artist": "Blu DeTiger",
-        "title": "N.Y. Baby",
-        "type": "album",
-        "genre": "Electronic / Dance",
-        "release_date": "2026-11-06",
-        "date_source": "musicbrainz",
-        "scores": [],
-        "sources": [
-          "Clash"
-        ],
-        "mentions": [
-          {
-            "source": "Clash",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "review",
-            "score": null,
-            "headline": "Blu DeTiger – N.Y. Baby",
-            "link": "https://www.clashmusic.com/reviews/blu-detiger-n-y-baby/",
-            "published": "2026-11-04T12:50:17+00:00"
-          }
-        ],
-        "fans": 4079,
-        "star_power": 0.516,
-        "personal": 0.0,
-        "personal_reason": "",
-        "coverage": 1.0,
-        "publications": [
-          "Clash"
-        ],
-        "popularity": 0.306,
-        "rank_score": 0.092,
+        "popularity": 0.312,
+        "rank_score": 0.151,
         "avg_score": null
       }
     ]
