@@ -12,6 +12,8 @@ run, since new releases sometimes reach Deezer late.
 """
 
 import json
+import os
+import re
 import time
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -113,7 +115,40 @@ def find_cover(rel: dict, session: requests.Session) -> tuple[str | None, str]:
     return None, "; ".join(problems)
 
 
-UPPER = {"r&b": "R&B", "uk": "UK", "us": "US", "edm": "EDM", "idm": "IDM", "lo-fi": "Lo-fi"}
+# Last.fm tags that aren't genres
+NOT_GENRES = {"seen live", "favorites", "favourites", "favorite", "favourite", "albums i own",
+              "female vocalists", "male vocalists", "female vocalist", "male vocalist",
+              "american", "british", "uk", "usa", "canadian", "australian", "korean", "english",
+              "spotify", "awesome", "love", "beautiful", "cool", "amazing", "under 2000 listeners",
+              "my top artists", "all", "music", "good", "best", "fip"}
+MIN_TAG_COUNT = 10   # Last.fm scores tags 0-100 per artist; ignore barely-used ones
+
+
+def lastfm_tags(artist: str, api_key: str, session: requests.Session) -> list[str]:
+    """Top genre-like Last.fm tags for an artist, e.g. ["hip-hop", "rage", "plugg"]."""
+    resp = session.get("https://ws.audioscrobbler.com/2.0/", timeout=20, params={
+        "method": "artist.gettoptags", "artist": main_artist(artist), "autocorrect": 1,
+        "api_key": api_key, "format": "json"})
+    data = resp.json()
+    if "error" in data:
+        if data["error"] == 6:   # artist not found on Last.fm
+            return []
+        raise requests.RequestException(f"Last.fm error {data['error']}: {data.get('message')}")
+    time.sleep(0.25)  # Last.fm asks for ~5 requests a second at most
+    name = norm(artist)
+    tags = []
+    for t in data.get("toptags", {}).get("tag", []) or []:
+        tag = (t.get("name") or "").strip().lower()
+        if (not tag or tag in NOT_GENRES or int(t.get("count", 0)) < MIN_TAG_COUNT
+                or re.fullmatch(r"\d{2,4}s?", tag) or norm(tag) == name or tag in tags):
+            continue
+        tags.append(tag)
+        if len(tags) == MAX_TAGS:
+            break
+    return tags
+
+
+UPPER = {"r&b": "R&B", "rnb": "R&B", "uk": "UK", "us": "US", "edm": "EDM", "idm": "IDM", "lo-fi": "Lo-fi"}
 
 
 def tag_label(tag: str) -> str:
@@ -133,7 +168,8 @@ def add_media(releases: list[dict]) -> None:
     session = requests.Session()
     found_count, links, tagged, by_source = 0, 0, 0, {}
     week_ago = (now - timedelta(days=7)).isoformat()
-
+    lastfm_key = os.environ.get("LASTFM_API_KEY")
+    
     for rel in releases:
         key = f"{norm(rel['artist'])}|{norm(rel['title'])}|{rel['type']}"
         entry = cache.get(key, {})
@@ -152,17 +188,15 @@ def add_media(releases: list[dict]) -> None:
                     entry["cover"], entry["source"] = hit["image"], "Spotify"
                     by_source["Spotify"] = by_source.get("Spotify", 0) + 1
 
-        # Spotify genre tags for the artist (rechecked weekly if Spotify had none)
-        if sp.configured and (entry.get("tags") is None or
-                              (not entry["tags"] and entry.get("tags_checked", "") < week_ago)):
+        # Genre tags from Last.fm's top tags for the artist (rechecked weekly if none)
+        if lastfm_key and (entry.get("lfm_tags") is None or
+                           (not entry["lfm_tags"] and entry.get("tags_checked", "") < week_ago)):
             try:
-                if not entry.get("artist_id"):
-                    hit = sp.find(rel)
-                    entry["artist_id"] = hit.get("artist_id") if hit else None
-                entry["tags"] = sp.artist_genres(entry.get("artist_id"))
+                entry["lfm_tags"] = lastfm_tags(rel["artist"], lastfm_key, session)
                 entry["tags_checked"] = now.isoformat()
-            except requests.RequestException as err:
-                print(f"  Spotify genres failed for {rel['artist']}: {err}")
+            except (requests.RequestException, ValueError) as err:
+                print(f"  Last.fm tags failed for {rel['artist']}: {err}")
+        entry.pop("tags", None)  # old (empty) Spotify genres
 
         # Deezer / iTunes artwork if there's still no cover
         if not entry.get("cover"):
@@ -177,7 +211,7 @@ def add_media(releases: list[dict]) -> None:
 
         rel["cover"] = entry.get("cover")
         rel["spotify"] = entry.get("spotify")
-        rel["tags"] = [tag_label(t) for t in (entry.get("tags") or [])][:MAX_TAGS]
+        rel["tags"] = [tag_label(t) for t in (entry.get("lfm_tags") or [])][:MAX_TAGS]
         tagged += bool(rel["tags"])
         found_count += bool(rel["cover"])
         links += bool(rel["spotify"])
@@ -187,7 +221,9 @@ def add_media(releases: list[dict]) -> None:
     new = ", ".join(f"{n} new from {s}" for s, n in by_source.items())
     print(f"Covers: {found_count}/{len(releases)} found" + (f" ({new})" if new else ""))
     if sp.configured:
-        print(f"Spotify links: {links}/{len(releases)}; genre tags: {tagged}/{len(releases)}")
+        print(f"Spotify links: {links}/{len(releases)}")
+    print(f"Genre tags (Last.fm): {tagged}/{len(releases)}"
+          + ("" if lastfm_key else " - LASTFM_API_KEY not set for this step"))
     for rel in releases[:3]:
         if rel["cover"]:
             print(f"  e.g. {rel['artist']} - {rel['title']}: {rel['cover']}")
