@@ -1073,6 +1073,41 @@
     ]
   },
   {
+    "artist": "Slayyyter",
+    "title": "Hey Boyyy",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-11-06",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash",
+      "Rolling Stone (music)"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Slayyyter’s ‘hey boyyy’ Is Deeply Infectious",
+        "link": "https://www.clashmusic.com/news/slayyyters-hey-boyyy-is-deeply-infectious/",
+        "published": "2026-11-06T11:24:53+00:00"
+      },
+      {
+        "source": "Rolling Stone (music)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Slayyyter Goes Looking for Love in ‘Hey Boyyy’ Music Video",
+        "link": "https://www.rollingstone.com/music/music-news/slayyyter-hey-boyyy-single-music-video-1235653808/",
+        "published": "2026-11-06T07:39:25+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Django Django",
     "title": "Doveland",
     "type": "album",
@@ -1300,30 +1335,6 @@
     ]
   },
   {
-    "artist": "Slayyyter",
-    "title": "Hey Boyyy",
-    "type": "single",
-    "genre": "Pop",
-    "release_date": "2026-11-06",
-    "date_source": "feeds",
-    "scores": [],
-    "sources": [
-      "Rolling Stone (music)"
-    ],
-    "mentions": [
-      {
-        "source": "Rolling Stone (music)",
-        "source_type": "news",
-        "weight": 1.0,
-        "mention": "new_song",
-        "score": null,
-        "headline": "Slayyyter Goes Looking for Love in ‘Hey Boyyy’ Music Video",
-        "link": "https://www.rollingstone.com/music/music-news/slayyyter-hey-boyyy-single-music-video-1235653808/",
-        "published": "2026-11-06T07:39:25+00:00"
-      }
-    ]
-  },
-  {
     "artist": "Ane Brun",
     "title": "I Thought We Were The Same",
     "type": "album",
@@ -1440,6 +1451,30 @@
         "headline": "Rex Orange County Releases New Album ‘Dream Fatigue’",
         "link": "https://www.clashmusic.com/news/rex-orange-county-releases-new-album-dream-fatigue/",
         "published": "2026-11-06T09:59:51+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Ojerime",
+    "title": "Don't Stare At The Flame",
+    "type": "ep",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-11-06",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Ojerime Unveils New EP ‘Don’t Stare At The Flame’",
+        "link": "https://www.clashmusic.com/news/ojerime-unveils-new-ep-dont-stare-at-the-flame/",
+        "published": "2026-11-06T11:06:42+00:00"
       }
     ]
   },
@@ -5607,30 +5642,6 @@
     ]
   },
   {
-    "artist": "Orchestra Baobab",
-    "title": "Made In Senegal",
-    "type": "album",
-    "genre": "Other",
-    "release_date": "2026-10-23",
-    "date_source": "musicbrainz",
-    "scores": [],
-    "sources": [
-      "musicOMH"
-    ],
-    "mentions": [
-      {
-        "source": "musicOMH",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "review",
-        "score": null,
-        "headline": "Orchestra Baobab – Made In Senegal",
-        "link": "https://www.musicomh.com/reviews/albums/orchestra-baobab-made-in-senegal",
-        "published": "2026-10-23T11:26:43+00:00"
-      }
-    ]
-  },
-  {
     "artist": "keshi",
     "title": "MISS ME",
     "type": "single",
@@ -7888,6 +7899,30 @@
         "headline": "Review: With ‘She’s the Best,’ Troye Sivan Loses Himself in His Muses",
         "link": "https://www.slantmagazine.com/music/troye-sivan-shes-the-best-album-review/",
         "published": "2026-10-09T23:08:53+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Orchestra Baobab",
+    "title": "Made In Senegal",
+    "type": "album",
+    "genre": "Other",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Orchestra Baobab – Made In Senegal",
+        "link": "https://www.musicomh.com/reviews/albums/orchestra-baobab-made-in-senegal",
+        "published": "2026-10-23T11:26:43+00:00"
       }
     ]
   },

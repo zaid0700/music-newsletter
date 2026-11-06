@@ -1,7 +1,7 @@
 {
   "week_start": "2026-10-31",
   "week_end": "2026-11-06",
-  "generated": "2026-11-06T10:45:13.574970+00:00",
+  "generated": "2026-11-06T11:26:56.238462+00:00",
   "top": [
     {
       "artist": "Ecco2k",
@@ -780,9 +780,20 @@
         "date_source": "feeds",
         "scores": [],
         "sources": [
+          "Clash",
           "Rolling Stone (music)"
         ],
         "mentions": [
+          {
+            "source": "Clash",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Slayyyter’s ‘hey boyyy’ Is Deeply Infectious",
+            "link": "https://www.clashmusic.com/news/slayyyters-hey-boyyy-is-deeply-infectious/",
+            "published": "2026-11-06T11:24:53+00:00"
+          },
           {
             "source": "Rolling Stone (music)",
             "source_type": "news",
@@ -798,12 +809,13 @@
         "star_power": 0.643,
         "personal": 0.603,
         "personal_reason": "You've played Slayyyter 5 times",
-        "coverage": 1.0,
+        "coverage": 2.0,
         "publications": [
+          "Clash",
           "Rolling Stone"
         ],
-        "popularity": 0.293,
-        "rank_score": 0.541,
+        "popularity": 0.393,
+        "rank_score": 0.561,
         "avg_score": null
       },
       {
@@ -877,38 +889,38 @@
         "avg_score": null
       },
       {
-        "artist": "Ane Brun",
-        "title": "I Thought We Were The Same",
+        "artist": "Rex Orange County",
+        "title": "Dream Fatigue",
         "type": "album",
         "genre": "Pop",
         "release_date": "2026-11-06",
-        "date_source": "musicbrainz",
+        "date_source": "feeds",
         "scores": [],
         "sources": [
-          "musicOMH"
+          "Clash"
         ],
         "mentions": [
           {
-            "source": "musicOMH",
-            "source_type": "reviews",
+            "source": "Clash",
+            "source_type": "news",
             "weight": 1.0,
-            "mention": "review",
+            "mention": "release_news",
             "score": null,
-            "headline": "Ane Brun – I Thought We Were The Same",
-            "link": "https://www.musicomh.com/reviews/albums/ane-brun-i-thought-we-were-the-same",
-            "published": "2026-11-06T07:31:47+00:00"
+            "headline": "Rex Orange County Releases New Album ‘Dream Fatigue’",
+            "link": "https://www.clashmusic.com/news/rex-orange-county-releases-new-album-dream-fatigue/",
+            "published": "2026-11-06T09:59:51+00:00"
           }
         ],
-        "fans": 48264,
-        "star_power": 0.669,
-        "personal": 0.075,
-        "personal_reason": "Similar to Susanne Sundfør, Cat Power",
+        "fans": 269413,
+        "star_power": 0.776,
+        "personal": 0.245,
+        "personal_reason": "Similar to Daniel Caesar, Steve Lacy",
         "coverage": 1.0,
         "publications": [
-          "musicOMH"
+          "Clash"
         ],
-        "popularity": 0.301,
-        "rank_score": 0.12,
+        "popularity": 0.333,
+        "rank_score": 0.263,
         "avg_score": null
       }
     ],
@@ -1055,14 +1067,14 @@
         ],
         "fans": 1736,
         "star_power": 0.463,
-        "personal": 0.635,
-        "personal_reason": "On your Spotify playlists (3 tracks)",
+        "personal": 0.632,
+        "personal_reason": "You've played ZelooperZ 9 times",
         "coverage": 1.0,
         "publications": [
           "Stereogum"
         ],
         "popularity": 0.239,
-        "rank_score": 0.556,
+        "rank_score": 0.553,
         "avg_score": null
       },
       {
@@ -1248,7 +1260,7 @@
         "type": "album",
         "genre": "Rock / Alternative / Indie",
         "release_date": "2026-11-06",
-        "date_source": "deezer",
+        "date_source": "musicbrainz",
         "scores": [],
         "sources": [
           "Clash"

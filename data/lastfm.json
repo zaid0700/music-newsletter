@@ -15288,5 +15288,210 @@
  "marklee": {
   "similar": [],
   "checked": "2026-11-06T10:45:10.494814+00:00"
+ },
+ "rexorangecounty": {
+  "similar": [
+   {
+    "name": "Daniel Caesar",
+    "match": 1.0
+   },
+   {
+    "name": "boy pablo",
+    "match": 0.653152
+   },
+   {
+    "name": "Paul Partohap",
+    "match": 0.609332
+   },
+   {
+    "name": "Reality Club",
+    "match": 0.591348
+   },
+   {
+    "name": "Zach Templar",
+    "match": 0.524342
+   },
+   {
+    "name": "Bruno Major",
+    "match": 0.518852
+   },
+   {
+    "name": "Malcolm Todd",
+    "match": 0.478189
+   },
+   {
+    "name": "Omar Apollo",
+    "match": 0.454851
+   },
+   {
+    "name": "The Walters",
+    "match": 0.444639
+   },
+   {
+    "name": "MARQ",
+    "match": 0.434848
+   },
+   {
+    "name": "wave to earth",
+    "match": 0.426279
+   },
+   {
+    "name": "Charlie Burg",
+    "match": 0.404584
+   },
+   {
+    "name": "Matt Maltese",
+    "match": 0.398264
+   },
+   {
+    "name": "Hard Life",
+    "match": 0.385804
+   },
+   {
+    "name": "Sal Priadi",
+    "match": 0.372438
+   },
+   {
+    "name": "Peach Tree Rascals",
+    "match": 0.371046
+   },
+   {
+    "name": "Dominic Fike",
+    "match": 0.365695
+   },
+   {
+    "name": "Ardhito Pramono",
+    "match": 0.359882
+   },
+   {
+    "name": "d4vd",
+    "match": 0.359583
+   },
+   {
+    "name": "Luke Chiang",
+    "match": 0.354461
+   },
+   {
+    "name": "Givēon",
+    "match": 0.340498
+   },
+   {
+    "name": "Lany",
+    "match": 0.339943
+   },
+   {
+    "name": "Arthur Nery",
+    "match": 0.330657
+   },
+   {
+    "name": "dhruv",
+    "match": 0.330565
+   },
+   {
+    "name": "Cuco",
+    "match": 0.323626
+   },
+   {
+    "name": "khai dreams",
+    "match": 0.320411
+   },
+   {
+    "name": "Wabie",
+    "match": 0.318076
+   },
+   {
+    "name": "Los Retros",
+    "match": 0.314321
+   },
+   {
+    "name": "Ricky Montgomery",
+    "match": 0.309395
+   },
+   {
+    "name": "Micah Edwards",
+    "match": 0.308773
+   },
+   {
+    "name": "Niki",
+    "match": 0.303118
+   },
+   {
+    "name": "Steve Lacy",
+    "match": 0.302267
+   },
+   {
+    "name": "Dayglow",
+    "match": 0.300916
+   },
+   {
+    "name": "Brent Faiyaz",
+    "match": 0.300803
+   },
+   {
+    "name": "Khamari",
+    "match": 0.298629
+   },
+   {
+    "name": "Nadin Amizah",
+    "match": 0.294983
+   },
+   {
+    "name": "FINNEAS",
+    "match": 0.291089
+   },
+   {
+    "name": "Bruno Mars",
+    "match": 0.290852
+   },
+   {
+    "name": "Public",
+    "match": 0.289532
+   },
+   {
+    "name": "Lauv",
+    "match": 0.288884
+   },
+   {
+    "name": "Phum Viphurit",
+    "match": 0.284822
+   },
+   {
+    "name": "Zack Tabudlo",
+    "match": 0.283652
+   },
+   {
+    "name": "Mac Ayres",
+    "match": 0.283318
+   },
+   {
+    "name": "Cavetown",
+    "match": 0.282798
+   },
+   {
+    "name": "Jeff Bernat",
+    "match": 0.282558
+   },
+   {
+    "name": "Surfaces",
+    "match": 0.278504
+   },
+   {
+    "name": "88rising",
+    "match": 0.275173
+   },
+   {
+    "name": "Giveon",
+    "match": 0.273554
+   },
+   {
+    "name": "Wallows",
+    "match": 0.273511
+   },
+   {
+    "name": "Remi Wolf",
+    "match": 0.272348
+   }
+  ],
+  "checked": "2026-11-06T11:26:56.223624+00:00"
  }
 }
