@@ -16,8 +16,8 @@
 lastfm_user: "zaidaftab"        # your Last.fm username
 
 weights:
-  personal: 0.8
-  popularity: 0.2
+  personal: 0.7
+  popularity: 0.3
 
 # How popularity is made up (should add up to 1)
 popularity_mix:
