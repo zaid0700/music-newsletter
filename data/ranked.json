@@ -1,7 +1,7 @@
 {
   "week_start": "2026-10-31",
   "week_end": "2026-11-06",
-  "generated": "2026-11-06T04:58:25.688263+00:00",
+  "generated": "2026-11-06T06:16:37.458067+00:00",
   "top": [
     {
       "artist": "Shygirl",
@@ -1552,8 +1552,8 @@
         "title": "N.Y. Baby",
         "type": "album",
         "genre": "Electronic / Dance",
-        "release_date": null,
-        "date_source": "feeds",
+        "release_date": "2026-11-06",
+        "date_source": "musicbrainz",
         "scores": [],
         "sources": [
           "Clash"

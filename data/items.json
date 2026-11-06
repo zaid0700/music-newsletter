@@ -1,5 +1,155 @@
 [
   {
+    "id": "909d1a4e69b3d517",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "JENNIE’s ‘Someone to Hold’ Is Here: Stream It Now",
+    "link": "https://www.billboard.com/music/pop/jennie-someone-to-hold-stream-it-now-1236375680/",
+    "summary": "The fresh cut will appear on the soundtrack for the forthcoming Netflix animated film, \"Steps.\"",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Pop",
+      "genre kpop",
+      "netflix",
+      "News"
+    ],
+    "published": "2026-11-06T06:09:18+00:00",
+    "collected": "2026-11-06T06:15:44.394173+00:00"
+  },
+  {
+    "id": "5206bdaff5339568",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Slayyyter Date a Skeleton in New “Hey Boyyy” Video",
+    "link": "https://pitchfork.com/story/watch-slayyyter-date-a-skeleton-in-new-hey-boyyy-video/",
+    "summary": "Including a romantic excursion on the Seine",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Videos",
+      "New Releases"
+    ],
+    "published": "2026-11-06T05:20:22+00:00",
+    "collected": "2026-11-06T06:15:44.394173+00:00"
+  },
+  {
+    "id": "6ff707d6b4cf29f8",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Go Fishing With Twisted Teens in Video for “I Spend My Time Crying”",
+    "link": "https://pitchfork.com/story/go-fishing-with-twisted-teens-in-new-video-for-i-spend-my-time-crying/",
+    "summary": "Their new album, The Holy Cross Tigers, is out today",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Video"
+    ],
+    "published": "2026-11-06T05:18:01+00:00",
+    "collected": "2026-11-06T06:15:44.394173+00:00"
+  },
+  {
+    "id": "de86a29d01f66b7a",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "untitled (halo)",
+    "link": "https://pitchfork.com/reviews/albums/untitled-halo-untitled-halo/",
+    "summary": "The Los Angeles band’s debut puts an appealing studio gloss on the sullen, ambiguous sound of cloud rock, and the mystery doesn’t go much deeper than that.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-06T05:03:00+00:00",
+    "collected": "2026-11-06T06:15:44.394173+00:00"
+  },
+  {
+    "id": "88474ecbb0d01cd5",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "We’ll Never Be This Young Again",
+    "link": "https://pitchfork.com/reviews/albums/laila-well-never-be-this-young-again/",
+    "summary": "The New York songwriter and producer’s second album meditates on the passage of time, with immersive, lush songs that balance the optimism and anxiety of young adulthood.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-06T05:02:00+00:00",
+    "collected": "2026-11-06T06:15:44.394173+00:00"
+  },
+  {
+    "id": "306444438b110368",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "this wolf may cry",
+    "link": "https://pitchfork.com/reviews/albums/nomi-this-wolf-may-cry/",
+    "summary": "The upcoming R&B singer’s debut is a showcase for unique beats with bedroom-pop intimacy, but her restrained vocal style keeps the feelings in reserve.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-06T05:01:00+00:00",
+    "collected": "2026-11-06T06:15:44.394173+00:00"
+  },
+  {
+    "id": "77a689f6c9851bcb",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Great Jobs",
+    "link": "https://pitchfork.com/reviews/albums/gyrofield-great-jobs/",
+    "summary": "The Hong Kong-born producer moves far beyond their drum’n’bass and club-music roots, twisting dubby pulses and psychedelic sound design into shapes both introspective and exploratory.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-06T05:00:00+00:00",
+    "collected": "2026-11-06T06:15:44.394173+00:00"
+  },
+  {
+    "id": "d10d4a414160686d",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Carlos Rivera Wins Big at 2026 Heat Latin Music Awards: Complete Winners List",
+    "link": "https://www.billboard.com/music/latin/heat-latin-music-awards-2026-winners-list-1236375028/",
+    "summary": "The popularly known Premios Heat were hosted for the first time in Puerto Vallarta, Mexico, on Thursday night (Nov. 5).",
+    "full_text": false,
+    "categories": [
+      "Latin",
+      "Music",
+      "Awards",
+      "genre latin",
+      "Latin Awards",
+      "Premios Heat"
+    ],
+    "published": "2026-11-06T05:00:00+00:00",
+    "collected": "2026-11-06T06:15:44.394173+00:00"
+  },
+  {
+    "id": "32ca4a6a1deff2e7",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘It Would Take a Lot to Say No to Australia’: Foo Fighters Kick-Off Tour Down Under With Three-Hours of Power",
+    "link": "https://www.billboard.com/lists/foo-fighters-kick-off-tour-down-under-brisbane/",
+    "summary": "The Foos were back on familiar turf for their Take Cove r Australian tour opener at Suncorp Stadium in Brisbane, the noisy neighbor to the XXXX brewery.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Rock",
+      "bbnews",
+      "Frontier Touring"
+    ],
+    "published": "2026-11-06T04:56:31+00:00",
+    "collected": "2026-11-06T06:15:44.394173+00:00"
+  },
+  {
     "id": "6f7598a30e4eb0b6",
     "source": "Consequence",
     "source_type": "news",

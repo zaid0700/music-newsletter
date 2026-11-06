@@ -841,6 +841,52 @@
     ]
   },
   {
+    "artist": "Twisted Teens",
+    "title": "The Holy Cross Tigers",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-06",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Pitchfork (album reviews)",
+      "Pitchfork (news)",
+      "Slant (music)"
+    ],
+    "mentions": [
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Go Fishing With Twisted Teens in Video for “I Spend My Time Crying”",
+        "link": "https://pitchfork.com/story/go-fishing-with-twisted-teens-in-new-video-for-i-spend-my-time-crying/",
+        "published": "2026-11-06T05:18:01+00:00"
+      },
+      {
+        "source": "Pitchfork (album reviews)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "The Holy Cross Tigers",
+        "link": "https://pitchfork.com/reviews/albums/twisted-teens-the-holy-cross-tigers/",
+        "published": "2026-11-05T05:03:00+00:00"
+      },
+      {
+        "source": "Slant (music)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Twisted Teens ‘The Holy Cross Tigers’ Review: Ramshackle Rock That’s More Than Meets the Eye",
+        "link": "https://www.slantmagazine.com/music/twisted-teens-the-holy-cross-tigers-album-review/",
+        "published": "2026-11-04T16:47:57+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Shygirl",
     "title": "Swallow!",
     "type": "album",
@@ -972,6 +1018,30 @@
     ]
   },
   {
+    "artist": "Blu DeTiger",
+    "title": "N.Y. Baby",
+    "type": "album",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-11-06",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Blu DeTiger – N.Y. Baby",
+        "link": "https://www.clashmusic.com/reviews/blu-detiger-n-y-baby/",
+        "published": "2026-11-04T12:50:17+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Willi Carlisle",
     "title": "The Universal Bubba",
     "type": "album",
@@ -1064,6 +1134,30 @@
         "headline": "La Roux – Old Flames",
         "link": "https://www.musicomh.com/reviews/albums/la-roux-old-flames",
         "published": "2026-11-02T08:31:35+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "JENNIE",
+    "title": "Someone to Hold",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-11-06",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Billboard"
+    ],
+    "mentions": [
+      {
+        "source": "Billboard",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "JENNIE’s ‘Someone to Hold’ Is Here: Stream It Now",
+        "link": "https://www.billboard.com/music/pop/jennie-someone-to-hold-stream-it-now-1236375680/",
+        "published": "2026-11-06T06:09:18+00:00"
       }
     ]
   },
@@ -6154,30 +6248,6 @@
     ]
   },
   {
-    "artist": "Angèle",
-    "title": "Instinct",
-    "type": "album",
-    "genre": "Pop",
-    "release_date": "2026-10-16",
-    "date_source": "musicbrainz",
-    "scores": [],
-    "sources": [
-      "musicOMH"
-    ],
-    "mentions": [
-      {
-        "source": "musicOMH",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "review",
-        "score": null,
-        "headline": "Angèle – Instinct",
-        "link": "https://www.musicomh.com/reviews/albums/angele-instinct",
-        "published": "2026-10-23T06:01:52+00:00"
-      }
-    ]
-  },
-  {
     "artist": "Giant Rooks",
     "title": "IF HEAVEN EXISTS, THIS MIGHT BE IT",
     "type": "album",
@@ -6783,41 +6853,6 @@
         "headline": "PISS – You Made Me/Skin On Linen",
         "link": "https://www.musicomh.com/reviews/albums/piss-you-made-me-skin-on-linen",
         "published": "2026-10-30T07:31:20+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "The Holy Cross Tigers",
-    "title": "The Holy Cross Tigers",
-    "type": "album",
-    "genre": "Rock / Alternative / Indie",
-    "release_date": null,
-    "date_source": "feeds",
-    "scores": [],
-    "sources": [
-      "Pitchfork (album reviews)",
-      "Slant (music)"
-    ],
-    "mentions": [
-      {
-        "source": "Pitchfork (album reviews)",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "review",
-        "score": null,
-        "headline": "The Holy Cross Tigers",
-        "link": "https://pitchfork.com/reviews/albums/twisted-teens-the-holy-cross-tigers/",
-        "published": "2026-11-05T05:03:00+00:00"
-      },
-      {
-        "source": "Slant (music)",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "review",
-        "score": null,
-        "headline": "Twisted Teens ‘The Holy Cross Tigers’ Review: Ramshackle Rock That’s More Than Meets the Eye",
-        "link": "https://www.slantmagazine.com/music/twisted-teens-the-holy-cross-tigers-album-review/",
-        "published": "2026-11-04T16:47:57+00:00"
       }
     ]
   },
@@ -7494,6 +7529,30 @@
     ]
   },
   {
+    "artist": "Angèle",
+    "title": "Instinct",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Angèle – Instinct",
+        "link": "https://www.musicomh.com/reviews/albums/angele-instinct",
+        "published": "2026-10-23T06:01:52+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Caroline Rose",
     "title": "Gentling The Horse At The Walt Whitman Mall",
     "type": "album",
@@ -8018,30 +8077,6 @@
         "headline": "How Carlos Santana and Natalia Lafourcade Came Together for ‘Hermano,’ an Ode to Migrants",
         "link": "https://www.rollingstone.com/music/music-latin/carlos-santana-natalia-lafourcade-hermano-song-1235652652/",
         "published": "2026-11-04T17:41:56+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Blu DeTiger",
-    "title": "N.Y. Baby",
-    "type": "album",
-    "genre": "Electronic / Dance",
-    "release_date": null,
-    "date_source": "feeds",
-    "scores": [],
-    "sources": [
-      "Clash"
-    ],
-    "mentions": [
-      {
-        "source": "Clash",
-        "source_type": "news",
-        "weight": 1.0,
-        "mention": "review",
-        "score": null,
-        "headline": "Blu DeTiger – N.Y. Baby",
-        "link": "https://www.clashmusic.com/reviews/blu-detiger-n-y-baby/",
-        "published": "2026-11-04T12:50:17+00:00"
       }
     ]
   },
