@@ -133,9 +133,19 @@ class Spotify:
                     continue
                 album = hit.get("album", hit)
                 images = album.get("images") or []
+                artist_id = next((a.get("id") for a in hit.get("artists", [])
+                                  if _artist_ok(a.get("name", ""), rel["artist"])), None)
                 return {"url": (hit.get("external_urls") or {}).get("spotify"),
-                        "image": images[0]["url"] if images else None}
+                        "image": images[0]["url"] if images else None,
+                        "artist_id": artist_id}
         return None
+
+    def artist_genres(self, artist_id: str) -> list[str]:
+        """Spotify's genres for an artist, e.g. ["rage rap", "plugg"]. Often empty
+        for new or very niche artists."""
+        if not artist_id or not self.login():
+            return []
+        return self.get(f"/artists/{artist_id}").get("genres", []) or []
 
 
 def _title_ok(found: str, wanted: str) -> bool:
