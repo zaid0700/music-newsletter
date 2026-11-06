@@ -293,6 +293,41 @@
     ]
   },
   {
+    "artist": "1tbsp",
+    "title": "big soaps",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2027-02-05",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash",
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "1tbsp Announces Debut Album ‘big soaps’",
+        "link": "https://www.clashmusic.com/news/1tbsp-announces-debut-album-big-soaps/",
+        "published": "2026-11-06T09:15:25+00:00"
+      },
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "1tbsp Announce New Album big soaps: Hear “Carottes”",
+        "link": "https://stereogum.com/2516630/1tbsp-big-soaps-album-announce-carottes-miki/music/",
+        "published": "2026-11-05T19:08:14+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Cage The Elephant",
     "title": "Dying In Reverse",
     "type": "album",
@@ -957,6 +992,41 @@
     ]
   },
   {
+    "artist": "JENNIE",
+    "title": "Someone to Hold",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-11-06",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Billboard",
+      "Rolling Stone (music)"
+    ],
+    "mentions": [
+      {
+        "source": "Rolling Stone (music)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Jennie Celebrates Sisterhood on Anthemic Pop Single ‘Someone to Hold’",
+        "link": "https://www.rollingstone.com/music/music-news/jennie-someone-to-hold-single-steps-netflix-1235653812/",
+        "published": "2026-11-06T08:32:27+00:00"
+      },
+      {
+        "source": "Billboard",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "JENNIE’s ‘Someone to Hold’ Is Here: Stream It Now",
+        "link": "https://www.billboard.com/music/pop/jennie-someone-to-hold-stream-it-now-1236375680/",
+        "published": "2026-11-06T06:09:18+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Kings Of Leon",
     "title": "O My Beloved",
     "type": "album",
@@ -1149,30 +1219,6 @@
     ]
   },
   {
-    "artist": "JENNIE",
-    "title": "Someone to Hold",
-    "type": "single",
-    "genre": "Pop",
-    "release_date": "2026-11-06",
-    "date_source": "feeds",
-    "scores": [],
-    "sources": [
-      "Billboard"
-    ],
-    "mentions": [
-      {
-        "source": "Billboard",
-        "source_type": "news",
-        "weight": 1.0,
-        "mention": "new_song",
-        "score": null,
-        "headline": "JENNIE’s ‘Someone to Hold’ Is Here: Stream It Now",
-        "link": "https://www.billboard.com/music/pop/jennie-someone-to-hold-stream-it-now-1236375680/",
-        "published": "2026-11-06T06:09:18+00:00"
-      }
-    ]
-  },
-  {
     "artist": "Slayyyter",
     "title": "Hey Boyyy",
     "type": "single",
@@ -1217,6 +1263,54 @@
         "headline": "Ane Brun – I Thought We Were The Same",
         "link": "https://www.musicomh.com/reviews/albums/ane-brun-i-thought-we-were-the-same",
         "published": "2026-11-06T07:31:47+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Bassvictim",
+    "title": "PEACE + WAR",
+    "type": "album",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-11-06",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Bassvictim Drop New Album ‘PEACE + WAR’",
+        "link": "https://www.clashmusic.com/news/bassvictim-drop-new-album-peace-war/",
+        "published": "2026-11-06T09:13:53+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Django Django",
+    "title": "Doveland",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-06",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Django Django – Doveland",
+        "link": "https://www.musicomh.com/reviews/albums/django-django-doveland",
+        "published": "2026-11-06T08:01:42+00:00"
       }
     ]
   },
@@ -6641,6 +6735,30 @@
     ]
   },
   {
+    "artist": "Royal Blood",
+    "title": "Dead Company",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-06",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "NME"
+    ],
+    "mentions": [
+      {
+        "source": "NME",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Royal Blood – ‘Dead Company’ review: Brighton riff lords flex their massive muscles",
+        "link": "https://www.nme.com/reviews/album/royal-blood-dead-company-review-3975176?utm_source=rss&utm_medium=rss&utm_campaign=royal-blood-dead-company-review",
+        "published": "2026-11-06T08:00:10+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Wild Horses",
     "title": "The In Between",
     "type": "album",
@@ -8125,30 +8243,6 @@
     ]
   },
   {
-    "artist": "1tbsp",
-    "title": "big soaps",
-    "type": "album",
-    "genre": "Rock / Alternative / Indie",
-    "release_date": null,
-    "date_source": "feeds",
-    "scores": [],
-    "sources": [
-      "Stereogum"
-    ],
-    "mentions": [
-      {
-        "source": "Stereogum",
-        "source_type": "news",
-        "weight": 1.0,
-        "mention": "announcement",
-        "score": null,
-        "headline": "1tbsp Announce New Album big soaps: Hear “Carottes”",
-        "link": "https://stereogum.com/2516630/1tbsp-big-soaps-album-announce-carottes-miki/music/",
-        "published": "2026-11-05T19:08:14+00:00"
-      }
-    ]
-  },
-  {
     "artist": "Brandy Clark",
     "title": "American Roots",
     "type": "single",
@@ -8361,6 +8455,30 @@
         "headline": "Slayyyter Goes Looking for Love in ‘Hey Boyyy’ Music Video",
         "link": "https://www.rollingstone.com/music/music-news/slayyyter-hey-boyyy-single-music-video-1235653808/",
         "published": "2026-11-06T07:39:25+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Bryan Adams",
+    "title": "How's It Goin'",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Bryan Adams – How’s It Goin’",
+        "link": "https://www.clashmusic.com/reviews/bryan-adams-hows-it-goin/",
+        "published": "2026-11-06T08:55:02+00:00"
       }
     ]
   }

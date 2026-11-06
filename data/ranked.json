@@ -1,7 +1,7 @@
 {
   "week_start": "2026-10-31",
   "week_end": "2026-11-06",
-  "generated": "2026-11-06T07:50:32.981126+00:00",
+  "generated": "2026-11-06T09:46:40.323397+00:00",
   "top": [
     {
       "artist": "Ecco2k",
@@ -94,6 +94,41 @@
       ],
       "popularity": 0.539,
       "rank_score": 0.816,
+      "avg_score": null
+    },
+    {
+      "artist": "Bassvictim",
+      "title": "PEACE + WAR",
+      "type": "album",
+      "genre": "Electronic / Dance",
+      "release_date": "2026-11-06",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Clash"
+      ],
+      "mentions": [
+        {
+          "source": "Clash",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "release_news",
+          "score": null,
+          "headline": "Bassvictim Drop New Album ‘PEACE + WAR’",
+          "link": "https://www.clashmusic.com/news/bassvictim-drop-new-album-peace-war/",
+          "published": "2026-11-06T09:13:53+00:00"
+        }
+      ],
+      "fans": 2750,
+      "star_power": 0.491,
+      "personal": 0.838,
+      "personal_reason": "You've played bassvictim 62 times",
+      "coverage": 1.0,
+      "publications": [
+        "Clash"
+      ],
+      "popularity": 0.264,
+      "rank_score": 0.723,
       "avg_score": null
     },
     {
@@ -457,41 +492,6 @@
       ],
       "popularity": 0.333,
       "rank_score": 0.591,
-      "avg_score": null
-    },
-    {
-      "artist": "Zelooperz",
-      "title": "Masons Dispatch",
-      "type": "single",
-      "genre": "Hip-hop / R&B",
-      "release_date": "2026-11-04",
-      "date_source": "deezer",
-      "scores": [],
-      "sources": [
-        "Stereogum"
-      ],
-      "mentions": [
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "Zelooperz – “Masons Dispatch”",
-          "link": "https://stereogum.com/2516633/zelooperz-black-noise-masons-dispatch-pin-breakers/music/",
-          "published": "2026-11-05T20:27:05+00:00"
-        }
-      ],
-      "fans": 1736,
-      "star_power": 0.463,
-      "personal": 0.635,
-      "personal_reason": "On your Spotify playlists (3 tracks)",
-      "coverage": 1.0,
-      "publications": [
-        "Stereogum"
-      ],
-      "popularity": 0.256,
-      "rank_score": 0.559,
       "avg_score": null
     }
   ],
@@ -1243,6 +1243,76 @@
         "avg_score": null
       },
       {
+        "artist": "Bryan Adams",
+        "title": "How's It Goin'",
+        "type": "album",
+        "genre": "Rock / Alternative / Indie",
+        "release_date": "2026-11-06",
+        "date_source": "deezer",
+        "scores": [],
+        "sources": [
+          "Clash"
+        ],
+        "mentions": [
+          {
+            "source": "Clash",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "review",
+            "score": null,
+            "headline": "Bryan Adams – How’s It Goin’",
+            "link": "https://www.clashmusic.com/reviews/bryan-adams-hows-it-goin/",
+            "published": "2026-11-06T08:55:02+00:00"
+          }
+        ],
+        "fans": 1759421,
+        "star_power": 0.892,
+        "personal": 0.158,
+        "personal_reason": "Similar to Huey Lewis & The News, Europe",
+        "coverage": 1.0,
+        "publications": [
+          "Clash"
+        ],
+        "popularity": 0.384,
+        "rank_score": 0.203,
+        "avg_score": null
+      },
+      {
+        "artist": "Django Django",
+        "title": "Doveland",
+        "type": "album",
+        "genre": "Rock / Alternative / Indie",
+        "release_date": "2026-11-06",
+        "date_source": "musicbrainz",
+        "scores": [],
+        "sources": [
+          "musicOMH"
+        ],
+        "mentions": [
+          {
+            "source": "musicOMH",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "review",
+            "score": null,
+            "headline": "Django Django – Doveland",
+            "link": "https://www.musicomh.com/reviews/albums/django-django-doveland",
+            "published": "2026-11-06T08:01:42+00:00"
+          }
+        ],
+        "fans": 61193,
+        "star_power": 0.684,
+        "personal": 0.148,
+        "personal_reason": "Similar to Everything Everything, Metronomy",
+        "coverage": 1.0,
+        "publications": [
+          "musicOMH"
+        ],
+        "popularity": 0.322,
+        "rank_score": 0.183,
+        "avg_score": null
+      },
+      {
         "artist": "Cage The Elephant",
         "title": "Make It Easy",
         "type": "single",
@@ -1287,99 +1357,6 @@
         ],
         "popularity": 0.48,
         "rank_score": 0.096,
-        "avg_score": null
-      },
-      {
-        "artist": "Kings Of Leon",
-        "title": "O My Beloved",
-        "type": "album",
-        "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-11-06",
-        "date_source": "musicbrainz",
-        "scores": [],
-        "sources": [
-          "Clash"
-        ],
-        "mentions": [
-          {
-            "source": "Clash",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "review",
-            "score": null,
-            "headline": "Kings Of Leon – O My Beloved",
-            "link": "https://www.clashmusic.com/reviews/kings-of-leon-o-my-beloved/",
-            "published": "2026-11-05T16:54:39+00:00"
-          }
-        ],
-        "fans": 2399103,
-        "star_power": 0.911,
-        "personal": 0.0,
-        "personal_reason": "",
-        "coverage": 1.0,
-        "publications": [
-          "Clash"
-        ],
-        "popularity": 0.39,
-        "rank_score": 0.078,
-        "avg_score": null
-      },
-      {
-        "artist": "Twisted Teens",
-        "title": "The Holy Cross Tigers",
-        "type": "album",
-        "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-11-06",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Pitchfork (album reviews)",
-          "Pitchfork (news)",
-          "Slant (music)"
-        ],
-        "mentions": [
-          {
-            "source": "Pitchfork (news)",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "release_news",
-            "score": null,
-            "headline": "Go Fishing With Twisted Teens in Video for “I Spend My Time Crying”",
-            "link": "https://pitchfork.com/story/go-fishing-with-twisted-teens-in-new-video-for-i-spend-my-time-crying/",
-            "published": "2026-11-06T05:18:01+00:00"
-          },
-          {
-            "source": "Pitchfork (album reviews)",
-            "source_type": "reviews",
-            "weight": 1.0,
-            "mention": "review",
-            "score": null,
-            "headline": "The Holy Cross Tigers",
-            "link": "https://pitchfork.com/reviews/albums/twisted-teens-the-holy-cross-tigers/",
-            "published": "2026-11-05T05:03:00+00:00"
-          },
-          {
-            "source": "Slant (music)",
-            "source_type": "reviews",
-            "weight": 1.0,
-            "mention": "review",
-            "score": null,
-            "headline": "Twisted Teens ‘The Holy Cross Tigers’ Review: Ramshackle Rock That’s More Than Meets the Eye",
-            "link": "https://www.slantmagazine.com/music/twisted-teens-the-holy-cross-tigers-album-review/",
-            "published": "2026-11-04T16:47:57+00:00"
-          }
-        ],
-        "fans": 631,
-        "star_power": 0.4,
-        "personal": 0.0,
-        "personal_reason": "",
-        "coverage": 2.0,
-        "publications": [
-          "Pitchfork",
-          "Slant"
-        ],
-        "popularity": 0.353,
-        "rank_score": 0.071,
         "avg_score": null
       }
     ],
@@ -1475,6 +1452,41 @@
         ],
         "popularity": 0.539,
         "rank_score": 0.816,
+        "avg_score": null
+      },
+      {
+        "artist": "Bassvictim",
+        "title": "PEACE + WAR",
+        "type": "album",
+        "genre": "Electronic / Dance",
+        "release_date": "2026-11-06",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Clash"
+        ],
+        "mentions": [
+          {
+            "source": "Clash",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "release_news",
+            "score": null,
+            "headline": "Bassvictim Drop New Album ‘PEACE + WAR’",
+            "link": "https://www.clashmusic.com/news/bassvictim-drop-new-album-peace-war/",
+            "published": "2026-11-06T09:13:53+00:00"
+          }
+        ],
+        "fans": 2750,
+        "star_power": 0.491,
+        "personal": 0.838,
+        "personal_reason": "You've played bassvictim 62 times",
+        "coverage": 1.0,
+        "publications": [
+          "Clash"
+        ],
+        "popularity": 0.264,
+        "rank_score": 0.723,
         "avg_score": null
       },
       {

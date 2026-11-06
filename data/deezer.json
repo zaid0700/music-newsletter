@@ -858,5 +858,20 @@
   "name": "Ane Brun",
   "fans": 48264,
   "checked": "2026-11-06T07:41:38.444819+00:00"
+ },
+ "bassvictim": {
+  "name": "Bassvictim",
+  "fans": 2750,
+  "checked": "2026-11-06T09:46:20.534353+00:00"
+ },
+ "djangodjango": {
+  "name": "Django Django",
+  "fans": 61193,
+  "checked": "2026-11-06T09:46:20.942471+00:00"
+ },
+ "bryanadams": {
+  "name": "Bryan Adams",
+  "fans": 1759421,
+  "checked": "2026-11-06T09:46:21.529504+00:00"
  }
 }

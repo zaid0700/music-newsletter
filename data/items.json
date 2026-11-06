@@ -1,5 +1,144 @@
 [
   {
+    "id": "68e76945e40a7830",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "1tbsp Announces Debut Album ‘big soaps’",
+    "link": "https://www.clashmusic.com/news/1tbsp-announces-debut-album-big-soaps/",
+    "summary": "Australian producer 1tbsp will release his debut album, ‘big soaps’, on February 5th 2027. Maxwell Byrne started 1tbsp in 2021, pulling from house, reggaeton, synth-pop, techno and other pieces of global club music. The project grew out of his earlier work as Golden Vessel, where he became known as a songwriter/producer and earned a Grammy nomination for Best Engineered… The post 1tbsp Announces Debut Album ‘big soaps’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "1tbsp"
+    ],
+    "published": "2026-11-06T09:15:25+00:00",
+    "collected": "2026-11-06T09:45:56.255949+00:00"
+  },
+  {
+    "id": "5e338818e8d7b40e",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Bassvictim Drop New Album ‘PEACE + WAR’",
+    "link": "https://www.clashmusic.com/news/bassvictim-drop-new-album-peace-war/",
+    "summary": "Bassvictim return with new album ‘PEACE + WAR’. Out now, the album is a 19 track odyssey, with the duo – vocalist and songwriter Maria Manow and producer Ike Clateman – opening up their iconoclastic electronics. Club focussed digitalism, the pair have a habit of transforming pop tropes into something… The post Bassvictim Drop New Album ‘PEACE + WAR’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Bassvictim"
+    ],
+    "published": "2026-11-06T09:13:53+00:00",
+    "collected": "2026-11-06T09:45:56.255949+00:00"
+  },
+  {
+    "id": "4537303641089864",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Bryan Adams – How’s It Goin’",
+    "link": "https://www.clashmusic.com/reviews/bryan-adams-hows-it-goin/",
+    "summary": "Collecting quite the discography, Bryan Adams releases his 17th studio album, ‘How’s It Goin’’, a set of thirteen tracks all inspired by the country that made him who he is today – Canada. After writing a song for the documentary, Canada’s Wild Eastern Edge, Adams was “inspired to write songs… The post Bryan Adams – How’s It Goin’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "Reviews",
+      "Bryan Adams"
+    ],
+    "published": "2026-11-06T08:55:02+00:00",
+    "collected": "2026-11-06T09:45:56.255949+00:00"
+  },
+  {
+    "id": "3d352993aa240270",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Jennie Celebrates Sisterhood on Anthemic Pop Single ‘Someone to Hold’",
+    "link": "https://www.rollingstone.com/music/music-news/jennie-someone-to-hold-single-steps-netflix-1235653812/",
+    "summary": "The rousing track will appear in forthcoming Netflix animated film Steps",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Blackpink",
+      "Blackpink-Jennie",
+      "Jennie",
+      "Netflix"
+    ],
+    "published": "2026-11-06T08:32:27+00:00",
+    "collected": "2026-11-06T09:45:56.255949+00:00"
+  },
+  {
+    "id": "83b6cf981aec0734",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Queens of the Stone Age Crowned on ARIA Chart With ‘Perfecth’",
+    "link": "https://www.billboard.com/music/chart-beat/queens-of-the-stone-age-crowned-aria-chart-perfecth-1236375799/",
+    "summary": "It’s the seventh top 10 appearance, and third leader, for Josh Homme and Co.",
+    "full_text": false,
+    "categories": [
+      "Chart Beat",
+      "Music",
+      "aria charts",
+      "bbnews",
+      "Charts"
+    ],
+    "published": "2026-11-06T08:28:36+00:00",
+    "collected": "2026-11-06T09:45:56.255949+00:00"
+  },
+  {
+    "id": "acbea3e592622bd7",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Django Django – Doveland",
+    "link": "https://www.musicomh.com/reviews/albums/django-django-doveland",
+    "summary": "Ditching erratic experimentation for an ambient concept, the indie shapeshifters' sixth album is their most coherent in years The post Django Django – Doveland appeared first on musicOMH .",
+    "full_text": false,
+    "categories": [
+      "Album Reviews",
+      "Django Django"
+    ],
+    "published": "2026-11-06T08:01:42+00:00",
+    "collected": "2026-11-06T09:45:56.255949+00:00"
+  },
+  {
+    "id": "887e18a8194fce63",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Why are veteran acts turning their backs on touring – and what hope is there for new artists?",
+    "link": "https://www.nme.com/news/music/why-veteran-established-artists-quit-touring-new-artist-help-3975004?utm_source=rss&utm_medium=rss&utm_campaign=why-veteran-established-artists-quit-touring-new-artist-help",
+    "summary": "With the likes of Frank Turner and Enter Shikari calling hiatuses, and Garbage winding down how they tour, NME talks to gigging veterans, industry bosses and rising acts about the “clusterfuck” of obstacles stopping artists getting on stage, and what can be done The post Why are veteran acts turning their backs on touring – and what hope is there for new artists? appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music Interviews",
+      "Music News",
+      "News",
+      "Indie",
+      "Rock"
+    ],
+    "published": "2026-11-06T08:00:51+00:00",
+    "collected": "2026-11-06T09:45:56.255949+00:00"
+  },
+  {
+    "id": "30457dac66fb51e5",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Royal Blood – ‘Dead Company’ review: Brighton riff lords flex their massive muscles",
+    "link": "https://www.nme.com/reviews/album/royal-blood-dead-company-review-3975176?utm_source=rss&utm_medium=rss&utm_campaign=royal-blood-dead-company-review",
+    "summary": "Mike Kerr and Ben Thatcher floor the accelerator and embark on another collision course of energised and uncompromising riff-rock for album number five The post Royal Blood – ‘Dead Company’ review: Brighton riff lords flex their massive muscles appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Album Reviews",
+      "Reviews",
+      "Rock"
+    ],
+    "published": "2026-11-06T08:00:10+00:00",
+    "collected": "2026-11-06T09:45:56.255949+00:00"
+  },
+  {
     "id": "37acdb76c78e2d22",
     "source": "Rolling Stone (music)",
     "source_type": "news",

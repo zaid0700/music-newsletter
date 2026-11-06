@@ -14874,5 +14874,415 @@
    }
   ],
   "checked": "2026-11-06T07:41:54.971441+00:00"
+ },
+ "djangodjango": {
+  "similar": [
+   {
+    "name": "Teleman",
+    "match": 1.0
+   },
+   {
+    "name": "Temples",
+    "match": 0.831478
+   },
+   {
+    "name": "Jagwar Ma",
+    "match": 0.787304
+   },
+   {
+    "name": "Wild Beasts",
+    "match": 0.679165
+   },
+   {
+    "name": "Everything Everything",
+    "match": 0.635855
+   },
+   {
+    "name": "Hot Chip",
+    "match": 0.595021
+   },
+   {
+    "name": "Foals",
+    "match": 0.584397
+   },
+   {
+    "name": "Yeasayer",
+    "match": 0.553438
+   },
+   {
+    "name": "Bombay Bicycle Club",
+    "match": 0.53204
+   },
+   {
+    "name": "Metronomy",
+    "match": 0.526609
+   },
+   {
+    "name": "Mystery Jets",
+    "match": 0.475791
+   },
+   {
+    "name": "GUM",
+    "match": 0.465514
+   },
+   {
+    "name": "Fujiya & Miyagi",
+    "match": 0.464061
+   },
+   {
+    "name": "Hookworms",
+    "match": 0.457329
+   },
+   {
+    "name": "Steve Mason",
+    "match": 0.429235
+   },
+   {
+    "name": "The Beta Band",
+    "match": 0.428852
+   },
+   {
+    "name": "The Coral",
+    "match": 0.427571
+   },
+   {
+    "name": "Pond",
+    "match": 0.426212
+   },
+   {
+    "name": "Warpaint",
+    "match": 0.423023
+   },
+   {
+    "name": "Unknown Mortal Orchestra",
+    "match": 0.422315
+   },
+   {
+    "name": "Breton",
+    "match": 0.422201
+   },
+   {
+    "name": "TV on the Radio",
+    "match": 0.411626
+   },
+   {
+    "name": "Gaz Coombes",
+    "match": 0.403998
+   },
+   {
+    "name": "Broken Bells",
+    "match": 0.403395
+   },
+   {
+    "name": "Kasabian",
+    "match": 0.398625
+   },
+   {
+    "name": "The Go! Team",
+    "match": 0.396242
+   },
+   {
+    "name": "Black Rebel Motorcycle Club",
+    "match": 0.381045
+   },
+   {
+    "name": "alt-J",
+    "match": 0.378562
+   },
+   {
+    "name": "Field Music",
+    "match": 0.361474
+   },
+   {
+    "name": "Friendly Fires",
+    "match": 0.360395
+   },
+   {
+    "name": "!!!",
+    "match": 0.358544
+   },
+   {
+    "name": "Suuns",
+    "match": 0.349704
+   },
+   {
+    "name": "Ed O'Brien",
+    "match": 0.339256
+   },
+   {
+    "name": "Balthazar",
+    "match": 0.336844
+   },
+   {
+    "name": "The Maccabees",
+    "match": 0.332449
+   },
+   {
+    "name": "Cut Copy",
+    "match": 0.332426
+   },
+   {
+    "name": "The Rapture",
+    "match": 0.332261
+   },
+   {
+    "name": "The Horrors",
+    "match": 0.330463
+   },
+   {
+    "name": "The Dandy Warhols",
+    "match": 0.32852
+   },
+   {
+    "name": "MGMT",
+    "match": 0.325702
+   },
+   {
+    "name": "The Bees",
+    "match": 0.324781
+   },
+   {
+    "name": "The Rakes",
+    "match": 0.321263
+   },
+   {
+    "name": "Dumbo Gets Mad",
+    "match": 0.319784
+   },
+   {
+    "name": "The Bravery",
+    "match": 0.318743
+   },
+   {
+    "name": "Doves",
+    "match": 0.316498
+   },
+   {
+    "name": "Maxïmo Park",
+    "match": 0.312762
+   },
+   {
+    "name": "Gruff Rhys",
+    "match": 0.311058
+   },
+   {
+    "name": "Miles Kane",
+    "match": 0.307903
+   },
+   {
+    "name": "Public Service Broadcasting",
+    "match": 0.307562
+   },
+   {
+    "name": "Klaxons",
+    "match": 0.30063
+   }
+  ],
+  "checked": "2026-11-06T09:46:39.788173+00:00"
+ },
+ "bryanadams": {
+  "similar": [
+   {
+    "name": "Bon Jovi",
+    "match": 1.0
+   },
+   {
+    "name": "Richard Marx",
+    "match": 0.755467
+   },
+   {
+    "name": "Huey Lewis & The News",
+    "match": 0.701307
+   },
+   {
+    "name": "Jon Bon Jovi",
+    "match": 0.690462
+   },
+   {
+    "name": "Foreigner",
+    "match": 0.680626
+   },
+   {
+    "name": "Roxette",
+    "match": 0.670609
+   },
+   {
+    "name": "Don Henley",
+    "match": 0.670496
+   },
+   {
+    "name": "Def Leppard",
+    "match": 0.664019
+   },
+   {
+    "name": "Starship",
+    "match": 0.662773
+   },
+   {
+    "name": "John Mellencamp",
+    "match": 0.637391
+   },
+   {
+    "name": "Rod Stewart",
+    "match": 0.629148
+   },
+   {
+    "name": "Rick Springfield",
+    "match": 0.622832
+   },
+   {
+    "name": "Glass Tiger",
+    "match": 0.58789
+   },
+   {
+    "name": "Toto",
+    "match": 0.573342
+   },
+   {
+    "name": "Mike & The Mechanics",
+    "match": 0.572221
+   },
+   {
+    "name": "Phil Collins",
+    "match": 0.566905
+   },
+   {
+    "name": "Meat Loaf",
+    "match": 0.552908
+   },
+   {
+    "name": "Eric Carmen",
+    "match": 0.551662
+   },
+   {
+    "name": "Journey",
+    "match": 0.551037
+   },
+   {
+    "name": "Survivor",
+    "match": 0.547502
+   },
+   {
+    "name": "The Outfield",
+    "match": 0.536322
+   },
+   {
+    "name": "Aerosmith",
+    "match": 0.531831
+   },
+   {
+    "name": "Pat Benatar",
+    "match": 0.529568
+   },
+   {
+    "name": "Peter Cetera",
+    "match": 0.518413
+   },
+   {
+    "name": "Eagles",
+    "match": 0.514635
+   },
+   {
+    "name": "Bruce Springsteen",
+    "match": 0.513122
+   },
+   {
+    "name": "Eddie Money",
+    "match": 0.502865
+   },
+   {
+    "name": "Steve Perry",
+    "match": 0.491876
+   },
+   {
+    "name": "Whitesnake",
+    "match": 0.488601
+   },
+   {
+    "name": "Lionel Richie",
+    "match": 0.486555
+   },
+   {
+    "name": "Wet Wet Wet",
+    "match": 0.484179
+   },
+   {
+    "name": "Glenn Frey",
+    "match": 0.481755
+   },
+   {
+    "name": "Heart",
+    "match": 0.478278
+   },
+   {
+    "name": "Bad English",
+    "match": 0.477607
+   },
+   {
+    "name": "Extreme",
+    "match": 0.477526
+   },
+   {
+    "name": "Steve Winwood",
+    "match": 0.467353
+   },
+   {
+    "name": "REO Speedwagon",
+    "match": 0.464997
+   },
+   {
+    "name": "John Waite",
+    "match": 0.46365
+   },
+   {
+    "name": "Alannah Myles",
+    "match": 0.463088
+   },
+   {
+    "name": "INXS",
+    "match": 0.461131
+   },
+   {
+    "name": "Lou Gramm",
+    "match": 0.457843
+   },
+   {
+    "name": "Tom Petty and The Heartbreakers",
+    "match": 0.456218
+   },
+   {
+    "name": "Europe",
+    "match": 0.455156
+   },
+   {
+    "name": "Boston",
+    "match": 0.455125
+   },
+   {
+    "name": "Loverboy",
+    "match": 0.45167
+   },
+   {
+    "name": "Michael Bolton",
+    "match": 0.447693
+   },
+   {
+    "name": "Tina Turner",
+    "match": 0.446664
+   },
+   {
+    "name": "Elton John",
+    "match": 0.445697
+   },
+   {
+    "name": "Belinda Carlisle",
+    "match": 0.436806
+   },
+   {
+    "name": "Bonnie Tyler",
+    "match": 0.436622
+   }
+  ],
+  "checked": "2026-11-06T09:46:40.310652+00:00"
  }
 }

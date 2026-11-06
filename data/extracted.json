@@ -4755,5 +4755,73 @@
    "mention": "review",
    "score": null
   }
+ ],
+ "68e76945e40a7830": [
+  {
+   "artist": "1tbsp",
+   "title": "big soaps",
+   "type": "album",
+   "genre": "Electronic / Dance",
+   "release_date": "2027-02-05",
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "5e338818e8d7b40e": [
+  {
+   "artist": "Bassvictim",
+   "title": "PEACE + WAR",
+   "type": "album",
+   "genre": "Electronic / Dance",
+   "release_date": "2026-11-06",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "4537303641089864": [
+  {
+   "artist": "Bryan Adams",
+   "title": "How's It Goin'",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "3d352993aa240270": [
+  {
+   "artist": "Jennie",
+   "title": "Someone to Hold",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "83b6cf981aec0734": [],
+ "acbea3e592622bd7": [
+  {
+   "artist": "Django Django",
+   "title": "Doveland",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "887e18a8194fce63": [],
+ "30457dac66fb51e5": [
+  {
+   "artist": "Royal Blood",
+   "title": "Dead Company",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
  ]
 }
