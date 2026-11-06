@@ -234,61 +234,94 @@
   "checked": "2026-11-01T12:06:38.004095+00:00"
  },
  "lilbaby|fresh|album": {
-  "checked": "2026-11-06T07:42:18.592839+00:00",
+  "checked": "2026-11-06T07:50:53.330858+00:00",
   "spotify": "https://open.spotify.com/album/1RijzUXg1jg93ghalGG7TP",
   "cover": "https://i.scdn.co/image/ab67616d0000b27306e96c801d563d02ddb088fd",
-  "source": "Spotify"
+  "source": "Spotify",
+  "artist_id": "5f7VJjfbwm532GiveGC0ZK",
+  "tags": [],
+  "tags_checked": "2026-11-06T07:50:53.330858+00:00"
  },
  "snooper|orangeexposure|single": {
-  "checked": "2026-11-06T07:42:18.592839+00:00"
+  "checked": "2026-11-06T07:50:53.330858+00:00",
+  "artist_id": null,
+  "tags": [],
+  "tags_checked": "2026-11-06T07:50:53.330858+00:00"
  },
  "shygirl|swallow|album": {
   "spotify": "https://open.spotify.com/album/3dQzmmWFcow0z84wGW6RpD",
   "cover": "https://i.scdn.co/image/ab67616d0000b273386f243bc8f40a2669ba7aa6",
   "source": "Spotify",
-  "checked": "2026-11-06T07:42:18.592839+00:00"
+  "checked": "2026-11-06T07:50:53.330858+00:00",
+  "artist_id": "3M3wTTCDwicRubwMyHyEDy",
+  "tags": [],
+  "tags_checked": "2026-11-06T07:50:53.330858+00:00"
  },
  "nettspend|virginiacreeper|ep": {
   "spotify": "https://open.spotify.com/album/5PBjgCAgun6T7dB67KlZbk",
   "cover": "https://i.scdn.co/image/ab67616d0000b273798e8eab149ee6f280de9401",
   "source": "Spotify",
-  "checked": "2026-11-06T07:42:18.592839+00:00"
+  "checked": "2026-11-06T07:50:53.330858+00:00",
+  "artist_id": "2jl4qd6UbzeCmImT4nWbtA",
+  "tags": [],
+  "tags_checked": "2026-11-06T07:50:53.330858+00:00"
  },
  "ecco2k|skyburial|single": {
   "spotify": "https://open.spotify.com/track/74lMprSEbZ1swwCOiTGUGm",
   "cover": "https://i.scdn.co/image/ab67616d0000b273fad1f23fc1b3ec4d5bdc9ebe",
   "source": "Spotify",
-  "checked": "2026-11-06T07:42:18.592839+00:00"
+  "checked": "2026-11-06T07:50:53.330858+00:00",
+  "artist_id": "6hG0VsXXlD10l60TqiIHIX",
+  "tags": [],
+  "tags_checked": "2026-11-06T07:50:53.330858+00:00"
  },
  "laroux|oldflames|album": {
   "spotify": "https://open.spotify.com/album/074HfcJlCLJiYzm92nVqHe",
   "cover": "https://i.scdn.co/image/ab67616d0000b2730568fde795771a889560b814",
   "source": "Spotify",
-  "checked": "2026-11-06T07:42:18.592839+00:00"
+  "checked": "2026-11-06T07:50:53.330858+00:00",
+  "artist_id": "3K2zB87GZv1krx031en5VA",
+  "tags": [],
+  "tags_checked": "2026-11-06T07:50:53.330858+00:00"
  },
  "oliviarodrigo|takemehome4christmas|single": {
   "spotify": "https://open.spotify.com/album/50o3Wm98DQENFLiiX3zd5B",
   "cover": "https://i.scdn.co/image/ab67616d0000b273046e076b1fba2bac0770f65f",
   "source": "Spotify",
-  "checked": "2026-11-06T07:42:18.592839+00:00"
+  "checked": "2026-11-06T07:50:53.330858+00:00",
+  "artist_id": "1McMsnEElThX1knmY4oliG",
+  "tags": [],
+  "tags_checked": "2026-11-06T07:50:53.330858+00:00"
  },
  "charlotteadigeryandbolispupul|fromhealertodealer|single": {
   "spotify": "https://open.spotify.com/album/7u8s5cJp1pCShIdcg9RDb1",
   "cover": "https://i.scdn.co/image/ab67616d0000b2734c20ffad8b22355b8fe5d495",
   "source": "Spotify",
-  "checked": "2026-11-06T07:42:18.592839+00:00"
+  "checked": "2026-11-06T07:50:53.330858+00:00",
+  "artist_id": "0h1gX589xBKUCijeC8Bewy",
+  "tags": [],
+  "tags_checked": "2026-11-06T07:50:53.330858+00:00"
  },
  "natesibandthekidlaroi|facecardremix|single": {
-  "checked": "2026-11-06T07:42:18.592839+00:00"
+  "checked": "2026-11-06T07:50:53.330858+00:00",
+  "artist_id": null,
+  "tags": [],
+  "tags_checked": "2026-11-06T07:50:53.330858+00:00"
  },
  "jackharlow|sweetactionii|ep": {
   "spotify": "https://open.spotify.com/album/37s3KcWi2HUuBOsfhRBXh4",
   "cover": "https://i.scdn.co/image/ab67616d0000b2736794e0141586f5d2be573d1b",
   "source": "Spotify",
-  "checked": "2026-11-06T07:42:18.592839+00:00"
+  "checked": "2026-11-06T07:50:53.330858+00:00",
+  "artist_id": "2LIk90788K0zvyj2JJVwkJ",
+  "tags": [],
+  "tags_checked": "2026-11-06T07:50:53.330858+00:00"
  },
  "wiki|papiseedstreetvol2|mixtape": {
-  "checked": "2026-11-06T07:42:18.592839+00:00"
+  "checked": "2026-11-06T07:50:53.330858+00:00",
+  "artist_id": null,
+  "tags": [],
+  "tags_checked": "2026-11-06T07:50:53.330858+00:00"
  },
  "tameimpala|kissfromarose|single": {
   "checked": "2026-11-06T06:40:34.815169+00:00"
@@ -297,25 +330,37 @@
   "spotify": "https://open.spotify.com/album/02qHzOCVZfYFCWmxGVH29k",
   "cover": "https://i.scdn.co/image/ab67616d0000b2731428dbefd4da8deefba442c9",
   "source": "Spotify",
-  "checked": "2026-11-06T07:42:18.592839+00:00"
+  "checked": "2026-11-06T07:50:53.330858+00:00",
+  "artist_id": "6O4EGCCb6DoIiR6B1QCQgp",
+  "tags": [],
+  "tags_checked": "2026-11-06T07:50:53.330858+00:00"
  },
  "liars|beatcreepsomeeyes|single": {
   "spotify": "https://open.spotify.com/album/2Lf28xy3q5E7tIzVNc5DSo",
   "cover": "https://i.scdn.co/image/ab67616d0000b27369c4874b57b80ba8e96ce4c1",
   "source": "Spotify",
-  "checked": "2026-11-06T07:42:18.592839+00:00"
+  "checked": "2026-11-06T07:50:53.330858+00:00",
+  "artist_id": "2z78AlkdwE2Ghj9EB50M6z",
+  "tags": [],
+  "tags_checked": "2026-11-06T07:50:53.330858+00:00"
  },
  "computerwife|hammered|single": {
   "spotify": "https://open.spotify.com/album/3PGzvYudFTz3ikEdjtYpsh",
   "cover": "https://i.scdn.co/image/ab67616d0000b2730790d0e80f658558b395c261",
   "source": "Spotify",
-  "checked": "2026-11-06T07:42:18.592839+00:00"
+  "checked": "2026-11-06T07:50:53.330858+00:00",
+  "artist_id": "2URzewPhxn6Si52NkbYxIQ",
+  "tags": [],
+  "tags_checked": "2026-11-06T07:50:53.330858+00:00"
  },
  "yaeji|ddr|single": {
   "spotify": "https://open.spotify.com/album/3k8LisWWjdypicBd3MVzqi",
   "cover": "https://i.scdn.co/image/ab67616d0000b2733e2bb003f9317aad1bae9e7e",
   "source": "Spotify",
-  "checked": "2026-11-06T07:42:18.592839+00:00"
+  "checked": "2026-11-06T07:50:53.330858+00:00",
+  "artist_id": "2RqrWplViWHSGLzlhmDcbt",
+  "tags": [],
+  "tags_checked": "2026-11-06T07:50:53.330858+00:00"
  },
  "bludetiger|nybaby|album": {
   "spotify": "https://open.spotify.com/album/4qpUSOUwi7KxObwEaBbwnc",
@@ -375,7 +420,10 @@
   "spotify": "https://open.spotify.com/album/2mROGvypd4sVFJ4p8OrGAw",
   "cover": "https://i.scdn.co/image/ab67616d0000b273213563c7e5fe58e101ef996c",
   "source": "Spotify",
-  "checked": "2026-11-06T07:42:18.592839+00:00"
+  "checked": "2026-11-06T07:50:53.330858+00:00",
+  "artist_id": "04vj3iPUiVh5melWr0w3xT",
+  "tags": [],
+  "tags_checked": "2026-11-06T07:50:53.330858+00:00"
  },
  "jennie|someonetohold|single": {
   "spotify": "https://open.spotify.com/album/6vPqty50dtT0gZeB1oEUfX",
@@ -387,48 +435,72 @@
   "spotify": "https://open.spotify.com/album/3vrpg8PutX0VIXEtlNgRv6",
   "cover": "https://i.scdn.co/image/ab67616d0000b27354571bb75eedf7a31212e0aa",
   "source": "Spotify",
-  "checked": "2026-11-06T07:42:18.592839+00:00"
+  "checked": "2026-11-06T07:50:53.330858+00:00",
+  "artist_id": "2qoQgPAilErOKCwE2Y8wOG",
+  "tags": [],
+  "tags_checked": "2026-11-06T07:50:53.330858+00:00"
  },
  "zelooperz|masonsdispatch|single": {
   "spotify": "https://open.spotify.com/album/1H6Ws2WMpDLN7LFONXRv7k",
   "cover": "https://i.scdn.co/image/ab67616d0000b2739a4ff7f2d87031c0cc2cfec2",
   "source": "Spotify",
-  "checked": "2026-11-06T07:42:18.592839+00:00"
+  "checked": "2026-11-06T07:50:53.330858+00:00",
+  "artist_id": "5j93hwFBNo29RJMsWvtzj8",
+  "tags": [],
+  "tags_checked": "2026-11-06T07:50:53.330858+00:00"
  },
  "kingsofleon|omybeloved|album": {
   "spotify": "https://open.spotify.com/album/02K3LVfeVC1rPBD6OsANBy",
   "cover": "https://i.scdn.co/image/ab67616d0000b273ce4753274ffc86ec6e4dcc9c",
   "source": "Spotify",
-  "checked": "2026-11-06T07:42:18.592839+00:00"
+  "checked": "2026-11-06T07:50:53.330858+00:00",
+  "artist_id": "2qk9voo8llSGYcZ6xrBzKx",
+  "tags": [],
+  "tags_checked": "2026-11-06T07:50:53.330858+00:00"
  },
  "cagetheelephant|makeiteasy|single": {
   "spotify": "https://open.spotify.com/album/7zfkgL9UrW9KkVupjbHQJk",
   "cover": "https://i.scdn.co/image/ab67616d0000b273d93b69f5bae5885cb2695881",
   "source": "Spotify",
-  "checked": "2026-11-06T07:42:18.592839+00:00"
+  "checked": "2026-11-06T07:50:53.330858+00:00",
+  "artist_id": "26T3LtbuGT1Fu9m0eRq5X3",
+  "tags": [],
+  "tags_checked": "2026-11-06T07:50:53.330858+00:00"
  },
  "joshuaidehen|sayless|single": {
   "spotify": "https://open.spotify.com/album/1n7pWE38qp1u1XHUgcnONo",
   "cover": "https://i.scdn.co/image/ab67616d0000b2738115657aec01e5808b0a402d",
   "source": "Spotify",
-  "checked": "2026-11-06T07:42:18.592839+00:00"
+  "checked": "2026-11-06T07:50:53.330858+00:00",
+  "artist_id": "3PubLnxnO5N2Avr3UvG1Vc",
+  "tags": [],
+  "tags_checked": "2026-11-06T07:50:53.330858+00:00"
  },
  "bleech93|lullaby|single": {
   "spotify": "https://open.spotify.com/album/46vINRMIj4B4NGtggNtTcX",
   "cover": "https://i.scdn.co/image/ab67616d0000b2734ebb6be741eb1b6cbac79a65",
   "source": "Spotify",
-  "checked": "2026-11-06T07:42:18.592839+00:00"
+  "checked": "2026-11-06T07:50:53.330858+00:00",
+  "artist_id": "2S6eJYUlnmZL5XOaC3nvRL",
+  "tags": [],
+  "tags_checked": "2026-11-06T07:50:53.330858+00:00"
  },
  "slayyyter|heyboyyy|single": {
   "spotify": "https://open.spotify.com/album/7K9T4t0Oj0Ho8CR6Rq7hga",
   "cover": "https://i.scdn.co/image/ab67616d0000b27307ec39f86659c312c6440b7e",
   "source": "Spotify",
-  "checked": "2026-11-06T07:42:18.592839+00:00"
+  "checked": "2026-11-06T07:50:53.330858+00:00",
+  "artist_id": "4QM5QCHicznALtX885CnZC",
+  "tags": [],
+  "tags_checked": "2026-11-06T07:50:53.330858+00:00"
  },
  "twistedteens|holycrosstigers|album": {
   "spotify": "https://open.spotify.com/album/34rN1EeWCYWzPCwIaUXqQr",
   "cover": "https://i.scdn.co/image/ab67616d0000b2739d3cb1617c4102f951a24e8b",
   "source": "Spotify",
-  "checked": "2026-11-06T07:42:18.592839+00:00"
+  "checked": "2026-11-06T07:50:53.330858+00:00",
+  "artist_id": "40Hgbyjt4LQmrZYecbXebv",
+  "tags": [],
+  "tags_checked": "2026-11-06T07:50:53.330858+00:00"
  }
 }
