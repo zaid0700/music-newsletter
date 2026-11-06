@@ -28,6 +28,11 @@ A quiet week: none of your sources covered a new release in your genres.
 TOP OF THE WEEK
 
 {% for r in top %}{{ release(r, loop.index) }}{% endfor %}
+{% if discover %}
+DISCOVER: smaller artists you haven't listened to yet
+
+{% for r in discover %}{{ release(r) }}{% endfor %}
+{% endif %}
 {% for genre, rels in genres.items() %}
 MORE {{ genre | upper }}
 
