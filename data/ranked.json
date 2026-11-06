@@ -1,8 +1,43 @@
 {
   "week_start": "2026-10-31",
   "week_end": "2026-11-06",
-  "generated": "2026-11-06T06:56:34.954208+00:00",
+  "generated": "2026-11-06T07:08:32.988653+00:00",
   "top": [
+    {
+      "artist": "Ecco2k",
+      "title": "Sky Burial",
+      "type": "single",
+      "genre": "Electronic / Dance",
+      "release_date": "2026-11-03",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "The Needle Drop (website)"
+      ],
+      "mentions": [
+        {
+          "source": "The Needle Drop (website)",
+          "source_type": "reviews",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Ecco2k shares new single \"Sky Burial\"",
+          "link": "https://theneedledrop.com/news/ecco2k-shares-new-single-sky-burial/",
+          "published": "2026-11-03T20:09:46+00:00"
+        }
+      ],
+      "fans": 14518,
+      "star_power": 0.595,
+      "personal": 0.968,
+      "personal_reason": "You've played Ecco2K 610 times",
+      "coverage": 1.0,
+      "publications": [
+        "The Needle Drop"
+      ],
+      "popularity": 0.295,
+      "rank_score": 0.833,
+      "avg_score": null
+    },
     {
       "artist": "Shygirl",
       "title": "Swallow!",
@@ -57,8 +92,114 @@
         "Slant",
         "Stereogum"
       ],
-      "popularity": 0.552,
-      "rank_score": 0.785,
+      "popularity": 0.539,
+      "rank_score": 0.816,
+      "avg_score": null
+    },
+    {
+      "artist": "Charlotte Adigéry & Bolis Pupul",
+      "title": "From Healer to Dealer",
+      "type": "single",
+      "genre": "Pop",
+      "release_date": "2026-11-03",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Pitchfork (news)",
+        "Stereogum",
+        "The Needle Drop (website)"
+      ],
+      "mentions": [
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Charlotte Adigéry & Bolis Pupul Announce New Album Mainland Madinina: Hear “From Healer To Dealer”",
+          "link": "https://stereogum.com/2516425/charlotte-adigery-bolis-pupul-announce-new-album-mainland-madinina-hear-from-healer-to-dealer/music/",
+          "published": "2026-11-03T16:38:53+00:00"
+        },
+        {
+          "source": "The Needle Drop (website)",
+          "source_type": "reviews",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Charlotte Adigéry & Bolis Pupul return with new album 'Mainland Mandinina'",
+          "link": "https://theneedledrop.com/news/charlotte-adigery-bolis-pupul-return-with-new-album-mainland-mandinina/",
+          "published": "2026-11-03T16:03:29+00:00"
+        },
+        {
+          "source": "Pitchfork (news)",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Charlotte Adigéry and Bolis Pupul Line Up New Album and Tour",
+          "link": "https://pitchfork.com/story/charlotte-adigery-and-bolis-pupul-line-up-new-album-and-tour/",
+          "published": "2026-11-03T14:08:24+00:00"
+        }
+      ],
+      "fans": 6768,
+      "star_power": 0.547,
+      "personal": 0.744,
+      "personal_reason": "You've played Charlotte Adigéry 69 times",
+      "coverage": 3.0,
+      "publications": [
+        "Pitchfork",
+        "Stereogum",
+        "The Needle Drop"
+      ],
+      "popularity": 0.514,
+      "rank_score": 0.698,
+      "avg_score": null
+    },
+    {
+      "artist": "Yaeji",
+      "title": "DDR",
+      "type": "single",
+      "genre": "Electronic / Dance",
+      "release_date": "2026-11-02",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Pitchfork (news)",
+        "Stereogum"
+      ],
+      "mentions": [
+        {
+          "source": "Pitchfork (news)",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Yaeji Plots a Dance Dance Revolution in New Single “DDR”",
+          "link": "https://pitchfork.com/story/yaeji-plots-a-dance-dance-revolution-in-new-ddr-video/",
+          "published": "2026-11-02T16:27:19+00:00"
+        },
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Yaeji – “ddr”",
+          "link": "https://stereogum.com/2516296/yaeji-ddr/music/",
+          "published": "2026-11-02T15:23:15+00:00"
+        }
+      ],
+      "fans": 28827,
+      "star_power": 0.637,
+      "personal": 0.726,
+      "personal_reason": "You've played Yaeji 50 times",
+      "coverage": 2.0,
+      "publications": [
+        "Pitchfork",
+        "Stereogum"
+      ],
+      "popularity": 0.424,
+      "rank_score": 0.666,
       "avg_score": null
     },
     {
@@ -92,113 +233,8 @@
       "publications": [
         "uDiscover Music"
       ],
-      "popularity": 0.336,
-      "rank_score": 0.621,
-      "avg_score": null
-    },
-    {
-      "artist": "Lil Baby",
-      "title": "FRESH",
-      "type": "album",
-      "genre": "Hip-hop / R&B",
-      "release_date": "2026-11-06",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "uDiscover Music"
-      ],
-      "mentions": [
-        {
-          "source": "uDiscover Music",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "announcement",
-          "score": null,
-          "headline": "Lil Baby Announces ‘FRESH’ for November 6 Release",
-          "link": "https://www.udiscovermusic.com/news/lil-baby-fresh/",
-          "published": "2026-10-21T12:53:52+00:00"
-        }
-      ],
-      "fans": 1452986,
-      "star_power": 0.88,
-      "personal": 0.675,
-      "personal_reason": "You've played Lil Baby 20 times",
-      "coverage": 1.0,
-      "publications": [
-        "uDiscover Music"
-      ],
-      "popularity": 0.452,
-      "rank_score": 0.608,
-      "avg_score": null
-    },
-    {
-      "artist": "Ecco2k",
-      "title": "Sky Burial",
-      "type": "single",
-      "genre": "Electronic / Dance",
-      "release_date": "2026-11-03",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "The Needle Drop (website)"
-      ],
-      "mentions": [
-        {
-          "source": "The Needle Drop (website)",
-          "source_type": "reviews",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "Ecco2k shares new single \"Sky Burial\"",
-          "link": "https://theneedledrop.com/news/ecco2k-shares-new-single-sky-burial/",
-          "published": "2026-11-03T20:09:46+00:00"
-        }
-      ],
-      "fans": 14518,
-      "star_power": 0.595,
-      "personal": 0.968,
-      "personal_reason": "You've played Ecco2K 610 times",
-      "coverage": 1.0,
-      "publications": [
-        "The Needle Drop"
-      ],
-      "popularity": 0.338,
-      "rank_score": 0.545,
-      "avg_score": null
-    },
-    {
-      "artist": "La Roux",
-      "title": "Old Flames",
-      "type": "album",
-      "genre": "Pop",
-      "release_date": "2026-11-06",
-      "date_source": "musicbrainz",
-      "scores": [],
-      "sources": [
-        "musicOMH"
-      ],
-      "mentions": [
-        {
-          "source": "musicOMH",
-          "source_type": "reviews",
-          "weight": 1.0,
-          "mention": "review",
-          "score": null,
-          "headline": "La Roux – Old Flames",
-          "link": "https://www.musicomh.com/reviews/albums/la-roux-old-flames",
-          "published": "2026-11-02T08:31:35+00:00"
-        }
-      ],
-      "fans": 152659,
-      "star_power": 0.741,
-      "personal": 0.54,
-      "personal_reason": "You've played La Roux 1 time",
-      "coverage": 1.0,
-      "publications": [
-        "musicOMH"
-      ],
-      "popularity": 0.396,
-      "rank_score": 0.497,
+      "popularity": 0.293,
+      "rank_score": 0.664,
       "avg_score": null
     },
     {
@@ -302,158 +338,122 @@
         "Rolling Stone",
         "Stereogum"
       ],
-      "popularity": 0.958,
-      "rank_score": 0.485,
+      "popularity": 0.968,
+      "rank_score": 0.658,
       "avg_score": null
     },
     {
-      "artist": "Jack Harlow",
-      "title": "Sweet Action II",
-      "type": "ep",
+      "artist": "Lil Baby",
+      "title": "FRESH",
+      "type": "album",
       "genre": "Hip-hop / R&B",
       "release_date": "2026-11-06",
       "date_source": "feeds",
       "scores": [],
       "sources": [
-        "Clash"
+        "uDiscover Music"
       ],
       "mentions": [
         {
-          "source": "Clash",
+          "source": "uDiscover Music",
           "source_type": "news",
           "weight": 1.0,
           "mention": "announcement",
           "score": null,
-          "headline": "Jack Harlow Announces ‘Sweet Action II’ EP",
-          "link": "https://www.clashmusic.com/news/jack-harlow-announces-sweet-action-ii-ep/",
-          "published": "2026-11-02T20:10:48+00:00"
+          "headline": "Lil Baby Announces ‘FRESH’ for November 6 Release",
+          "link": "https://www.udiscovermusic.com/news/lil-baby-fresh/",
+          "published": "2026-10-21T12:53:52+00:00"
         }
       ],
-      "fans": 344256,
-      "star_power": 0.791,
-      "personal": 0.677,
-      "personal_reason": "You've played Jack Harlow 21 times",
+      "fans": 1452986,
+      "star_power": 0.88,
+      "personal": 0.675,
+      "personal_reason": "You've played Lil Baby 20 times",
       "coverage": 1.0,
       "publications": [
-        "Clash"
+        "uDiscover Music"
       ],
-      "popularity": 0.416,
-      "rank_score": 0.479,
+      "popularity": 0.381,
+      "rank_score": 0.616,
       "avg_score": null
     },
     {
-      "artist": "Charlotte Adigéry & Bolis Pupul",
-      "title": "From Healer to Dealer",
+      "artist": "Toro y Moi",
+      "title": "Motive",
       "type": "single",
-      "genre": "Pop",
-      "release_date": "2026-11-03",
+      "genre": "Rock / Alternative / Indie",
+      "release_date": "2026-11-05",
       "date_source": "feeds",
       "scores": [],
       "sources": [
-        "Pitchfork (news)",
-        "Stereogum",
-        "The Needle Drop (website)"
+        "Stereogum"
       ],
       "mentions": [
         {
           "source": "Stereogum",
           "source_type": "news",
           "weight": 1.0,
-          "mention": "new_song",
+          "mention": "announcement",
           "score": null,
-          "headline": "Charlotte Adigéry & Bolis Pupul Announce New Album Mainland Madinina: Hear “From Healer To Dealer”",
-          "link": "https://stereogum.com/2516425/charlotte-adigery-bolis-pupul-announce-new-album-mainland-madinina-hear-from-healer-to-dealer/music/",
-          "published": "2026-11-03T16:38:53+00:00"
-        },
-        {
-          "source": "The Needle Drop (website)",
-          "source_type": "reviews",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "Charlotte Adigéry & Bolis Pupul return with new album 'Mainland Mandinina'",
-          "link": "https://theneedledrop.com/news/charlotte-adigery-bolis-pupul-return-with-new-album-mainland-mandinina/",
-          "published": "2026-11-03T16:03:29+00:00"
-        },
-        {
-          "source": "Pitchfork (news)",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "Charlotte Adigéry and Bolis Pupul Line Up New Album and Tour",
-          "link": "https://pitchfork.com/story/charlotte-adigery-and-bolis-pupul-line-up-new-album-and-tour/",
-          "published": "2026-11-03T14:08:24+00:00"
+          "headline": "Toro y Moi Announces New Album Unusua: Hear “Motive”",
+          "link": "https://stereogum.com/2516622/toro-y-moi-announces-new-album-unusua-hear-motive/music/",
+          "published": "2026-11-05T17:38:32+00:00"
         }
       ],
-      "fans": 6768,
-      "star_power": 0.547,
-      "personal": 0.744,
-      "personal_reason": "You've played Charlotte Adigéry 69 times",
-      "coverage": 3.0,
+      "fans": 59746,
+      "star_power": 0.682,
+      "personal": 0.669,
+      "personal_reason": "You've played Toro y Moi 18 times",
+      "coverage": 1.0,
       "publications": [
-        "Pitchfork",
-        "Stereogum",
-        "The Needle Drop"
+        "Stereogum"
       ],
-      "popularity": 0.519,
-      "rank_score": 0.474,
+      "popularity": 0.321,
+      "rank_score": 0.599,
       "avg_score": null
     },
     {
-      "artist": "Yaeji",
-      "title": "DDR",
+      "artist": "GloRilla & Sexyy Red",
+      "title": "Jiggly Bow Bow",
       "type": "single",
-      "genre": "Electronic / Dance",
-      "release_date": "2026-11-02",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Pitchfork (news)",
-        "Stereogum"
-      ],
-      "mentions": [
-        {
-          "source": "Pitchfork (news)",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "Yaeji Plots a Dance Dance Revolution in New Single “DDR”",
-          "link": "https://pitchfork.com/story/yaeji-plots-a-dance-dance-revolution-in-new-ddr-video/",
-          "published": "2026-11-02T16:27:19+00:00"
-        },
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "Yaeji – “ddr”",
-          "link": "https://stereogum.com/2516296/yaeji-ddr/music/",
-          "published": "2026-11-02T15:23:15+00:00"
-        }
-      ],
-      "fans": 28827,
-      "star_power": 0.637,
-      "personal": 0.726,
-      "personal_reason": "You've played Yaeji 50 times",
-      "coverage": 2.0,
-      "publications": [
-        "Pitchfork",
-        "Stereogum"
-      ],
-      "popularity": 0.455,
-      "rank_score": 0.451,
-      "avg_score": null
-    },
-    {
-      "artist": "Wiki",
-      "title": "Papiseed Street Vol. 2",
-      "type": "mixtape",
       "genre": "Hip-hop / R&B",
-      "release_date": "2026-11-02",
+      "release_date": "2026-11-05",
       "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Pitchfork (news)"
+      ],
+      "mentions": [
+        {
+          "source": "Pitchfork (news)",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "GloRilla and Sexyy Red Wreak Havoc on a Nursing Home in “Jiggly Bow Bow” Video",
+          "link": "https://pitchfork.com/story/watch-glorilla-and-sexyy-red-wreak-havoc-on-a-nursing-home/",
+          "published": "2026-11-05T19:12:14+00:00"
+        }
+      ],
+      "fans": 113396,
+      "star_power": 0.722,
+      "personal": 0.655,
+      "personal_reason": "You've played Sexyy Red 14 times",
+      "coverage": 1.0,
+      "publications": [
+        "Pitchfork"
+      ],
+      "popularity": 0.333,
+      "rank_score": 0.591,
+      "avg_score": null
+    },
+    {
+      "artist": "Zelooperz",
+      "title": "Masons Dispatch",
+      "type": "single",
+      "genre": "Hip-hop / R&B",
+      "release_date": "2026-11-04",
+      "date_source": "deezer",
       "scores": [],
       "sources": [
         "Stereogum"
@@ -463,61 +463,85 @@
           "source": "Stereogum",
           "source_type": "news",
           "weight": 1.0,
-          "mention": "release_news",
+          "mention": "new_song",
           "score": null,
-          "headline": "Wiki Drops New Mixtape Papiseed Street Vol. 2",
-          "link": "https://stereogum.com/2516316/wiki-drops-new-mixtape-papiseed-street-vol-2/music/",
-          "published": "2026-11-02T16:02:54+00:00"
+          "headline": "Zelooperz – “Masons Dispatch”",
+          "link": "https://stereogum.com/2516633/zelooperz-black-noise-masons-dispatch-pin-breakers/music/",
+          "published": "2026-11-05T20:27:05+00:00"
         }
       ],
-      "fans": 2214,
-      "star_power": 0.478,
-      "personal": 0.58,
-      "personal_reason": "You've played Wiki 3 times",
+      "fans": 1736,
+      "star_power": 0.463,
+      "personal": 0.635,
+      "personal_reason": "On your Spotify playlists (3 tracks)",
       "coverage": 1.0,
       "publications": [
         "Stereogum"
       ],
-      "popularity": 0.291,
-      "rank_score": 0.444,
+      "popularity": 0.256,
+      "rank_score": 0.559,
       "avg_score": null
     }
   ],
   "by_genre": {
     "Pop": [
       {
-        "artist": "La Roux",
-        "title": "Old Flames",
-        "type": "album",
+        "artist": "Charlotte Adigéry & Bolis Pupul",
+        "title": "From Healer to Dealer",
+        "type": "single",
         "genre": "Pop",
-        "release_date": "2026-11-06",
-        "date_source": "musicbrainz",
+        "release_date": "2026-11-03",
+        "date_source": "feeds",
         "scores": [],
         "sources": [
-          "musicOMH"
+          "Pitchfork (news)",
+          "Stereogum",
+          "The Needle Drop (website)"
         ],
         "mentions": [
           {
-            "source": "musicOMH",
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Charlotte Adigéry & Bolis Pupul Announce New Album Mainland Madinina: Hear “From Healer To Dealer”",
+            "link": "https://stereogum.com/2516425/charlotte-adigery-bolis-pupul-announce-new-album-mainland-madinina-hear-from-healer-to-dealer/music/",
+            "published": "2026-11-03T16:38:53+00:00"
+          },
+          {
+            "source": "The Needle Drop (website)",
             "source_type": "reviews",
             "weight": 1.0,
-            "mention": "review",
+            "mention": "new_song",
             "score": null,
-            "headline": "La Roux – Old Flames",
-            "link": "https://www.musicomh.com/reviews/albums/la-roux-old-flames",
-            "published": "2026-11-02T08:31:35+00:00"
+            "headline": "Charlotte Adigéry & Bolis Pupul return with new album 'Mainland Mandinina'",
+            "link": "https://theneedledrop.com/news/charlotte-adigery-bolis-pupul-return-with-new-album-mainland-mandinina/",
+            "published": "2026-11-03T16:03:29+00:00"
+          },
+          {
+            "source": "Pitchfork (news)",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Charlotte Adigéry and Bolis Pupul Line Up New Album and Tour",
+            "link": "https://pitchfork.com/story/charlotte-adigery-and-bolis-pupul-line-up-new-album-and-tour/",
+            "published": "2026-11-03T14:08:24+00:00"
           }
         ],
-        "fans": 152659,
-        "star_power": 0.741,
-        "personal": 0.54,
-        "personal_reason": "You've played La Roux 1 time",
-        "coverage": 1.0,
+        "fans": 6768,
+        "star_power": 0.547,
+        "personal": 0.744,
+        "personal_reason": "You've played Charlotte Adigéry 69 times",
+        "coverage": 3.0,
         "publications": [
-          "musicOMH"
+          "Pitchfork",
+          "Stereogum",
+          "The Needle Drop"
         ],
-        "popularity": 0.396,
-        "rank_score": 0.497,
+        "popularity": 0.514,
+        "rank_score": 0.698,
         "avg_score": null
       },
       {
@@ -621,67 +645,8 @@
           "Rolling Stone",
           "Stereogum"
         ],
-        "popularity": 0.958,
-        "rank_score": 0.485,
-        "avg_score": null
-      },
-      {
-        "artist": "Charlotte Adigéry & Bolis Pupul",
-        "title": "From Healer to Dealer",
-        "type": "single",
-        "genre": "Pop",
-        "release_date": "2026-11-03",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Pitchfork (news)",
-          "Stereogum",
-          "The Needle Drop (website)"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Charlotte Adigéry & Bolis Pupul Announce New Album Mainland Madinina: Hear “From Healer To Dealer”",
-            "link": "https://stereogum.com/2516425/charlotte-adigery-bolis-pupul-announce-new-album-mainland-madinina-hear-from-healer-to-dealer/music/",
-            "published": "2026-11-03T16:38:53+00:00"
-          },
-          {
-            "source": "The Needle Drop (website)",
-            "source_type": "reviews",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Charlotte Adigéry & Bolis Pupul return with new album 'Mainland Mandinina'",
-            "link": "https://theneedledrop.com/news/charlotte-adigery-bolis-pupul-return-with-new-album-mainland-mandinina/",
-            "published": "2026-11-03T16:03:29+00:00"
-          },
-          {
-            "source": "Pitchfork (news)",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Charlotte Adigéry and Bolis Pupul Line Up New Album and Tour",
-            "link": "https://pitchfork.com/story/charlotte-adigery-and-bolis-pupul-line-up-new-album-and-tour/",
-            "published": "2026-11-03T14:08:24+00:00"
-          }
-        ],
-        "fans": 6768,
-        "star_power": 0.547,
-        "personal": 0.744,
-        "personal_reason": "You've played Charlotte Adigéry 69 times",
-        "coverage": 3.0,
-        "publications": [
-          "Pitchfork",
-          "Stereogum",
-          "The Needle Drop"
-        ],
-        "popularity": 0.519,
-        "rank_score": 0.474,
+        "popularity": 0.968,
+        "rank_score": 0.658,
         "avg_score": null
       },
       {
@@ -715,8 +680,43 @@
         "publications": [
           "uDiscover Music"
         ],
-        "popularity": 0.28,
-        "rank_score": 0.349,
+        "popularity": 0.251,
+        "rank_score": 0.524,
+        "avg_score": null
+      },
+      {
+        "artist": "La Roux",
+        "title": "Old Flames",
+        "type": "album",
+        "genre": "Pop",
+        "release_date": "2026-11-06",
+        "date_source": "musicbrainz",
+        "scores": [],
+        "sources": [
+          "musicOMH"
+        ],
+        "mentions": [
+          {
+            "source": "musicOMH",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "review",
+            "score": null,
+            "headline": "La Roux – Old Flames",
+            "link": "https://www.musicomh.com/reviews/albums/la-roux-old-flames",
+            "published": "2026-11-02T08:31:35+00:00"
+          }
+        ],
+        "fans": 152659,
+        "star_power": 0.741,
+        "personal": 0.54,
+        "personal_reason": "You've played La Roux 1 time",
+        "coverage": 1.0,
+        "publications": [
+          "musicOMH"
+        ],
+        "popularity": 0.339,
+        "rank_score": 0.5,
         "avg_score": null
       },
       {
@@ -786,8 +786,8 @@
           "Pitchfork",
           "Stereogum"
         ],
-        "popularity": 0.62,
-        "rank_score": 0.13,
+        "popularity": 0.632,
+        "rank_score": 0.126,
         "avg_score": null
       },
       {
@@ -821,8 +821,8 @@
         "publications": [
           "Billboard"
         ],
-        "popularity": 0.432,
-        "rank_score": 0.091,
+        "popularity": 0.366,
+        "rank_score": 0.073,
         "avg_score": null
       }
     ],
@@ -858,8 +858,8 @@
         "publications": [
           "uDiscover Music"
         ],
-        "popularity": 0.336,
-        "rank_score": 0.621,
+        "popularity": 0.293,
+        "rank_score": 0.664,
         "avg_score": null
       },
       {
@@ -893,78 +893,8 @@
         "publications": [
           "uDiscover Music"
         ],
-        "popularity": 0.452,
-        "rank_score": 0.608,
-        "avg_score": null
-      },
-      {
-        "artist": "Jack Harlow",
-        "title": "Sweet Action II",
-        "type": "ep",
-        "genre": "Hip-hop / R&B",
-        "release_date": "2026-11-06",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Clash"
-        ],
-        "mentions": [
-          {
-            "source": "Clash",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "announcement",
-            "score": null,
-            "headline": "Jack Harlow Announces ‘Sweet Action II’ EP",
-            "link": "https://www.clashmusic.com/news/jack-harlow-announces-sweet-action-ii-ep/",
-            "published": "2026-11-02T20:10:48+00:00"
-          }
-        ],
-        "fans": 344256,
-        "star_power": 0.791,
-        "personal": 0.677,
-        "personal_reason": "You've played Jack Harlow 21 times",
-        "coverage": 1.0,
-        "publications": [
-          "Clash"
-        ],
-        "popularity": 0.416,
-        "rank_score": 0.479,
-        "avg_score": null
-      },
-      {
-        "artist": "Wiki",
-        "title": "Papiseed Street Vol. 2",
-        "type": "mixtape",
-        "genre": "Hip-hop / R&B",
-        "release_date": "2026-11-02",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Stereogum"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "release_news",
-            "score": null,
-            "headline": "Wiki Drops New Mixtape Papiseed Street Vol. 2",
-            "link": "https://stereogum.com/2516316/wiki-drops-new-mixtape-papiseed-street-vol-2/music/",
-            "published": "2026-11-02T16:02:54+00:00"
-          }
-        ],
-        "fans": 2214,
-        "star_power": 0.478,
-        "personal": 0.58,
-        "personal_reason": "You've played Wiki 3 times",
-        "coverage": 1.0,
-        "publications": [
-          "Stereogum"
-        ],
-        "popularity": 0.291,
-        "rank_score": 0.444,
+        "popularity": 0.381,
+        "rank_score": 0.616,
         "avg_score": null
       },
       {
@@ -998,8 +928,8 @@
         "publications": [
           "Pitchfork"
         ],
-        "popularity": 0.389,
-        "rank_score": 0.403,
+        "popularity": 0.333,
+        "rank_score": 0.591,
         "avg_score": null
       },
       {
@@ -1033,8 +963,78 @@
         "publications": [
           "Stereogum"
         ],
-        "popularity": 0.285,
-        "rank_score": 0.371,
+        "popularity": 0.256,
+        "rank_score": 0.559,
+        "avg_score": null
+      },
+      {
+        "artist": "Jack Harlow",
+        "title": "Sweet Action II",
+        "type": "ep",
+        "genre": "Hip-hop / R&B",
+        "release_date": "2026-11-06",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Clash"
+        ],
+        "mentions": [
+          {
+            "source": "Clash",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "announcement",
+            "score": null,
+            "headline": "Jack Harlow Announces ‘Sweet Action II’ EP",
+            "link": "https://www.clashmusic.com/news/jack-harlow-announces-sweet-action-ii-ep/",
+            "published": "2026-11-02T20:10:48+00:00"
+          }
+        ],
+        "fans": 344256,
+        "star_power": 0.791,
+        "personal": 0.677,
+        "personal_reason": "You've played Jack Harlow 21 times",
+        "coverage": 1.0,
+        "publications": [
+          "Clash"
+        ],
+        "popularity": 0.354,
+        "rank_score": 0.49,
+        "avg_score": null
+      },
+      {
+        "artist": "Wiki",
+        "title": "Papiseed Street Vol. 2",
+        "type": "mixtape",
+        "genre": "Hip-hop / R&B",
+        "release_date": "2026-11-02",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Stereogum"
+        ],
+        "mentions": [
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "release_news",
+            "score": null,
+            "headline": "Wiki Drops New Mixtape Papiseed Street Vol. 2",
+            "link": "https://stereogum.com/2516316/wiki-drops-new-mixtape-papiseed-street-vol-2/music/",
+            "published": "2026-11-02T16:02:54+00:00"
+          }
+        ],
+        "fans": 2214,
+        "star_power": 0.478,
+        "personal": 0.58,
+        "personal_reason": "You've played Wiki 3 times",
+        "coverage": 1.0,
+        "publications": [
+          "Stereogum"
+        ],
+        "popularity": 0.26,
+        "rank_score": 0.464,
         "avg_score": null
       }
     ],
@@ -1070,43 +1070,8 @@
         "publications": [
           "Stereogum"
         ],
-        "popularity": 0.373,
-        "rank_score": 0.406,
-        "avg_score": null
-      },
-      {
-        "artist": "Liars",
-        "title": "Beat Creep Some Eyes",
-        "type": "single",
-        "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-11-04",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Stereogum"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Liars – “Beat Creep Some Eyes”",
-            "link": "https://stereogum.com/2516465/liars-beat-creep-some-eyes/music/",
-            "published": "2026-11-04T13:55:58+00:00"
-          }
-        ],
-        "fans": 14640,
-        "star_power": 0.595,
-        "personal": 0.54,
-        "personal_reason": "You've played Liars 1 time",
-        "coverage": 1.0,
-        "publications": [
-          "Stereogum"
-        ],
-        "popularity": 0.338,
-        "rank_score": 0.336,
+        "popularity": 0.321,
+        "rank_score": 0.599,
         "avg_score": null
       },
       {
@@ -1140,43 +1105,43 @@
         "publications": [
           "Stereogum"
         ],
-        "popularity": 0.26,
-        "rank_score": 0.33,
+        "popularity": 0.236,
+        "rank_score": 0.498,
         "avg_score": null
       },
       {
-        "artist": "Kings Of Leon",
-        "title": "O My Beloved",
-        "type": "album",
+        "artist": "Liars",
+        "title": "Beat Creep Some Eyes",
+        "type": "single",
         "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-11-06",
-        "date_source": "musicbrainz",
+        "release_date": "2026-11-04",
+        "date_source": "feeds",
         "scores": [],
         "sources": [
-          "Clash"
+          "Stereogum"
         ],
         "mentions": [
           {
-            "source": "Clash",
+            "source": "Stereogum",
             "source_type": "news",
             "weight": 1.0,
-            "mention": "review",
+            "mention": "new_song",
             "score": null,
-            "headline": "Kings Of Leon – O My Beloved",
-            "link": "https://www.clashmusic.com/reviews/kings-of-leon-o-my-beloved/",
-            "published": "2026-11-05T16:54:39+00:00"
+            "headline": "Liars – “Beat Creep Some Eyes”",
+            "link": "https://stereogum.com/2516465/liars-beat-creep-some-eyes/music/",
+            "published": "2026-11-04T13:55:58+00:00"
           }
         ],
-        "fans": 2399103,
-        "star_power": 0.911,
-        "personal": 0.0,
-        "personal_reason": "",
+        "fans": 14640,
+        "star_power": 0.595,
+        "personal": 0.54,
+        "personal_reason": "You've played Liars 1 time",
         "coverage": 1.0,
         "publications": [
-          "Clash"
+          "Stereogum"
         ],
-        "popularity": 0.464,
-        "rank_score": 0.139,
+        "popularity": 0.295,
+        "rank_score": 0.491,
         "avg_score": null
       },
       {
@@ -1210,8 +1175,8 @@
         "publications": [
           "Stereogum"
         ],
-        "popularity": 0.28,
-        "rank_score": 0.138,
+        "popularity": 0.251,
+        "rank_score": 0.179,
         "avg_score": null
       },
       {
@@ -1257,12 +1222,82 @@
           "Consequence",
           "NME"
         ],
-        "popularity": 0.529,
-        "rank_score": 0.111,
+        "popularity": 0.48,
+        "rank_score": 0.096,
+        "avg_score": null
+      },
+      {
+        "artist": "Kings Of Leon",
+        "title": "O My Beloved",
+        "type": "album",
+        "genre": "Rock / Alternative / Indie",
+        "release_date": "2026-11-06",
+        "date_source": "musicbrainz",
+        "scores": [],
+        "sources": [
+          "Clash"
+        ],
+        "mentions": [
+          {
+            "source": "Clash",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "review",
+            "score": null,
+            "headline": "Kings Of Leon – O My Beloved",
+            "link": "https://www.clashmusic.com/reviews/kings-of-leon-o-my-beloved/",
+            "published": "2026-11-05T16:54:39+00:00"
+          }
+        ],
+        "fans": 2399103,
+        "star_power": 0.911,
+        "personal": 0.0,
+        "personal_reason": "",
+        "coverage": 1.0,
+        "publications": [
+          "Clash"
+        ],
+        "popularity": 0.39,
+        "rank_score": 0.078,
         "avg_score": null
       }
     ],
     "Electronic / Dance": [
+      {
+        "artist": "Ecco2k",
+        "title": "Sky Burial",
+        "type": "single",
+        "genre": "Electronic / Dance",
+        "release_date": "2026-11-03",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "The Needle Drop (website)"
+        ],
+        "mentions": [
+          {
+            "source": "The Needle Drop (website)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Ecco2k shares new single \"Sky Burial\"",
+            "link": "https://theneedledrop.com/news/ecco2k-shares-new-single-sky-burial/",
+            "published": "2026-11-03T20:09:46+00:00"
+          }
+        ],
+        "fans": 14518,
+        "star_power": 0.595,
+        "personal": 0.968,
+        "personal_reason": "You've played Ecco2K 610 times",
+        "coverage": 1.0,
+        "publications": [
+          "The Needle Drop"
+        ],
+        "popularity": 0.295,
+        "rank_score": 0.833,
+        "avg_score": null
+      },
       {
         "artist": "Shygirl",
         "title": "Swallow!",
@@ -1317,43 +1352,8 @@
           "Slant",
           "Stereogum"
         ],
-        "popularity": 0.552,
-        "rank_score": 0.785,
-        "avg_score": null
-      },
-      {
-        "artist": "Ecco2k",
-        "title": "Sky Burial",
-        "type": "single",
-        "genre": "Electronic / Dance",
-        "release_date": "2026-11-03",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "The Needle Drop (website)"
-        ],
-        "mentions": [
-          {
-            "source": "The Needle Drop (website)",
-            "source_type": "reviews",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Ecco2k shares new single \"Sky Burial\"",
-            "link": "https://theneedledrop.com/news/ecco2k-shares-new-single-sky-burial/",
-            "published": "2026-11-03T20:09:46+00:00"
-          }
-        ],
-        "fans": 14518,
-        "star_power": 0.595,
-        "personal": 0.968,
-        "personal_reason": "You've played Ecco2K 610 times",
-        "coverage": 1.0,
-        "publications": [
-          "The Needle Drop"
-        ],
-        "popularity": 0.338,
-        "rank_score": 0.545,
+        "popularity": 0.539,
+        "rank_score": 0.816,
         "avg_score": null
       },
       {
@@ -1399,8 +1399,8 @@
           "Pitchfork",
           "Stereogum"
         ],
-        "popularity": 0.455,
-        "rank_score": 0.451,
+        "popularity": 0.424,
+        "rank_score": 0.666,
         "avg_score": null
       },
       {
@@ -1434,8 +1434,8 @@
         "publications": [
           "Stereogum"
         ],
-        "popularity": 0.286,
-        "rank_score": 0.06,
+        "popularity": 0.256,
+        "rank_score": 0.051,
         "avg_score": null
       }
     ]

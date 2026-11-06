@@ -5338,30 +5338,6 @@
     ]
   },
   {
-    "artist": "Bernie Taupin",
-    "title": "The Sea Has No Mercy",
-    "type": "album",
-    "genre": "Other",
-    "release_date": "2026-10-23",
-    "date_source": "musicbrainz",
-    "scores": [],
-    "sources": [
-      "musicOMH"
-    ],
-    "mentions": [
-      {
-        "source": "musicOMH",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "review",
-        "score": null,
-        "headline": "Bernie Taupin – The Sea Has No Mercy",
-        "link": "https://www.musicomh.com/reviews/albums/bernie-taupin-the-sea-has-no-mercy",
-        "published": "2026-10-23T07:01:41+00:00"
-      }
-    ]
-  },
-  {
     "artist": "keshi",
     "title": "MISS ME",
     "type": "single",
@@ -7501,6 +7477,30 @@
         "headline": "Review: With ‘She’s the Best,’ Troye Sivan Loses Himself in His Muses",
         "link": "https://www.slantmagazine.com/music/troye-sivan-shes-the-best-album-review/",
         "published": "2026-10-09T23:08:53+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Bernie Taupin",
+    "title": "The Sea Has No Mercy",
+    "type": "album",
+    "genre": "Other",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Bernie Taupin – The Sea Has No Mercy",
+        "link": "https://www.musicomh.com/reviews/albums/bernie-taupin-the-sea-has-no-mercy",
+        "published": "2026-10-23T07:01:41+00:00"
       }
     ]
   },
