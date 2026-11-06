@@ -1,6 +1,9 @@
 {% macro release(r, n=None) %}
 {% if n %}{{ n }}. {% endif %}{{ r.artist }} - {{ r.title }}
-   {{ r.type | kind }} | {{ r.genre }}{% if r.release_date %} | {{ r.release_date | day }}{% endif %}{% if r.avg_score %} | {{ r.avg_score }}/10{% endif %}{% for l in r.links if l.pick %} | Best New Music{% endfor %}
+   {{ r.type | kind }} | {{ r.genre }}{% if r.release_date %} | {{ r.release_date | day }}{% endif %}{% if r.avg_score %} | {{ r.avg_score }}/10{% endif %}{% for l in r.links if l.pick %} | Best New Music{% endfor %}{{ '' }}
+{% if r.tags %}
+   Genres: {{ r.tags | join(", ") }}
+{% endif %}
 {% if r.personal_reason %}
    {{ r.personal_reason }}
 {% endif %}
