@@ -85,7 +85,8 @@ Fields:
   Metal, punk and emo count as Rock / Alternative / Indie. R&B and soul count as Hip-hop / R&B.
 - release_date: YYYY-MM-DD when the release came out or comes out. Work out phrases like "out Friday" or
   "next month" from the item's published date. A new song shared today is out on the published date.
-  Use null if you can't tell.
+  For reviews, give a date ONLY if the item states when the release came out; never use the review's
+  own published date (reviews often appear days or weeks after release). Use null if you can't tell.
 - mention: review, announcement, new_song, release_news or list.
 - score: a review score converted to a 0-10 scale (e.g. 8.1, or 7 for "7/10"), only if the item states one. Otherwise null.
 
@@ -295,8 +296,11 @@ def merge(items: list[dict], extracted: dict) -> list[dict]:
                 "title": most_common([r["title"] for r in rels]),
                 "type": most_common([r["type"] for r in rels]),
                 "genre": most_common([r["genre"] for r in rels], prefer_not="Other"),
-                "release_date": most_common([r["release_date"] for r in rels
-                                             if valid_date(r["release_date"])]),
+                # Dates from announcements/news beat dates guessed from reviews
+                "release_date": most_common(
+                    [r["release_date"] for r in rels
+                     if valid_date(r["release_date"]) and r["mention"] != "review"]
+                    or [r["release_date"] for r in rels if valid_date(r["release_date"])]),
                 "date_source": "feeds",
                 # one score per article (a Pitchfork review also listed in Best New Albums
                 # is the same article, so its score only counts once)
