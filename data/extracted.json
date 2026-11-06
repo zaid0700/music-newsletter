@@ -4823,5 +4823,74 @@
    "mention": "review",
    "score": null
   }
+ ],
+ "a27a3ba1c2e1eab6": [
+  {
+   "artist": "Mark Lee",
+   "title": "Windmill",
+   "type": "album",
+   "genre": "Pop",
+   "release_date": "2026-12-04",
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Mark Lee",
+   "title": "Happiest",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "c0ecde9a13e0fd17": [],
+ "c20914174d420f60": [],
+ "9ccc06d59a66ed3b": [],
+ "525dd2790f9bb481": [],
+ "39397132ed331604": [
+  {
+   "artist": "Django Django",
+   "title": "Doveland",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-06",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "9046a10c0361ef0a": [],
+ "4496c8e2a49add77": [
+  {
+   "artist": "Rex Orange County",
+   "title": "Dream Fatigue",
+   "type": "album",
+   "genre": "Pop",
+   "release_date": "2026-11-06",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "21df6726d0b71424": [
+  {
+   "artist": "Olivia Rodrigo",
+   "title": "Take Me Home (4 Christmas)",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "0b1975a86c749115": [
+  {
+   "artist": "Shygirl",
+   "title": "Swallow!",
+   "type": "album",
+   "genre": "Electronic / Dance",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
  ]
 }

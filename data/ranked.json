@@ -1,7 +1,7 @@
 {
   "week_start": "2026-10-31",
   "week_end": "2026-11-06",
-  "generated": "2026-11-06T09:46:40.323397+00:00",
+  "generated": "2026-11-06T10:45:13.574970+00:00",
   "top": [
     {
       "artist": "Ecco2k",
@@ -34,8 +34,8 @@
       "publications": [
         "The Needle Drop"
       ],
-      "popularity": 0.295,
-      "rank_score": 0.833,
+      "popularity": 0.278,
+      "rank_score": 0.83,
       "avg_score": null
     },
     {
@@ -48,9 +48,20 @@
       "scores": [],
       "sources": [
         "Clash",
+        "NME",
         "Slant (music)"
       ],
       "mentions": [
+        {
+          "source": "NME",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "review",
+          "score": null,
+          "headline": "Shygirl – ‘Swallow!’ review: a dreamy, guitar-heavy return from the pop experimentalist",
+          "link": "https://www.nme.com/reviews/album/shygirl-swallow-review-3975181?utm_source=rss&utm_medium=rss&utm_campaign=shygirl-swallow-review",
+          "published": "2026-11-06T09:30:41+00:00"
+        },
         {
           "source": "Slant (music)",
           "source_type": "reviews",
@@ -86,14 +97,15 @@
       "star_power": 0.631,
       "personal": 0.885,
       "personal_reason": "You've played Shygirl 143 times",
-      "coverage": 3.0,
+      "coverage": 4.0,
       "publications": [
         "Clash",
+        "NME",
         "Slant",
         "Stereogum"
       ],
-      "popularity": 0.539,
-      "rank_score": 0.816,
+      "popularity": 0.589,
+      "rank_score": 0.826,
       "avg_score": null
     },
     {
@@ -127,8 +139,8 @@
       "publications": [
         "Clash"
       ],
-      "popularity": 0.264,
-      "rank_score": 0.723,
+      "popularity": 0.247,
+      "rank_score": 0.72,
       "avg_score": null
     },
     {
@@ -186,8 +198,43 @@
         "Stereogum",
         "The Needle Drop"
       ],
-      "popularity": 0.514,
-      "rank_score": 0.698,
+      "popularity": 0.464,
+      "rank_score": 0.688,
+      "avg_score": null
+    },
+    {
+      "artist": "Nettspend",
+      "title": "Virginia Creeper",
+      "type": "ep",
+      "genre": "Hip-hop / R&B",
+      "release_date": "2026-10-30",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "uDiscover Music"
+      ],
+      "mentions": [
+        {
+          "source": "uDiscover Music",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "release_news",
+          "score": null,
+          "headline": "Nettspend’s ‘Virginia Creeper’ Features Six New Tracks",
+          "link": "https://www.udiscovermusic.com/news/nettspend-virginia-creeper-ep/",
+          "published": "2026-10-30T22:48:44+00:00"
+        }
+      ],
+      "fans": 13282,
+      "star_power": 0.589,
+      "personal": 0.965,
+      "personal_reason": "You've played nettspend 584 times",
+      "coverage": 1.0,
+      "publications": [
+        "uDiscover Music"
+      ],
+      "popularity": 0.277,
+      "rank_score": 0.662,
       "avg_score": null
     },
     {
@@ -233,43 +280,8 @@
         "Pitchfork",
         "Stereogum"
       ],
-      "popularity": 0.424,
-      "rank_score": 0.666,
-      "avg_score": null
-    },
-    {
-      "artist": "Nettspend",
-      "title": "Virginia Creeper",
-      "type": "ep",
-      "genre": "Hip-hop / R&B",
-      "release_date": "2026-10-30",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "uDiscover Music"
-      ],
-      "mentions": [
-        {
-          "source": "uDiscover Music",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "release_news",
-          "score": null,
-          "headline": "Nettspend’s ‘Virginia Creeper’ Features Six New Tracks",
-          "link": "https://www.udiscovermusic.com/news/nettspend-virginia-creeper-ep/",
-          "published": "2026-10-30T22:48:44+00:00"
-        }
-      ],
-      "fans": 13282,
-      "star_power": 0.589,
-      "personal": 0.965,
-      "personal_reason": "You've played nettspend 584 times",
-      "coverage": 1.0,
-      "publications": [
-        "uDiscover Music"
-      ],
-      "popularity": 0.293,
-      "rank_score": 0.664,
+      "popularity": 0.391,
+      "rank_score": 0.659,
       "avg_score": null
     },
     {
@@ -284,11 +296,22 @@
         "Billboard",
         "Clash",
         "Consequence",
+        "NME",
         "Pitchfork (news)",
         "Rolling Stone (music)",
         "Stereogum"
       ],
       "mentions": [
+        {
+          "source": "NME",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Olivia Rodrigo shares festive single ‘Take Me Home (4 Christmas)’ with video starring ‘Sex And The City’s Cynthia Nixon and Ben Marshall from ‘SNL’",
+          "link": "https://www.nme.com/news/music/olivia-rodrigo-releases-new-festive-single-take-me-home-4-christmas-video-starring-cynthia-nixon-watch-3975188?utm_source=rss&utm_medium=rss&utm_campaign=olivia-rodrigo-releases-new-festive-single-take-me-home-4-christmas-video-starring-cynthia-nixon-watch",
+          "published": "2026-11-06T09:50:11+00:00"
+        },
         {
           "source": "Consequence",
           "source_type": "news",
@@ -364,11 +387,12 @@
       "star_power": 0.895,
       "personal": 0.58,
       "personal_reason": "You've played Olivia Rodrigo 3 times",
-      "coverage": 6.0,
+      "coverage": 7.0,
       "publications": [
         "Billboard",
         "Clash",
         "Consequence",
+        "NME",
         "Pitchfork",
         "Rolling Stone",
         "Stereogum"
@@ -420,8 +444,8 @@
         "Billboard",
         "uDiscover Music"
       ],
-      "popularity": 0.497,
-      "rank_score": 0.639,
+      "popularity": 0.464,
+      "rank_score": 0.633,
       "avg_score": null
     },
     {
@@ -455,8 +479,8 @@
       "publications": [
         "Stereogum"
       ],
-      "popularity": 0.321,
-      "rank_score": 0.599,
+      "popularity": 0.305,
+      "rank_score": 0.596,
       "avg_score": null
     },
     {
@@ -490,8 +514,8 @@
       "publications": [
         "Pitchfork"
       ],
-      "popularity": 0.333,
-      "rank_score": 0.591,
+      "popularity": 0.317,
+      "rank_score": 0.587,
       "avg_score": null
     }
   ],
@@ -527,8 +551,8 @@
       "publications": [
         "Stereogum"
       ],
-      "popularity": 0.251,
-      "rank_score": 0.179,
+      "popularity": 0.235,
+      "rank_score": 0.176,
       "avg_score": null,
       "discover_score": 0.132
     },
@@ -563,8 +587,8 @@
       "publications": [
         "uDiscover Music"
       ],
-      "popularity": 0.244,
-      "rank_score": 0.062,
+      "popularity": 0.227,
+      "rank_score": 0.058,
       "avg_score": null,
       "discover_score": 0.013
     }
@@ -626,8 +650,8 @@
           "Stereogum",
           "The Needle Drop"
         ],
-        "popularity": 0.514,
-        "rank_score": 0.698,
+        "popularity": 0.464,
+        "rank_score": 0.688,
         "avg_score": null
       },
       {
@@ -642,11 +666,22 @@
           "Billboard",
           "Clash",
           "Consequence",
+          "NME",
           "Pitchfork (news)",
           "Rolling Stone (music)",
           "Stereogum"
         ],
         "mentions": [
+          {
+            "source": "NME",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Olivia Rodrigo shares festive single ‘Take Me Home (4 Christmas)’ with video starring ‘Sex And The City’s Cynthia Nixon and Ben Marshall from ‘SNL’",
+            "link": "https://www.nme.com/news/music/olivia-rodrigo-releases-new-festive-single-take-me-home-4-christmas-video-starring-cynthia-nixon-watch-3975188?utm_source=rss&utm_medium=rss&utm_campaign=olivia-rodrigo-releases-new-festive-single-take-me-home-4-christmas-video-starring-cynthia-nixon-watch",
+            "published": "2026-11-06T09:50:11+00:00"
+          },
           {
             "source": "Consequence",
             "source_type": "news",
@@ -722,11 +757,12 @@
         "star_power": 0.895,
         "personal": 0.58,
         "personal_reason": "You've played Olivia Rodrigo 3 times",
-        "coverage": 6.0,
+        "coverage": 7.0,
         "publications": [
           "Billboard",
           "Clash",
           "Consequence",
+          "NME",
           "Pitchfork",
           "Rolling Stone",
           "Stereogum"
@@ -766,8 +802,8 @@
         "publications": [
           "Rolling Stone"
         ],
-        "popularity": 0.31,
-        "rank_score": 0.544,
+        "popularity": 0.293,
+        "rank_score": 0.541,
         "avg_score": null
       },
       {
@@ -801,8 +837,8 @@
         "publications": [
           "uDiscover Music"
         ],
-        "popularity": 0.251,
-        "rank_score": 0.524,
+        "popularity": 0.235,
+        "rank_score": 0.521,
         "avg_score": null
       },
       {
@@ -836,79 +872,43 @@
         "publications": [
           "musicOMH"
         ],
-        "popularity": 0.339,
-        "rank_score": 0.5,
+        "popularity": 0.322,
+        "rank_score": 0.496,
         "avg_score": null
       },
       {
-        "artist": "Christine and the Queens",
-        "title": "Rendez-vous Avec Toi",
-        "type": "single",
+        "artist": "Ane Brun",
+        "title": "I Thought We Were The Same",
+        "type": "album",
         "genre": "Pop",
-        "release_date": "2026-11-04",
-        "date_source": "feeds",
+        "release_date": "2026-11-06",
+        "date_source": "musicbrainz",
         "scores": [],
         "sources": [
-          "Clash",
-          "NME",
-          "Pitchfork (news)",
-          "Stereogum"
+          "musicOMH"
         ],
         "mentions": [
           {
-            "source": "Stereogum",
-            "source_type": "news",
+            "source": "musicOMH",
+            "source_type": "reviews",
             "weight": 1.0,
-            "mention": "new_song",
+            "mention": "review",
             "score": null,
-            "headline": "Christine And The Queens – “Rendez-vous Avec Toi”",
-            "link": "https://stereogum.com/2516516/christine-and-the-queens-rendez-vous-avec-toi/music/",
-            "published": "2026-11-04T18:31:40+00:00"
-          },
-          {
-            "source": "NME",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Christine And The The Queens makes funky return with new single ‘Rendez-vous Avec Toi’: “The electricity remains eternally mysterious”",
-            "link": "https://www.nme.com/news/music/christine-the-queens-releases-new-single-rendez-vous-avec-toi-listen-3975012?utm_source=rss&utm_medium=rss&utm_campaign=christine-the-queens-releases-new-single-rendez-vous-avec-toi-listen",
-            "published": "2026-11-04T16:42:52+00:00"
-          },
-          {
-            "source": "Clash",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Christine & The Queens Returns With New Single ‘Rendez-vous avec toi’",
-            "link": "https://www.clashmusic.com/artists/christine-the-queens-returns-with-new-single-rendez-vous-avec-toi/",
-            "published": "2026-11-04T15:14:54+00:00"
-          },
-          {
-            "source": "Pitchfork (news)",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Christine and the Queens Returns with Two New Songs",
-            "link": "https://pitchfork.com/story/christine-and-the-queens-returns-with-two-new-songs/",
-            "published": "2026-11-04T15:07:21+00:00"
+            "headline": "Ane Brun – I Thought We Were The Same",
+            "link": "https://www.musicomh.com/reviews/albums/ane-brun-i-thought-we-were-the-same",
+            "published": "2026-11-06T07:31:47+00:00"
           }
         ],
-        "fans": 7182,
-        "star_power": 0.551,
-        "personal": 0.0,
-        "personal_reason": "",
-        "coverage": 4.0,
+        "fans": 48264,
+        "star_power": 0.669,
+        "personal": 0.075,
+        "personal_reason": "Similar to Susanne Sundfør, Cat Power",
+        "coverage": 1.0,
         "publications": [
-          "Clash",
-          "NME",
-          "Pitchfork",
-          "Stereogum"
+          "musicOMH"
         ],
-        "popularity": 0.632,
-        "rank_score": 0.126,
+        "popularity": 0.301,
+        "rank_score": 0.12,
         "avg_score": null
       }
     ],
@@ -944,8 +944,8 @@
         "publications": [
           "uDiscover Music"
         ],
-        "popularity": 0.293,
-        "rank_score": 0.664,
+        "popularity": 0.277,
+        "rank_score": 0.662,
         "avg_score": null
       },
       {
@@ -991,8 +991,8 @@
           "Billboard",
           "uDiscover Music"
         ],
-        "popularity": 0.497,
-        "rank_score": 0.639,
+        "popularity": 0.464,
+        "rank_score": 0.633,
         "avg_score": null
       },
       {
@@ -1026,8 +1026,8 @@
         "publications": [
           "Pitchfork"
         ],
-        "popularity": 0.333,
-        "rank_score": 0.591,
+        "popularity": 0.317,
+        "rank_score": 0.587,
         "avg_score": null
       },
       {
@@ -1061,8 +1061,8 @@
         "publications": [
           "Stereogum"
         ],
-        "popularity": 0.256,
-        "rank_score": 0.559,
+        "popularity": 0.239,
+        "rank_score": 0.556,
         "avg_score": null
       },
       {
@@ -1096,8 +1096,8 @@
         "publications": [
           "Clash"
         ],
-        "popularity": 0.354,
-        "rank_score": 0.49,
+        "popularity": 0.337,
+        "rank_score": 0.487,
         "avg_score": null
       },
       {
@@ -1131,8 +1131,8 @@
         "publications": [
           "Stereogum"
         ],
-        "popularity": 0.26,
-        "rank_score": 0.464,
+        "popularity": 0.243,
+        "rank_score": 0.461,
         "avg_score": null
       }
     ],
@@ -1168,8 +1168,8 @@
         "publications": [
           "Stereogum"
         ],
-        "popularity": 0.321,
-        "rank_score": 0.599,
+        "popularity": 0.305,
+        "rank_score": 0.596,
         "avg_score": null
       },
       {
@@ -1203,8 +1203,8 @@
         "publications": [
           "Stereogum"
         ],
-        "popularity": 0.236,
-        "rank_score": 0.498,
+        "popularity": 0.22,
+        "rank_score": 0.494,
         "avg_score": null
       },
       {
@@ -1238,8 +1238,8 @@
         "publications": [
           "Stereogum"
         ],
-        "popularity": 0.295,
-        "rank_score": 0.491,
+        "popularity": 0.278,
+        "rank_score": 0.488,
         "avg_score": null
       },
       {
@@ -1273,8 +1273,8 @@
         "publications": [
           "Clash"
         ],
-        "popularity": 0.384,
-        "rank_score": 0.203,
+        "popularity": 0.368,
+        "rank_score": 0.2,
         "avg_score": null
       },
       {
@@ -1283,12 +1283,23 @@
         "type": "album",
         "genre": "Rock / Alternative / Indie",
         "release_date": "2026-11-06",
-        "date_source": "musicbrainz",
+        "date_source": "feeds",
         "scores": [],
         "sources": [
+          "Clash",
           "musicOMH"
         ],
         "mentions": [
+          {
+            "source": "Clash",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "release_news",
+            "score": null,
+            "headline": "Django Django’s ‘Doveland’ Is Framed By Maturity",
+            "link": "https://www.clashmusic.com/news/django-djangos-doveland-is-framed-by-maturity/",
+            "published": "2026-11-06T10:14:57+00:00"
+          },
           {
             "source": "musicOMH",
             "source_type": "reviews",
@@ -1304,12 +1315,13 @@
         "star_power": 0.684,
         "personal": 0.148,
         "personal_reason": "Similar to Everything Everything, Metronomy",
-        "coverage": 1.0,
+        "coverage": 2.0,
         "publications": [
+          "Clash",
           "musicOMH"
         ],
-        "popularity": 0.322,
-        "rank_score": 0.183,
+        "popularity": 0.405,
+        "rank_score": 0.199,
         "avg_score": null
       },
       {
@@ -1355,8 +1367,8 @@
           "Consequence",
           "NME"
         ],
-        "popularity": 0.48,
-        "rank_score": 0.096,
+        "popularity": 0.447,
+        "rank_score": 0.089,
         "avg_score": null
       }
     ],
@@ -1392,8 +1404,8 @@
         "publications": [
           "The Needle Drop"
         ],
-        "popularity": 0.295,
-        "rank_score": 0.833,
+        "popularity": 0.278,
+        "rank_score": 0.83,
         "avg_score": null
       },
       {
@@ -1406,9 +1418,20 @@
         "scores": [],
         "sources": [
           "Clash",
+          "NME",
           "Slant (music)"
         ],
         "mentions": [
+          {
+            "source": "NME",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "review",
+            "score": null,
+            "headline": "Shygirl – ‘Swallow!’ review: a dreamy, guitar-heavy return from the pop experimentalist",
+            "link": "https://www.nme.com/reviews/album/shygirl-swallow-review-3975181?utm_source=rss&utm_medium=rss&utm_campaign=shygirl-swallow-review",
+            "published": "2026-11-06T09:30:41+00:00"
+          },
           {
             "source": "Slant (music)",
             "source_type": "reviews",
@@ -1444,14 +1467,15 @@
         "star_power": 0.631,
         "personal": 0.885,
         "personal_reason": "You've played Shygirl 143 times",
-        "coverage": 3.0,
+        "coverage": 4.0,
         "publications": [
           "Clash",
+          "NME",
           "Slant",
           "Stereogum"
         ],
-        "popularity": 0.539,
-        "rank_score": 0.816,
+        "popularity": 0.589,
+        "rank_score": 0.826,
         "avg_score": null
       },
       {
@@ -1485,8 +1509,8 @@
         "publications": [
           "Clash"
         ],
-        "popularity": 0.264,
-        "rank_score": 0.723,
+        "popularity": 0.247,
+        "rank_score": 0.72,
         "avg_score": null
       },
       {
@@ -1532,8 +1556,8 @@
           "Pitchfork",
           "Stereogum"
         ],
-        "popularity": 0.424,
-        "rank_score": 0.666,
+        "popularity": 0.391,
+        "rank_score": 0.659,
         "avg_score": null
       },
       {
@@ -1567,8 +1591,8 @@
         "publications": [
           "Stereogum"
         ],
-        "popularity": 0.256,
-        "rank_score": 0.051,
+        "popularity": 0.24,
+        "rank_score": 0.048,
         "avg_score": null
       }
     ]

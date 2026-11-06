@@ -542,6 +542,30 @@
     ]
   },
   {
+    "artist": "Mark Lee",
+    "title": "Windmill",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": "2026-12-04",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Mark Lee Announces New Album ‘Windmill’ and Drops New Video For ‘Happiest’",
+        "link": "https://www.clashmusic.com/news/mark-lee-announces-new-album-windmill-and-drops-new-video-for-happiest/",
+        "published": "2026-11-06T10:38:40+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Star's Revenge",
     "title": "Star's Revenge II",
     "type": "album",
@@ -741,11 +765,22 @@
       "Billboard",
       "Clash",
       "Consequence",
+      "NME",
       "Pitchfork (news)",
       "Rolling Stone (music)",
       "Stereogum"
     ],
     "mentions": [
+      {
+        "source": "NME",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Olivia Rodrigo shares festive single ‘Take Me Home (4 Christmas)’ with video starring ‘Sex And The City’s Cynthia Nixon and Ben Marshall from ‘SNL’",
+        "link": "https://www.nme.com/news/music/olivia-rodrigo-releases-new-festive-single-take-me-home-4-christmas-video-starring-cynthia-nixon-watch-3975188?utm_source=rss&utm_medium=rss&utm_campaign=olivia-rodrigo-releases-new-festive-single-take-me-home-4-christmas-video-starring-cynthia-nixon-watch",
+        "published": "2026-11-06T09:50:11+00:00"
+      },
       {
         "source": "Consequence",
         "source_type": "news",
@@ -876,6 +911,52 @@
     ]
   },
   {
+    "artist": "Shygirl",
+    "title": "Swallow!",
+    "type": "album",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-11-06",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash",
+      "NME",
+      "Slant (music)"
+    ],
+    "mentions": [
+      {
+        "source": "NME",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Shygirl – ‘Swallow!’ review: a dreamy, guitar-heavy return from the pop experimentalist",
+        "link": "https://www.nme.com/reviews/album/shygirl-swallow-review-3975181?utm_source=rss&utm_medium=rss&utm_campaign=shygirl-swallow-review",
+        "published": "2026-11-06T09:30:41+00:00"
+      },
+      {
+        "source": "Slant (music)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Review: Shygirl’s ‘Swallow!’ Goes Deep and Gets Real",
+        "link": "https://www.slantmagazine.com/music/shygirl-swallow-album-review/",
+        "published": "2026-11-05T16:14:55+00:00"
+      },
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Shygirl Drops New Single ‘Eternal’",
+        "link": "https://www.clashmusic.com/news/shygirl-drops-new-single-eternal/",
+        "published": "2026-11-04T11:32:30+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Twisted Teens",
     "title": "The Holy Cross Tigers",
     "type": "album",
@@ -957,41 +1038,6 @@
     ]
   },
   {
-    "artist": "Shygirl",
-    "title": "Swallow!",
-    "type": "album",
-    "genre": "Electronic / Dance",
-    "release_date": "2026-11-06",
-    "date_source": "feeds",
-    "scores": [],
-    "sources": [
-      "Clash",
-      "Slant (music)"
-    ],
-    "mentions": [
-      {
-        "source": "Slant (music)",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "review",
-        "score": null,
-        "headline": "Review: Shygirl’s ‘Swallow!’ Goes Deep and Gets Real",
-        "link": "https://www.slantmagazine.com/music/shygirl-swallow-album-review/",
-        "published": "2026-11-05T16:14:55+00:00"
-      },
-      {
-        "source": "Clash",
-        "source_type": "news",
-        "weight": 1.0,
-        "mention": "announcement",
-        "score": null,
-        "headline": "Shygirl Drops New Single ‘Eternal’",
-        "link": "https://www.clashmusic.com/news/shygirl-drops-new-single-eternal/",
-        "published": "2026-11-04T11:32:30+00:00"
-      }
-    ]
-  },
-  {
     "artist": "JENNIE",
     "title": "Someone to Hold",
     "type": "single",
@@ -1023,6 +1069,41 @@
         "headline": "JENNIE’s ‘Someone to Hold’ Is Here: Stream It Now",
         "link": "https://www.billboard.com/music/pop/jennie-someone-to-hold-stream-it-now-1236375680/",
         "published": "2026-11-06T06:09:18+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Django Django",
+    "title": "Doveland",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-06",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash",
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Django Django’s ‘Doveland’ Is Framed By Maturity",
+        "link": "https://www.clashmusic.com/news/django-djangos-doveland-is-framed-by-maturity/",
+        "published": "2026-11-06T10:14:57+00:00"
+      },
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Django Django – Doveland",
+        "link": "https://www.musicomh.com/reviews/albums/django-django-doveland",
+        "published": "2026-11-06T08:01:42+00:00"
       }
     ]
   },
@@ -1291,26 +1372,50 @@
     ]
   },
   {
-    "artist": "Django Django",
-    "title": "Doveland",
-    "type": "album",
-    "genre": "Rock / Alternative / Indie",
+    "artist": "Mark Lee",
+    "title": "Happiest",
+    "type": "single",
+    "genre": "Pop",
     "release_date": "2026-11-06",
-    "date_source": "musicbrainz",
+    "date_source": "feeds",
     "scores": [],
     "sources": [
-      "musicOMH"
+      "Clash"
     ],
     "mentions": [
       {
-        "source": "musicOMH",
-        "source_type": "reviews",
+        "source": "Clash",
+        "source_type": "news",
         "weight": 1.0,
-        "mention": "review",
+        "mention": "new_song",
         "score": null,
-        "headline": "Django Django – Doveland",
-        "link": "https://www.musicomh.com/reviews/albums/django-django-doveland",
-        "published": "2026-11-06T08:01:42+00:00"
+        "headline": "Mark Lee Announces New Album ‘Windmill’ and Drops New Video For ‘Happiest’",
+        "link": "https://www.clashmusic.com/news/mark-lee-announces-new-album-windmill-and-drops-new-video-for-happiest/",
+        "published": "2026-11-06T10:38:40+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Rex Orange County",
+    "title": "Dream Fatigue",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": "2026-11-06",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Rex Orange County Releases New Album ‘Dream Fatigue’",
+        "link": "https://www.clashmusic.com/news/rex-orange-county-releases-new-album-dream-fatigue/",
+        "published": "2026-11-06T09:59:51+00:00"
       }
     ]
   },
