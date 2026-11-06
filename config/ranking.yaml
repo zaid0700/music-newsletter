@@ -34,3 +34,10 @@ type_weight:
 # How many releases appear in the newsletter
 top_overall: 10
 per_genre: 6
+
+
+# "Discover" section: releases by artists you've never played but who are similar
+# to ones you do (from Last.fm), favouring smaller artists. Not in the top 10.
+discover:
+  count: 5                  # how many to show
+  max_artist_fans: 200000   # leave out artists with more Deezer fans than this
