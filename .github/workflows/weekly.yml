@@ -13,6 +13,10 @@ on:
         description: "Email the newsletter (untick to only save it in newsletters/)"
         type: boolean
         default: true
+      record_only:
+        description: "Don't email; just record this week's releases as already sent (to stop repeats)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -52,7 +56,7 @@ jobs:
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
 
       - name: Write and send newsletter
-        run: python scripts/newsletter.py ${{ (github.event_name == 'workflow_dispatch' && !inputs.send) && '--no-send' || '' }}
+        run: python scripts/newsletter.py ${{ (github.event_name == 'workflow_dispatch' && !inputs.send) && '--no-send' || '' }} ${{ inputs.record_only && '--record-only' || '' }}
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
