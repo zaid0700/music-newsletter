@@ -1372,6 +1372,30 @@
     ]
   },
   {
+    "artist": "Bryan Adams",
+    "title": "How's It Goin'",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-06",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Bryan Adams – How’s It Goin’",
+        "link": "https://www.clashmusic.com/reviews/bryan-adams-hows-it-goin/",
+        "published": "2026-11-06T08:55:02+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Mark Lee",
     "title": "Happiest",
     "type": "single",
@@ -8560,30 +8584,6 @@
         "headline": "Slayyyter Goes Looking for Love in ‘Hey Boyyy’ Music Video",
         "link": "https://www.rollingstone.com/music/music-news/slayyyter-hey-boyyy-single-music-video-1235653808/",
         "published": "2026-11-06T07:39:25+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Bryan Adams",
-    "title": "How's It Goin'",
-    "type": "album",
-    "genre": "Rock / Alternative / Indie",
-    "release_date": null,
-    "date_source": "feeds",
-    "scores": [],
-    "sources": [
-      "Clash"
-    ],
-    "mentions": [
-      {
-        "source": "Clash",
-        "source_type": "news",
-        "weight": 1.0,
-        "mention": "review",
-        "score": null,
-        "headline": "Bryan Adams – How’s It Goin’",
-        "link": "https://www.clashmusic.com/reviews/bryan-adams-hows-it-goin/",
-        "published": "2026-11-06T08:55:02+00:00"
       }
     ]
   }
