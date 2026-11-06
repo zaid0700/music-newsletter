@@ -37,6 +37,7 @@ class Spotify:
         self.session = requests.Session()
         self.token = None
         self.user_id = None
+        self.waited = 0  # seconds spent waiting on Spotify rate limits this run
 
     @property
     def configured(self) -> bool:
@@ -63,18 +64,24 @@ class Spotify:
         self.token = resp.json()["access_token"]
         self.session.headers["Authorization"] = f"Bearer {self.token}"
         return True
-
     def get(self, path_or_url: str, **params) -> dict:
         url = path_or_url if path_or_url.startswith("http") else API + path_or_url
-        for attempt in range(4):
+        for attempt in range(3):
             resp = self.session.get(url, params=params or None, timeout=20)
-            if resp.status_code == 429:  # rate limited: wait as told, then retry
-                time.sleep(min(int(resp.headers.get("Retry-After", "2")), 30))
+            if resp.status_code == 429:  # rate limited
+                wait = int(resp.headers.get("Retry-After", "2") or 2)
+                self.waited += wait
+                if wait > 30 or self.waited > 90:
+                    # Spotify wants a long pause (e.g. daily quota used up): stop using
+                    # Spotify for the rest of this run instead of hanging.
+                    print(f"  Spotify rate limit (asked to wait {wait}s); skipping Spotify for this run")
+                    self.client_id = ""
+                    raise requests.RequestException("Spotify rate limited")
+                time.sleep(wait)
                 continue
             resp.raise_for_status()
             return resp.json()
-        resp.raise_for_status()
-        return {}
+        raise requests.RequestException("Spotify still rate limited after retries")
 
     # ------------------------------------------------------------------ taste
     def playlist_artists(self) -> dict[str, dict]:
