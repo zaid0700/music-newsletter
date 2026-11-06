@@ -253,7 +253,12 @@ def send(subject: str, html: str, text: str) -> None:
         smtp.login(sender, password)
         smtp.send_message(msg)
     print("Sent.")
-
+  
+def already_sent(week: dict) -> bool:
+    from rank import FEATURED
+    featured = json.loads(FEATURED.read_text()) if FEATURED.exists() else {}
+    return week["week_end"] in featured
+  
 def remember_featured(week: dict) -> None:
     """Record which releases this issue contained, so next week's issue can add
     last-Friday releases that were covered too late for this one (see rank.py)."""
@@ -284,6 +289,8 @@ def main() -> None:
 
     if args.no_send:
         print("Not sent (--no-send).")
+    elif already_sent(week) and os.environ.get("GITHUB_EVENT_NAME") == "schedule":
+        print(f"Not sent: the issue for the week ending {week['week_end']} was already emailed.")
     else:
         send(subject, html, text)
         remember_featured(week)
