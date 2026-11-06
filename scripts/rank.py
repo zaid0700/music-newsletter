@@ -44,7 +44,7 @@ FANS_FOR_FULL_STAR_POWER = 10_000_000
 DEEZER_REFRESH_DAYS = 30
 
 
-# --------------------------------------------------------------------------- 1a. week
+# --------------------------------------------------------------------------- 1. week
 
 def newsletter_week(week_ending: date | None = None) -> tuple[date, date]:
     """Return (Saturday, Friday) of the newsletter week in UAE time.
@@ -62,6 +62,7 @@ def newsletter_week(week_ending: date | None = None) -> tuple[date, date]:
 def uae_date(iso: str) -> date:
     return datetime.fromisoformat(iso).astimezone(UAE).date()
 
+
 LIVE = re.compile(r"\blive(\s+\S+){0,2}\s+(at|from)\b"          # Live at..., Live 25 at...
                   r"|(^|[:\-\u2013\u2014(\[])\s*live\s+(in|on)\b"   # Live in Paris, Album: Live in Tokyo
                   r"|\blive\s+'?\d{2,4}\b"                       # Live 2025, Live '99
@@ -72,16 +73,24 @@ LIVE = re.compile(r"\blive(\s+\S+){0,2}\s+(at|from)\b"          # Live at..., Li
 def is_live(rel: dict) -> bool:
     """Live albums are left out of the newsletter."""
     return bool(LIVE.search(rel["title"]))
-  
+
+
 def release_key(rel: dict) -> str:
     return f"{norm(main_artist(rel['artist']))}|{bare_title(rel['title'])}"
+
 
 def late_friday(rel: dict, start: date, featured: dict) -> bool:
     """Released on the previous Friday but covered after that issue went out
     (it's sent at 8:00 on Friday), so it wasn't in it. Include it this week."""
     prev_friday = (start - timedelta(days=1)).isoformat()
-    return rel["release_date"] == prev_friday and release_key(rel) not in set(featured.get(prev_friday, []))
-  
+    if rel["release_date"] != prev_friday or release_key(rel) in set(featured.get(prev_friday, [])):
+        return False
+    # Only if it was first covered after last week's issue (sent Saturday morning).
+    # Anything covered earlier was available to that issue, so it's not "missed".
+    first = min((uae_date(m["published"]) for m in rel["mentions"]), default=None)
+    return first is not None and first >= start
+
+
 def in_week(rel: dict, start: date, end: date) -> bool:
     if rel["release_date"]:
         return start <= date.fromisoformat(rel["release_date"]) <= end
@@ -160,7 +169,54 @@ def drop_album_singles(releases: list[dict]) -> list[dict]:
                 break
     TRACKLIST_CACHE.write_text(json.dumps(cache, indent=1, ensure_ascii=False))
     return [r for r in releases if r not in dropped]
-  
+
+
+# --------------------------------------------------------------------------- 1c. real release dates
+
+DATES_CACHE = ROOT / "data" / "release_dates.json"
+
+
+def deezer_release_date(rel: dict, session: requests.Session) -> str | None:
+    """The release's actual release date on Deezer (YYYY-MM-DD), or None."""
+    resp = session.get("https://api.deezer.com/search/album", timeout=20,
+                       params={"q": f'artist:"{main_artist(rel["artist"])}" album:"{rel["title"]}"',
+                               "limit": 10})
+    resp.raise_for_status()
+    for hit in resp.json().get("data", []):
+        if bare_title(hit.get("title", "")) == bare_title(rel["title"]) and \
+                same_artist(hit.get("artist", {}).get("name", ""), rel["artist"]):
+            album = session.get(f"https://api.deezer.com/album/{hit['id']}", timeout=20)
+            album.raise_for_status()
+            date_ = album.json().get("release_date", "")
+            return date_ if re.fullmatch(r"\d{4}-\d{2}-\d{2}", date_ or "") else None
+    return None
+
+
+def verify_release_dates(releases: list[dict]) -> None:
+    """Replace each release's date with Deezer's where Deezer has it. Dates guessed
+    from articles can be wrong (e.g. a review published days after release)."""
+    cache = json.loads(DATES_CACHE.read_text()) if DATES_CACHE.exists() else {}
+    session = requests.Session()
+    changed = 0
+    for rel in releases:
+        key = release_key(rel)
+        if key not in cache:
+            try:
+                cache[key] = deezer_release_date(rel, session)
+            except requests.RequestException as err:
+                print(f"  Deezer date lookup failed for {rel['artist']} - {rel['title']}: {err}")
+                continue
+            time.sleep(0.2)
+        real = cache[key]
+        if real and real != rel.get("release_date"):
+            print(f"  Date corrected: {rel['artist']} - {rel['title']}: "
+                  f"{rel.get('release_date') or 'unknown'} -> {real} (Deezer)")
+            rel["release_date"], rel["date_source"] = real, "deezer"
+            changed += 1
+    DATES_CACHE.write_text(json.dumps(cache, indent=1, ensure_ascii=False))
+    print(f"Dates: {changed} corrected from Deezer")
+
+
 # --------------------------------------------------------------------------- 2. stars
 
 def norm(text: str) -> str:
@@ -276,9 +332,12 @@ def main() -> None:
     # Never repeat a release that was in an earlier issue (re-running this
     # week's issue is fine: only OTHER weeks count)
     shown_before = {k for wk, keys in featured.items() if wk != end.isoformat() for k in keys}
+    def in_window(r):
+        return in_week(r, start, end) or late_friday(r, start, featured)
     candidates = [r for r in json.loads(RELEASES.read_text())
-                  if r["genre"] in genres and not is_live(r)
-                  and (in_week(r, start, end) or late_friday(r, start, featured))]
+                  if r["genre"] in genres and not is_live(r) and in_window(r)]
+    verify_release_dates(candidates)          # real dates from Deezer...
+    candidates = [r for r in candidates if in_window(r)]   # ...then check again
     releases = [r for r in candidates if release_key(r) not in shown_before]
     if len(releases) < len(candidates):
         print(f"Skipped {len(candidates) - len(releases)} release(s) already in an earlier issue")
