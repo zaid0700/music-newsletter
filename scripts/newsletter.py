@@ -275,6 +275,8 @@ def remember_featured(week: dict) -> None:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--no-send", action="store_true", help="save the HTML but don't email it")
+    parser.add_argument("--record-only", action="store_true",
+                        help="don't email; just record this week's releases as already sent")
     args = parser.parse_args()
 
     week = load_week()
@@ -287,7 +289,11 @@ def main() -> None:
     out.write_text(html)
     print(f"Subject: {subject}\nSaved: {out.relative_to(ROOT)}")
 
-    if args.no_send:
+    if args.record_only:
+        remember_featured(week)
+        print(f"Recorded {len(week['releases'])} releases for the week ending {week['week_end']} "
+              "as already sent (no email).")
+    elif args.no_send:
         print("Not sent (--no-send).")
     elif already_sent(week) and os.environ.get("GITHUB_EVENT_NAME") == "schedule":
         print(f"Not sent: the issue for the week ending {week['week_end']} was already emailed.")
