@@ -74,7 +74,7 @@ def is_live(rel: dict) -> bool:
     return bool(LIVE.search(rel["title"]))
   
 def release_key(rel: dict) -> str:
-    return f"{norm(main_artist(rel['artist']))}|{norm(rel['title'])}"
+    return f"{norm(main_artist(rel['artist']))}|{bare_title(rel['title'])}"
 
 def late_friday(rel: dict, start: date, featured: dict) -> bool:
     """Released on the previous Friday but covered after that issue went out
@@ -273,9 +273,15 @@ def main() -> None:
 
     start, end = newsletter_week(args.week_ending)
     featured = json.loads(FEATURED.read_text()) if FEATURED.exists() else {}
-    releases = [r for r in json.loads(RELEASES.read_text())
-                if r["genre"] in genres and not is_live(r)
-                and (in_week(r, start, end) or late_friday(r, start, featured))]
+    # Never repeat a release that was in an earlier issue (re-running this
+    # week's issue is fine: only OTHER weeks count)
+    shown_before = {k for wk, keys in featured.items() if wk != end.isoformat() for k in keys}
+    candidates = [r for r in json.loads(RELEASES.read_text())
+                  if r["genre"] in genres and not is_live(r)
+                  and (in_week(r, start, end) or late_friday(r, start, featured))]
+    releases = [r for r in candidates if release_key(r) not in shown_before]
+    if len(releases) < len(candidates):
+        print(f"Skipped {len(candidates) - len(releases)} release(s) already in an earlier issue")
     late = sum(1 for r in releases if late_friday(r, start, featured))
     print(f"Week: Sat {start} to Fri {end}: {len(releases)} releases in your genres"
           + (f" (incl. {late} from last Friday, covered after last issue)" if late else ""))
