@@ -3012,6 +3012,7 @@
     "sources": [
       "Consequence",
       "NME",
+      "The Needle Drop (YouTube)",
       "The Needle Drop (website)",
       "musicOMH"
     ],
@@ -3035,6 +3036,16 @@
         "headline": "Josh Homme on reworking Iggy Pop collab ‘Sunday’ for Queens Of The Stone Age’s ‘Perfecth’ – and if they’ll work together again",
         "link": "https://www.nme.com/news/music/josh-homme-reworking-iggy-pop-collab-sunday-queens-of-the-stone-age-perfecth-3974893?utm_source=rss&utm_medium=rss&utm_campaign=josh-homme-reworking-iggy-pop-collab-sunday-queens-of-the-stone-age-perfecth",
         "published": "2026-11-03T13:36:57+00:00"
+      },
+      {
+        "source": "The Needle Drop (YouTube)",
+        "source_type": "video",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Queens of the Stone Age - Perfecth ALBUM REVIEW",
+        "link": "https://www.youtube.com/watch?v=KouRFIOyqws",
+        "published": "2026-11-03T05:25:33+00:00"
       },
       {
         "source": "Consequence",
@@ -5818,6 +5829,54 @@
     ]
   },
   {
+    "artist": "Michael Kiwanuka",
+    "title": "FUDGE",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-23",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "The Needle Drop (YouTube)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (YouTube)",
+        "source_type": "video",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Michael Kiwanuka - FUDGE ALBUM REVIEW",
+        "link": "https://www.youtube.com/watch?v=CfeYy7IBx0Q",
+        "published": "2026-11-06T06:00:26+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "brakence",
+    "title": "marroW",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-23",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "The Needle Drop (YouTube)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (YouTube)",
+        "source_type": "video",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "brakence - marroW ALBUM REVIEW",
+        "link": "https://www.youtube.com/watch?v=IHAqnk-D6NY",
+        "published": "2026-11-05T05:02:17+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Jacquees & PlaqueBoyMax",
     "title": "Familiar",
     "type": "single",
@@ -6148,6 +6207,41 @@
         "headline": "Olivia Rodrigo and Chappell Roan Drop “Expectations” Music Video, featuring David Byrne",
         "link": "https://www.slantmagazine.com/music/olivia-rodrigo-chappell-roan-expectations-remix-music-video-david-byrne/",
         "published": "2026-10-16T00:17:43+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Rachel Chinouriri",
+    "title": "I Think I Spoke Too Soon",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": "2026-10-16",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "The Needle Drop (YouTube)",
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (YouTube)",
+        "source_type": "video",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Rachel Chinouriri - I think I spoke too soon ALBUM REVIEW",
+        "link": "https://www.youtube.com/watch?v=GNr-xuIL6m8",
+        "published": "2026-11-02T03:43:57+00:00"
+      },
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Rachel Chinouriri – I Think I Spoke Too Soon",
+        "link": "https://www.musicomh.com/reviews/albums/rachel-chinouriri-i-think-i-spoke-too-soon",
+        "published": "2026-10-16T15:26:54+00:00"
       }
     ]
   },
@@ -6597,6 +6691,54 @@
     ]
   },
   {
+    "artist": "PISS",
+    "title": "you made me / skin on linen",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [
+      9
+    ],
+    "sources": [
+      "The Needle Drop (YouTube)",
+      "The Needle Drop (website)",
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": 9,
+        "headline": "PISS - you made me / skin on linen",
+        "link": "https://theneedledrop.com/album-reviews/piss-you-made-me-skin-on-linen-album-review-naxdhd-r3yq/",
+        "published": "2026-11-05T15:13:57+00:00"
+      },
+      {
+        "source": "The Needle Drop (YouTube)",
+        "source_type": "video",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "PISS - you made me / skin on linen ALBUM REVIEW",
+        "link": "https://www.youtube.com/watch?v=nAxDHd-r3YQ",
+        "published": "2026-11-04T04:01:54+00:00"
+      },
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "PISS – You Made Me/Skin On Linen",
+        "link": "https://www.musicomh.com/reviews/albums/piss-you-made-me-skin-on-linen",
+        "published": "2026-10-30T07:31:20+00:00"
+      }
+    ]
+  },
+  {
     "artist": "The Avalanches",
     "title": "No Bad Memories",
     "type": "album",
@@ -6768,43 +6910,6 @@
         "headline": "Diana Silvers Announces Sophomore Album ‘Daughter of Sorts’",
         "link": "https://www.udiscovermusic.com/news/diana-silvers-daughter-of-sorts/",
         "published": "2026-10-23T14:49:58+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "PISS",
-    "title": "You Made Me/Skin On Linen",
-    "type": "album",
-    "genre": "Rock / Alternative / Indie",
-    "release_date": null,
-    "date_source": "feeds",
-    "scores": [
-      9
-    ],
-    "sources": [
-      "The Needle Drop (website)",
-      "musicOMH"
-    ],
-    "mentions": [
-      {
-        "source": "The Needle Drop (website)",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "review",
-        "score": 9,
-        "headline": "PISS - you made me / skin on linen",
-        "link": "https://theneedledrop.com/album-reviews/piss-you-made-me-skin-on-linen-album-review-naxdhd-r3yq/",
-        "published": "2026-11-05T15:13:57+00:00"
-      },
-      {
-        "source": "musicOMH",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "review",
-        "score": null,
-        "headline": "PISS – You Made Me/Skin On Linen",
-        "link": "https://www.musicomh.com/reviews/albums/piss-you-made-me-skin-on-linen",
-        "published": "2026-10-30T07:31:20+00:00"
       }
     ]
   },
@@ -7669,30 +7774,6 @@
         "headline": "Richard Thompson – Hippies, Thugs And Heroes",
         "link": "https://www.musicomh.com/reviews/albums/richard-thompson-hippies-thugs-and-heroes",
         "published": "2026-10-20T08:31:51+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Rachel Chinouriri",
-    "title": "I Think I Spoke Too Soon",
-    "type": "album",
-    "genre": "Pop",
-    "release_date": null,
-    "date_source": "feeds",
-    "scores": [],
-    "sources": [
-      "musicOMH"
-    ],
-    "mentions": [
-      {
-        "source": "musicOMH",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "review",
-        "score": null,
-        "headline": "Rachel Chinouriri – I Think I Spoke Too Soon",
-        "link": "https://www.musicomh.com/reviews/albums/rachel-chinouriri-i-think-i-spoke-too-soon",
-        "published": "2026-10-16T15:26:54+00:00"
       }
     ]
   },
