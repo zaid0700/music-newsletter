@@ -82,7 +82,8 @@ def load_week() -> dict:
     # Every release appears once, with a stable key, even if it's in the top list
     # and its genre list.
     releases = {}
-    for rel in week["top"] + [r for rels in week["by_genre"].values() for r in rels]:
+    for rel in (week["top"] + week.get("discover", [])
+                + [r for rels in week["by_genre"].values() for r in rels]):
         key = f"{rel['artist']} | {rel['title']}"
         if key in releases:
             continue
@@ -210,6 +211,7 @@ def build(week: dict, copy: dict) -> tuple[str, str, str]:
         for g, rels in week["by_genre"].items()
     }
     in_top = {g: sum(1 for r in top if r["genre"] == g) for g in week["by_genre"]}
+    discover = [releases[f"{r['artist']} | {r['title']}"] for r in week.get("discover", [])]
 
     # The issue is dated by the Friday it goes out.
     issue = issue_date(week)
@@ -225,7 +227,7 @@ def build(week: dict, copy: dict) -> tuple[str, str, str]:
                                    f"{date.fromisoformat(d):%b}" if d else ""
     env.filters["kind"] = lambda t: {"ep": "EP", "lp": "LP"}.get(t, (t or "").capitalize())
     context = dict(issue_title=issue_title, dates=dates, intro=copy["intro"], top=top,
-                   genres=genres, in_top=in_top, empty=not releases,
+                   discover=discover, genres=genres, in_top=in_top, empty=not releases,
                    personal=any(r.get("personal_reason") for r in releases.values()))
     html = env.get_template("newsletter.html").render(**context)
     text = env.get_template("newsletter.txt").render(**context)
@@ -253,12 +255,14 @@ def send(subject: str, html: str, text: str) -> None:
         smtp.login(sender, password)
         smtp.send_message(msg)
     print("Sent.")
-  
+
+
 def already_sent(week: dict) -> bool:
     from rank import FEATURED
     featured = json.loads(FEATURED.read_text()) if FEATURED.exists() else {}
     return week["week_end"] in featured
-  
+
+
 def remember_featured(week: dict) -> None:
     """Record which releases this issue contained, so next week's issue can add
     last-Friday releases that were covered too late for this one (see rank.py)."""

@@ -312,6 +312,22 @@ def add_scores(releases: list[dict], cfg: dict, source_weights: dict,
         rel["avg_score"] = round(sum(rel["scores"]) / len(rel["scores"]), 1) if rel["scores"] else None
 
 
+# --------------------------------------------------------------------------- 5. discover
+
+def pick_discoveries(releases: list[dict], cfg: dict) -> list[dict]:
+    """Releases by artists you've NEVER played but who are similar to ones you do,
+    favouring smaller / underground artists. Needs Last.fm (for similar artists)."""
+    max_fans = cfg.get("max_artist_fans", 500_000)
+    picks = [r for r in releases
+             if r.get("personal_reason", "").startswith("Similar to")   # new to you
+             and r.get("fans", 0) <= max_fans]                          # not a big name
+    for r in picks:
+        niche = 1 - r.get("star_power", 0)          # 1.0 = tiny artist, 0 = huge
+        r["discover_score"] = round(r["personal"] * (0.6 + 0.4 * niche), 3)
+    picks.sort(key=lambda r: r["discover_score"], reverse=True)
+    return picks[:cfg.get("count", 5)]
+
+
 # --------------------------------------------------------------------------- main
 
 def main() -> None:
@@ -352,12 +368,16 @@ def main() -> None:
     add_scores(releases, cfg, source_weights, use_personal)
     releases.sort(key=lambda r: r["rank_score"], reverse=True)
 
+    top = releases[:cfg["top_overall"]]
+    discover = pick_discoveries(releases[cfg["top_overall"]:], cfg.get("discover", {}))
+    rest = [r for r in releases if r not in discover]   # each release appears once
     result = {
         "week_start": start.isoformat(),
         "week_end": end.isoformat(),
         "generated": datetime.now(timezone.utc).isoformat(),
-        "top": releases[:cfg["top_overall"]],
-        "by_genre": {g: [r for r in releases if r["genre"] == g][:cfg["per_genre"]]
+        "top": top,
+        "discover": discover,
+        "by_genre": {g: [r for r in rest if r["genre"] == g][:cfg["per_genre"]]
                      for g in genres},
     }
     RANKED.write_text(json.dumps(result, indent=2, ensure_ascii=False))
@@ -369,6 +389,10 @@ def main() -> None:
               f"{r['popularity']:>5.2f}  {len(r['publications']):>4}  "
               f"{r['artist']} - {r['title']} ({r['type']}, {r['genre']})"
               + (f"  [{r['personal_reason']}]" if r["personal_reason"] else ""))
+    print(f"\nDiscover: {len(result['discover'])}")
+    for r in result["discover"]:
+        print(f"    {r['discover_score']:.2f}  {r['artist']} - {r['title']} ({r['type']})  "
+              f"[{r['personal_reason']}; {r.get('fans', 0):,} Deezer fans]")
     for g, rels in result["by_genre"].items():
         print(f"\n{g}: {len(rels)}")
         for r in rels:
