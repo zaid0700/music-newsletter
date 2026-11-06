@@ -34,11 +34,10 @@
     </tr>
   </table>
   {% if r.blurb %}
-    <div style="font:700 46px/0.95 Georgia,'Times New Roman',serif;color:#1d1b18;letter-spacing:-1px;padding-top:10px;">NEW MUSIC<span style="color:#b4441c;">.</span></div>
-    <div style="font:13px/1.4 Helvetica,Arial,sans-serif;color:#6b655c;padding-top:10px;">{{ issue_title }}{% if n_releases %} &nbsp;&middot;&nbsp; {{ n_releases }} releases{% endif %}{% if n_known %} &nbsp;&middot;&nbsp; {{ n_known }} from artists you play{% endif %}</div>
+  <div style="font:15px/1.55 Georgia,'Times New Roman',serif;color:#1d1b18;padding:10px 0 0 {{ 30 if n else 0 }}px;">{{ r.blurb }}</div>
   {% endif %}
   <div style="font:13px/1.8 Helvetica,Arial,sans-serif;padding:6px 0 0 {{ 30 if n else 0 }}px;">
-    {% if r.spotify %}<a href="{{ r.spotify }}" style="display:inline-block;background:#1db954;color:#06210f;font:700 12px/1 Helvetica,Arial,sans-serif;text-decoration:none;padding:6px 12px;border-radius:14px;white-space:nowrap;margin-right:8px;">&#9654;&nbsp; Play on Spotify</a>{% endif %}
+    {% if r.spotify %}<a href="{{ r.spotify }}" style="display:inline-block;background:#1db954;color:#06210f;font:700 12px/1 Helvetica,Arial,sans-serif;text-decoration:none;padding:6px 12px;border-radius:14px;white-space:nowrap;margin-right:8px;">&#9654;&nbsp; Play on Spotify</a>{% endif %}{% for l in r.links %}<a href="{{ l.url }}" style="color:#b4441c;text-decoration:underline;white-space:nowrap;">{{ l.label }}{% if l.kind %} {{ l.kind }}{% endif %}</a>{% if not loop.last %}<span style="color:#b9b2a7;"> &nbsp;|&nbsp; </span>{% endif %}{% endfor %}
   </div>
 </td></tr>
 {% endmacro %}
@@ -57,7 +56,8 @@
 
     <tr><td style="padding:28px 24px 18px 24px;border-bottom:3px solid #1d1b18;">
       <div style="font:700 11px/1 Helvetica,Arial,sans-serif;letter-spacing:2px;color:#b4441c;text-transform:uppercase;">Weekly Releases</div>
-      <div style="font:700 28px/1.15 Georgia,'Times New Roman',serif;color:#1d1b18;padding-top:8px;">{{ issue_title }}</div>
+      <div style="font:700 46px/0.95 Georgia,'Times New Roman',serif;color:#1d1b18;letter-spacing:-1px;padding-top:10px;">NEW MUSIC<span style="color:#b4441c;">.</span></div>
+      <div style="font:13px/1.4 Helvetica,Arial,sans-serif;color:#6b655c;padding-top:10px;">{{ issue_title }}{% if n_releases %} &nbsp;&middot;&nbsp; {{ n_releases }} releases{% endif %}{% if n_known %} &nbsp;&middot;&nbsp; {{ n_known }} from artists you play{% endif %}</div>
       {% if intro %}
       <div style="font:16px/1.55 Georgia,'Times New Roman',serif;color:#1d1b18;padding-top:12px;">{{ intro }}</div>
       {% endif %}
