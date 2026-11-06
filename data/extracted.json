@@ -689,17 +689,6 @@
    "score": null
   }
  ],
- "3be08d5132ca3ecf": [
-  {
-   "artist": "Drake",
-   "title": "Solar Eclipse",
-   "type": "single",
-   "genre": "Hip-hop / R&B",
-   "release_date": "2026-10-02",
-   "mention": "review",
-   "score": null
-  }
- ],
  "3a2b667903282c62": [
   {
    "artist": "DIIV",
@@ -1721,18 +1710,6 @@
    "score": null
   }
  ],
- "5fd36166931b4624": [
-  {
-   "artist": "Cameron Winter",
-   "title": "Live at Carnegie Hall",
-   "type": "album",
-   "genre": "Rock / Alternative / Indie",
-   "release_date": null,
-   "mention": "review",
-   "score": null
-  }
- ],
- "a1224a3c824ee532": [],
  "260aeebcc1fac230": [],
  "7805b82db62a5435": [],
  "7aa86fb03f2d6f26": [
@@ -2861,5 +2838,1793 @@
  ],
  "1c2802d6caecbfbd": [],
  "f34e89348ec1a736": [],
- "4286bb1044988d77": []
+ "4286bb1044988d77": [],
+ "6f7598a30e4eb0b6": [
+  {
+   "artist": "HYUKOH",
+   "title": "33",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "5428bc13de3f9a7f": [],
+ "aa29473cd07f2866": [],
+ "0794a340418715c8": [],
+ "870070ac1da57506": [],
+ "3a2786708f0f20da": [],
+ "f3876ffe1dee15a4": [
+  {
+   "artist": "Olivia Rodrigo",
+   "title": "Take Me Home (4 Christmas)",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "cf33ba9110bffe01": [],
+ "a54b75125319c11f": [],
+ "094b90c8eec82719": [
+  {
+   "artist": "Olivia Rodrigo",
+   "title": "Take Me Home (4 Christmas)",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "7e1fc7bf23025b7b": [
+  {
+   "artist": "Olivia Rodrigo",
+   "title": "Take Me Home (4 Christmas)",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-06",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "8e0ad3609c6bfa57": [
+  {
+   "artist": "Olivia Rodrigo",
+   "title": "Take Me Home (4 Christmas)",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "a271c97710805deb": [],
+ "b8c68042ce78ce27": [
+  {
+   "artist": "Olivia Rodrigo",
+   "title": "Take Me Home (4 Christmas)",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "1a5568ebabda4a1d": [],
+ "2d54dd26a789f92e": [],
+ "0bf7a77df0cfd41c": [],
+ "61ebfa0a565c44de": [],
+ "2ca0dbc8162c7057": [],
+ "083334ea8e2df878": [],
+ "a6c74d52a44a1b3e": [],
+ "9c0083aad5d6000e": [],
+ "98200d024de4d23a": [],
+ "7d873c7f0e226de8": [],
+ "0a589e102253867e": [],
+ "2f67fe398307b462": [],
+ "c2c2b8e0b4a16253": [],
+ "134baa571ca44f92": [],
+ "b07008fdc0ed5697": [
+  {
+   "artist": "Soup Activists",
+   "title": "The Castle",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-05",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "00188aab4c038cb3": [
+  {
+   "artist": "Zelooperz",
+   "title": "Masons Dispatch",
+   "type": "single",
+   "genre": "Hip-hop / R&B",
+   "release_date": "2026-11-05",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "7f5607997f5d5075": [],
+ "6fea6838f496a775": [],
+ "90f793787074e0c9": [
+  {
+   "artist": "Toro y Moi",
+   "title": "Unusua",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "9edfdeffa50da612": [
+  {
+   "artist": "Eev Frances",
+   "title": "Shake",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-05",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "04394920af507b8b": [
+  {
+   "artist": "Jess Kerber & Emily Hines",
+   "title": "The World Is Dark, But I Want It To Be Funny",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-05",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "0882483daec84419": [],
+ "cf26eeea1cd5f11a": [],
+ "fe5e2bfd611ffc5e": [
+  {
+   "artist": "GloRilla & Sexyy Red",
+   "title": "Jiggly Bow Bow",
+   "type": "single",
+   "genre": "Hip-hop / R&B",
+   "release_date": "2026-11-05",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "2ba4c64ca56a4634": [
+  {
+   "artist": "1tbsp",
+   "title": "big soaps",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "1tbsp",
+   "title": "Carottes",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-05",
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "fc105edcaa3ed8fa": [
+  {
+   "artist": "Brandy Clark",
+   "title": "American Roots",
+   "type": "single",
+   "genre": "Other",
+   "release_date": null,
+   "mention": "list",
+   "score": null
+  }
+ ],
+ "2ad2ac587425d3cb": [],
+ "b7262856abd4c4b9": [],
+ "155b026e258af3e3": [],
+ "662aaa76cc0c6b59": [],
+ "9fba98df288c2c53": [
+  {
+   "artist": "Spencer Peppet",
+   "title": "Power",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-05",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "bf2649ecfe6712c8": [],
+ "036512034c6afad2": [
+  {
+   "artist": "Death Angel",
+   "title": "The Never Was",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-05",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "6397aef98bad17e9": [],
+ "abf7da08bb399b6f": [],
+ "8a3e1ced06bacfd5": [],
+ "fbf7aaefe7d8d68a": [],
+ "e5f2a4f5c0945b70": [
+  {
+   "artist": "Toro y Moi",
+   "title": "Unusua",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Toro y Moi",
+   "title": "Motive",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-05",
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "02a39e3ebd614149": [],
+ "0d2811ee070ab5de": [
+  {
+   "artist": "Tim Reaper",
+   "title": "World's End",
+   "type": "album",
+   "genre": "Electronic / Dance",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "a5cfb2c535b45df7": [],
+ "add3070e822624bb": [],
+ "43e1bc3677d6368c": [],
+ "8201e1ac95300cf4": [],
+ "068a45aed04bb028": [],
+ "579cfa763d57bf1d": [
+  {
+   "artist": "Elton John & CMAT",
+   "title": "Step Into Christmas",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-05",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "2f49a9829f960bfa": [
+  {
+   "artist": "Cage The Elephant",
+   "title": "Dying In Reverse",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Cage The Elephant",
+   "title": "Make It Easy",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-05",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "7da096cebe82441f": [],
+ "0c26a8a7ad5de4a9": [],
+ "9db12b063135526e": [
+  {
+   "artist": "Kings Of Leon",
+   "title": "O My Beloved",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "af55189b751e399e": [],
+ "e23c508ee4809d44": [],
+ "bd0f96469234eaa9": [],
+ "df70cfa9be83bb6a": [
+  {
+   "artist": "Liquid Mike",
+   "title": "Inanimate Object",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-05",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "2520b94f449872d7": [],
+ "00012dabb2991a9e": [],
+ "c8bab8784d6c3fcf": [
+  {
+   "artist": "Star's Revenge",
+   "title": "Star's Revenge II",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Star's Revenge",
+   "title": "Don't Worry Dynamite",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-05",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "d62ce538ba4ce76c": [
+  {
+   "artist": "Shygirl",
+   "title": "Swallow!",
+   "type": "album",
+   "genre": "Electronic / Dance",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "c6b62c26bab7b1a8": [],
+ "9d37f57b9f5becbe": [],
+ "e0c2f3db06bb9ad9": [
+  {
+   "artist": "Cage the Elephant",
+   "title": "Dying in Reverse",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2027-02-05",
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Cage the Elephant",
+   "title": "Make It Easy",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-05",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "6862d963064c38f6": [],
+ "020463ae4e07bf7e": [],
+ "8caa58dd2f7a23c6": [
+  {
+   "artist": "Star's Revenge",
+   "title": "Star's Revenge II",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "01a4ebd0aaf85a0a": [],
+ "453add4a67ca796e": [
+  {
+   "artist": "PISS",
+   "title": "you made me / skin on linen",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "review",
+   "score": 9
+  }
+ ],
+ "2c2a089adf68df3a": [],
+ "f5983eab995c4889": [],
+ "fb1c4a3aea11ef07": [],
+ "1a3528a31764b306": [],
+ "92fd9cb95a434467": [],
+ "6d8c951f70d68313": [],
+ "0dcaff4713b2629f": [],
+ "38eb706a50c7fee5": [],
+ "e58f05e09f6470ba": [],
+ "9c48a805873049bb": [
+  {
+   "artist": "Star's Revenge",
+   "title": "Star's Revenge II",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-27",
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Star's Revenge",
+   "title": "Don't Worry Dynamite",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-05",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "dbd16adf5da9fc4c": [],
+ "176a8e365b7999fb": [
+  {
+   "artist": "Shout Out Louds",
+   "title": "Closer",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-05",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "4041f45c4b9fe8f9": [
+  {
+   "artist": "Liquid Mike",
+   "title": "Inanimate Object",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-05",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "0ce2f2d75749b8e2": [],
+ "b38de3c757bd524d": [
+  {
+   "artist": "The Golden Dregs",
+   "title": "UK Gothic",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "6fae597ecaa48271": [],
+ "cdac9f2b04866565": [
+  {
+   "artist": "Allysha Joy",
+   "title": "Actions Of Love",
+   "type": "album",
+   "genre": "Other",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "fad45d896fecbf13": [
+  {
+   "artist": "Silver Gore",
+   "title": "Just Like That",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-05",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "b4b80aa61d36af62": [
+  {
+   "artist": "The Holy Cross Tigers",
+   "title": "The Holy Cross Tigers",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "866d43c08e4176a5": [],
+ "a47102cc404da500": [],
+ "f727acc84b6dda40": [],
+ "8f79360cd7c083fc": [],
+ "d93e11d6758a0216": [],
+ "49d7c8b8994ec1dc": [],
+ "db3d860aa8ea6569": [],
+ "ce8c1b3f83ce204e": [],
+ "d374e5dc2ec0739b": [],
+ "1c11b65060c6be95": [],
+ "3b8ce6af24fcebe1": [],
+ "dca3458be5af74eb": [],
+ "d051f41c5c26eb48": [],
+ "2b1be787aeb0cf1b": [],
+ "72f2f37be3863955": [],
+ "69f233f1f8c795a7": [],
+ "a30b443e4c2ef35a": [],
+ "885802029e16d590": [],
+ "3fc8bfbfbbf386ec": [],
+ "e457df6747739d9f": [],
+ "703d690e38a942e0": [],
+ "5f6060f9bb81d0e4": [
+  {
+   "artist": "Sam And Louise Sullivan",
+   "title": "Trying Your Luck (4-track)",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-04",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "d3cd12fad6a5e560": [],
+ "76f3e7f477b99f84": [],
+ "8cdc6f0c403ef573": [
+  {
+   "artist": "GIFT",
+   "title": "Every Step",
+   "type": "single",
+   "genre": "Other",
+   "release_date": "2026-11-04",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "6b89154ab81e6584": [
+  {
+   "artist": "Wild Horses",
+   "title": "The In Between",
+   "type": "album",
+   "genre": "Other",
+   "release_date": null,
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "f3b5db9799e3f5cf": [],
+ "90f09dd8cd382176": [],
+ "4a92661a3ae95bff": [],
+ "01861f1b8c83da3c": [],
+ "5d7684462c5c490e": [
+  {
+   "artist": "Christine And The Queens",
+   "title": "Rendez-vous Avec Toi",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-04",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "bb27fce65461fa10": [],
+ "f8c70a53ec003654": [
+  {
+   "artist": "Everything Everything",
+   "title": "Poison Pop",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "ed35e9b1df910b88": [],
+ "9083adfcd09fcdbb": [],
+ "e2f204af43c90fb7": [
+  {
+   "artist": "Carlos Santana & Natalia Lafourcade",
+   "title": "Hermano",
+   "type": "single",
+   "genre": "Other",
+   "release_date": null,
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "393fa9a32f52fb76": [],
+ "f1d7caa50f9cdd56": [
+  {
+   "artist": "The Chats",
+   "title": "Half Cut",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "e9e3eff768355ccd": [],
+ "1a0f9475802a7012": [],
+ "0ecfef3258d3a695": [],
+ "d34c962176e06dd3": [],
+ "118a4cb24b920ab3": [],
+ "2fe9f2ca091ec81f": [],
+ "d598f67742579a04": [
+  {
+   "artist": "Love Remain",
+   "title": "Shadow Swim",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-04",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "75314d8e0509b512": [
+  {
+   "artist": "Twisted Teens",
+   "title": "The Holy Cross Tigers",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "3e820e87766a651d": [],
+ "3da3cc74516c6134": [
+  {
+   "artist": "Kiwi Jr.",
+   "title": "Something Wicked",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-04",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "b8142b004f37706c": [
+  {
+   "artist": "Christine and the Queens",
+   "title": "Rendez-vous Avec Toi",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-04",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "0c05716b1bdf5f69": [
+  {
+   "artist": "Quivers",
+   "title": "Bottle The Nervous",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-04",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "19569f971899c4d8": [],
+ "53b453dcf3f75a11": [
+  {
+   "artist": "Alanis Morissette",
+   "title": "Good Weather for Immaculate Conception",
+   "type": "album",
+   "genre": "Pop",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "8ef3be91ca40cd08": [],
+ "94071e5e1909c0e9": [],
+ "8c032ff11571836a": [
+  {
+   "artist": "Crate",
+   "title": "Crushed To Nothing",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-04",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "5f18fd8a59afd5e5": [],
+ "16babf40e197d53e": [],
+ "3a6b6ebb0993958f": [
+  {
+   "artist": "Hannah Jadagu",
+   "title": "Curse",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-04",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "5afc3573b9018854": [
+  {
+   "artist": "Blue Bendy",
+   "title": "Vocal Fry Academia",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-04",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "f6f40e196309dac5": [],
+ "b1e3eb1cdc418475": [
+  {
+   "artist": "Cult of Luna",
+   "title": "In the Shadow of Your Shadow",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-06",
+   "mention": "release_news",
+   "score": null
+  },
+  {
+   "artist": "Cult of Luna",
+   "title": "Sadness Will Reign",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-04",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "708e95dc40eba4e1": [],
+ "fcc41a5fe122d6bf": [
+  {
+   "artist": "Font",
+   "title": "Cling",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-04",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "9544225b066ff167": [],
+ "2426559cd063d01a": [
+  {
+   "artist": "Mamalarky",
+   "title": "Hover",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Mamalarky",
+   "title": "Sad Songs",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-04",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "7b947ae75eb158b9": [
+  {
+   "artist": "Christine & The Queens",
+   "title": "Rendez-vous avec toi",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-04",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "23ab054daffb6584": [
+  {
+   "artist": "Christine and the Queens",
+   "title": "Rendez-vous avec toi",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-04",
+   "mention": "new_song",
+   "score": null
+  },
+  {
+   "artist": "Christine and the Queens",
+   "title": "Rendez-vous in your arms",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-04",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "2372deed35795e3b": [
+  {
+   "artist": "Volcano",
+   "title": "Lay Low",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-04",
+   "mention": "new_song",
+   "score": null
+  },
+  {
+   "artist": "Volcano",
+   "title": "Salt",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-04",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "ea7d483f40c3963d": [],
+ "55e125e9eaca230f": [
+  {
+   "artist": "lots of hands",
+   "title": "anything for now",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-04",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "de8aa90051cce58c": [
+  {
+   "artist": "Bricknasty",
+   "title": "forever",
+   "type": "ep",
+   "genre": "Other",
+   "release_date": "2026-11-04",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "fcee63f8e7f9d1e0": [
+  {
+   "artist": "The Big Moon",
+   "title": "Forever",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "91b4290416c9aad9": [
+  {
+   "artist": "Shygirl",
+   "title": "Eternal",
+   "type": "single",
+   "genre": "Electronic / Dance",
+   "release_date": "2026-11-04",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "8f8f6619865e254f": [],
+ "d06cedeca19f1e1c": [],
+ "36c21a739f356c62": [],
+ "aea800feea5e082a": [
+  {
+   "artist": "Liars",
+   "title": "Beat Creep Some Eyes",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-04",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "e3e636df0ff3b708": [],
+ "c2674b2f6ebd22e2": [],
+ "86f3a69da933893a": [],
+ "2508a6f117e13f3e": [
+  {
+   "artist": "The Gnomes",
+   "title": "With A Gnome",
+   "type": "ep",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-04",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "2195fafd2b90bd32": [
+  {
+   "artist": "Do Nothing",
+   "title": "Friend World",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "1a6ee80b4153ea6d": [
+  {
+   "artist": "DIIV",
+   "title": "ZIRP!",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-06",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "80b7e289e4054755": [
+  {
+   "artist": "Blu DeTiger",
+   "title": "N.Y. Baby",
+   "type": "album",
+   "genre": "Electronic / Dance",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "c89edb3ea923fe80": [
+  {
+   "artist": "Queens of the Stone Age",
+   "title": "Perfecth",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "review",
+   "score": 3
+  }
+ ],
+ "6ea2e1131e8a09ad": [
+  {
+   "artist": "Internet Cafe",
+   "title": "Trapdoor",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-04",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "2b1a01bf4eea09e5": [
+  {
+   "artist": "Shygirl",
+   "title": "Eternal",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-04",
+   "mention": "new_song",
+   "score": null
+  },
+  {
+   "artist": "Shygirl",
+   "title": "Swallow!",
+   "type": "album",
+   "genre": "Pop",
+   "release_date": "2026-11-06",
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "ead5503d79384b32": [],
+ "d8e2e92521344ad3": [],
+ "629f19aca32236c9": [],
+ "5fee2a9e64027850": [],
+ "afb43fbb17fbcc59": [
+  {
+   "artist": "Felicia Chen",
+   "title": "What to Make of These Mortal Hands",
+   "type": "album",
+   "genre": "Other",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "04c0c39d9689b0d7": [],
+ "ec700fe072747bc7": [],
+ "decf6aa43804b441": [
+  {
+   "artist": "JISOO",
+   "title": "Sun Showers",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "aeab454b43eaf03b": [],
+ "9c6516c064598dfb": [
+  {
+   "artist": "C. Tangana",
+   "title": "Milko Freestyle",
+   "type": "single",
+   "genre": "Hip-hop / R&B",
+   "release_date": "2026-11-03",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "ff401926ce1b23e6": [],
+ "2c695299800a31f3": [],
+ "b9668694ea3d6385": [],
+ "7cef65d264ea3810": [],
+ "e622b224ff4f43bf": [],
+ "f3c2ebd64f722a5b": [
+  {
+   "artist": "C. Tangana",
+   "title": "Milko Freestyle",
+   "type": "single",
+   "genre": "Hip-hop / R&B",
+   "release_date": "2026-11-03",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "c35c5e7feb1f1987": [],
+ "bfd02afe734c20ef": [],
+ "ea47330a921b6546": [],
+ "da03db0bc3393919": [],
+ "d963d528d02e6588": [],
+ "0606468e3ca01eb0": [],
+ "61f4bc790bd1fc01": [],
+ "cb7104400d88cbd7": [],
+ "6cf0de435e2adf17": [],
+ "3ace3f96c56c5a01": [],
+ "da35c434a1e5617c": [],
+ "3006eae0606098d7": [
+  {
+   "artist": "Dominic Fike",
+   "title": "How to Quit Smoking",
+   "type": "album",
+   "genre": "Pop",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "a3f6a71c22e26978": [],
+ "947fa6b5e2fb0388": [
+  {
+   "artist": "Ecco2k",
+   "title": "Sky Burial",
+   "type": "single",
+   "genre": "Electronic / Dance",
+   "release_date": "2026-11-03",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "53ad21346764882a": [],
+ "b16d069bbd65235b": [],
+ "5a79eb8d721ea793": [
+  {
+   "artist": "Belly Gang Kushington",
+   "title": "GOOD DOPE SELL ITSELF",
+   "type": "album",
+   "genre": "Hip-hop / R&B",
+   "release_date": "2026-11-13",
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "5374860229c04746": [],
+ "88014358cc2c0a2e": [],
+ "5d729ef506ca1f39": [],
+ "746e8d64d9307945": [],
+ "d299eb7bfddb5d7a": [],
+ "62abfb405d76b8d2": [],
+ "cadf3e06f982ce9d": [],
+ "a36eb5e9d1ff0b9a": [],
+ "b5e073972f5d5e97": [],
+ "d46cb35e950a8f4b": [
+  {
+   "artist": "Dutch Uncles",
+   "title": "Polygon Hotel",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Dutch Uncles",
+   "title": "No Note",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-03",
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "e64327fdce4c88b3": [
+  {
+   "artist": "Dutch Uncles",
+   "title": "Polygon Hotel",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2027-02-19",
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "6f3776dc4dfa1a1f": [
+  {
+   "artist": "Willi Carlisle",
+   "title": "The Universal Bubba",
+   "type": "album",
+   "genre": "Other",
+   "release_date": "2026-11-06",
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "0a4c10be1ab23f86": [
+  {
+   "artist": "Anna McClellan & Gloorp",
+   "title": "Anywhere",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-03",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "fdf01527b9ec60ce": [
+  {
+   "artist": "Kora Puckett",
+   "title": "In My Veins",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-03",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "67ed482063f86533": [],
+ "ac80632ac905f8af": [],
+ "b7fe0ec4bc7b2c78": [],
+ "f834c1adf2aa30df": [],
+ "caeaa607997758fc": [],
+ "05ed0f2db5a1d910": [
+  {
+   "artist": "Various Artists",
+   "title": "The Hunger Games: Sunrise On The Reaping (The Album)",
+   "type": "album",
+   "genre": "Pop",
+   "release_date": null,
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "501473f2825da813": [
+  {
+   "artist": "1000 Rabbits",
+   "title": "Stupid Boy",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-03",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "7689db98dc8016c1": [],
+ "b7edc099fed7bfbb": [],
+ "3882db7a096af931": [
+  {
+   "artist": "Dog Eyes",
+   "title": "sink",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-03",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "7c4effd9bd8749a9": [
+  {
+   "artist": "Charlotte Adigéry & Bolis Pupul",
+   "title": "Mainland Madinina",
+   "type": "album",
+   "genre": "Pop",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Charlotte Adigéry & Bolis Pupul",
+   "title": "From Healer To Dealer",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-03",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "5cf2742e0c6bfcc6": [],
+ "867cf2ea50074133": [
+  {
+   "artist": "Charlotte Adigéry & Bolis Pupul",
+   "title": "Mainland Mandinina",
+   "type": "album",
+   "genre": "Pop",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Charlotte Adigéry & Bolis Pupul",
+   "title": "From Healer to Dealer",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-03",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "83031e31de544730": [
+  {
+   "artist": "Saya Gray",
+   "title": "QWERTY III",
+   "type": "ep",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-03",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "efb0e8b287a8a992": [],
+ "b378be894c7f3f6d": [
+  {
+   "artist": "Purple Pilgrims",
+   "title": "Look To The Moon",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-03",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "b9b4c3864349ef0c": [],
+ "6987348799d418ef": [],
+ "eb5a63aed254b9c4": [],
+ "2ff8e9225ed5de7f": [],
+ "46d869af58f25e29": [],
+ "d6be7099fc2e482b": [],
+ "0017f642bbd606ff": [
+  {
+   "artist": "Charlotte Adigéry & Bolis Pupul",
+   "title": "Mainland Madinina",
+   "type": "album",
+   "genre": "Pop",
+   "release_date": "2027-02-05",
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "ca9331f0418dfcd4": [
+  {
+   "artist": "Saya Gray",
+   "title": "QWERTY III",
+   "type": "ep",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-03",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "ead159c244dd8339": [],
+ "3297ed981808debf": [],
+ "5c3531a7f049f2fa": [
+  {
+   "artist": "Charlotte Adigéry & Bolis Pupul",
+   "title": "Mainland Madinina",
+   "type": "album",
+   "genre": "Pop",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Charlotte Adigéry & Bolis Pupul",
+   "title": "From Healer to Dealer",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-03",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "06dbd7f3c2c06a9c": [
+  {
+   "artist": "A Hawk And A Hacksaw",
+   "title": "Volume 8",
+   "type": "album",
+   "genre": "Other",
+   "release_date": "2027-02-05",
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "d03b0941d9692d89": [],
+ "2f7334afc599abff": [
+  {
+   "artist": "Queens Of The Stone Age",
+   "title": "Perfecth",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "3279adfcd0e181fe": [
+  {
+   "artist": "Crowhurst",
+   "title": "T H O R N S",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-06",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "aa69df8ee486cb95": [
+  {
+   "artist": "Her New Knife",
+   "title": "lyre",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-03",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "b1d18c204db475ca": [],
+ "d6e8f73b79402848": [
+  {
+   "artist": "ALLDAY PROJECT",
+   "title": "CRASH",
+   "type": "ep",
+   "genre": "Pop",
+   "release_date": null,
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "36f892e46a257806": [],
+ "92a9be98941c1597": [],
+ "a408a84cf4e13a64": [],
+ "5b5363357e3b4275": [],
+ "44b529f89535325e": [],
+ "3368835614c52206": [],
+ "dc3a55b04dfebf0b": [],
+ "51017d7b2bae2636": [],
+ "152525bb4b6a265c": [],
+ "adc84c40c7ee6101": [],
+ "4db23462e26be46f": [],
+ "32c6a052da614665": [
+  {
+   "artist": "TWS",
+   "title": "TO US",
+   "type": "ep",
+   "genre": "Pop",
+   "release_date": null,
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "6946a618d7ceab55": [],
+ "48027d4c4976bc7a": [],
+ "a9c9c13c477470d3": [],
+ "85174fe66830440b": [],
+ "7fda481f5db41b32": [],
+ "1f17b8a9cf1a688e": [],
+ "86fc0742610c4879": [],
+ "ec9e801f3970b80c": [],
+ "87b46f6c58b40f7f": [],
+ "5bf1fbc7f181b906": [],
+ "cfad1914d088f920": [],
+ "a49113f602eaec6e": [],
+ "c6e8f02afccad9bc": [],
+ "7f5542fa2271bffb": [],
+ "960cb1d857a9f605": [],
+ "1822e2d5e44046d6": [],
+ "a1cb245fe33c49e5": [
+  {
+   "artist": "Chastity Belt",
+   "title": "Friends For This",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-02",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "4da8134121a1acb8": [],
+ "d06ddfc1e43bd669": [],
+ "2f91fcbfc8b07c2d": [],
+ "e5164bc0316ed52b": [],
+ "c2101d8aedb62b49": [],
+ "6efb32a4746962b0": [],
+ "8382977f720b3300": [
+  {
+   "artist": "Jack Harlow",
+   "title": "Sweet Action II",
+   "type": "ep",
+   "genre": "Hip-hop / R&B",
+   "release_date": "2026-11-06",
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "4cd842ef93add2a3": [],
+ "837d788f2dcddb40": [],
+ "b16b0a8ead2411be": [],
+ "8fea71e270f2331b": [],
+ "5825acb08ad5a5b1": [],
+ "4dfec2e5ead79cba": [],
+ "cce50cdb14ce7dd5": [],
+ "20287fe7c191e488": [],
+ "6034455df19ec2bb": [
+  {
+   "artist": "nate sib & The Kid LAROI",
+   "title": "Face Card (Remix)",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-02",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "468e76e62fceff9b": [],
+ "626ba2bb6cc86c5d": [],
+ "815443e588c1023a": [
+  {
+   "artist": "Carter Faith",
+   "title": "Still The Sparrow Sings",
+   "type": "single",
+   "genre": "Other",
+   "release_date": "2026-11-02",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "5209b3623d67e5bb": [],
+ "1afc2c352c0e39a3": [],
+ "91068291895f7bb0": [],
+ "4617644ce04c4191": [],
+ "27879f8500d24a79": [],
+ "39adb6b950598014": [],
+ "9b0dd965a4c1bd9c": [],
+ "96a878426663a74b": [
+  {
+   "artist": "Maiya Blaney",
+   "title": "Mary Bed",
+   "type": "ep",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-02",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "b6061358d608ee21": [],
+ "36c7f200456e9118": [],
+ "d04089b802eba92d": [],
+ "8c8a127269262d9f": [],
+ "d4f2f4083963d7c2": [
+  {
+   "artist": "Joshua Idehen",
+   "title": "Say Less",
+   "type": "single",
+   "genre": "Electronic / Dance",
+   "release_date": "2026-11-02",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "63602afe6ce94f73": [
+  {
+   "artist": "Olivia Rodrigo",
+   "title": "take me home (4 christmas)",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-05",
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "737bb8cc752482aa": [],
+ "4fae0f143cfd744e": [
+  {
+   "artist": "Sufjan Stevens",
+   "title": "On This Christmas (It Only Gets Better)",
+   "type": "single",
+   "genre": "Other",
+   "release_date": "2026-11-02",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "462907a4b42d9973": [
+  {
+   "artist": "Olivia Rodrigo",
+   "title": "Take Me Home (4 Christmas)",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "205d84a269b90bfa": [
+  {
+   "artist": "Computerwife",
+   "title": "Hammered",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-02",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "119b7b56840a46fc": [],
+ "d661e9d80d8ccdb4": [],
+ "d4cb4608f3312087": [],
+ "63b8abe682404796": [],
+ "5bbfc4ef60adf645": [
+  {
+   "artist": "Zach Bryan",
+   "title": "Kentucky Hurricane",
+   "type": "single",
+   "genre": "Other",
+   "release_date": "2026-11-02",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "1900316884459d21": [],
+ "3726f14d5a8e0e33": [
+  {
+   "artist": "Oso Oso",
+   "title": "the facts",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-02",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "4262e452ad993f5b": [],
+ "1eb2de0f875cab7a": [],
+ "3df3112eb5ec9fc7": [],
+ "c85e28e5bf7cb394": [],
+ "e5afc698d9a30a73": [],
+ "f7c4ff2843f0b3eb": [
+  {
+   "artist": "Yaeji",
+   "title": "DDR",
+   "type": "single",
+   "genre": "Electronic / Dance",
+   "release_date": "2026-11-02",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "68b92289a586a4ef": [
+  {
+   "artist": "Wiki",
+   "title": "Papiseed Street Vol. 2",
+   "type": "mixtape",
+   "genre": "Hip-hop / R&B",
+   "release_date": "2026-11-02",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "a5494d43af86dcc3": [
+  {
+   "artist": "smush",
+   "title": "john dearly",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-02",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "d6d24a19898d4295": [],
+ "3090bad32b7f441c": [
+  {
+   "artist": "Sam Smith & Jacob Lusk",
+   "title": "My Guy",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-02",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "8a57d593f98576d5": [],
+ "f69a3c7820f74f1d": [],
+ "f8f2325e8da45f1d": [
+  {
+   "artist": "Will Linley",
+   "title": "Could This Be Forever?",
+   "type": "ep",
+   "genre": "Pop",
+   "release_date": "2026-11-02",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "192aa2b42a87710b": [
+  {
+   "artist": "Yaeji",
+   "title": "DDR",
+   "type": "single",
+   "genre": "Electronic / Dance",
+   "release_date": "2026-11-02",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "587d4a8e638508c5": [
+  {
+   "artist": "Naya Yeira",
+   "title": "almost there",
+   "type": "ep",
+   "genre": "Hip-hop / R&B",
+   "release_date": "2026-11-02",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "567e24e667e472e9": [],
+ "0b1b73218ea5d759": [
+  {
+   "artist": "Sufjan Stevens",
+   "title": "On This Christmas (It Only Gets Better)",
+   "type": "single",
+   "genre": "Other",
+   "release_date": "2026-11-02",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "9088095ac1dc7303": [
+  {
+   "artist": "Sufjan Stevens",
+   "title": "On This Christmas (It Only Gets Better)",
+   "type": "single",
+   "genre": "Other",
+   "release_date": "2026-11-02",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "6cd059738a74c536": [],
+ "9654d457cab0eb31": [
+  {
+   "artist": "Bess Atwell",
+   "title": "Cut A Figure",
+   "type": "album",
+   "genre": "Other",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "33d67db63e66172d": [],
+ "128eb8ce2cd3bf72": [],
+ "cd93519ebe0d43d0": [],
+ "c6f7f600edfdbf39": [],
+ "260cbc56961e34d0": [],
+ "7cddee65ef0c8e04": [],
+ "fc2d17c16dec152b": [],
+ "61301bfae8f110f7": [],
+ "f6dbd827d46ebdae": [
+  {
+   "artist": "The Olivia Tremor Control",
+   "title": "The Same Place",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "review",
+   "score": 8
+  }
+ ],
+ "f8f7d25690559a2d": [
+  {
+   "artist": "HMLTD",
+   "title": "FANGS",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "review",
+   "score": 5
+  }
+ ],
+ "9f316089ff494a8e": [
+  {
+   "artist": "The Itch",
+   "title": "Planned Obsolescence",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-02",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "5160aa8f470e0080": [],
+ "b41492e885961719": [],
+ "b01250bcfc05f7c8": [],
+ "9e035879e4206dc5": [
+  {
+   "artist": "Atlas Sound",
+   "title": "Octoberland",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-02",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "a29adde42e405f37": [
+  {
+   "artist": "La Roux",
+   "title": "Old Flames",
+   "type": "album",
+   "genre": "Pop",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "485d6293ea3d11fe": [],
+ "71eefcb360f701f3": [],
+ "dfef1e1c5f39155a": [],
+ "13d7f0289313e8c9": [],
+ "e41731c79be881f3": [],
+ "f70e6a5ef9a79113": [],
+ "dbca4e837baaaae2": [],
+ "8f1ca6957252c00b": [],
+ "95d5b7b38de8a2ff": [],
+ "12ef45bed1ad3ffd": [],
+ "e79fb37935319048": [],
+ "3eabb167c821bc63": [],
+ "60843236f56d2b76": [],
+ "1425a06b52311fc9": [],
+ "466c837defa2de49": [],
+ "dc09f95faddac321": [],
+ "7787d684d9e64e63": [],
+ "03c0ef7e676865d0": [],
+ "d130288e43fa5f08": [],
+ "32413303c7a9fd76": [],
+ "be6379ca0a9c3745": [],
+ "5129e4e588d89a9f": [],
+ "cae4c6f53e35107f": [],
+ "c22ea930b8b8bcb2": [],
+ "e3b8344bfe4ec456": [],
+ "3eb8d5f9e2e1deef": [],
+ "c8832fe8e6678ac0": [],
+ "93d8aac956f76596": [],
+ "b07a4f921a6ef476": [
+  {
+   "artist": "BigXthaPlug",
+   "title": "Better Over Time",
+   "type": "album",
+   "genre": "Hip-hop / R&B",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "0adeb8e630dad585": [],
+ "132dd2ca1a72942c": [],
+ "b6612d54fd63528f": [],
+ "85268604217cd449": [],
+ "ad15c829c343a9e6": [],
+ "f70f3abe22db43cc": [],
+ "8c5c555412549039": [],
+ "52b440d57ee9ed47": []
 }

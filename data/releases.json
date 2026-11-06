@@ -24,6 +24,30 @@
     ]
   },
   {
+    "artist": "Everything Everything",
+    "title": "Poison Pop",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2027-03-12",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "NME"
+    ],
+    "mentions": [
+      {
+        "source": "NME",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Everything Everything fight modern life on new album ‘Poison Pop’: “It’s about this drink that kills you, but you still want it”",
+        "link": "https://www.nme.com/news/music/everything-everything-grappling-with-modern-life-poison-pop-interview-ai-3974839?utm_source=rss&utm_medium=rss&utm_campaign=everything-everything-grappling-with-modern-life-poison-pop-interview-ai",
+        "published": "2026-11-04T18:00:36+00:00"
+      }
+    ]
+  },
+  {
     "artist": "The Chats",
     "title": "Half Cut",
     "type": "album",
@@ -32,9 +56,20 @@
     "date_source": "musicbrainz",
     "scores": [],
     "sources": [
-      "Stereogum"
+      "Stereogum",
+      "The Needle Drop (website)"
     ],
     "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "The Chats announce a new tour",
+        "link": "https://theneedledrop.com/news/the-chats-announce-a-new-tour/",
+        "published": "2026-11-04T17:32:47+00:00"
+      },
       {
         "source": "Stereogum",
         "source_type": "news",
@@ -94,6 +129,65 @@
     ]
   },
   {
+    "artist": "Dutch Uncles",
+    "title": "Polygon Hotel",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2027-02-19",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash",
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Dutch Uncles Announce New Album Polygon Hotel: Hear “No Note”",
+        "link": "https://stereogum.com/2516440/dutch-uncles-announce-new-album-polygon-hotel-hear-no-note/music/",
+        "published": "2026-11-03T17:56:42+00:00"
+      },
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Dutch Uncles Confirm New Album ‘Polygon Hotel’",
+        "link": "https://www.clashmusic.com/news/dutch-uncles-confirm-new-album-polygon-hotel/",
+        "published": "2026-11-03T17:52:51+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Tim Reaper",
+    "title": "World's End",
+    "type": "album",
+    "genre": "Electronic / Dance",
+    "release_date": "2027-02-19",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "Pitchfork (news)"
+    ],
+    "mentions": [
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Tim Reaper Announces Debut Album World’s End",
+        "link": "https://pitchfork.com/story/tim-reaper-announces-debut-album-worlds-end/",
+        "published": "2026-11-05T17:24:54+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Junior Boys",
     "title": "The Gore",
     "type": "album",
@@ -125,6 +219,135 @@
         "headline": "Junior Boys Announce New Album The Gore: Hear “Underneath The Moon”",
         "link": "https://stereogum.com/2515864/junior-boys-the-gore-underneath-the-moon-album-announce/music/",
         "published": "2026-10-29T13:54:04+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Mamalarky",
+    "title": "Hover",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2027-02-12",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Mamalarky Announce New Album Hover: Hear “Sad Songs”",
+        "link": "https://stereogum.com/2516471/mamalarky-announce-new-album-hover-hear-sad-songs/music/",
+        "published": "2026-11-04T15:15:18+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Charlotte Adigéry & Bolis Pupul",
+    "title": "Mainland Madinina",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": "2027-02-05",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash",
+      "Pitchfork (news)",
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Charlotte Adigéry & Bolis Pupul Announce New Album Mainland Madinina: Hear “From Healer To Dealer”",
+        "link": "https://stereogum.com/2516425/charlotte-adigery-bolis-pupul-announce-new-album-mainland-madinina-hear-from-healer-to-dealer/music/",
+        "published": "2026-11-03T16:38:53+00:00"
+      },
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Charlotte Adigéry & Bolis Pupul Announce New Album ‘Mainland Madinina’",
+        "link": "https://www.clashmusic.com/news/charlotte-adigery-bolis-pupul-announce-mainland-madinina/",
+        "published": "2026-11-03T14:49:56+00:00"
+      },
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Charlotte Adigéry and Bolis Pupul Line Up New Album and Tour",
+        "link": "https://pitchfork.com/story/charlotte-adigery-and-bolis-pupul-line-up-new-album-and-tour/",
+        "published": "2026-11-03T14:08:24+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Cage The Elephant",
+    "title": "Dying In Reverse",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2027-02-05",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Consequence",
+      "NME"
+    ],
+    "mentions": [
+      {
+        "source": "NME",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Cage The Elephant announce new album ‘Dying In Reverse’ with guitar heavy single ‘Make It Easy’",
+        "link": "https://www.nme.com/news/music/cage-the-elephant-announce-new-album-dying-in-reverse-with-guitar-heavy-single-make-it-easy-3975154?utm_source=rss&utm_medium=rss&utm_campaign=cage-the-elephant-announce-new-album-dying-in-reverse-with-guitar-heavy-single-make-it-easy",
+        "published": "2026-11-05T17:08:55+00:00"
+      },
+      {
+        "source": "Consequence",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Cage the Elephant Announce New Album Dying in Reverse, Share New Song “Make It Easy”: Stream",
+        "link": "https://consequence.net/2026/11/cage-the-elephant-dying-in-reverse-new-album-make-it-easy-stream/",
+        "published": "2026-11-05T15:40:38+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "A Hawk And A Hacksaw",
+    "title": "Volume 8",
+    "type": "album",
+    "genre": "Other",
+    "release_date": "2027-02-05",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "A Hawk And A Hacksaw Announce New Album ‘Volume 8’",
+        "link": "https://www.clashmusic.com/news/a-hawk-and-a-hacksaw-announce-new-album-volume-8/",
+        "published": "2026-11-03T14:01:49+00:00"
       }
     ]
   },
@@ -173,6 +396,30 @@
         "headline": "Avery Cochrane shares new single “You’re the Only One (I Never Performed For)”",
         "link": "https://theneedledrop.com/news/avery-cochrane-shares-new-single-youre-the-only-one-i-never-performed-for/",
         "published": "2026-10-29T13:02:01+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "The Golden Dregs",
+    "title": "UK Gothic",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2027-01-29",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "The Golden Dregs Announce New Album ‘UK Gothic’",
+        "link": "https://www.clashmusic.com/news/the-golden-dregs-announce-new-album-uk-gothic/",
+        "published": "2026-11-05T11:57:13+00:00"
       }
     ]
   },
@@ -260,6 +507,52 @@
     ]
   },
   {
+    "artist": "Star's Revenge",
+    "title": "Star's Revenge II",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-27",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Pitchfork (news)",
+      "Stereogum",
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Star’s Revenge Announce New Album Star’s Revenge II: Hear “Don’t Worry Dynamite”",
+        "link": "https://stereogum.com/2516599/stars-revenge-announce-new-album-stars-revenge-ii-hear-dont-worry-dynamite/music/",
+        "published": "2026-11-05T16:15:45+00:00"
+      },
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Geese and Sunflower Bean Members Unite on New Album",
+        "link": "https://pitchfork.com/story/geese-and-sunflower-bean-members-unite-on-new-album/",
+        "published": "2026-11-05T15:18:41+00:00"
+      },
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Geese's Emily Green and Sunflower Bean's Olive Faber announce new Star's Revenge album",
+        "link": "https://theneedledrop.com/news/geeses-emily-green-and-sunflower-beans-olive-faber-announce-new-stars-revenge-album/",
+        "published": "2026-11-05T13:20:31+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Factory Floor",
     "title": "One Trip",
     "type": "album",
@@ -291,6 +584,41 @@
         "headline": "Factory Floor Return With First Album in 10 Years",
         "link": "https://pitchfork.com/story/factory-floor-return-with-first-album-in-10-years/",
         "published": "2026-10-27T12:13:43+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Toro y Moi",
+    "title": "Unusua",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-20",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "Pitchfork (news)",
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Toro y Moi Reveals New Album Unusua",
+        "link": "https://pitchfork.com/story/toro-y-moi-reveals-new-album-unusua/",
+        "published": "2026-11-05T19:38:07+00:00"
+      },
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Toro y Moi Announces New Album Unusua: Hear “Motive”",
+        "link": "https://stereogum.com/2516622/toro-y-moi-announces-new-album-unusua-hear-motive/music/",
+        "published": "2026-11-05T17:38:32+00:00"
       }
     ]
   },
@@ -343,6 +671,211 @@
     ]
   },
   {
+    "artist": "Belly Gang Kushington",
+    "title": "GOOD DOPE SELL ITSELF",
+    "type": "album",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-11-13",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Belly Gang Kushington announces new album ‘GOOD DOPE SELL ITSELF’",
+        "link": "https://theneedledrop.com/news/belly-gang-kushington-announces-new-album-good-dope-sell-itself/",
+        "published": "2026-11-03T19:51:57+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Olivia Rodrigo",
+    "title": "Take Me Home (4 Christmas)",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-11-06",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Billboard",
+      "Clash",
+      "Consequence",
+      "Pitchfork (news)",
+      "Rolling Stone (music)",
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Consequence",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Olivia Rodrigo Unveils New Holiday Song “Take me home (4 christmas)”",
+        "link": "https://consequence.net/2026/11/olivia-rodrigo-take-me-home-4-christmas-holiday-song-stream/",
+        "published": "2026-11-06T01:28:00+00:00"
+      },
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Listen to Olivia Rodrigo’s New Song “Take Me Home (4 Christmas)”",
+        "link": "https://pitchfork.com/story/listen-to-olivia-rodrigos-new-song-take-me-home-4-christmas/",
+        "published": "2026-11-06T01:15:37+00:00"
+      },
+      {
+        "source": "Rolling Stone (music)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Olivia Rodrigo, Noted ‘Sex and the City’ Fan, Recruits Cynthia Nixon For Christmas Video",
+        "link": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-cynthia-nixon-christmas-song-1235651368/",
+        "published": "2026-11-06T01:09:06+00:00"
+      },
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Olivia Rodrigo – “take me home (4 christmas)”",
+        "link": "https://stereogum.com/2516456/olivia-rodrigo-take-me-home-4-christmas/music/",
+        "published": "2026-11-06T01:04:10+00:00"
+      },
+      {
+        "source": "Billboard",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Olivia Rodrigo Unwraps Holiday Single ‘Take Me Home (4 Christmas)’: Stream It Now",
+        "link": "https://www.billboard.com/music/music-news/olivia-rodrigo-new-song-take-me-home-4-christmas-video-1236375403/",
+        "published": "2026-11-06T01:00:25+00:00"
+      },
+      {
+        "source": "Consequence",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Olivia Rodrigo Announces New Holiday Single “take me home (4 christmas)”",
+        "link": "https://consequence.net/2026/11/olivia-rodrigo-take-me-home-4-christmas-holiday-song/",
+        "published": "2026-11-02T17:36:24+00:00"
+      },
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Olivia Rodrigo Confirms Festive Single ‘Take Me Home (4 Christmas)’",
+        "link": "https://www.clashmusic.com/news/olivia-rodrigo-confirms-festive-single-take-me-home-4-christmas/",
+        "published": "2026-11-02T17:23:44+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "DIIV",
+    "title": "ZIRP!",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-06",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash",
+      "Pitchfork (album reviews)",
+      "Slant (music)",
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "DIIV Go Pop, And Mean It",
+        "link": "https://www.clashmusic.com/features/diiv-go-pop-and-mean-it/",
+        "published": "2026-11-04T13:22:00+00:00"
+      },
+      {
+        "source": "Pitchfork (album reviews)",
+        "source_type": "reviews",
+        "weight": 1.5,
+        "mention": "review",
+        "score": null,
+        "headline": "ZIRP!",
+        "link": "https://pitchfork.com/reviews/albums/diiv-zirp/",
+        "published": "2026-10-30T04:03:00+00:00"
+      },
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Album Of The Week: DIIV ZIRP!",
+        "link": "https://stereogum.com/2515261/album-of-the-week-diiv-zirp/reviews/album-of-the-week/",
+        "published": "2026-10-27T20:25:11+00:00"
+      },
+      {
+        "source": "Slant (music)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "DIIV ‘Zirp!’ Review: Distortion Without Dimension",
+        "link": "https://www.slantmagazine.com/music/diiv-zirp-album-review/",
+        "published": "2026-10-25T15:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Shygirl",
+    "title": "Swallow!",
+    "type": "album",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-11-06",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash",
+      "Slant (music)"
+    ],
+    "mentions": [
+      {
+        "source": "Slant (music)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Review: Shygirl’s ‘Swallow!’ Goes Deep and Gets Real",
+        "link": "https://www.slantmagazine.com/music/shygirl-swallow-album-review/",
+        "published": "2026-11-05T16:14:55+00:00"
+      },
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Shygirl Drops New Single ‘Eternal’",
+        "link": "https://www.clashmusic.com/news/shygirl-drops-new-single-eternal/",
+        "published": "2026-11-04T11:32:30+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Lil Baby",
     "title": "FRESH",
     "type": "album",
@@ -363,6 +896,1885 @@
         "headline": "Lil Baby Announces ‘FRESH’ for November 6 Release",
         "link": "https://www.udiscovermusic.com/news/lil-baby-fresh/",
         "published": "2026-10-21T12:53:52+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Kings Of Leon",
+    "title": "O My Beloved",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-06",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Kings Of Leon – O My Beloved",
+        "link": "https://www.clashmusic.com/reviews/kings-of-leon-o-my-beloved/",
+        "published": "2026-11-05T16:54:39+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Cult of Luna",
+    "title": "In the Shadow of Your Shadow",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-06",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Consequence"
+    ],
+    "mentions": [
+      {
+        "source": "Consequence",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Cult of Luna Unleash “Sadness Will Reign” Featuring Gojira’s Joe Duplantier",
+        "link": "https://consequence.net/2026/11/cult-of-luna-sadness-will-reign-joe-duplantier/",
+        "published": "2026-11-04T15:40:31+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Do Nothing",
+    "title": "Friend World",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-06",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Do Nothing – Friend World",
+        "link": "https://www.musicomh.com/reviews/albums/do-nothing-friend-world",
+        "published": "2026-11-04T13:31:39+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Willi Carlisle",
+    "title": "The Universal Bubba",
+    "type": "album",
+    "genre": "Other",
+    "release_date": "2026-11-06",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Album Of The Week: Willi Carlisle The Universal Bubba",
+        "link": "https://stereogum.com/2516368/album-of-the-week-willi-carlisle-the-universal-bubba/reviews/album-of-the-week/",
+        "published": "2026-11-03T17:46:10+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Crowhurst",
+    "title": "T H O R N S",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-06",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Crowhurst premieres 34th full-length album 'T H O R N S'",
+        "link": "https://theneedledrop.com/news/crowhurst-premieres-34th-full-length-album-t-h-o-r-n-s/",
+        "published": "2026-11-03T13:10:21+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Jack Harlow",
+    "title": "Sweet Action II",
+    "type": "ep",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-11-06",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Jack Harlow Announces ‘Sweet Action II’ EP",
+        "link": "https://www.clashmusic.com/news/jack-harlow-announces-sweet-action-ii-ep/",
+        "published": "2026-11-02T20:10:48+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "La Roux",
+    "title": "Old Flames",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": "2026-11-06",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "La Roux – Old Flames",
+        "link": "https://www.musicomh.com/reviews/albums/la-roux-old-flames",
+        "published": "2026-11-02T08:31:35+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Cage The Elephant",
+    "title": "Make It Easy",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-05",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Consequence",
+      "NME"
+    ],
+    "mentions": [
+      {
+        "source": "NME",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Cage The Elephant announce new album ‘Dying In Reverse’ with guitar heavy single ‘Make It Easy’",
+        "link": "https://www.nme.com/news/music/cage-the-elephant-announce-new-album-dying-in-reverse-with-guitar-heavy-single-make-it-easy-3975154?utm_source=rss&utm_medium=rss&utm_campaign=cage-the-elephant-announce-new-album-dying-in-reverse-with-guitar-heavy-single-make-it-easy",
+        "published": "2026-11-05T17:08:55+00:00"
+      },
+      {
+        "source": "Consequence",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Cage the Elephant Announce New Album Dying in Reverse, Share New Song “Make It Easy”: Stream",
+        "link": "https://consequence.net/2026/11/cage-the-elephant-dying-in-reverse-new-album-make-it-easy-stream/",
+        "published": "2026-11-05T15:40:38+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Liquid Mike",
+    "title": "Inanimate Object",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-05",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum",
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Liquid Mike – “Inanimate Object”",
+        "link": "https://stereogum.com/2516609/liquid-mike-inanimate-object/music/",
+        "published": "2026-11-05T16:31:43+00:00"
+      },
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Liquid Mike propose afterlife as a box fan on new track \"Inanimate Object\"",
+        "link": "https://theneedledrop.com/news/liquid-mike-propose-afterlife-as-a-box-fan-on-new-track-inanimate-object/",
+        "published": "2026-11-05T12:42:25+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Star's Revenge",
+    "title": "Don't Worry Dynamite",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-05",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum",
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Star’s Revenge Announce New Album Star’s Revenge II: Hear “Don’t Worry Dynamite”",
+        "link": "https://stereogum.com/2516599/stars-revenge-announce-new-album-stars-revenge-ii-hear-dont-worry-dynamite/music/",
+        "published": "2026-11-05T16:15:45+00:00"
+      },
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Geese's Emily Green and Sunflower Bean's Olive Faber announce new Star's Revenge album",
+        "link": "https://theneedledrop.com/news/geeses-emily-green-and-sunflower-beans-olive-faber-announce-new-stars-revenge-album/",
+        "published": "2026-11-05T13:20:31+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Soup Activists",
+    "title": "The Castle",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-05",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Soup Activists – “The Castle”",
+        "link": "https://stereogum.com/2516634/soup-activists-the-castle/music/",
+        "published": "2026-11-05T20:50:05+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Zelooperz",
+    "title": "Masons Dispatch",
+    "type": "single",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-11-05",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Zelooperz – “Masons Dispatch”",
+        "link": "https://stereogum.com/2516633/zelooperz-black-noise-masons-dispatch-pin-breakers/music/",
+        "published": "2026-11-05T20:27:05+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Eev Frances",
+    "title": "Shake",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-11-05",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Eev Frances – “Shake”",
+        "link": "https://stereogum.com/2516631/eev-frances-shake/music/",
+        "published": "2026-11-05T19:37:35+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Jess Kerber & Emily Hines",
+    "title": "The World Is Dark, But I Want It To Be Funny",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-05",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Jess Kerber – “The World Is Dark, But I Want It To Be Funny” (Feat. Emily Hines)",
+        "link": "https://stereogum.com/2516453/jess-kerber-the-world-is-dark-but-i-want-it-to-be-funny-feat-emily-hines/music/",
+        "published": "2026-11-05T19:36:32+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "GloRilla & Sexyy Red",
+    "title": "Jiggly Bow Bow",
+    "type": "single",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-11-05",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Pitchfork (news)"
+    ],
+    "mentions": [
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "GloRilla and Sexyy Red Wreak Havoc on a Nursing Home in “Jiggly Bow Bow” Video",
+        "link": "https://pitchfork.com/story/watch-glorilla-and-sexyy-red-wreak-havoc-on-a-nursing-home/",
+        "published": "2026-11-05T19:12:14+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "1tbsp",
+    "title": "Carottes",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-05",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "1tbsp Announce New Album big soaps: Hear “Carottes”",
+        "link": "https://stereogum.com/2516630/1tbsp-big-soaps-album-announce-carottes-miki/music/",
+        "published": "2026-11-05T19:08:14+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Spencer Peppet",
+    "title": "Power",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-05",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Spencer Peppet – “Power”",
+        "link": "https://stereogum.com/2516638/spencer-peppet-power/music/",
+        "published": "2026-11-05T18:37:32+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Death Angel",
+    "title": "The Never Was",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-05",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Consequence"
+    ],
+    "mentions": [
+      {
+        "source": "Consequence",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Death Angel Unleash New Single “The Never Was”: Stream",
+        "link": "https://consequence.net/2026/11/death-angel-the-never-was/",
+        "published": "2026-11-05T18:28:23+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Toro y Moi",
+    "title": "Motive",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-05",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Toro y Moi Announces New Album Unusua: Hear “Motive”",
+        "link": "https://stereogum.com/2516622/toro-y-moi-announces-new-album-unusua-hear-motive/music/",
+        "published": "2026-11-05T17:38:32+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Elton John & CMAT",
+    "title": "Step Into Christmas",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-11-05",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Elton John And CMAT Cover ‘Step Into Christmas’",
+        "link": "https://www.clashmusic.com/news/elton-john-and-cmat-cover-step-into-christmas/",
+        "published": "2026-11-05T17:11:14+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Shout Out Louds",
+    "title": "Closer",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-05",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Shout Out Louds return with \"Closer,\" first new song in five years",
+        "link": "https://theneedledrop.com/news/shout-out-louds-return-with-closer-first-new-song-in-five-years/",
+        "published": "2026-11-05T13:02:06+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Silver Gore",
+    "title": "Just Like That",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-11-05",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Silver Gore Return With ‘Just Like That’",
+        "link": "https://www.clashmusic.com/news/silver-gore-return-with-just-like-that/",
+        "published": "2026-11-05T11:07:23+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Christine and the Queens",
+    "title": "Rendez-vous Avec Toi",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-11-04",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash",
+      "NME",
+      "Pitchfork (news)",
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Christine And The Queens – “Rendez-vous Avec Toi”",
+        "link": "https://stereogum.com/2516516/christine-and-the-queens-rendez-vous-avec-toi/music/",
+        "published": "2026-11-04T18:31:40+00:00"
+      },
+      {
+        "source": "NME",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Christine And The The Queens makes funky return with new single ‘Rendez-vous Avec Toi’: “The electricity remains eternally mysterious”",
+        "link": "https://www.nme.com/news/music/christine-the-queens-releases-new-single-rendez-vous-avec-toi-listen-3975012?utm_source=rss&utm_medium=rss&utm_campaign=christine-the-queens-releases-new-single-rendez-vous-avec-toi-listen",
+        "published": "2026-11-04T16:42:52+00:00"
+      },
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Christine & The Queens Returns With New Single ‘Rendez-vous avec toi’",
+        "link": "https://www.clashmusic.com/artists/christine-the-queens-returns-with-new-single-rendez-vous-avec-toi/",
+        "published": "2026-11-04T15:14:54+00:00"
+      },
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Christine and the Queens Returns with Two New Songs",
+        "link": "https://pitchfork.com/story/christine-and-the-queens-returns-with-two-new-songs/",
+        "published": "2026-11-04T15:07:21+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "The Big Moon",
+    "title": "Forever",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-04",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash",
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Bricknasty’s ‘forever’ EP Is A Quicksilver Document",
+        "link": "https://www.clashmusic.com/news/bricknastys-forever-ep-is-a-quicksilver-document/",
+        "published": "2026-11-04T14:36:07+00:00"
+      },
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "The Big Moon Are Creating Their Own Future",
+        "link": "https://www.clashmusic.com/features/the-big-moon-are-creating-their-own-future/",
+        "published": "2026-11-04T14:35:29+00:00"
+      },
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "The Big Moon – Forever",
+        "link": "https://www.musicomh.com/reviews/albums/the-big-moon-forever",
+        "published": "2026-10-29T08:01:43+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Shygirl",
+    "title": "Eternal",
+    "type": "single",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-11-04",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash",
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Shygirl – “Eternal”",
+        "link": "https://stereogum.com/2516468/shygirl-eternal/music/",
+        "published": "2026-11-04T14:24:35+00:00"
+      },
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Shygirl Drops New Single ‘Eternal’",
+        "link": "https://www.clashmusic.com/news/shygirl-drops-new-single-eternal/",
+        "published": "2026-11-04T11:32:30+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Sam And Louise Sullivan",
+    "title": "Trying Your Luck (4-track)",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-04",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Sam And Louise Sullivan – “Trying Your Luck (4-track)” (The Strokes Cover)",
+        "link": "https://stereogum.com/2516537/sam-and-louise-sullivan-trying-your-luck-the-strokes-cover/music/",
+        "published": "2026-11-04T20:38:04+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "GIFT",
+    "title": "Every Step",
+    "type": "single",
+    "genre": "Other",
+    "release_date": "2026-11-04",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "GIFT – “Every Step”",
+        "link": "https://stereogum.com/2516370/gift-every-step-frenzy-for-the-thrill-song-video/music/",
+        "published": "2026-11-04T19:36:50+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Love Remain",
+    "title": "Shadow Swim",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-04",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Love Remain – “Shadow Swim”",
+        "link": "https://stereogum.com/2516506/love-remain-shadow-swim/music/",
+        "published": "2026-11-04T16:48:56+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Kiwi Jr.",
+    "title": "Something Wicked",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-04",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Kiwi Jr. – “Something Wicked”",
+        "link": "https://stereogum.com/2516446/kiwi-jr-something-wicked-blowin-up/music/",
+        "published": "2026-11-04T16:43:19+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Quivers",
+    "title": "Bottle The Nervous",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-04",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Quivers – “Bottle The Nervous”",
+        "link": "https://stereogum.com/2516500/quivers-bottle-the-nervous/music/",
+        "published": "2026-11-04T16:38:22+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Crate",
+    "title": "Crushed To Nothing",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-04",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Crate – “Crushed To Nothing”",
+        "link": "https://stereogum.com/2516498/crate-crushed-to-nothing/music/",
+        "published": "2026-11-04T16:03:43+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Hannah Jadagu",
+    "title": "Curse",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-04",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Hannah Jadagu – “Curse”",
+        "link": "https://stereogum.com/2516488/hannah-jadagu-curse/music/",
+        "published": "2026-11-04T15:51:02+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Blue Bendy",
+    "title": "Vocal Fry Academia",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-04",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Blue Bendy – “Vocal Fry Academia”",
+        "link": "https://stereogum.com/2516494/blue-bendy-vocal-fry-academia/music/",
+        "published": "2026-11-04T15:46:15+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Cult of Luna",
+    "title": "Sadness Will Reign",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-04",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Consequence"
+    ],
+    "mentions": [
+      {
+        "source": "Consequence",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Cult of Luna Unleash “Sadness Will Reign” Featuring Gojira’s Joe Duplantier",
+        "link": "https://consequence.net/2026/11/cult-of-luna-sadness-will-reign-joe-duplantier/",
+        "published": "2026-11-04T15:40:31+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Font",
+    "title": "Cling",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-04",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Font – “Cling”",
+        "link": "https://stereogum.com/2516485/font-cling/music/",
+        "published": "2026-11-04T15:22:26+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Mamalarky",
+    "title": "Sad Songs",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-04",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Mamalarky Announce New Album Hover: Hear “Sad Songs”",
+        "link": "https://stereogum.com/2516471/mamalarky-announce-new-album-hover-hear-sad-songs/music/",
+        "published": "2026-11-04T15:15:18+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Christine and the Queens",
+    "title": "Rendez-vous in your arms",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-11-04",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Pitchfork (news)"
+    ],
+    "mentions": [
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Christine and the Queens Returns with Two New Songs",
+        "link": "https://pitchfork.com/story/christine-and-the-queens-returns-with-two-new-songs/",
+        "published": "2026-11-04T15:07:21+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Volcano",
+    "title": "Lay Low",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-04",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Volcano – “Lay Low” & “Salt”",
+        "link": "https://stereogum.com/2516475/volcano-lay-low-salt/music/",
+        "published": "2026-11-04T14:51:30+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Volcano",
+    "title": "Salt",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-04",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Volcano – “Lay Low” & “Salt”",
+        "link": "https://stereogum.com/2516475/volcano-lay-low-salt/music/",
+        "published": "2026-11-04T14:51:30+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "lots of hands",
+    "title": "anything for now",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-04",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "lots of hands – “anything for now”",
+        "link": "https://stereogum.com/2516380/lots-of-hands-anything-for-now/music/",
+        "published": "2026-11-04T14:45:18+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Liars",
+    "title": "Beat Creep Some Eyes",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-04",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Liars – “Beat Creep Some Eyes”",
+        "link": "https://stereogum.com/2516465/liars-beat-creep-some-eyes/music/",
+        "published": "2026-11-04T13:55:58+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "The Gnomes",
+    "title": "With A Gnome",
+    "type": "ep",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-04",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "The Gnomes Unleash A Savage Psych-Garage EP",
+        "link": "https://www.clashmusic.com/news/the-gnomes-unleash-a-savage-psych-garage-ep/",
+        "published": "2026-11-04T13:46:49+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Internet Cafe",
+    "title": "Trapdoor",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-11-04",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Internet Cafe Share New Single ‘Trapdoor’",
+        "link": "https://www.clashmusic.com/news/internet-cafe-share-new-single-trapdoor/",
+        "published": "2026-11-04T12:12:00+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Charlotte Adigéry & Bolis Pupul",
+    "title": "From Healer to Dealer",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-11-03",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Pitchfork (news)",
+      "Stereogum",
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Charlotte Adigéry & Bolis Pupul Announce New Album Mainland Madinina: Hear “From Healer To Dealer”",
+        "link": "https://stereogum.com/2516425/charlotte-adigery-bolis-pupul-announce-new-album-mainland-madinina-hear-from-healer-to-dealer/music/",
+        "published": "2026-11-03T16:38:53+00:00"
+      },
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Charlotte Adigéry & Bolis Pupul return with new album 'Mainland Mandinina'",
+        "link": "https://theneedledrop.com/news/charlotte-adigery-bolis-pupul-return-with-new-album-mainland-mandinina/",
+        "published": "2026-11-03T16:03:29+00:00"
+      },
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Charlotte Adigéry and Bolis Pupul Line Up New Album and Tour",
+        "link": "https://pitchfork.com/story/charlotte-adigery-and-bolis-pupul-line-up-new-album-and-tour/",
+        "published": "2026-11-03T14:08:24+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "C. Tangana",
+    "title": "Milko Freestyle",
+    "type": "single",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-11-03",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Consequence",
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "C. Tangana raps about grief and fatherhood on new track “Milko Freestyle”",
+        "link": "https://theneedledrop.com/c-tangana-returns-rap-milko-freestyle/",
+        "published": "2026-11-03T23:43:27+00:00"
+      },
+      {
+        "source": "Consequence",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "C. Tangana Reflects on Loss and Fatherhood as He Returns to Rap With “Milko Freestyle”: Watch",
+        "link": "https://consequence.net/2026/11/c-tangana-returns-to-rap-milko-freestyle/",
+        "published": "2026-11-03T23:01:09+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Saya Gray",
+    "title": "QWERTY III",
+    "type": "ep",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-03",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Pitchfork (news)",
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Saya Gray Drops Qwerty III EP",
+        "link": "https://pitchfork.com/story/saya-gray-drops-qwerty-iii-ep/",
+        "published": "2026-11-03T15:59:57+00:00"
+      },
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Saya Gray Releases New EP QWERTY III",
+        "link": "https://stereogum.com/2516416/saya-gray-releases-new-ep-qwerty-iii/music/",
+        "published": "2026-11-03T14:39:53+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Ecco2k",
+    "title": "Sky Burial",
+    "type": "single",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-11-03",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Ecco2k shares new single \"Sky Burial\"",
+        "link": "https://theneedledrop.com/news/ecco2k-shares-new-single-sky-burial/",
+        "published": "2026-11-03T20:09:46+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Dutch Uncles",
+    "title": "No Note",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-03",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Dutch Uncles Announce New Album Polygon Hotel: Hear “No Note”",
+        "link": "https://stereogum.com/2516440/dutch-uncles-announce-new-album-polygon-hotel-hear-no-note/music/",
+        "published": "2026-11-03T17:56:42+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Anna McClellan & Gloorp",
+    "title": "Anywhere",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-03",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Anna McClellan – “Anywhere” (Feat. Gloorp)",
+        "link": "https://stereogum.com/2516337/anna-mcclellan-anywhere-feat-gloorp/music/",
+        "published": "2026-11-03T17:45:13+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Kora Puckett",
+    "title": "In My Veins",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-03",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Kora Puckett – “In My Veins”",
+        "link": "https://stereogum.com/2516431/kora-puckett-in-my-veins-narrow-head/music/",
+        "published": "2026-11-03T17:36:54+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "1000 Rabbits",
+    "title": "Stupid Boy",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-03",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "1000 Rabbits – “Stupid Boy”",
+        "link": "https://stereogum.com/2516428/1000-rabbits-stupid-boy/music/",
+        "published": "2026-11-03T17:02:44+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Dog Eyes",
+    "title": "sink",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-03",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Dog Eyes Share Raw Alt-Folk Piece ‘sink’",
+        "link": "https://www.clashmusic.com/news/dog-eyes-share-raw-alt-folk-piece-sink/",
+        "published": "2026-11-03T16:58:41+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Purple Pilgrims",
+    "title": "Look To The Moon",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-03",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Purple Pilgrims – “Look To The Moon”",
+        "link": "https://stereogum.com/2516338/purple-pilgrims-look-to-the-moon/music/",
+        "published": "2026-11-03T15:50:26+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Her New Knife",
+    "title": "lyre",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-03",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Her New Knife – “lyre”",
+        "link": "https://stereogum.com/2516407/her-new-knife-lyre/music/",
+        "published": "2026-11-03T13:09:40+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "TWS",
+    "title": "TO US",
+    "type": "ep",
+    "genre": "Pop",
+    "release_date": "2026-11-03",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "Billboard"
+    ],
+    "mentions": [
+      {
+        "source": "Billboard",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "TWS: The Beauty of Growing Up Unscripted",
+        "link": "https://www.billboard.com/lists/tws-interview-to-us-growing-up-unscripted/",
+        "published": "2026-11-03T01:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Sufjan Stevens",
+    "title": "On This Christmas (It Only Gets Better)",
+    "type": "single",
+    "genre": "Other",
+    "release_date": "2026-11-02",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Pitchfork (news)",
+      "Stereogum",
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Sufjan Stevens releases new single “On This Christmas (It Only Gets Better)”",
+        "link": "https://theneedledrop.com/news/sufjan-stevens-releases-new-single-on-this-christmas-it-only-gets-better/",
+        "published": "2026-11-02T17:29:49+00:00"
+      },
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Sufjan Stevens – “On This Christmas (It Only Gets Better)”",
+        "link": "https://stereogum.com/2516288/sufjan-stevens-on-this-christmas-it-only-gets-better/music/",
+        "published": "2026-11-02T15:12:36+00:00"
+      },
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Listen to Sufjan Stevens’ New Song “On This Christmas (It Only Gets Better)”",
+        "link": "https://pitchfork.com/story/listen-to-sufjan-stevens-new-song-on-this-christmas-it-only-gets-better/",
+        "published": "2026-11-02T15:07:32+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Yaeji",
+    "title": "DDR",
+    "type": "single",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-11-02",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Pitchfork (news)",
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Pitchfork (news)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Yaeji Plots a Dance Dance Revolution in New Single “DDR”",
+        "link": "https://pitchfork.com/story/yaeji-plots-a-dance-dance-revolution-in-new-ddr-video/",
+        "published": "2026-11-02T16:27:19+00:00"
+      },
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Yaeji – “ddr”",
+        "link": "https://stereogum.com/2516296/yaeji-ddr/music/",
+        "published": "2026-11-02T15:23:15+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Chastity Belt",
+    "title": "Friends For This",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-02",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Chastity Belt – “Friends For This”",
+        "link": "https://stereogum.com/2516394/chastity-belt-friends-for-this/music/",
+        "published": "2026-11-02T21:26:54+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "nate sib & The Kid LAROI",
+    "title": "Face Card (Remix)",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-11-02",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "nate sib and The Kid LAROI Remix ‘Face Card’",
+        "link": "https://www.udiscovermusic.com/news/nate-sib-face-card/",
+        "published": "2026-11-02T19:10:14+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Carter Faith",
+    "title": "Still The Sparrow Sings",
+    "type": "single",
+    "genre": "Other",
+    "release_date": "2026-11-02",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Carter Faith Releases ‘Still The Sparrow Sings’ From ‘Heartland’",
+        "link": "https://www.udiscovermusic.com/news/carter-faith-still-the-sparrow-sings/",
+        "published": "2026-11-02T18:48:11+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Maiya Blaney",
+    "title": "Mary Bed",
+    "type": "ep",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-02",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Listen To Maiya Blaney’s Understated Mary Bed EP",
+        "link": "https://stereogum.com/2516313/listen-to-maiya-blaneys-understated-mary-bed-ep/music/",
+        "published": "2026-11-02T18:00:12+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Joshua Idehen",
+    "title": "Say Less",
+    "type": "single",
+    "genre": "Electronic / Dance",
+    "release_date": "2026-11-02",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Joshua Idehen – “Say Less”",
+        "link": "https://stereogum.com/2516336/joshua-idehen-say-less/music/",
+        "published": "2026-11-02T17:48:00+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Computerwife",
+    "title": "Hammered",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-02",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Computerwife – “Hammered”",
+        "link": "https://stereogum.com/2516335/computerwife-hammered-born-from-a-wish/music/",
+        "published": "2026-11-02T17:19:06+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Zach Bryan",
+    "title": "Kentucky Hurricane",
+    "type": "single",
+    "genre": "Other",
+    "release_date": "2026-11-02",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Rolling Stone (music)"
+    ],
+    "mentions": [
+      {
+        "source": "Rolling Stone (music)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Zach Bryan’s New Song Is a Cover By an Obscure Kentucky Songwriter",
+        "link": "https://www.rollingstone.com/music/music-country/zach-bryan-covers-kentucky-hurricane-ian-noe-1235651328/",
+        "published": "2026-11-02T16:59:21+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Oso Oso",
+    "title": "the facts",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-02",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Oso Oso – “the facts”",
+        "link": "https://stereogum.com/2516332/oso-oso-the-facts/music/",
+        "published": "2026-11-02T16:51:09+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Wiki",
+    "title": "Papiseed Street Vol. 2",
+    "type": "mixtape",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-11-02",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Wiki Drops New Mixtape Papiseed Street Vol. 2",
+        "link": "https://stereogum.com/2516316/wiki-drops-new-mixtape-papiseed-street-vol-2/music/",
+        "published": "2026-11-02T16:02:54+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "smush",
+    "title": "john dearly",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-02",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "smush – “john dearly”",
+        "link": "https://stereogum.com/2516309/smush-john-dearly/news/",
+        "published": "2026-11-02T15:45:32+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Sam Smith & Jacob Lusk",
+    "title": "My Guy",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": "2026-11-02",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Listen to Sam Smith and Jacob Lusk’s ‘My Guy’",
+        "link": "https://www.udiscovermusic.com/news/sam-smith-jacob-lusk-my-guy/",
+        "published": "2026-11-02T15:43:02+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Will Linley",
+    "title": "Could This Be Forever?",
+    "type": "ep",
+    "genre": "Pop",
+    "release_date": "2026-11-02",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Will Linley Releases New EP ‘Could This Be Forever?’",
+        "link": "https://www.udiscovermusic.com/news/will-linley-could-this-be-forever/",
+        "published": "2026-11-02T15:31:21+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Naya Yeira",
+    "title": "almost there",
+    "type": "ep",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-11-02",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Naya Yeira Finds Soulful Renewal On New EP ‘almost there’",
+        "link": "https://www.clashmusic.com/news/naya-yeira-finds-soulful-renewal-on-new-ep-almost-there/",
+        "published": "2026-11-02T15:17:36+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "The Itch",
+    "title": "Planned Obsolescence",
+    "type": "single",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-11-02",
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "The Itch Share New Song ‘Planned Obsolescence’",
+        "link": "https://www.clashmusic.com/news/the-itch-share-new-song-planned-obsolescence/",
+        "published": "2026-11-02T12:56:41+00:00"
       }
     ]
   },
@@ -434,12 +2846,23 @@
     "date_source": "feeds",
     "scores": [],
     "sources": [
+      "Clash",
       "Consequence",
       "Pitchfork (news)",
       "Stereogum",
       "The Needle Drop (website)"
     ],
     "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "new_song",
+        "score": null,
+        "headline": "Atlas Sound Returns With ‘Octoberland’ – His First New Release In 15 Years",
+        "link": "https://www.clashmusic.com/news/atlas-sound-returns-with-octoberland-his-first-new-release-in-15-years/",
+        "published": "2026-11-02T12:06:44+00:00"
+      },
       {
         "source": "The Needle Drop (website)",
         "source_type": "reviews",
@@ -483,48 +2906,61 @@
     ]
   },
   {
-    "artist": "DIIV",
-    "title": "ZIRP!",
+    "artist": "Queens of the Stone Age",
+    "title": "Perfecth",
     "type": "album",
     "genre": "Rock / Alternative / Indie",
     "release_date": "2026-10-30",
-    "date_source": "musicbrainz",
-    "scores": [],
+    "date_source": "feeds",
+    "scores": [
+      3
+    ],
     "sources": [
-      "Pitchfork (album reviews)",
-      "Slant (music)",
-      "Stereogum"
+      "Consequence",
+      "NME",
+      "The Needle Drop (website)",
+      "musicOMH"
     ],
     "mentions": [
       {
-        "source": "Pitchfork (album reviews)",
+        "source": "The Needle Drop (website)",
         "source_type": "reviews",
-        "weight": 1.5,
+        "weight": 1.0,
         "mention": "review",
-        "score": null,
-        "headline": "ZIRP!",
-        "link": "https://pitchfork.com/reviews/albums/diiv-zirp/",
-        "published": "2026-10-30T04:03:00+00:00"
+        "score": 3,
+        "headline": "Queens of the Stone Age - Perfecth",
+        "link": "https://theneedledrop.com/album-reviews/queens-of-the-stone-age-perfecth-album-review-kourfioyqws/",
+        "published": "2026-11-04T12:39:07+00:00"
       },
       {
-        "source": "Stereogum",
+        "source": "NME",
         "source_type": "news",
         "weight": 1.0,
-        "mention": "review",
+        "mention": "release_news",
         "score": null,
-        "headline": "Album Of The Week: DIIV ZIRP!",
-        "link": "https://stereogum.com/2515261/album-of-the-week-diiv-zirp/reviews/album-of-the-week/",
-        "published": "2026-10-27T20:25:11+00:00"
+        "headline": "Josh Homme on reworking Iggy Pop collab ‘Sunday’ for Queens Of The Stone Age’s ‘Perfecth’ – and if they’ll work together again",
+        "link": "https://www.nme.com/news/music/josh-homme-reworking-iggy-pop-collab-sunday-queens-of-the-stone-age-perfecth-3974893?utm_source=rss&utm_medium=rss&utm_campaign=josh-homme-reworking-iggy-pop-collab-sunday-queens-of-the-stone-age-perfecth",
+        "published": "2026-11-03T13:36:57+00:00"
       },
       {
-        "source": "Slant (music)",
+        "source": "Consequence",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Queens of the Stone Age Release New Album Perfecth: Stream",
+        "link": "https://consequence.net/2026/10/queens-of-the-stone-age-perfecth-album-stream/",
+        "published": "2026-10-30T17:44:32+00:00"
+      },
+      {
+        "source": "musicOMH",
         "source_type": "reviews",
         "weight": 1.0,
         "mention": "review",
         "score": null,
-        "headline": "DIIV ‘Zirp!’ Review: Distortion Without Dimension",
-        "link": "https://www.slantmagazine.com/music/diiv-zirp-album-review/",
-        "published": "2026-10-25T15:00:00+00:00"
+        "headline": "Queens Of The Stone Age – Perfecth",
+        "link": "https://www.musicomh.com/reviews/albums/queens-of-the-stone-age-perfecth",
+        "published": "2026-10-28T08:31:05+00:00"
       }
     ]
   },
@@ -537,10 +2973,21 @@
     "date_source": "musicbrainz",
     "scores": [],
     "sources": [
+      "Rolling Stone (music)",
       "Slant (music)",
       "The Needle Drop (website)"
     ],
     "mentions": [
+      {
+        "source": "Rolling Stone (music)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Dominic Fike Might Be Growing Up, But He’s Angsty as Ever",
+        "link": "https://www.rollingstone.com/music/music-album-reviews/dominic-fike-how-to-quit-smoking-review-1235651962/",
+        "published": "2026-11-03T20:28:14+00:00"
+      },
       {
         "source": "Slant (music)",
         "source_type": "reviews",
@@ -595,41 +3042,6 @@
         "headline": "bloodsports share new single, \"Ten Thousand Feet\"",
         "link": "https://theneedledrop.com/news/bloodsports-share-new-single-ten-thousand-feet/",
         "published": "2026-10-30T12:15:50+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Queens Of The Stone Age",
-    "title": "Perfecth",
-    "type": "album",
-    "genre": "Rock / Alternative / Indie",
-    "release_date": "2026-10-30",
-    "date_source": "feeds",
-    "scores": [],
-    "sources": [
-      "Consequence",
-      "musicOMH"
-    ],
-    "mentions": [
-      {
-        "source": "Consequence",
-        "source_type": "news",
-        "weight": 1.0,
-        "mention": "release_news",
-        "score": null,
-        "headline": "Queens of the Stone Age Release New Album Perfecth: Stream",
-        "link": "https://consequence.net/2026/10/queens-of-the-stone-age-perfecth-album-stream/",
-        "published": "2026-10-30T17:44:32+00:00"
-      },
-      {
-        "source": "musicOMH",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "review",
-        "score": null,
-        "headline": "Queens Of The Stone Age – Perfecth",
-        "link": "https://www.musicomh.com/reviews/albums/queens-of-the-stone-age-perfecth",
-        "published": "2026-10-28T08:31:05+00:00"
       }
     ]
   },
@@ -1378,6 +3790,30 @@
     ]
   },
   {
+    "artist": "Sampa The Great",
+    "title": "Nu Zamrock",
+    "type": "album",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-30",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Sampa The Great – Nu Zamrock",
+        "link": "https://www.clashmusic.com/reviews/sampa-the-great-nu-zamrock/",
+        "published": "2026-10-30T12:55:36+00:00"
+      }
+    ]
+  },
+  {
     "artist": "FILLY",
     "title": "Kate S.O.S.",
     "type": "single",
@@ -1446,6 +3882,30 @@
         "headline": "Meryl Streek Presents: Lessons They Don’t Teach You At School",
         "link": "https://www.clashmusic.com/features/meryl-streek-presents-lessons-they-dont-teach-you-at-school/",
         "published": "2026-10-30T11:24:07+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "BigXthaPlug",
+    "title": "Better Over Time",
+    "type": "album",
+    "genre": "Hip-hop / R&B",
+    "release_date": "2026-10-30",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "Rolling Stone (music)"
+    ],
+    "mentions": [
+      {
+        "source": "Rolling Stone (music)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "BigXthaPlug Wrestles With Success on ‘Better Over Time’",
+        "link": "https://www.rollingstone.com/music/music-album-reviews/bigxthaplug-better-over-time-new-album-review-1235649228/",
+        "published": "2026-11-01T16:00:00+00:00"
       }
     ]
   },
@@ -2675,6 +5135,43 @@
     ]
   },
   {
+    "artist": "HMLTD",
+    "title": "FANGS",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": "2026-10-23",
+    "date_source": "musicbrainz",
+    "scores": [
+      5
+    ],
+    "sources": [
+      "The Needle Drop (YouTube)",
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": 5,
+        "headline": "HMLTD - FANGS",
+        "link": "https://theneedledrop.com/album-reviews/hmltd-fangs-album-review-ygfqolufnca/",
+        "published": "2026-11-02T12:58:26+00:00"
+      },
+      {
+        "source": "The Needle Drop (YouTube)",
+        "source_type": "video",
+        "weight": 1.5,
+        "mention": "review",
+        "score": null,
+        "headline": "HMLTD - FANGS ALBUM REVIEW",
+        "link": "https://www.youtube.com/watch?v=YGFqOLufncA",
+        "published": "2026-10-29T23:04:17+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Bruiser Wolf & Conductor Williams",
     "title": "Ain't Got Time",
     "type": "single",
@@ -2719,30 +5216,6 @@
         "headline": "Heavy Is the Crown",
         "link": "https://pitchfork.com/reviews/albums/anderson-paak-cordae-heavy-is-the-crown/",
         "published": "2026-10-29T04:01:00+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "HMLTD",
-    "title": "FANGS",
-    "type": "album",
-    "genre": "Rock / Alternative / Indie",
-    "release_date": "2026-10-23",
-    "date_source": "musicbrainz",
-    "scores": [],
-    "sources": [
-      "The Needle Drop (YouTube)"
-    ],
-    "mentions": [
-      {
-        "source": "The Needle Drop (YouTube)",
-        "source_type": "video",
-        "weight": 1.5,
-        "mention": "review",
-        "score": null,
-        "headline": "HMLTD - FANGS ALBUM REVIEW",
-        "link": "https://www.youtube.com/watch?v=YGFqOLufncA",
-        "published": "2026-10-29T23:04:17+00:00"
       }
     ]
   },
@@ -2815,30 +5288,6 @@
         "headline": "Strawberry Guy – Give Me A Dream",
         "link": "https://www.musicomh.com/reviews/albums/strawberry-guy-give-me-a-dream",
         "published": "2026-10-23T06:31:34+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Caroline Rose",
-    "title": "Gentling The Horse At The Walt Whitman Mall",
-    "type": "album",
-    "genre": "Rock / Alternative / Indie",
-    "release_date": "2026-10-23",
-    "date_source": "musicbrainz",
-    "scores": [],
-    "sources": [
-      "musicOMH"
-    ],
-    "mentions": [
-      {
-        "source": "musicOMH",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "review",
-        "score": null,
-        "headline": "Caroline Rose – Gentling The Horse At The Walt Whitman Mall",
-        "link": "https://www.musicomh.com/reviews/albums/caroline-rose-gentling-the-horse-at-the-walt-whitman-mall",
-        "published": "2026-10-22T07:01:21+00:00"
       }
     ]
   },
@@ -3657,111 +6106,6 @@
     ]
   },
   {
-    "artist": "The Avalanches",
-    "title": "No Bad Memories",
-    "type": "album",
-    "genre": "Electronic / Dance",
-    "release_date": "2026-10-16",
-    "date_source": "musicbrainz",
-    "scores": [],
-    "sources": [
-      "Slant (music)",
-      "The Needle Drop (YouTube)"
-    ],
-    "mentions": [
-      {
-        "source": "The Needle Drop (YouTube)",
-        "source_type": "video",
-        "weight": 1.5,
-        "mention": "review",
-        "score": null,
-        "headline": "The Avalanches - No Bad Memories ALBUM REVIEW",
-        "link": "https://www.youtube.com/watch?v=ZAHEPtclKOg",
-        "published": "2026-10-23T02:46:33+00:00"
-      },
-      {
-        "source": "Slant (music)",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "review",
-        "score": null,
-        "headline": "The Avalanches ‘No Bad Memories’ Review: A Broadcast from the Past",
-        "link": "https://www.slantmagazine.com/music/the-avalanches-no-bad-memories-album-review/",
-        "published": "2026-10-15T02:08:39+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Zach Bryan",
-    "title": "Young Manhood and Other Donatable Organs",
-    "type": "ep",
-    "genre": "Pop",
-    "release_date": "2026-10-16",
-    "date_source": "musicbrainz",
-    "scores": [],
-    "sources": [
-      "Pitchfork (track reviews)",
-      "The Needle Drop (YouTube)"
-    ],
-    "mentions": [
-      {
-        "source": "The Needle Drop (YouTube)",
-        "source_type": "video",
-        "weight": 1.5,
-        "mention": "review",
-        "score": null,
-        "headline": "Zach Bryan - Young Manhood and Other Donatable Organs EP REVIEW",
-        "link": "https://www.youtube.com/watch?v=_J79mLaklF0",
-        "published": "2026-10-22T03:25:27+00:00"
-      },
-      {
-        "source": "Pitchfork (track reviews)",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "release_news",
-        "score": null,
-        "headline": "“Lies” [ft. Lana Del Rey]",
-        "link": "https://pitchfork.com/reviews/track/zach-bryan-lana-del-rey-lies/",
-        "published": "2026-10-16T21:21:38+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Fontaines D.C.",
-    "title": "Dopamine Chamber",
-    "type": "album",
-    "genre": "Rock / Alternative / Indie",
-    "release_date": "2026-10-16",
-    "date_source": "musicbrainz",
-    "scores": [],
-    "sources": [
-      "Slant (music)",
-      "The Needle Drop (YouTube)"
-    ],
-    "mentions": [
-      {
-        "source": "The Needle Drop (YouTube)",
-        "source_type": "video",
-        "weight": 1.5,
-        "mention": "review",
-        "score": null,
-        "headline": "Fontaines D.C. - Dopamine Chamber ALBUM REVIEW",
-        "link": "https://www.youtube.com/watch?v=UzvthnAU6nc",
-        "published": "2026-10-21T01:05:11+00:00"
-      },
-      {
-        "source": "Slant (music)",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "review",
-        "score": null,
-        "headline": "Fontaines D.C. ‘Dopamine Chamber’ Review: Rock Nostalgia as I.P.",
-        "link": "https://www.slantmagazine.com/music/fontaines-dc-dopamine-chamber-album-review/",
-        "published": "2026-10-12T04:00:00+00:00"
-      }
-    ]
-  },
-  {
     "artist": "Chappie",
     "title": "expectations",
     "type": "single",
@@ -3830,78 +6174,6 @@
         "headline": "Angèle – Instinct",
         "link": "https://www.musicomh.com/reviews/albums/angele-instinct",
         "published": "2026-10-23T06:01:52+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Darren Hayman",
-    "title": "I'm Your Team",
-    "type": "album",
-    "genre": "Rock / Alternative / Indie",
-    "release_date": "2026-10-16",
-    "date_source": "musicbrainz",
-    "scores": [],
-    "sources": [
-      "musicOMH"
-    ],
-    "mentions": [
-      {
-        "source": "musicOMH",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "review",
-        "score": null,
-        "headline": "Darren Hayman – I’m Your Team",
-        "link": "https://www.musicomh.com/reviews/albums/darren-hayman-im-your-team",
-        "published": "2026-10-21T07:01:17+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Ella Thompson",
-    "title": "Triumph And Sadness",
-    "type": "album",
-    "genre": "Hip-hop / R&B",
-    "release_date": "2026-10-16",
-    "date_source": "musicbrainz",
-    "scores": [],
-    "sources": [
-      "musicOMH"
-    ],
-    "mentions": [
-      {
-        "source": "musicOMH",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "review",
-        "score": null,
-        "headline": "Ella Thompson – Triumph And Sadness",
-        "link": "https://www.musicomh.com/reviews/albums/ella-thompson-triumph-and-sadness",
-        "published": "2026-10-20T13:01:22+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Richard Thompson",
-    "title": "Hippies, Thugs And Heroes",
-    "type": "album",
-    "genre": "Other",
-    "release_date": "2026-10-16",
-    "date_source": "musicbrainz",
-    "scores": [],
-    "sources": [
-      "musicOMH"
-    ],
-    "mentions": [
-      {
-        "source": "musicOMH",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "review",
-        "score": null,
-        "headline": "Richard Thompson – Hippies, Thugs And Heroes",
-        "link": "https://www.musicomh.com/reviews/albums/richard-thompson-hippies-thugs-and-heroes",
-        "published": "2026-10-20T08:31:51+00:00"
       }
     ]
   },
@@ -4146,37 +6418,26 @@
     ]
   },
   {
-    "artist": "Cameron Winter",
-    "title": "Live at Carnegie Hall",
+    "artist": "Alanis Morissette",
+    "title": "Good Weather for Immaculate Conception",
     "type": "album",
-    "genre": "Rock / Alternative / Indie",
+    "genre": "Pop",
     "release_date": "2026-10-09",
     "date_source": "musicbrainz",
     "scores": [],
     "sources": [
-      "Slant (music)",
-      "The Needle Drop (YouTube)"
+      "Slant (music)"
     ],
     "mentions": [
-      {
-        "source": "The Needle Drop (YouTube)",
-        "source_type": "video",
-        "weight": 1.5,
-        "mention": "list",
-        "score": null,
-        "headline": "GREAT ALBUMS: October 2026",
-        "link": "https://www.youtube.com/watch?v=qvjpRLaeA5Y",
-        "published": "2026-10-18T22:16:02+00:00"
-      },
       {
         "source": "Slant (music)",
         "source_type": "reviews",
         "weight": 1.0,
         "mention": "review",
         "score": null,
-        "headline": "Review: On ‘Live at Carnegie Hall,’ Cameron Winter’s Wonderful Weirdness Takes Center Stage",
-        "link": "https://www.slantmagazine.com/music/cameron-winter-live-at-carnegie-hall-album-review/",
-        "published": "2026-10-06T15:17:03+00:00"
+        "headline": "Alanis Morissette ‘Good Weather for Immaculate Conception’ Review: Seasonal Oddity Disorder",
+        "link": "https://www.slantmagazine.com/music/alanis-morissette-good-weather-for-immaculate-conception-album-review/",
+        "published": "2026-11-04T16:26:12+00:00"
       }
     ]
   },
@@ -4205,146 +6466,50 @@
     ]
   },
   {
-    "artist": "Drake",
-    "title": "Solar Eclipse",
-    "type": "single",
-    "genre": "Hip-hop / R&B",
-    "release_date": "2026-10-02",
-    "date_source": "feeds",
-    "scores": [],
-    "sources": [
-      "Pitchfork (track reviews)"
-    ],
-    "mentions": [
-      {
-        "source": "Pitchfork (track reviews)",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "review",
-        "score": null,
-        "headline": "“Solar Eclipse”",
-        "link": "https://pitchfork.com/reviews/tracks/drake-don-toliver-solar-eclipse/",
-        "published": "2026-10-02T19:53:32+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "The Big Moon",
-    "title": "Forever",
-    "type": "album",
-    "genre": "Rock / Alternative / Indie",
-    "release_date": "2026-10-02",
-    "date_source": "musicbrainz",
-    "scores": [],
-    "sources": [
-      "musicOMH"
-    ],
-    "mentions": [
-      {
-        "source": "musicOMH",
-        "source_type": "reviews",
-        "weight": 1.0,
-        "mention": "review",
-        "score": null,
-        "headline": "The Big Moon – Forever",
-        "link": "https://www.musicomh.com/reviews/albums/the-big-moon-forever",
-        "published": "2026-10-29T08:01:43+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Godflesh",
-    "title": "Decay",
-    "type": "album",
-    "genre": "Rock / Alternative / Indie",
-    "release_date": "2026-09-25",
-    "date_source": "musicbrainz",
-    "scores": [],
-    "sources": [
-      "The Needle Drop (YouTube)"
-    ],
-    "mentions": [
-      {
-        "source": "The Needle Drop (YouTube)",
-        "source_type": "video",
-        "weight": 1.5,
-        "mention": "list",
-        "score": null,
-        "headline": "GREAT ALBUMS: October 2026",
-        "link": "https://www.youtube.com/watch?v=qvjpRLaeA5Y",
-        "published": "2026-10-18T22:16:02+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Zukenee",
-    "title": "BLUNTS & BLADES",
-    "type": "album",
-    "genre": "Hip-hop / R&B",
-    "release_date": "2026-09-23",
-    "date_source": "musicbrainz",
-    "scores": [],
-    "sources": [
-      "Pitchfork (album reviews)"
-    ],
-    "mentions": [
-      {
-        "source": "Pitchfork (album reviews)",
-        "source_type": "reviews",
-        "weight": 1.5,
-        "mention": "review",
-        "score": null,
-        "headline": "BLUNTS & BLADES",
-        "link": "https://pitchfork.com/reviews/albums/zukenee-blunts-and-blades/",
-        "published": "2026-10-21T04:00:00+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Alex Cameron",
-    "title": "Late to Set",
-    "type": "album",
-    "genre": "Pop",
-    "release_date": "2026-07-24",
-    "date_source": "musicbrainz",
-    "scores": [],
-    "sources": [
-      "The Needle Drop (YouTube)"
-    ],
-    "mentions": [
-      {
-        "source": "The Needle Drop (YouTube)",
-        "source_type": "video",
-        "weight": 1.5,
-        "mention": "list",
-        "score": null,
-        "headline": "GREAT ALBUMS: October 2026",
-        "link": "https://www.youtube.com/watch?v=qvjpRLaeA5Y",
-        "published": "2026-10-18T22:16:02+00:00"
-      }
-    ]
-  },
-  {
-    "artist": "Knats",
-    "title": "A Great Day In Newcastle",
+    "artist": "Wild Horses",
+    "title": "The In Between",
     "type": "album",
     "genre": "Other",
-    "release_date": "2026-05-01",
+    "release_date": "2026-10-02",
     "date_source": "musicbrainz",
     "scores": [],
     "sources": [
-      "musicOMH"
+      "Rolling Stone (music)"
     ],
     "mentions": [
       {
-        "source": "musicOMH",
-        "source_type": "reviews",
+        "source": "Rolling Stone (music)",
+        "source_type": "news",
         "weight": 1.0,
-        "mention": "review",
+        "mention": "release_news",
         "score": null,
-        "headline": "Knats – A Great Day In Newcastle",
-        "link": "https://www.musicomh.com/reviews/albums/knats-a-great-day-in-newcastle",
-        "published": "2026-10-21T06:31:12+00:00"
+        "headline": "‘This Had Better Work’: Why This Folk-Country Band Sold Their House to Go on Tour",
+        "link": "https://www.rollingstone.com/music/music-features/wild-horses-band-sells-house-to-tour-1235652279/",
+        "published": "2026-11-04T19:28:48+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "ALLDAY PROJECT",
+    "title": "CRASH",
+    "type": "ep",
+    "genre": "Pop",
+    "release_date": "2026-09-28",
+    "date_source": "musicbrainz",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "Do It Like This: CLASH Meets ALLDAY PROJECT",
+        "link": "https://www.clashmusic.com/features/do-it-like-this-clash-meets-allday-project/",
+        "published": "2026-11-03T12:09:45+00:00"
       }
     ]
   },
@@ -4379,11 +6544,24 @@
     "genre": "Rock / Alternative / Indie",
     "release_date": "2024-11-29",
     "date_source": "musicbrainz",
-    "scores": [],
+    "scores": [
+      8
+    ],
     "sources": [
-      "The Needle Drop (YouTube)"
+      "The Needle Drop (YouTube)",
+      "The Needle Drop (website)"
     ],
     "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": 8,
+        "headline": "The Olivia Tremor Control - The Same Place [GUEST REVIEW]",
+        "link": "https://theneedledrop.com/album-reviews/the-olivia-tremor-control-the-same-place-album-review-dng3ikbkgq0/",
+        "published": "2026-11-02T13:05:11+00:00"
+      },
       {
         "source": "The Needle Drop (YouTube)",
         "source_type": "video",
@@ -4393,6 +6571,41 @@
         "headline": "The Olivia Tremor Control - The Same Place ALBUM REVIEW",
         "link": "https://www.youtube.com/watch?v=DnG3IkbkGQ0",
         "published": "2026-11-01T04:41:41+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "The Avalanches",
+    "title": "No Bad Memories",
+    "type": "album",
+    "genre": "Electronic / Dance",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Slant (music)",
+      "The Needle Drop (YouTube)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (YouTube)",
+        "source_type": "video",
+        "weight": 1.5,
+        "mention": "review",
+        "score": null,
+        "headline": "The Avalanches - No Bad Memories ALBUM REVIEW",
+        "link": "https://www.youtube.com/watch?v=ZAHEPtclKOg",
+        "published": "2026-10-23T02:46:33+00:00"
+      },
+      {
+        "source": "Slant (music)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "The Avalanches ‘No Bad Memories’ Review: A Broadcast from the Past",
+        "link": "https://www.slantmagazine.com/music/the-avalanches-no-bad-memories-album-review/",
+        "published": "2026-10-15T02:08:39+00:00"
       }
     ]
   },
@@ -4432,6 +6645,76 @@
     ]
   },
   {
+    "artist": "Zach Bryan",
+    "title": "Young Manhood and Other Donatable Organs",
+    "type": "ep",
+    "genre": "Pop",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Pitchfork (track reviews)",
+      "The Needle Drop (YouTube)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (YouTube)",
+        "source_type": "video",
+        "weight": 1.5,
+        "mention": "review",
+        "score": null,
+        "headline": "Zach Bryan - Young Manhood and Other Donatable Organs EP REVIEW",
+        "link": "https://www.youtube.com/watch?v=_J79mLaklF0",
+        "published": "2026-10-22T03:25:27+00:00"
+      },
+      {
+        "source": "Pitchfork (track reviews)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "“Lies” [ft. Lana Del Rey]",
+        "link": "https://pitchfork.com/reviews/track/zach-bryan-lana-del-rey-lies/",
+        "published": "2026-10-16T21:21:38+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Fontaines D.C.",
+    "title": "Dopamine Chamber",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Slant (music)",
+      "The Needle Drop (YouTube)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (YouTube)",
+        "source_type": "video",
+        "weight": 1.5,
+        "mention": "review",
+        "score": null,
+        "headline": "Fontaines D.C. - Dopamine Chamber ALBUM REVIEW",
+        "link": "https://www.youtube.com/watch?v=UzvthnAU6nc",
+        "published": "2026-10-21T01:05:11+00:00"
+      },
+      {
+        "source": "Slant (music)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Fontaines D.C. ‘Dopamine Chamber’ Review: Rock Nostalgia as I.P.",
+        "link": "https://www.slantmagazine.com/music/fontaines-dc-dopamine-chamber-album-review/",
+        "published": "2026-10-12T04:00:00+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Diana Silvers",
     "title": "Daughter of Sorts",
     "type": "album",
@@ -4463,6 +6746,78 @@
         "headline": "Diana Silvers Announces Sophomore Album ‘Daughter of Sorts’",
         "link": "https://www.udiscovermusic.com/news/diana-silvers-daughter-of-sorts/",
         "published": "2026-10-23T14:49:58+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "PISS",
+    "title": "You Made Me/Skin On Linen",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [
+      9
+    ],
+    "sources": [
+      "The Needle Drop (website)",
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": 9,
+        "headline": "PISS - you made me / skin on linen",
+        "link": "https://theneedledrop.com/album-reviews/piss-you-made-me-skin-on-linen-album-review-naxdhd-r3yq/",
+        "published": "2026-11-05T15:13:57+00:00"
+      },
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "PISS – You Made Me/Skin On Linen",
+        "link": "https://www.musicomh.com/reviews/albums/piss-you-made-me-skin-on-linen",
+        "published": "2026-10-30T07:31:20+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "The Holy Cross Tigers",
+    "title": "The Holy Cross Tigers",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Pitchfork (album reviews)",
+      "Slant (music)"
+    ],
+    "mentions": [
+      {
+        "source": "Pitchfork (album reviews)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "The Holy Cross Tigers",
+        "link": "https://pitchfork.com/reviews/albums/twisted-teens-the-holy-cross-tigers/",
+        "published": "2026-11-05T05:03:00+00:00"
+      },
+      {
+        "source": "Slant (music)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Twisted Teens ‘The Holy Cross Tigers’ Review: Ramshackle Rock That’s More Than Meets the Eye",
+        "link": "https://www.slantmagazine.com/music/twisted-teens-the-holy-cross-tigers-album-review/",
+        "published": "2026-11-04T16:47:57+00:00"
       }
     ]
   },
@@ -4659,6 +7014,30 @@
     ]
   },
   {
+    "artist": "Zukenee",
+    "title": "BLUNTS & BLADES",
+    "type": "album",
+    "genre": "Hip-hop / R&B",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Pitchfork (album reviews)"
+    ],
+    "mentions": [
+      {
+        "source": "Pitchfork (album reviews)",
+        "source_type": "reviews",
+        "weight": 1.5,
+        "mention": "review",
+        "score": null,
+        "headline": "BLUNTS & BLADES",
+        "link": "https://pitchfork.com/reviews/albums/zukenee-blunts-and-blades/",
+        "published": "2026-10-21T04:00:00+00:00"
+      }
+    ]
+  },
+  {
     "artist": "Dylan Young",
     "title": "Massive Shoe",
     "type": "album",
@@ -4703,6 +7082,78 @@
         "headline": "Stick Around for Tea",
         "link": "https://pitchfork.com/reviews/albums/worldpeace-dmt-stick-around-for-tea/",
         "published": "2026-10-19T04:03:00+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Alex Cameron",
+    "title": "Late to Set",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "The Needle Drop (YouTube)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (YouTube)",
+        "source_type": "video",
+        "weight": 1.5,
+        "mention": "list",
+        "score": null,
+        "headline": "GREAT ALBUMS: October 2026",
+        "link": "https://www.youtube.com/watch?v=qvjpRLaeA5Y",
+        "published": "2026-10-18T22:16:02+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Cameron Winter",
+    "title": "Live at Carnegie Hall",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "The Needle Drop (YouTube)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (YouTube)",
+        "source_type": "video",
+        "weight": 1.5,
+        "mention": "list",
+        "score": null,
+        "headline": "GREAT ALBUMS: October 2026",
+        "link": "https://www.youtube.com/watch?v=qvjpRLaeA5Y",
+        "published": "2026-10-18T22:16:02+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Godflesh",
+    "title": "Decay",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "The Needle Drop (YouTube)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (YouTube)",
+        "source_type": "video",
+        "weight": 1.5,
+        "mention": "list",
+        "score": null,
+        "headline": "GREAT ALBUMS: October 2026",
+        "link": "https://www.youtube.com/watch?v=qvjpRLaeA5Y",
+        "published": "2026-10-18T22:16:02+00:00"
       }
     ]
   },
@@ -5043,8 +7494,8 @@
     ]
   },
   {
-    "artist": "PISS",
-    "title": "You Made Me/Skin On Linen",
+    "artist": "Caroline Rose",
+    "title": "Gentling The Horse At The Walt Whitman Mall",
     "type": "album",
     "genre": "Rock / Alternative / Indie",
     "release_date": null,
@@ -5060,9 +7511,105 @@
         "weight": 1.0,
         "mention": "review",
         "score": null,
-        "headline": "PISS – You Made Me/Skin On Linen",
-        "link": "https://www.musicomh.com/reviews/albums/piss-you-made-me-skin-on-linen",
-        "published": "2026-10-30T07:31:20+00:00"
+        "headline": "Caroline Rose – Gentling The Horse At The Walt Whitman Mall",
+        "link": "https://www.musicomh.com/reviews/albums/caroline-rose-gentling-the-horse-at-the-walt-whitman-mall",
+        "published": "2026-10-22T07:01:21+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Darren Hayman",
+    "title": "I'm Your Team",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Darren Hayman – I’m Your Team",
+        "link": "https://www.musicomh.com/reviews/albums/darren-hayman-im-your-team",
+        "published": "2026-10-21T07:01:17+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Knats",
+    "title": "A Great Day In Newcastle",
+    "type": "album",
+    "genre": "Other",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Knats – A Great Day In Newcastle",
+        "link": "https://www.musicomh.com/reviews/albums/knats-a-great-day-in-newcastle",
+        "published": "2026-10-21T06:31:12+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Ella Thompson",
+    "title": "Triumph And Sadness",
+    "type": "album",
+    "genre": "Hip-hop / R&B",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Ella Thompson – Triumph And Sadness",
+        "link": "https://www.musicomh.com/reviews/albums/ella-thompson-triumph-and-sadness",
+        "published": "2026-10-20T13:01:22+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Richard Thompson",
+    "title": "Hippies, Thugs And Heroes",
+    "type": "album",
+    "genre": "Other",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "musicOMH"
+    ],
+    "mentions": [
+      {
+        "source": "musicOMH",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "Richard Thompson – Hippies, Thugs And Heroes",
+        "link": "https://www.musicomh.com/reviews/albums/richard-thompson-hippies-thugs-and-heroes",
+        "published": "2026-10-20T08:31:51+00:00"
       }
     ]
   },
@@ -5355,10 +7902,130 @@
     ]
   },
   {
-    "artist": "Sampa The Great",
-    "title": "Nu Zamrock",
+    "artist": "HYUKOH",
+    "title": "33",
     "type": "album",
-    "genre": "Hip-hop / R&B",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Consequence"
+    ],
+    "mentions": [
+      {
+        "source": "Consequence",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "HYUKOH Announce New Album, 33, First US Tour Dates Since 2019",
+        "link": "https://consequence.net/2026/11/hyukoh-announce-new-album-tour-dates/",
+        "published": "2026-11-06T03:32:12+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "1tbsp",
+    "title": "big soaps",
+    "type": "album",
+    "genre": "Rock / Alternative / Indie",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Stereogum"
+    ],
+    "mentions": [
+      {
+        "source": "Stereogum",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "1tbsp Announce New Album big soaps: Hear “Carottes”",
+        "link": "https://stereogum.com/2516630/1tbsp-big-soaps-album-announce-carottes-miki/music/",
+        "published": "2026-11-05T19:08:14+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Brandy Clark",
+    "title": "American Roots",
+    "type": "single",
+    "genre": "Other",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Rolling Stone (music)"
+    ],
+    "mentions": [
+      {
+        "source": "Rolling Stone (music)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "list",
+        "score": null,
+        "headline": "In the Wake of the 2026 Midterms, Can We Reframe the Patriotic Song?",
+        "link": "https://www.rollingstone.com/music/music-features/patriotic-songs-midterm-elections-brandy-clark-1235653364/",
+        "published": "2026-11-05T19:07:14+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Allysha Joy",
+    "title": "Actions Of Love",
+    "type": "album",
+    "genre": "Other",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Allysha Joy Confirms New Album ‘Actions Of Love’",
+        "link": "https://www.clashmusic.com/news/allysha-joy-confirms-new-album-actions-of-love/",
+        "published": "2026-11-05T11:26:45+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Carlos Santana & Natalia Lafourcade",
+    "title": "Hermano",
+    "type": "single",
+    "genre": "Other",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Rolling Stone (music)"
+    ],
+    "mentions": [
+      {
+        "source": "Rolling Stone (music)",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "How Carlos Santana and Natalia Lafourcade Came Together for ‘Hermano,’ an Ode to Migrants",
+        "link": "https://www.rollingstone.com/music/music-latin/carlos-santana-natalia-lafourcade-hermano-song-1235652652/",
+        "published": "2026-11-04T17:41:56+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Blu DeTiger",
+    "title": "N.Y. Baby",
+    "type": "album",
+    "genre": "Electronic / Dance",
     "release_date": null,
     "date_source": "feeds",
     "scores": [],
@@ -5372,9 +8039,129 @@
         "weight": 1.0,
         "mention": "review",
         "score": null,
-        "headline": "Sampa The Great – Nu Zamrock",
-        "link": "https://www.clashmusic.com/reviews/sampa-the-great-nu-zamrock/",
-        "published": "2026-10-30T12:55:36+00:00"
+        "headline": "Blu DeTiger – N.Y. Baby",
+        "link": "https://www.clashmusic.com/reviews/blu-detiger-n-y-baby/",
+        "published": "2026-11-04T12:50:17+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Felicia Chen",
+    "title": "What to Make of These Mortal Hands",
+    "type": "album",
+    "genre": "Other",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Pitchfork (album reviews)"
+    ],
+    "mentions": [
+      {
+        "source": "Pitchfork (album reviews)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "review",
+        "score": null,
+        "headline": "What to Make of These Mortal Hands",
+        "link": "https://pitchfork.com/reviews/albums/dis-fig-what-to-make-of-these-mortal-hands/",
+        "published": "2026-11-04T05:00:00+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "JISOO",
+    "title": "Sun Showers",
+    "type": "single",
+    "genre": "Pop",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Billboard"
+    ],
+    "mentions": [
+      {
+        "source": "Billboard",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "JISOO Announces ‘Sun Showers,’ New Song for ‘The Angry Birds Movie 3’",
+        "link": "https://www.billboard.com/culture/tv-film/jisoo-sun-showers-angry-birds-movie-3-song-1236373617/",
+        "published": "2026-11-04T01:01:24+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Various Artists",
+    "title": "The Hunger Games: Sunrise On The Reaping (The Album)",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "uDiscover Music"
+    ],
+    "mentions": [
+      {
+        "source": "uDiscover Music",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "release_news",
+        "score": null,
+        "headline": "‘The Hunger Games: Sunrise On The Reaping’ Album Reveals Tracklist",
+        "link": "https://www.udiscovermusic.com/news/hunger-games-sunrise-on-the-reaping-tracklist-reveal/",
+        "published": "2026-11-03T17:05:44+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Charlotte Adigéry & Bolis Pupul",
+    "title": "Mainland Mandinina",
+    "type": "album",
+    "genre": "Pop",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "The Needle Drop (website)"
+    ],
+    "mentions": [
+      {
+        "source": "The Needle Drop (website)",
+        "source_type": "reviews",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Charlotte Adigéry & Bolis Pupul return with new album 'Mainland Mandinina'",
+        "link": "https://theneedledrop.com/news/charlotte-adigery-bolis-pupul-return-with-new-album-mainland-mandinina/",
+        "published": "2026-11-03T16:03:29+00:00"
+      }
+    ]
+  },
+  {
+    "artist": "Bess Atwell",
+    "title": "Cut A Figure",
+    "type": "album",
+    "genre": "Other",
+    "release_date": null,
+    "date_source": "feeds",
+    "scores": [],
+    "sources": [
+      "Clash"
+    ],
+    "mentions": [
+      {
+        "source": "Clash",
+        "source_type": "news",
+        "weight": 1.0,
+        "mention": "announcement",
+        "score": null,
+        "headline": "Bess Atwell Introduces New Album ‘Cut A Figure’",
+        "link": "https://www.clashmusic.com/news/bess-atwell-introduces-new-album-cut-a-figure/",
+        "published": "2026-11-02T14:40:11+00:00"
       }
     ]
   }
