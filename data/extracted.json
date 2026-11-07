@@ -678,17 +678,6 @@
  "cb193db0ba1254e7": [],
  "25c1ad1ba56883e4": [],
  "8263fef42b9eba28": [],
- "1fe9ebc339bffde2": [
-  {
-   "artist": "Emily Moales",
-   "title": "Born Again",
-   "type": "single",
-   "genre": "Rock / Alternative / Indie",
-   "release_date": "2026-10-07",
-   "mention": "review",
-   "score": null
-  }
- ],
  "3a2b667903282c62": [
   {
    "artist": "DIIV",
@@ -4916,5 +4905,722 @@
    "score": null
   }
  ],
- "b532b034f23ad076": []
+ "b532b034f23ad076": [],
+ "e658cdcb8caf9d19": [],
+ "c83fe13ff1d47b00": [],
+ "d550361dc1c0d44f": [],
+ "024324e7c2d2610a": [],
+ "fbe896b6fd275b28": [],
+ "ded76ea5a131303e": [
+  {
+   "artist": "Lasso",
+   "title": "Objetos Frágiles en Ambientes Hostiles",
+   "type": "album",
+   "genre": "Other",
+   "release_date": null,
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "428d5238253b1cfe": [],
+ "1fb57864f690a07f": [],
+ "f15e8ab2a87f16af": [],
+ "e129e84defb1745f": [
+  {
+   "artist": "Guppy",
+   "title": "Looking Right At It",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "c0ceade6a890fe79": [],
+ "b0735558261de823": [],
+ "21ed220172190689": [],
+ "20d380c07f15ba2a": [
+  {
+   "artist": "Carriers",
+   "title": "Look At Miss Ohio",
+   "type": "single",
+   "genre": "Other",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "bec204cc268661f8": [],
+ "9b00da44085d00cc": [],
+ "ae6089799fd19d4f": [
+  {
+   "artist": "Fiona Apple & the Bolt Cutters",
+   "title": "Revolution",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "11c91b33c8abfaa5": [],
+ "06dd7ca0eb10750d": [
+  {
+   "artist": "Fiona Apple & the Bolt Cutters",
+   "title": "Revolution",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-06",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "6bfe8b4fc9dc736f": [],
+ "c2032f21fd636c1b": [
+  {
+   "artist": "Tiger Lewis",
+   "title": "Lonely Guy",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "73deb9e2e201cb49": [
+  {
+   "artist": "Dusted",
+   "title": "Black Tattoo",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "3cfebd9fdc3973d3": [],
+ "08cbe31ef237959b": [],
+ "1a3e160b725ce0c8": [
+  {
+   "artist": "Tyler Hubbard",
+   "title": "Playin It Cool",
+   "type": "single",
+   "genre": "Other",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "9a2f160f8b436418": [],
+ "20603b8b1a574d86": [
+  {
+   "artist": "Muscadine Bloodline",
+   "title": "Blue Bayou",
+   "type": "single",
+   "genre": "Other",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "baafa5436397ab23": [
+  {
+   "artist": "Towa Bird",
+   "title": "Deep Blue",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "9d1d605a84bb2023": [
+  {
+   "artist": "Fall Out Boy",
+   "title": "ACES",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-09",
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "13c99977669ff206": [
+  {
+   "artist": "AURORA & Bear McCreary",
+   "title": "Morning Shall Come",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "0e15bd1da59c07e2": [],
+ "a979c23c05030c57": [
+  {
+   "artist": "Showing Teeth",
+   "title": "Hellraiser",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "458fcb66d8d5aa96": [],
+ "81351c69c4cbfc2d": [],
+ "f44ae7938307dc24": [],
+ "eaf57d189b1efb52": [],
+ "7def9816b9b58d3b": [
+  {
+   "artist": "Nick Diamonds",
+   "title": "Got The Devil",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  },
+  {
+   "artist": "Nick Diamonds",
+   "title": "The River",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "98004aab4944831d": [
+  {
+   "artist": "HEADSEND",
+   "title": "A Delicate Balance",
+   "type": "ep",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-06",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "8da9acdc756a1999": [],
+ "d120bb00748eefb8": [
+  {
+   "artist": "Noeline Hofmann",
+   "title": "Lovers",
+   "type": "single",
+   "genre": "Other",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "6df07d4b3b0bc779": [
+  {
+   "artist": "Alanis Morissette",
+   "title": "Good Weather for Immaculate Conception",
+   "type": "album",
+   "genre": "Pop",
+   "release_date": "2026-11-06",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "3bd15c0640541a06": [
+  {
+   "artist": "Fiona Apple & The Bolt Cutters",
+   "title": "Revolution",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "7c71ef32d0691f47": [
+  {
+   "artist": "Tegan and Sara",
+   "title": "I Love Christmas",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  },
+  {
+   "artist": "Tegan and Sara",
+   "title": "A December to Remember",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "85c02e1bb5f8fc38": [],
+ "d4c9d5e1a58bfb60": [],
+ "3776eaacd949b390": [],
+ "a657310ab04321d1": [],
+ "ce5065118e0229e5": [
+  {
+   "artist": "Becky And The Birds",
+   "title": "Way Back To You",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "e415bfd33df443d7": [],
+ "759073709cbe65dd": [],
+ "25af5f0877051b39": [
+  {
+   "artist": "Bruiser Wolf & Conductor Williams",
+   "title": "The Dealer Wins",
+   "type": "album",
+   "genre": "Hip-hop / R&B",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Bruiser Wolf & Conductor Williams",
+   "title": "The Score",
+   "type": "single",
+   "genre": "Hip-hop / R&B",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "50354503c0d8b302": [],
+ "fc63d3ac0649bfca": [
+  {
+   "artist": "Tegan And Sara",
+   "title": "I Love Christmas",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  },
+  {
+   "artist": "Tegan And Sara",
+   "title": "A December To Remember",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "04fd0021bb272b94": [],
+ "4e3b15f10ad47525": [],
+ "86a2a8e6cf68f6cb": [],
+ "bb1545847f240cb1": [
+  {
+   "artist": "Whitechapel",
+   "title": "Bedlam",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "ab941824651de231": [],
+ "281f6390f08d73e5": [
+  {
+   "artist": "Cruel Santino",
+   "title": "Kings of the Bounce – The Bomberman Chronicles",
+   "type": "album",
+   "genre": "Hip-hop / R&B",
+   "release_date": "2026-11-06",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "ee18fa7040f2015f": [
+  {
+   "artist": "Future",
+   "title": "Ya Hit",
+   "type": "single",
+   "genre": "Hip-hop / R&B",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "48bf6dc34028a641": [
+  {
+   "artist": "Steven Wilson",
+   "title": "Requiem For A Village",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "46ce0d8aa647d59e": [],
+ "60cdcaf5ed0f6247": [
+  {
+   "artist": "Cleo Reed",
+   "title": "Is This How Empires Die?",
+   "type": "ep",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  }
+ ],
+ "6bd6532b91ab3edc": [],
+ "fda1e9e4a7b7b290": [
+  {
+   "artist": "Willi Carlisle",
+   "title": "Universal Bubba",
+   "type": "album",
+   "genre": "Other",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "205ca3dbe17bea3f": [],
+ "c9f49d528d2c2f9d": [],
+ "373f5f467b862b0f": [],
+ "07d49e36b8b13afb": [],
+ "92a79595ddb0bc42": [],
+ "d3c0d656063c7589": [
+  {
+   "artist": "Porter Robinson",
+   "title": "Smile :D Plus+",
+   "type": "album",
+   "genre": "Electronic / Dance",
+   "release_date": null,
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "5e2aafe5330a3af4": [
+  {
+   "artist": "Stove God Cooks",
+   "title": "Stovie's Home (Down Down)",
+   "type": "single",
+   "genre": "Hip-hop / R&B",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "d5d1a22232a46163": [
+  {
+   "artist": "Lindstrøm",
+   "title": "Not The End Of It All",
+   "type": "single",
+   "genre": "Electronic / Dance",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "9abad20d72bc4ada": [],
+ "73766052df2ea7bc": [],
+ "259cec03da595c95": [],
+ "45feb823dd171f63": [],
+ "4c7fb404a956c174": [],
+ "0c80624b2ab7ae53": [],
+ "843955526057a216": [],
+ "842e5ae12c5d7bae": [],
+ "4636d8200f439b0b": [],
+ "99142cc17af2060e": [
+  {
+   "artist": "Brokeback",
+   "title": "Colder, Milder",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Brokeback",
+   "title": "Colder, Milder",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "efe81dfc11445b31": [
+  {
+   "artist": "Cleo Reed",
+   "title": "Is This How Empires Die?",
+   "type": "ep",
+   "genre": "Other",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Cleo Reed",
+   "title": "American Dream",
+   "type": "single",
+   "genre": "Other",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "b0beb50a76a56714": [],
+ "a9f52ec66f6aee85": [],
+ "4600ade64084647a": [],
+ "f94630636d3ea476": [],
+ "e8605a0f360199c7": [],
+ "967ad24d55bc9c63": [],
+ "17140afe34c465de": [
+  {
+   "artist": "Belly Gang Kushington",
+   "title": "Good Dope Sell Itself",
+   "type": "album",
+   "genre": "Hip-hop / R&B",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Belly Gang Kushington",
+   "title": "OK",
+   "type": "single",
+   "genre": "Hip-hop / R&B",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "8f63fff42fb2eef4": [],
+ "1e3825f014ac9f73": [
+  {
+   "artist": "Future & Drake & Travis Scott",
+   "title": "Ya Hit",
+   "type": "single",
+   "genre": "Hip-hop / R&B",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "4c19fce15346cf2e": [],
+ "dbf9294e554ba076": [
+  {
+   "artist": "Royal Blood",
+   "title": "Dead Company",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-06",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "f8c28187afbffab4": [
+  {
+   "artist": "Slayyyter",
+   "title": "hey boyyy",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "7f95ff20256269a1": [
+  {
+   "artist": "Future & Drake & Travis Scott",
+   "title": "Ya Hit",
+   "type": "single",
+   "genre": "Hip-hop / R&B",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "5630e19cd94f3389": [
+  {
+   "artist": "Katie Gregson-MacLeod",
+   "title": "Albatross",
+   "type": "single",
+   "genre": "Other",
+   "release_date": null,
+   "mention": "review",
+   "score": null
+  }
+ ],
+ "a0ec58aaf156614b": [
+  {
+   "artist": "Regina Ferguson",
+   "title": "Ride 'til Dawn",
+   "type": "single",
+   "genre": "Other",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "8550bd687994c446": [
+  {
+   "artist": "Telemakus",
+   "title": "Eight Ring Revival",
+   "type": "album",
+   "genre": "Other",
+   "release_date": null,
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "9533a9754c58381c": [
+  {
+   "artist": "Cristale",
+   "title": "Clear Intentions",
+   "type": "mixtape",
+   "genre": "Hip-hop / R&B",
+   "release_date": "2026-11-06",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "94b7817736740737": [
+  {
+   "artist": "Future",
+   "title": "Ya Hit",
+   "type": "single",
+   "genre": "Hip-hop / R&B",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "ff6e8642215140a2": [],
+ "8c956db2041e6bba": [],
+ "d0cf2d95adbaa010": [],
+ "928271edec5ec936": [
+  {
+   "artist": "Superchunk",
+   "title": "Wintry Mix",
+   "type": "ep",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-06",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "aee78b18cbda752f": [],
+ "2b37db62f47dd6f9": [
+  {
+   "artist": "Cam Cole",
+   "title": "Lost In Creation",
+   "type": "album",
+   "genre": "Other",
+   "release_date": "2026-11-06",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "2050771b44d79245": [],
+ "8f20dc5f4d881ec8": [],
+ "ab99916665feb6fe": [],
+ "14fee99b3a5e3f63": [],
+ "4f350dcf4be2179d": [
+  {
+   "artist": "Marlon Hoffstadt & Niko Rubio",
+   "title": "Water",
+   "type": "single",
+   "genre": "Electronic / Dance",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "2e2d81d0e00631ad": [],
+ "23e8e1b51a729e28": [],
+ "5f95a828bb532e62": [
+  {
+   "artist": "Toro y Moi",
+   "title": "Motive",
+   "type": "single",
+   "genre": "Electronic / Dance",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "f88a687daa5545d6": [
+  {
+   "artist": "Materazi Future Club",
+   "title": "THE ITALIAN JOB",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-06",
+   "mention": "release_news",
+   "score": null
+  }
+ ],
+ "3ea12cba3af9e7ec": [],
+ "d3a8a4858f068208": [],
+ "7e5336ad22f832c3": [],
+ "69c1fcae67899558": [],
+ "fdc824bbcc1b7789": [
+  {
+   "artist": "Star's Revenge",
+   "title": "Star's Revenge II",
+   "type": "album",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": null,
+   "mention": "announcement",
+   "score": null
+  },
+  {
+   "artist": "Star's Revenge",
+   "title": "Don't Worry Dynamite",
+   "type": "single",
+   "genre": "Rock / Alternative / Indie",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ],
+ "2a640e11143dfb73": [
+  {
+   "artist": "brakence",
+   "title": "marroW",
+   "type": "album",
+   "genre": "Hip-hop / R&B",
+   "release_date": null,
+   "mention": "review",
+   "score": 2
+  }
+ ],
+ "ba3982a9ca88ed05": [
+  {
+   "artist": "Rachel Chinouriri",
+   "title": "I think I spoke too soon",
+   "type": "album",
+   "genre": "Pop",
+   "release_date": null,
+   "mention": "review",
+   "score": 7
+  }
+ ],
+ "6d10ee5d7adbec74": [
+  {
+   "artist": "Olivia Rodrigo",
+   "title": "take me home (4 christmas)",
+   "type": "single",
+   "genre": "Pop",
+   "release_date": "2026-11-06",
+   "mention": "new_song",
+   "score": null
+  }
+ ]
 }

@@ -1,8 +1,79 @@
 {
   "week_start": "2026-10-31",
   "week_end": "2026-11-06",
-  "generated": "2026-11-06T11:35:27.821771+00:00",
+  "generated": "2026-11-07T04:45:31.134949+00:00",
   "top": [
+    {
+      "artist": "Future",
+      "title": "Ya Hit",
+      "type": "single",
+      "genre": "Hip-hop / R&B",
+      "release_date": "2026-11-06",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Pitchfork (news)",
+        "Rolling Stone (music)",
+        "Stereogum",
+        "XXL"
+      ],
+      "mentions": [
+        {
+          "source": "XXL",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Future Taps Drake, Travis Scott and Loe Shimmy for 'Ya Hit'",
+          "link": "https://www.xxlmag.com/future-drake-travis-scott-loe-shimmy-ya-hit/",
+          "published": "2026-11-06T17:41:01+00:00"
+        },
+        {
+          "source": "Pitchfork (news)",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Future, Drake, and Travis Scott Join Forces for “Ya Hit”",
+          "link": "https://pitchfork.com/story/future-drake-and-travis-scott-join-forces-for-ya-hit/",
+          "published": "2026-11-06T15:35:30+00:00"
+        },
+        {
+          "source": "Rolling Stone (music)",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Future Assembles His Avengers With Drake, Travis Scott, and Loe Shimmy on ‘Ya Hit’",
+          "link": "https://www.rollingstone.com/music/music-news/future-ya-hit-drake-travis-scott-loe-shimmy-1235653821/",
+          "published": "2026-11-06T15:15:58+00:00"
+        },
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Future – “Ya Hit” (Feat. Drake, Travis Scott, & Loe Shimmy)",
+          "link": "https://stereogum.com/2516749/future-ya-hit-feat-drake-travis-scott-loe-shimmy/music/",
+          "published": "2026-11-06T14:49:14+00:00"
+        }
+      ],
+      "fans": 3996583,
+      "star_power": 0.943,
+      "personal": 0.906,
+      "personal_reason": "You've played Future 208 times",
+      "coverage": 4.0,
+      "publications": [
+        "Pitchfork",
+        "Rolling Stone",
+        "Stereogum",
+        "XXL"
+      ],
+      "popularity": 0.633,
+      "rank_score": 0.851,
+      "avg_score": null
+    },
     {
       "artist": "Ecco2k",
       "title": "Sky Burial",
@@ -34,8 +105,8 @@
       "publications": [
         "The Needle Drop"
       ],
-      "popularity": 0.278,
-      "rank_score": 0.83,
+      "popularity": 0.266,
+      "rank_score": 0.828,
       "avg_score": null
     },
     {
@@ -104,8 +175,67 @@
         "Slant",
         "Stereogum"
       ],
-      "popularity": 0.589,
-      "rank_score": 0.826,
+      "popularity": 0.539,
+      "rank_score": 0.816,
+      "avg_score": null
+    },
+    {
+      "artist": "Fiona Apple & the Bolt Cutters",
+      "title": "Revolution",
+      "type": "single",
+      "genre": "Rock / Alternative / Indie",
+      "release_date": "2026-11-06",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Consequence",
+        "Rolling Stone (music)",
+        "Stereogum"
+      ],
+      "mentions": [
+        {
+          "source": "Rolling Stone (music)",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Hear Fiona Apple and the Bolt Cutters Cover Mother Earth’s ‘Revolution’",
+          "link": "https://www.rollingstone.com/music/music-news/fiona-apple-the-bolt-cutters-cover-mother-earth-revolution-1235654198/",
+          "published": "2026-11-06T21:45:07+00:00"
+        },
+        {
+          "source": "Consequence",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "release_news",
+          "score": null,
+          "headline": "Fiona Apple Releases New Cover of Mother Earth’s “Revolution”: Steam",
+          "link": "https://consequence.net/2026/11/fiona-apple-new-cover-mother-earth-revolution/",
+          "published": "2026-11-06T21:35:12+00:00"
+        },
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Fiona Apple & The Bolt Cutters Cover Mother Earth’s “Revolution” For Doctors Without Borders Benefit Comp",
+          "link": "https://stereogum.com/2516832/fiona-apple-the-bolt-cutters-cover-mother-earths-revolution-for-doctors-without-borders-benefit-comp/music/",
+          "published": "2026-11-06T19:18:30+00:00"
+        }
+      ],
+      "fans": 149421,
+      "star_power": 0.739,
+      "personal": 0.838,
+      "personal_reason": "You've played Fiona Apple 62 times",
+      "coverage": 3.0,
+      "publications": [
+        "Consequence",
+        "Rolling Stone",
+        "Stereogum"
+      ],
+      "popularity": 0.484,
+      "rank_score": 0.767,
       "avg_score": null
     },
     {
@@ -139,8 +269,8 @@
       "publications": [
         "Clash"
       ],
-      "popularity": 0.247,
-      "rank_score": 0.72,
+      "popularity": 0.235,
+      "rank_score": 0.717,
       "avg_score": null
     },
     {
@@ -198,8 +328,8 @@
         "Stereogum",
         "The Needle Drop"
       ],
-      "popularity": 0.464,
-      "rank_score": 0.688,
+      "popularity": 0.427,
+      "rank_score": 0.681,
       "avg_score": null
     },
     {
@@ -233,55 +363,8 @@
       "publications": [
         "uDiscover Music"
       ],
-      "popularity": 0.277,
-      "rank_score": 0.662,
-      "avg_score": null
-    },
-    {
-      "artist": "Yaeji",
-      "title": "DDR",
-      "type": "single",
-      "genre": "Electronic / Dance",
-      "release_date": "2026-11-02",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Pitchfork (news)",
-        "Stereogum"
-      ],
-      "mentions": [
-        {
-          "source": "Pitchfork (news)",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "Yaeji Plots a Dance Dance Revolution in New Single “DDR”",
-          "link": "https://pitchfork.com/story/yaeji-plots-a-dance-dance-revolution-in-new-ddr-video/",
-          "published": "2026-11-02T16:27:19+00:00"
-        },
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "Yaeji – “ddr”",
-          "link": "https://stereogum.com/2516296/yaeji-ddr/music/",
-          "published": "2026-11-02T15:23:15+00:00"
-        }
-      ],
-      "fans": 28827,
-      "star_power": 0.637,
-      "personal": 0.726,
-      "personal_reason": "You've played Yaeji 50 times",
-      "coverage": 2.0,
-      "publications": [
-        "Pitchfork",
-        "Stereogum"
-      ],
-      "popularity": 0.391,
-      "rank_score": 0.659,
+      "popularity": 0.264,
+      "rank_score": 0.66,
       "avg_score": null
     },
     {
@@ -299,9 +382,20 @@
         "NME",
         "Pitchfork (news)",
         "Rolling Stone (music)",
-        "Stereogum"
+        "Stereogum",
+        "The Needle Drop (website)"
       ],
       "mentions": [
+        {
+          "source": "The Needle Drop (website)",
+          "source_type": "reviews",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Olivia Rodrigo drops Christmas song, \"take me home (4 christmas)",
+          "link": "https://theneedledrop.com/news/olivia-rodrigo-drops-christmas-song-take-me-home-4-christmas/",
+          "published": "2026-11-06T12:00:24+00:00"
+        },
         {
           "source": "NME",
           "source_type": "news",
@@ -387,7 +481,7 @@
       "star_power": 0.895,
       "personal": 0.58,
       "personal_reason": "You've played Olivia Rodrigo 3 times",
-      "coverage": 7.0,
+      "coverage": 8.0,
       "publications": [
         "Billboard",
         "Clash",
@@ -395,10 +489,58 @@
         "NME",
         "Pitchfork",
         "Rolling Stone",
-        "Stereogum"
+        "Stereogum",
+        "The Needle Drop"
       ],
       "popularity": 0.968,
       "rank_score": 0.658,
+      "avg_score": null
+    },
+    {
+      "artist": "Yaeji",
+      "title": "DDR",
+      "type": "single",
+      "genre": "Electronic / Dance",
+      "release_date": "2026-11-02",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Pitchfork (news)",
+        "Stereogum"
+      ],
+      "mentions": [
+        {
+          "source": "Pitchfork (news)",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Yaeji Plots a Dance Dance Revolution in New Single “DDR”",
+          "link": "https://pitchfork.com/story/yaeji-plots-a-dance-dance-revolution-in-new-ddr-video/",
+          "published": "2026-11-02T16:27:19+00:00"
+        },
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Yaeji – “ddr”",
+          "link": "https://stereogum.com/2516296/yaeji-ddr/music/",
+          "published": "2026-11-02T15:23:15+00:00"
+        }
+      ],
+      "fans": 28827,
+      "star_power": 0.637,
+      "personal": 0.725,
+      "personal_reason": "You've played Yaeji 50 times",
+      "coverage": 2.0,
+      "publications": [
+        "Pitchfork",
+        "Stereogum"
+      ],
+      "popularity": 0.366,
+      "rank_score": 0.653,
       "avg_score": null
     },
     {
@@ -444,88 +586,18 @@
         "Billboard",
         "uDiscover Music"
       ],
-      "popularity": 0.464,
-      "rank_score": 0.633,
-      "avg_score": null
-    },
-    {
-      "artist": "Toro y Moi",
-      "title": "Motive",
-      "type": "single",
-      "genre": "Rock / Alternative / Indie",
-      "release_date": "2026-11-05",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Stereogum"
-      ],
-      "mentions": [
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "announcement",
-          "score": null,
-          "headline": "Toro y Moi Announces New Album Unusua: Hear “Motive”",
-          "link": "https://stereogum.com/2516622/toro-y-moi-announces-new-album-unusua-hear-motive/music/",
-          "published": "2026-11-05T17:38:32+00:00"
-        }
-      ],
-      "fans": 59746,
-      "star_power": 0.682,
-      "personal": 0.669,
-      "personal_reason": "You've played Toro y Moi 18 times",
-      "coverage": 1.0,
-      "publications": [
-        "Stereogum"
-      ],
-      "popularity": 0.305,
-      "rank_score": 0.596,
-      "avg_score": null
-    },
-    {
-      "artist": "GloRilla & Sexyy Red",
-      "title": "Jiggly Bow Bow",
-      "type": "single",
-      "genre": "Hip-hop / R&B",
-      "release_date": "2026-11-05",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Pitchfork (news)"
-      ],
-      "mentions": [
-        {
-          "source": "Pitchfork (news)",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "GloRilla and Sexyy Red Wreak Havoc on a Nursing Home in “Jiggly Bow Bow” Video",
-          "link": "https://pitchfork.com/story/watch-glorilla-and-sexyy-red-wreak-havoc-on-a-nursing-home/",
-          "published": "2026-11-05T19:12:14+00:00"
-        }
-      ],
-      "fans": 113396,
-      "star_power": 0.722,
-      "personal": 0.655,
-      "personal_reason": "You've played Sexyy Red 14 times",
-      "coverage": 1.0,
-      "publications": [
-        "Pitchfork"
-      ],
-      "popularity": 0.317,
-      "rank_score": 0.587,
+      "popularity": 0.439,
+      "rank_score": 0.628,
       "avg_score": null
     }
   ],
   "discover": [
     {
-      "artist": "Snooper",
-      "title": "Orange Exposure",
+      "artist": "Stove God Cooks",
+      "title": "Stovie's Home (Down Down)",
       "type": "single",
-      "genre": "Rock / Alternative / Indie",
-      "release_date": "2026-10-31",
+      "genre": "Hip-hop / R&B",
+      "release_date": "2026-11-06",
       "date_source": "feeds",
       "scores": [],
       "sources": [
@@ -538,59 +610,227 @@
           "weight": 1.0,
           "mention": "new_song",
           "score": null,
-          "headline": "Snooper – “Orange Exposure”",
-          "link": "https://stereogum.com/2516216/snooper-orange-exposure/music/",
-          "published": "2026-10-31T18:12:57+00:00"
+          "headline": "Stove God Cooks – “Stovie’s Home (Down Down)” (Prod. Swizz Beatz)",
+          "link": "https://stereogum.com/2516790/stove-god-cooks-stovies-home-down-down-prod-swizz-beatz/music/",
+          "published": "2026-11-06T17:00:26+00:00"
         }
       ],
-      "fans": 1399,
-      "star_power": 0.449,
-      "personal": 0.161,
-      "personal_reason": "Similar to Powerplant, Guerilla Toss",
+      "fans": 2496,
+      "star_power": 0.485,
+      "personal": 0.28,
+      "personal_reason": "Similar to Boldy James, Westside Gunn",
       "coverage": 1.0,
       "publications": [
         "Stereogum"
       ],
-      "popularity": 0.235,
-      "rank_score": 0.176,
+      "popularity": 0.233,
+      "rank_score": 0.271,
       "avg_score": null,
-      "discover_score": 0.132
+      "discover_score": 0.226
     },
     {
-      "artist": "Bleech 9:3",
-      "title": "Lullaby",
+      "artist": "Bruiser Wolf & Conductor Williams",
+      "title": "The Score",
       "type": "single",
-      "genre": "Rock / Alternative / Indie",
-      "release_date": "2026-10-30",
+      "genre": "Hip-hop / R&B",
+      "release_date": "2026-11-06",
       "date_source": "feeds",
       "scores": [],
       "sources": [
-        "uDiscover Music"
+        "Stereogum"
       ],
       "mentions": [
         {
-          "source": "uDiscover Music",
+          "source": "Stereogum",
           "source_type": "news",
           "weight": 1.0,
           "mention": "new_song",
           "score": null,
-          "headline": "Bleech 9:3 Release Cover of The Cure’s ‘Lullaby’",
-          "link": "https://www.udiscovermusic.com/news/bleech-9-3-the-cure-lullaby/",
-          "published": "2026-10-30T23:16:34+00:00"
+          "headline": "Bruiser Wolf & Conductor Williams Announce New Album The Dealer Wins: Hear “The Score” (Feat. Marv Won)",
+          "link": "https://stereogum.com/2516807/bruiser-wolf-conductor-williams-announce-new-album-the-dealer-wins-hear-the-score-feat-marv-won/music/",
+          "published": "2026-11-06T18:31:20+00:00"
         }
       ],
-      "fans": 946,
-      "star_power": 0.425,
-      "personal": 0.016,
-      "personal_reason": "Similar to Interpol, Wolf Alice",
+      "fans": 455,
+      "star_power": 0.38,
+      "personal": 0.257,
+      "personal_reason": "Similar to Boldy James, Armand Hammer",
       "coverage": 1.0,
       "publications": [
-        "uDiscover Music"
+        "Stereogum"
       ],
-      "popularity": 0.227,
-      "rank_score": 0.058,
+      "popularity": 0.201,
+      "rank_score": 0.246,
       "avg_score": null,
-      "discover_score": 0.013
+      "discover_score": 0.218
+    },
+    {
+      "artist": "Becky And The Birds",
+      "title": "Way Back To You",
+      "type": "single",
+      "genre": "Rock / Alternative / Indie",
+      "release_date": "2026-11-06",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Stereogum"
+      ],
+      "mentions": [
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Becky And The Birds – “Way Back To You”",
+          "link": "https://stereogum.com/2516783/becky-and-the-birds-way-back-to-you/music/",
+          "published": "2026-11-06T18:48:14+00:00"
+        }
+      ],
+      "fans": 796,
+      "star_power": 0.414,
+      "personal": 0.246,
+      "personal_reason": "Similar to Erika de Casier, Choker",
+      "coverage": 1.0,
+      "publications": [
+        "Stereogum"
+      ],
+      "popularity": 0.212,
+      "rank_score": 0.239,
+      "avg_score": null,
+      "discover_score": 0.205
+    },
+    {
+      "artist": "Guppy",
+      "title": "Looking Right At It",
+      "type": "single",
+      "genre": "Rock / Alternative / Indie",
+      "release_date": "2026-11-06",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Stereogum"
+      ],
+      "mentions": [
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Guppy – “Looking Right At It”",
+          "link": "https://stereogum.com/2516903/guppy-looking-right-at-it/music/",
+          "published": "2026-11-06T22:18:54+00:00"
+        }
+      ],
+      "fans": 192,
+      "star_power": 0.327,
+      "personal": 0.218,
+      "personal_reason": "Similar to illuminati hotties, Jeff Rosenstock",
+      "coverage": 1.0,
+      "publications": [
+        "Stereogum"
+      ],
+      "popularity": 0.186,
+      "rank_score": 0.212,
+      "avg_score": null,
+      "discover_score": 0.189
+    },
+    {
+      "artist": "Tegan and Sara",
+      "title": "I Love Christmas",
+      "type": "single",
+      "genre": "Pop",
+      "release_date": "2026-11-06",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Rolling Stone (music)",
+        "Stereogum"
+      ],
+      "mentions": [
+        {
+          "source": "Rolling Stone (music)",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Tegan and Sara Celebrate the Season With ‘I Love Christmas’ and ‘A December to Remember’",
+          "link": "https://www.rollingstone.com/music/music-news/tegan-and-sara-i-love-christmas-december-to-remember-videos-1235654055/",
+          "published": "2026-11-06T19:18:29+00:00"
+        },
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Tegan And Sara – “I Love Christmas” & “A December To Remember”",
+          "link": "https://stereogum.com/2516784/tegan-and-sara-i-love-christmas-a-december-to-remember-holiday-songs/music/",
+          "published": "2026-11-06T18:20:42+00:00"
+        }
+      ],
+      "fans": 34,
+      "star_power": 0.221,
+      "personal": 0.196,
+      "personal_reason": "Similar to Metric, The Sounds",
+      "coverage": 2.0,
+      "publications": [
+        "Rolling Stone",
+        "Stereogum"
+      ],
+      "popularity": 0.241,
+      "rank_score": 0.205,
+      "avg_score": null,
+      "discover_score": 0.179
+    },
+    {
+      "artist": "Tegan and Sara",
+      "title": "A December to Remember",
+      "type": "single",
+      "genre": "Pop",
+      "release_date": "2026-11-06",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Rolling Stone (music)",
+        "Stereogum"
+      ],
+      "mentions": [
+        {
+          "source": "Rolling Stone (music)",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Tegan and Sara Celebrate the Season With ‘I Love Christmas’ and ‘A December to Remember’",
+          "link": "https://www.rollingstone.com/music/music-news/tegan-and-sara-i-love-christmas-december-to-remember-videos-1235654055/",
+          "published": "2026-11-06T19:18:29+00:00"
+        },
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Tegan And Sara – “I Love Christmas” & “A December To Remember”",
+          "link": "https://stereogum.com/2516784/tegan-and-sara-i-love-christmas-a-december-to-remember-holiday-songs/music/",
+          "published": "2026-11-06T18:20:42+00:00"
+        }
+      ],
+      "fans": 34,
+      "star_power": 0.221,
+      "personal": 0.196,
+      "personal_reason": "Similar to Metric, The Sounds",
+      "coverage": 2.0,
+      "publications": [
+        "Rolling Stone",
+        "Stereogum"
+      ],
+      "popularity": 0.241,
+      "rank_score": 0.205,
+      "avg_score": null,
+      "discover_score": 0.179
     }
   ],
   "by_genre": {
@@ -650,8 +890,8 @@
           "Stereogum",
           "The Needle Drop"
         ],
-        "popularity": 0.464,
-        "rank_score": 0.688,
+        "popularity": 0.427,
+        "rank_score": 0.681,
         "avg_score": null
       },
       {
@@ -669,9 +909,20 @@
           "NME",
           "Pitchfork (news)",
           "Rolling Stone (music)",
-          "Stereogum"
+          "Stereogum",
+          "The Needle Drop (website)"
         ],
         "mentions": [
+          {
+            "source": "The Needle Drop (website)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Olivia Rodrigo drops Christmas song, \"take me home (4 christmas)",
+            "link": "https://theneedledrop.com/news/olivia-rodrigo-drops-christmas-song-take-me-home-4-christmas/",
+            "published": "2026-11-06T12:00:24+00:00"
+          },
           {
             "source": "NME",
             "source_type": "news",
@@ -757,7 +1008,7 @@
         "star_power": 0.895,
         "personal": 0.58,
         "personal_reason": "You've played Olivia Rodrigo 3 times",
-        "coverage": 7.0,
+        "coverage": 8.0,
         "publications": [
           "Billboard",
           "Clash",
@@ -765,7 +1016,8 @@
           "NME",
           "Pitchfork",
           "Rolling Stone",
-          "Stereogum"
+          "Stereogum",
+          "The Needle Drop"
         ],
         "popularity": 0.968,
         "rank_score": 0.658,
@@ -773,7 +1025,7 @@
       },
       {
         "artist": "Slayyyter",
-        "title": "Hey Boyyy",
+        "title": "hey boyyy",
         "type": "single",
         "genre": "Pop",
         "release_date": "2026-11-06",
@@ -781,9 +1033,20 @@
         "scores": [],
         "sources": [
           "Clash",
-          "Rolling Stone (music)"
+          "Rolling Stone (music)",
+          "Stereogum"
         ],
         "mentions": [
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Slayyyter – “hey boyyy”",
+            "link": "https://stereogum.com/2516763/slayyyter-hey-boyyy/music/",
+            "published": "2026-11-06T15:22:52+00:00"
+          },
           {
             "source": "Clash",
             "source_type": "news",
@@ -809,13 +1072,14 @@
         "star_power": 0.643,
         "personal": 0.603,
         "personal_reason": "You've played Slayyyter 5 times",
-        "coverage": 2.0,
+        "coverage": 3.0,
         "publications": [
           "Clash",
-          "Rolling Stone"
+          "Rolling Stone",
+          "Stereogum"
         ],
-        "popularity": 0.393,
-        "rank_score": 0.561,
+        "popularity": 0.455,
+        "rank_score": 0.573,
         "avg_score": null
       },
       {
@@ -849,8 +1113,8 @@
         "publications": [
           "uDiscover Music"
         ],
-        "popularity": 0.235,
-        "rank_score": 0.521,
+        "popularity": 0.222,
+        "rank_score": 0.518,
         "avg_score": null
       },
       {
@@ -884,47 +1148,118 @@
         "publications": [
           "musicOMH"
         ],
-        "popularity": 0.322,
-        "rank_score": 0.496,
+        "popularity": 0.31,
+        "rank_score": 0.494,
         "avg_score": null
       },
       {
-        "artist": "Rex Orange County",
-        "title": "Dream Fatigue",
-        "type": "album",
+        "artist": "AURORA & Bear McCreary",
+        "title": "Morning Shall Come",
+        "type": "single",
         "genre": "Pop",
         "release_date": "2026-11-06",
         "date_source": "feeds",
         "scores": [],
         "sources": [
-          "Clash"
+          "uDiscover Music"
         ],
         "mentions": [
           {
-            "source": "Clash",
+            "source": "uDiscover Music",
             "source_type": "news",
             "weight": 1.0,
-            "mention": "release_news",
+            "mention": "new_song",
             "score": null,
-            "headline": "Rex Orange County Releases New Album ‘Dream Fatigue’",
-            "link": "https://www.clashmusic.com/news/rex-orange-county-releases-new-album-dream-fatigue/",
-            "published": "2026-11-06T09:59:51+00:00"
+            "headline": "AURORA Joins Bear McCreary For ‘Morning Shall Come’",
+            "link": "https://www.udiscovermusic.com/news/aurora-bear-mccreary-morning-shall-come/",
+            "published": "2026-11-06T20:08:47+00:00"
           }
         ],
-        "fans": 269413,
-        "star_power": 0.776,
-        "personal": 0.245,
-        "personal_reason": "Similar to Daniel Caesar, Steve Lacy",
+        "fans": 563163,
+        "star_power": 0.822,
+        "personal": 0.276,
+        "personal_reason": "Similar to Caroline Polachek, Billie Eilish",
         "coverage": 1.0,
         "publications": [
-          "Clash"
+          "uDiscover Music"
         ],
-        "popularity": 0.333,
-        "rank_score": 0.263,
+        "popularity": 0.334,
+        "rank_score": 0.288,
         "avg_score": null
       }
     ],
     "Hip-hop / R&B": [
+      {
+        "artist": "Future",
+        "title": "Ya Hit",
+        "type": "single",
+        "genre": "Hip-hop / R&B",
+        "release_date": "2026-11-06",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Pitchfork (news)",
+          "Rolling Stone (music)",
+          "Stereogum",
+          "XXL"
+        ],
+        "mentions": [
+          {
+            "source": "XXL",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Future Taps Drake, Travis Scott and Loe Shimmy for 'Ya Hit'",
+            "link": "https://www.xxlmag.com/future-drake-travis-scott-loe-shimmy-ya-hit/",
+            "published": "2026-11-06T17:41:01+00:00"
+          },
+          {
+            "source": "Pitchfork (news)",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Future, Drake, and Travis Scott Join Forces for “Ya Hit”",
+            "link": "https://pitchfork.com/story/future-drake-and-travis-scott-join-forces-for-ya-hit/",
+            "published": "2026-11-06T15:35:30+00:00"
+          },
+          {
+            "source": "Rolling Stone (music)",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Future Assembles His Avengers With Drake, Travis Scott, and Loe Shimmy on ‘Ya Hit’",
+            "link": "https://www.rollingstone.com/music/music-news/future-ya-hit-drake-travis-scott-loe-shimmy-1235653821/",
+            "published": "2026-11-06T15:15:58+00:00"
+          },
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Future – “Ya Hit” (Feat. Drake, Travis Scott, & Loe Shimmy)",
+            "link": "https://stereogum.com/2516749/future-ya-hit-feat-drake-travis-scott-loe-shimmy/music/",
+            "published": "2026-11-06T14:49:14+00:00"
+          }
+        ],
+        "fans": 3996583,
+        "star_power": 0.943,
+        "personal": 0.906,
+        "personal_reason": "You've played Future 208 times",
+        "coverage": 4.0,
+        "publications": [
+          "Pitchfork",
+          "Rolling Stone",
+          "Stereogum",
+          "XXL"
+        ],
+        "popularity": 0.633,
+        "rank_score": 0.851,
+        "avg_score": null
+      },
       {
         "artist": "Nettspend",
         "title": "Virginia Creeper",
@@ -956,8 +1291,8 @@
         "publications": [
           "uDiscover Music"
         ],
-        "popularity": 0.277,
-        "rank_score": 0.662,
+        "popularity": 0.264,
+        "rank_score": 0.66,
         "avg_score": null
       },
       {
@@ -1003,8 +1338,8 @@
           "Billboard",
           "uDiscover Music"
         ],
-        "popularity": 0.464,
-        "rank_score": 0.633,
+        "popularity": 0.439,
+        "rank_score": 0.628,
         "avg_score": null
       },
       {
@@ -1038,8 +1373,8 @@
         "publications": [
           "Pitchfork"
         ],
-        "popularity": 0.317,
-        "rank_score": 0.587,
+        "popularity": 0.304,
+        "rank_score": 0.585,
         "avg_score": null
       },
       {
@@ -1073,8 +1408,8 @@
         "publications": [
           "Stereogum"
         ],
-        "popularity": 0.239,
-        "rank_score": 0.553,
+        "popularity": 0.226,
+        "rank_score": 0.551,
         "avg_score": null
       },
       {
@@ -1108,47 +1443,71 @@
         "publications": [
           "Clash"
         ],
-        "popularity": 0.337,
-        "rank_score": 0.487,
-        "avg_score": null
-      },
-      {
-        "artist": "Wiki",
-        "title": "Papiseed Street Vol. 2",
-        "type": "mixtape",
-        "genre": "Hip-hop / R&B",
-        "release_date": "2026-11-02",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Stereogum"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "release_news",
-            "score": null,
-            "headline": "Wiki Drops New Mixtape Papiseed Street Vol. 2",
-            "link": "https://stereogum.com/2516316/wiki-drops-new-mixtape-papiseed-street-vol-2/music/",
-            "published": "2026-11-02T16:02:54+00:00"
-          }
-        ],
-        "fans": 2214,
-        "star_power": 0.478,
-        "personal": 0.58,
-        "personal_reason": "You've played Wiki 3 times",
-        "coverage": 1.0,
-        "publications": [
-          "Stereogum"
-        ],
-        "popularity": 0.243,
-        "rank_score": 0.461,
+        "popularity": 0.325,
+        "rank_score": 0.485,
         "avg_score": null
       }
     ],
     "Rock / Alternative / Indie": [
+      {
+        "artist": "Fiona Apple & the Bolt Cutters",
+        "title": "Revolution",
+        "type": "single",
+        "genre": "Rock / Alternative / Indie",
+        "release_date": "2026-11-06",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Consequence",
+          "Rolling Stone (music)",
+          "Stereogum"
+        ],
+        "mentions": [
+          {
+            "source": "Rolling Stone (music)",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Hear Fiona Apple and the Bolt Cutters Cover Mother Earth’s ‘Revolution’",
+            "link": "https://www.rollingstone.com/music/music-news/fiona-apple-the-bolt-cutters-cover-mother-earth-revolution-1235654198/",
+            "published": "2026-11-06T21:45:07+00:00"
+          },
+          {
+            "source": "Consequence",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "release_news",
+            "score": null,
+            "headline": "Fiona Apple Releases New Cover of Mother Earth’s “Revolution”: Steam",
+            "link": "https://consequence.net/2026/11/fiona-apple-new-cover-mother-earth-revolution/",
+            "published": "2026-11-06T21:35:12+00:00"
+          },
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Fiona Apple & The Bolt Cutters Cover Mother Earth’s “Revolution” For Doctors Without Borders Benefit Comp",
+            "link": "https://stereogum.com/2516832/fiona-apple-the-bolt-cutters-cover-mother-earths-revolution-for-doctors-without-borders-benefit-comp/music/",
+            "published": "2026-11-06T19:18:30+00:00"
+          }
+        ],
+        "fans": 149421,
+        "star_power": 0.739,
+        "personal": 0.838,
+        "personal_reason": "You've played Fiona Apple 62 times",
+        "coverage": 3.0,
+        "publications": [
+          "Consequence",
+          "Rolling Stone",
+          "Stereogum"
+        ],
+        "popularity": 0.484,
+        "rank_score": 0.767,
+        "avg_score": null
+      },
       {
         "artist": "Toro y Moi",
         "title": "Motive",
@@ -1158,9 +1517,20 @@
         "date_source": "feeds",
         "scores": [],
         "sources": [
-          "Stereogum"
+          "Stereogum",
+          "The Needle Drop (website)"
         ],
         "mentions": [
+          {
+            "source": "The Needle Drop (website)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Toro y Moi reveals new album coming this month, shares \"Motive\"",
+            "link": "https://theneedledrop.com/news/toro-y-moi-reveals-new-album-coming-this-month-shares/",
+            "published": "2026-11-06T13:38:19+00:00"
+          },
           {
             "source": "Stereogum",
             "source_type": "news",
@@ -1176,12 +1546,13 @@
         "star_power": 0.682,
         "personal": 0.669,
         "personal_reason": "You've played Toro y Moi 18 times",
-        "coverage": 1.0,
+        "coverage": 2.0,
         "publications": [
-          "Stereogum"
+          "Stereogum",
+          "The Needle Drop"
         ],
-        "popularity": 0.305,
-        "rank_score": 0.596,
+        "popularity": 0.38,
+        "rank_score": 0.611,
         "avg_score": null
       },
       {
@@ -1215,8 +1586,8 @@
         "publications": [
           "Stereogum"
         ],
-        "popularity": 0.22,
-        "rank_score": 0.494,
+        "popularity": 0.207,
+        "rank_score": 0.492,
         "avg_score": null
       },
       {
@@ -1250,8 +1621,43 @@
         "publications": [
           "Stereogum"
         ],
-        "popularity": 0.278,
-        "rank_score": 0.488,
+        "popularity": 0.266,
+        "rank_score": 0.485,
+        "avg_score": null
+      },
+      {
+        "artist": "Superchunk",
+        "title": "Wintry Mix",
+        "type": "ep",
+        "genre": "Rock / Alternative / Indie",
+        "release_date": "2026-11-06",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Stereogum"
+        ],
+        "mentions": [
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "release_news",
+            "score": null,
+            "headline": "Superchunk Cover Wham!, The Magnetic Fields, & Galaxie 500 On Surprise New Wintry Mix EP",
+            "link": "https://stereogum.com/2516729/superchunk-cover-wham-the-magnetic-fields-galaxie-500-on-surprise-new-wintry-mix-ep/music/",
+            "published": "2026-11-06T14:21:01+00:00"
+          }
+        ],
+        "fans": 4715,
+        "star_power": 0.525,
+        "personal": 0.54,
+        "personal_reason": "You've played Superchunk 1 time",
+        "coverage": 1.0,
+        "publications": [
+          "Stereogum"
+        ],
+        "popularity": 0.245,
+        "rank_score": 0.385,
         "avg_score": null
       },
       {
@@ -1285,102 +1691,8 @@
         "publications": [
           "Clash"
         ],
-        "popularity": 0.368,
-        "rank_score": 0.2,
-        "avg_score": null
-      },
-      {
-        "artist": "Django Django",
-        "title": "Doveland",
-        "type": "album",
-        "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-11-06",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Clash",
-          "musicOMH"
-        ],
-        "mentions": [
-          {
-            "source": "Clash",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "release_news",
-            "score": null,
-            "headline": "Django Django’s ‘Doveland’ Is Framed By Maturity",
-            "link": "https://www.clashmusic.com/news/django-djangos-doveland-is-framed-by-maturity/",
-            "published": "2026-11-06T10:14:57+00:00"
-          },
-          {
-            "source": "musicOMH",
-            "source_type": "reviews",
-            "weight": 1.0,
-            "mention": "review",
-            "score": null,
-            "headline": "Django Django – Doveland",
-            "link": "https://www.musicomh.com/reviews/albums/django-django-doveland",
-            "published": "2026-11-06T08:01:42+00:00"
-          }
-        ],
-        "fans": 61193,
-        "star_power": 0.684,
-        "personal": 0.148,
-        "personal_reason": "Similar to Everything Everything, Metronomy",
-        "coverage": 2.0,
-        "publications": [
-          "Clash",
-          "musicOMH"
-        ],
-        "popularity": 0.405,
-        "rank_score": 0.199,
-        "avg_score": null
-      },
-      {
-        "artist": "Cage The Elephant",
-        "title": "Make It Easy",
-        "type": "single",
-        "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-11-05",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Consequence",
-          "NME"
-        ],
-        "mentions": [
-          {
-            "source": "NME",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Cage The Elephant announce new album ‘Dying In Reverse’ with guitar heavy single ‘Make It Easy’",
-            "link": "https://www.nme.com/news/music/cage-the-elephant-announce-new-album-dying-in-reverse-with-guitar-heavy-single-make-it-easy-3975154?utm_source=rss&utm_medium=rss&utm_campaign=cage-the-elephant-announce-new-album-dying-in-reverse-with-guitar-heavy-single-make-it-easy",
-            "published": "2026-11-05T17:08:55+00:00"
-          },
-          {
-            "source": "Consequence",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Cage the Elephant Announce New Album Dying in Reverse, Share New Song “Make It Easy”: Stream",
-            "link": "https://consequence.net/2026/11/cage-the-elephant-dying-in-reverse-new-album-make-it-easy-stream/",
-            "published": "2026-11-05T15:40:38+00:00"
-          }
-        ],
-        "fans": 581175,
-        "star_power": 0.823,
-        "personal": 0.0,
-        "personal_reason": "",
-        "coverage": 2.0,
-        "publications": [
-          "Consequence",
-          "NME"
-        ],
-        "popularity": 0.447,
-        "rank_score": 0.089,
+        "popularity": 0.355,
+        "rank_score": 0.197,
         "avg_score": null
       }
     ],
@@ -1416,8 +1728,8 @@
         "publications": [
           "The Needle Drop"
         ],
-        "popularity": 0.278,
-        "rank_score": 0.83,
+        "popularity": 0.266,
+        "rank_score": 0.828,
         "avg_score": null
       },
       {
@@ -1486,8 +1798,8 @@
           "Slant",
           "Stereogum"
         ],
-        "popularity": 0.589,
-        "rank_score": 0.826,
+        "popularity": 0.539,
+        "rank_score": 0.816,
         "avg_score": null
       },
       {
@@ -1521,8 +1833,8 @@
         "publications": [
           "Clash"
         ],
-        "popularity": 0.247,
-        "rank_score": 0.72,
+        "popularity": 0.235,
+        "rank_score": 0.717,
         "avg_score": null
       },
       {
@@ -1561,51 +1873,87 @@
         ],
         "fans": 28827,
         "star_power": 0.637,
-        "personal": 0.726,
+        "personal": 0.725,
         "personal_reason": "You've played Yaeji 50 times",
         "coverage": 2.0,
         "publications": [
           "Pitchfork",
           "Stereogum"
         ],
-        "popularity": 0.391,
-        "rank_score": 0.659,
+        "popularity": 0.366,
+        "rank_score": 0.653,
         "avg_score": null
       },
       {
-        "artist": "Joshua Idehen",
-        "title": "Say Less",
-        "type": "single",
+        "artist": "Porter Robinson",
+        "title": "Smile :D Plus+",
+        "type": "album",
         "genre": "Electronic / Dance",
-        "release_date": "2026-11-02",
-        "date_source": "feeds",
+        "release_date": "2026-11-06",
+        "date_source": "musicbrainz",
         "scores": [],
         "sources": [
-          "Stereogum"
+          "Rolling Stone (music)"
         ],
         "mentions": [
           {
-            "source": "Stereogum",
+            "source": "Rolling Stone (music)",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "release_news",
+            "score": null,
+            "headline": "Remix Albums Are Helping Pop Acts Live in the Moment Longer — And Feel Less Alone",
+            "link": "https://www.rollingstone.com/music/music-features/pop-remix-album-revival-porter-robinson-zara-larsson-charli-1235648903/",
+            "published": "2026-11-06T17:01:39+00:00"
+          }
+        ],
+        "fans": 170426,
+        "star_power": 0.747,
+        "personal": 0.662,
+        "personal_reason": "You've played Porter Robinson 16 times",
+        "coverage": 1.0,
+        "publications": [
+          "Rolling Stone"
+        ],
+        "popularity": 0.312,
+        "rank_score": 0.592,
+        "avg_score": null
+      },
+      {
+        "artist": "Marlon Hoffstadt & Niko Rubio",
+        "title": "Water",
+        "type": "single",
+        "genre": "Electronic / Dance",
+        "release_date": "2026-11-06",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "uDiscover Music"
+        ],
+        "mentions": [
+          {
+            "source": "uDiscover Music",
             "source_type": "news",
             "weight": 1.0,
             "mention": "new_song",
             "score": null,
-            "headline": "Joshua Idehen – “Say Less”",
-            "link": "https://stereogum.com/2516336/joshua-idehen-say-less/music/",
-            "published": "2026-11-02T17:48:00+00:00"
+            "headline": "Marlon Hoffstadt And Niko Rubio Release ‘Water’",
+            "link": "https://www.udiscovermusic.com/news/marlon-hoffstadt-niko-rubio-water/",
+            "published": "2026-11-06T13:44:11+00:00"
           }
         ],
-        "fans": 1817,
-        "star_power": 0.466,
-        "personal": 0.0,
-        "personal_reason": "",
+        "fans": 14324,
+        "star_power": 0.594,
+        "personal": 0.075,
+        "personal_reason": "Similar to Swedish House Mafia",
         "coverage": 1.0,
         "publications": [
-          "Stereogum"
+          "uDiscover Music"
         ],
-        "popularity": 0.24,
-        "rank_score": 0.048,
-        "avg_score": null
+        "popularity": 0.266,
+        "rank_score": 0.113,
+        "avg_score": null,
+        "discover_score": 0.057
       }
     ]
   }
