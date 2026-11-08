@@ -1,5 +1,598 @@
 [
   {
+    "id": "79f10aa541b657e6",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Druski & The Strokes on ‘SNL’: Here’s Where to Watch ‘Saturday Night Live’ Online for Free",
+    "link": "https://www.billboard.com/culture/product-recommendations/snl-2026-druski-the-strokes-watch-live-online-free-1236375885/",
+    "summary": "Livestream the comedian host and the indie rock band perform on Nov. 7 — watch live online for free.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "how to watch",
+      "nbc",
+      "NOADS",
+      "peacock",
+      "saturday night live",
+      "snl",
+      "streaming"
+    ],
+    "published": "2026-11-08T01:30:00+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "230b6fc906bca3ee",
+    "source": "PopCrush",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Is Adele Releasing a New Album in 2026? What We Know",
+    "link": "https://popcrush.com/adele-new-album-2026/",
+    "summary": "Gareth Cattermole, Getty Images",
+    "full_text": false,
+    "categories": [
+      "Music News"
+    ],
+    "published": "2026-11-08T00:58:04+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "d0741d454e11a240",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Rob Schneider Was Briefed on the Iran War",
+    "link": "https://consequence.net/2026/11/rob-schneider-iran-war/",
+    "summary": "He says \"we could not wait another hour.\" Rob Schneider Was Briefed on the Iran War Alex Young",
+    "full_text": false,
+    "categories": [
+      "News Bites",
+      "News",
+      "Pop Culture",
+      "Pop Culture News",
+      "Rob Schneider",
+      "WTF"
+    ],
+    "published": "2026-11-08T00:45:34+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "cb01594236eca222",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Alanis Morissette Shares She Identifies as Pansexual",
+    "link": "https://www.billboard.com/culture/pride/alanis-morissette-pansexual-1236376991/",
+    "summary": "The singer-songwriter chatted about it briefly in a podcast appearance the week of releasing her new holiday album.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Pride",
+      "genre pop",
+      "Music News",
+      "News",
+      "pride"
+    ],
+    "published": "2026-11-08T00:39:09+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "2e46488c9a0e5b97",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Meet the Rising Stars Competing for Best New Artist at the Latin Grammys",
+    "link": "https://www.rollingstone.com/music/music-latin/best-new-artist-latin-grammys-nominees-winners-1235654396/",
+    "summary": "Aria Vega, Delilah, Fabian, and Sofia Monroy are among this year's contenders for one of the ceremony's most coveted awards",
+    "full_text": false,
+    "categories": [
+      "Latin Music",
+      "Music",
+      "Best New Artist",
+      "Latin Grammys 2026"
+    ],
+    "published": "2026-11-07T22:15:04+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "65001aaddec422b6",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Zohran Mamdani and Puerto Rican Band Chuwi Discuss Gentrification, Music, and Making Change",
+    "link": "https://www.rollingstone.com/music/music-latin/zohran-mamdani-chuwi-puerto-rico-gentrification-1235654388/",
+    "summary": "The New York mayor sat down with one of the island's most outspoken new acts for a conversation about Puerto Rico's future",
+    "full_text": false,
+    "categories": [
+      "Latin Music",
+      "Music",
+      "Chuwi",
+      "Puerto Rico",
+      "Zohran Mamdani"
+    ],
+    "published": "2026-11-07T21:16:07+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "25a45679ef092e1e",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Deep Purple’s Ian Gillan Shares Encouraging News After Undergoing Surgery",
+    "link": "https://www.billboard.com/music/rock/deep-purple-ian-gillan-health-update-after-surgery-1236376961/",
+    "summary": "“I now have to rest, in order to make a complete recovery,” the singer wrote.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Rock",
+      "genre rock",
+      "Music News"
+    ],
+    "published": "2026-11-07T20:43:32+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "3b79bf83f07a65e6",
+    "source": "Slant (music)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Skepta ‘The Fork and Knife’ Review: A U.K. Rap Vet Reckons with the Past",
+    "link": "https://www.slantmagazine.com/music/skepta-the-fork-and-knife-album-review/",
+    "summary": "The 15 tracks here see the British MC looking back and taking stock. The post Skepta ‘The Fork and Knife’ Review: A U.K. Rap Vet Reckons with the Past appeared first on Slant Magazine .",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Gunna",
+      "Skepta",
+      "Stormzy"
+    ],
+    "published": "2026-11-07T19:40:28+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "2e7d94fc0b78c775",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Richard Lloyd, Television Guitarist, Dies at 75",
+    "link": "https://www.billboard.com/music/music-news/richard-lloyd-death-television-guitarist-dies-obituary-1236376953/",
+    "summary": "The musician was diagnosed with bile duct cancer in March 2026.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "genre rock",
+      "nsfs",
+      "obituary"
+    ],
+    "published": "2026-11-07T19:09:13+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "1a9732cf99491d37",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Richard Lloyd of Television has died at 75",
+    "link": "https://theneedledrop.com/news/richard-lloyd-of-television-has-died-at-75/",
+    "summary": "Lloyd was diagnosed with Cholangiocarcinoma earlier this year.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "television"
+    ],
+    "published": "2026-11-07T19:03:39+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "61aa9d842c7b6b42",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Meet the Vigodas: Conan O’Brien Plays Out His Teenage Dream With L.A. Cover Band",
+    "link": "https://www.rollingstone.com/music/music-features/conan-obrien-the-vigodas-interview-los-angeles-performance-1235654174/",
+    "summary": "Late-night legend and prolific podcaster talks rockabilly, kooky backstages, and a lifelong dream come true",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "Conan O'Brien"
+    ],
+    "published": "2026-11-07T18:16:24+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "8ffb032909ceae59",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "What’s It Like to Write Songs With Madonna, McCartney, and the Stones?",
+    "link": "https://www.rollingstone.com/music/music-features/michael-stipe-madonna-mccartney-stones-andrew-watt-1235654076/",
+    "summary": "Superproducer Andrew Watt goes deep on his star-studded year, from Lady Gaga to Michael Stipe",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "Andrew Watt",
+      "Lady Gaga",
+      "Madonna",
+      "Michael Stipe",
+      "Paul McCartney",
+      "Rolling Stones"
+    ],
+    "published": "2026-11-07T17:54:25+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "de70b472431e4388",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Television’s Richard Lloyd Dead At 75",
+    "link": "https://stereogum.com/2516946/televisions-richard-lloyd-dead-at-75/news/",
+    "summary": "The post Television’s Richard Lloyd Dead At 75 appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Richard Hell",
+      "Richard Lloyd",
+      "Television",
+      "Tom Verlaine"
+    ],
+    "published": "2026-11-07T17:43:36+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "0b728bf747a11a0b",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Richard Lloyd, Television Guitarist, Dies at 75",
+    "link": "https://pitchfork.com/story/richard-lloyd-television-guitarist-dies-at-75/",
+    "summary": "Lloyd co-founded the pioneering rock band alongside Tom Verlaine, Billy Ficca, and Richard Hell",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Obituary"
+    ],
+    "published": "2026-11-07T17:11:52+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "dbc38fcaa0a1a059",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Richard Lloyd, Television Guitarist, Dead at 75",
+    "link": "https://consequence.net/2026/11/richard-lloyd-television-dead/",
+    "summary": "He helped build the foundation for post-punk and was a critically acclaimed solo artist. Richard Lloyd, Television Guitarist, Dead at 75 Travis Bland",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Music",
+      "News",
+      "Alternative Rock",
+      "Indie Rock",
+      "Obituary",
+      "Punk"
+    ],
+    "published": "2026-11-07T16:39:09+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "d4e978bd31f1d295",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Richard Lloyd, Television’s Virtuoso Guitarist, Dead at 75",
+    "link": "https://www.rollingstone.com/music/music-news/richard-lloyd-television-guitarist-dead-obituary-1235614110/",
+    "summary": "Guitarist, who was diagnosed with bile duct cancer in March, died Saturday from cholangiocarcinoma, his family announced",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "television",
+      "Tom Verlaine"
+    ],
+    "published": "2026-11-07T16:28:15+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "baa17ee3f88f4794",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Deep Purple’s Ian Gillan Undergoes ‘Successful’ Surgery After Medical Emergency",
+    "link": "https://www.rollingstone.com/music/music-news/deep-purple-ian-gillan-successful-surgery-medical-emergency-1235654349/",
+    "summary": "\"I now have to rest, in order to make a complete recovery and ensure that I’m as fit as can be before getting back to work,\" singer writes",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Deep Purple"
+    ],
+    "published": "2026-11-07T16:20:10+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "80233b6d45ba2ccb",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Elvis Presley Rights Owners Sue Suno Over AI Voice Cloning: ‘Elvis’ Identity Was Stolen’",
+    "link": "https://www.billboard.com/pro/elvis-presley-ai-voice-cloning-lawsuit-suno/",
+    "summary": "The singer's legendary voice is at the center of a cutting-edge lawsuit that aims to hold the AI firm legally liable for allowing users to create knockoff vocals.",
+    "full_text": false,
+    "categories": [
+      "Business",
+      "Legal News",
+      "AI",
+      "Artificial Intelligence",
+      "genre rock",
+      "lawsuit",
+      "Legal",
+      "Music News",
+      "Suno"
+    ],
+    "published": "2026-11-07T15:38:11+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "62ac25275fa30c4a",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Rosalía Reflects On One Year Of Lux With 1,000-Track Playlist",
+    "link": "https://stereogum.com/2516941/rosalia-reflects-on-one-year-of-lux-with-1000-track-playlist/news/",
+    "summary": "The post Rosalía Reflects On One Year Of <em>Lux</em> With 1,000-Track Playlist appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Patti Smith",
+      "Rosalía"
+    ],
+    "published": "2026-11-07T15:26:44+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "cf1eb87658d09b44",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "“Christmas Wrapping” Songwriter Is A Huge Olivia Rodrigo Fan And Says Her New Single Is An “Homage,” Not A Ripoff",
+    "link": "https://stereogum.com/2516936/christmas-wrapping-songwriter-is-a-huge-olivia-rodrigo-fan-and-says-her-new-single-is-an-homage-not-a-ripoff/news/",
+    "summary": "The post “Christmas Wrapping” Songwriter Is A Huge Olivia Rodrigo Fan And Says Her New Single Is An “Homage,” Not A Ripoff appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Christopher Butler",
+      "Cynthia Nixon",
+      "Gwen Stefani",
+      "Olivia Rodrigo",
+      "Taylor Swift",
+      "The Waitresses"
+    ],
+    "published": "2026-11-07T14:53:55+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "38d4a18340d03812",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "T-Pain Supports the Polyamory Lifestyle With New Dating Show",
+    "link": "https://www.xxlmag.com/t-pain-polyamory-dating-show-searching-for-a-third/",
+    "summary": "tpain/Instagram/Joe Scarnici/Getty Images for Blizzard Entertainment",
+    "full_text": false,
+    "categories": [
+      "News",
+      "T-Pain"
+    ],
+    "published": "2026-11-07T14:40:57+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "3eaaf6eb54f76567",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Houndmouth’s Matt Myers No Longer Has to Be Sad to Write Great Songs",
+    "link": "https://www.rollingstone.com/music/music-features/houndmouth-matt-myers-interview-lordy-1235653878/",
+    "summary": "The leader of the Americana blues-rock band taps into a new feeling — reciprocated love — for the album Lordy : \"It’s not that you have to be sad to create, but I’m happy at home\"",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "Americana",
+      "Houndmouth"
+    ],
+    "published": "2026-11-07T14:30:00+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "ffe0b9c5a3b8cbab",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Arde Bogotá on Going to Los Angeles to Make Their Most Spanish Album Yet",
+    "link": "https://consequence.net/2026/11/arde-bogota-new-album-los-angeles-spain/",
+    "summary": "Fresh off the release of Manufacturas del Club de la Gente Sola, the Spanish rockers reflect on their success at home and the excitement of taking their music to the U.S. Arde Bogotá on Going to Los Angeles to Make Their Most Spanish Album Yet Pedro Camacho",
+    "full_text": false,
+    "categories": [
+      "Music Interviews",
+      "Consequence Latino",
+      "Interviews",
+      "Music",
+      "Indie Rock",
+      "Latin rock",
+      "Spanish Rock"
+    ],
+    "published": "2026-11-07T14:13:39+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "9662983a97e60c37",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "WWE Crown Jewel 2026: Here’s How to Watch the Premium Live Event Online for Free",
+    "link": "https://www.billboard.com/culture/product-recommendations/wwe-crown-jewel-2026-how-to-watch-live-online-free-1236372909/",
+    "summary": "Don't miss men's and women's matches for WWE Crown Jewel Championships during the wrestling event.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "espn",
+      "how to watch",
+      "NOADS",
+      "streaming",
+      "wwe"
+    ],
+    "published": "2026-11-07T14:00:00+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "2256139cc82175c4",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Robert Pattinson and Nicholas Hoult emerge as new James Bond favourites",
+    "link": "https://www.nme.com/news/film/robert-pattinson-nicholas-hoult-emerge-james-bond-favourites-3975366?utm_source=rss&utm_medium=rss&utm_campaign=robert-pattinson-nicholas-hoult-emerge-james-bond-favourites",
+    "summary": "The two actors are reportedly among five candidates to have screen-tested for the role, alongside Callum Turner, Jack Lowden and Josh O'Connor The post Robert Pattinson and Nicholas Hoult emerge as new James Bond favourites appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Film News",
+      "News"
+    ],
+    "published": "2026-11-07T11:38:25+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "6cea61845a0c66f6",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Manics honour Richey Edwards as Suede look to the future at London co-headline show",
+    "link": "https://www.nme.com/news/music/manic-street-preachers-suede-o2-london-co-headline-show-setlist-photos-footage-3975347?utm_source=rss&utm_medium=rss&utm_campaign=manic-street-preachers-suede-o2-london-co-headline-show-setlist-photos-footage",
+    "summary": "Check out photos, footage, the setlist and more from what went down as the almighty double header rolled into The O2 The post Manics honour Richey Edwards as Suede look to the future at London co-headline show appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News"
+    ],
+    "published": "2026-11-07T10:55:13+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "c7e779703f38acbf",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "U2 on the Ed Sheeran Macklemore row: “No billionaire, no promoter, no owner has the right to censor anybody”",
+    "link": "https://www.nme.com/news/music/u2-ed-sheeran-macklemore-no-billionaire-promoter-owner-has-right-censor-anybody-3975357?utm_source=rss&utm_medium=rss&utm_campaign=u2-ed-sheeran-macklemore-no-billionaire-promoter-owner-has-right-censor-anybody",
+    "summary": "The Edge has defended Macklemore's right to speak out, while insisting that Sheeran should not be vilified over the controversy The post U2 on the Ed Sheeran Macklemore row: “No billionaire, no promoter, no owner has the right to censor anybody” appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Politics"
+    ],
+    "published": "2026-11-07T10:30:46+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "db7ed3e1d5972f03",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Nick Cave announces North American ‘Conversations’ tour for 2027",
+    "link": "https://www.nme.com/news/music/nick-cave-announces-north-american-conversations-tour-for-2027-3975349?utm_source=rss&utm_medium=rss&utm_campaign=nick-cave-announces-north-american-conversations-tour-for-2027",
+    "summary": "The singer will answer questions directly from audiences and give solo piano performances: \"What could possibly go wrong?\" The post Nick Cave announces North American ‘Conversations’ tour for 2027 appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Live Music News"
+    ],
+    "published": "2026-11-07T09:41:53+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "b638294d4f58818c",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Macklemore says nine US arenas rejected his ‘Free Palestine’ tour: “We will build our own stages”",
+    "link": "https://www.nme.com/news/music/macklemore-nine-us-arenas-rejected-free-palestine-tour-3975343?utm_source=rss&utm_medium=rss&utm_campaign=macklemore-nine-us-arenas-rejected-free-palestine-tour",
+    "summary": "Madison Square Garden has responded to the rapper's allegations, claiming he is \"not an arena-level act\" The post Macklemore says nine US arenas rejected his ‘Free Palestine’ tour: “We will build our own stages” appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Politics"
+    ],
+    "published": "2026-11-07T08:38:00+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "5b827f9f105b5d8b",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Benson Boone Brings Young Fan Battling Cancer Onstage at Brisbane Concert",
+    "link": "https://www.billboard.com/music/music-news/benson-boone-kenzie-riddle-beautiful-things-brisbane-1236376893/",
+    "summary": "“I’ve had the opportunity of meeting a 13-year-old girl who is battling her second round of cancer,” Boone told the crowd.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Pop",
+      "australia",
+      "Benson Boone"
+    ],
+    "published": "2026-11-07T06:13:57+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "b3b2348b8918087d",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Céline Dion Plays Air Bass at Metallica’s Sphere Show",
+    "link": "https://www.billboard.com/music/music-news/celine-dion-metallica-sphere-air-bass-video-1236376892/",
+    "summary": "The singer showed off her air-bass skills during Metallica's Life Burns Faster residency at Las Vegas' Sphere.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Pop",
+      "Rock",
+      "Celine Dion",
+      "genre rock",
+      "Las Vegas",
+      "Metallica",
+      "Sphere"
+    ],
+    "published": "2026-11-07T06:01:25+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
+    "id": "2797c5af15a6f589",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "The Rolling Thunder Revue: The 1976 Live Recordings",
+    "link": "https://pitchfork.com/reviews/albums/bob-dylan-the-rolling-thunder-revue-the-1976-live-recordings/",
+    "summary": "For half a century, the spring 1976 leg of the Rolling Thunder Revue was overshadowed by the mayhem of the year before. An electrifying 39-disc box set corrects the record.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-07T05:00:00+00:00",
+    "collected": "2026-11-08T02:40:18.720072+00:00"
+  },
+  {
     "id": "e658cdcb8caf9d19",
     "source": "Consequence",
     "source_type": "news",
