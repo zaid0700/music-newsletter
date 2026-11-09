@@ -1,5 +1,724 @@
 [
   {
+    "id": "2f7a586261e5fffe",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Ariana Grande Sings ‘O Christmas Tree’ With Robert De Niro & Ben Stiller on ‘Tonight Show’: Exclusive Preview",
+    "link": "https://www.billboard.com/culture/tv-film/ariana-grande-o-christmas-tree-robert-de-niro-ben-stiller-1236377155/",
+    "summary": "The Focker-in-Law cast rings in the holiday season with Jimmy Fallon tonight (Sunday, Nov. 8).",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "TV/Film",
+      "genre pop",
+      "Music News",
+      "News"
+    ],
+    "published": "2026-11-09T02:06:20+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "2af69326b7415622",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Druski’s Best ‘SNL’ Sketches Had Him Singing Through a Proposal Gone Wrong & In a Hip-Hop Parody",
+    "link": "https://www.billboard.com/culture/tv-film/druski-singing-snl-sketches-1236377110/",
+    "summary": "The comedian hit the right beats while hosting 'SNL' for the first time Saturday night (Nov. 7).",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "TV/Film",
+      "genre hiphop",
+      "Music News",
+      "News",
+      "snl"
+    ],
+    "published": "2026-11-08T23:17:10+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "d38f9e1c1dd12e50",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Taylor Swift and Karlie Kloss Attend Travis Kelce’s Chiefs Game in Kansas City",
+    "link": "https://www.billboard.com/music/music-news/taylor-swift-karlie-kloss-travis-kelce-chiefs-game-1236377058/",
+    "summary": "The longtime friends reunited to watch the Chiefs take on the New York Jets at Arrowhead Stadium on Nov. 8.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "genre pop",
+      "kansas city chiefs",
+      "karlie kloss",
+      "sports"
+    ],
+    "published": "2026-11-08T20:58:07+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "b498102b65eb1e61",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Michael Jackson’s ‘Thriller’ Scares Up Highest Rank on Billboard 200 Albums Chart in More Than 40 Years",
+    "link": "https://www.billboard.com/music/chart-beat/michael-jackson-thriller-surges-billboard-200-halloween-1236377051/",
+    "summary": "The classic, which spent 37 weeks at No. 1 in 1983-84, surged sparked by Halloween.",
+    "full_text": false,
+    "categories": [
+      "Chart Beat",
+      "Music",
+      "Billboard 200",
+      "genre pop",
+      "genre rb",
+      "Music News"
+    ],
+    "published": "2026-11-08T20:02:24+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "66d9bd2ae8161011",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Olivia Rodrigo’s ‘you seem pretty sad for a girl so in love’ Notches Fourth Week Atop Billboard 200",
+    "link": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-you-seem-pretty-sad-back-no-1-billboard-200-1236377042/",
+    "summary": "Plus, Michael Jackson’s Thriller surges to No. 2, while ILLIT, BigXthaPlug and Queens of the Stone age debut in the top 10.",
+    "full_text": false,
+    "categories": [
+      "Chart Beat",
+      "Music",
+      "Billboard 200",
+      "breaking",
+      "genre pop",
+      "Music News"
+    ],
+    "published": "2026-11-08T20:00:03+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "48e1f6dade60967a",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Del Casher, Guitarist Who Invented the Wah-Wah Pedal, Dead at 88",
+    "link": "https://www.rollingstone.com/music/music-news/del-casher-guitarist-invented-wah-wah-pedal-dead-obituary-1235654482/",
+    "summary": "Musician and inventor who played with artists like Elvis Presley, Gene Autry, and Frank Zappa died Oct. 1 after cancer battle",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Guitar",
+      "obit",
+      "Obituary",
+      "RSX"
+    ],
+    "published": "2026-11-08T19:13:11+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "d064678704af24fd",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Celine Dion Goes Backstage With Metallica After Rocking Out at Sphere: ‘Loved the Show’",
+    "link": "https://www.billboard.com/music/music-news/celine-dion-metallica-backstage-photos-sphere-1236377038/",
+    "summary": "The Grammy-winning singer was spotted enjoying the show alongside Jack Black.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "genre pop",
+      "genre rock",
+      "residency",
+      "Sphere"
+    ],
+    "published": "2026-11-08T18:58:39+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "90800381f498c182",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Dave Chappelle Jokes He “Feels Better” After Charlie Kirk Killing",
+    "link": "https://consequence.net/2026/11/dave-chappelle-charlie-kirk-joke/",
+    "summary": "The never-shy-of-controversy comedian joked about the right-wing influencer's killing at a Madison Square Garden show. Dave Chappelle Jokes He “Feels Better” After Charlie Kirk Killing Travis Bland",
+    "full_text": false,
+    "categories": [
+      "Comedy News",
+      "Comedy",
+      "News",
+      "Dave Chappelle",
+      "Politics",
+      "Standup Comedy"
+    ],
+    "published": "2026-11-08T18:51:40+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "7c38dcecd324c86e",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Edge Wrote An Elf Sequel That Wasn’t Made For Some Reason",
+    "link": "https://stereogum.com/2517003/the-edge-wrote-an-elf-sequel-that-wasnt-made-for-some-reason/news/",
+    "summary": "The post The Edge Wrote An Elf Sequel That Wasn’t Made For Some Reason appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Andy Richter",
+      "The Edge",
+      "U2",
+      "Will Ferrell"
+    ],
+    "published": "2026-11-08T18:04:23+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "8f9ca37c48a555f0",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Rosalía Celebrates Lux Anniversary with 1,000-Song Playlist",
+    "link": "https://pitchfork.com/story/rosalia-celebrates-lux-anniversary-with-1000-song-playlist/",
+    "summary": "Featuring Mozart, Yung Lean, Labi Siffre, and Pink Floyd",
+    "full_text": false,
+    "categories": [
+      "News"
+    ],
+    "published": "2026-11-08T17:28:56+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "889ce26e74b64930",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Strokes Get a Surprise Visit From Walton Goggins During ‘SNL’ Performance: Watch",
+    "link": "https://www.billboard.com/music/rock/the-strokes-snl-walton-goggins-cameo-performance-video-1236377034/",
+    "summary": "The NYC band performed “Lonely in the Future” and “Going Shopping” during its Nov. 7 appearance on the show.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Rock",
+      "genre rock",
+      "Music News",
+      "saturday night live",
+      "snl",
+      "TV / Film"
+    ],
+    "published": "2026-11-08T17:20:03+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "29340adc3fc188df",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Kurt Vile Brings Out Ethan Buckler For A King Kong Song In Louisville",
+    "link": "https://stereogum.com/2516998/kurt-vile-brings-out-ethan-buckler-for-a-king-kong-song-in-louisville/news/",
+    "summary": "The post Kurt Vile Brings Out Ethan Buckler For A King Kong Song In Louisville appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Ethan Buckler",
+      "Jimmy Fallon",
+      "King Kong",
+      "Kurt Vile & The Violators",
+      "Slint"
+    ],
+    "published": "2026-11-08T17:18:32+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "053bce4177230025",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "U2 Speak Up About Ed Sheeran, Macklemore “Free Palestine” Controversy, Criticize Rich Stadium Owners",
+    "link": "https://consequence.net/2026/11/u2-on-ed-sheeran-macklemore-controversy/",
+    "summary": "The Irish band supported the rapper's right to speak up while also offering encouragement to the English singer-songwriter. U2 Speak Up About Ed Sheeran, Macklemore “Free Palestine” Controversy, Criticize Rich Stadium Owners Travis Bland",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Music",
+      "News",
+      "Classic Rock",
+      "Politics"
+    ],
+    "published": "2026-11-08T17:10:55+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "794d8f193f12425f",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Knicks Attempt Damage Control After Tyler Kolek Calls Taylor Swift A Fake Fan",
+    "link": "https://stereogum.com/2516990/the-knicks-attempt-damage-control-after-tyler-kolek-calls-taylor-swift-a-fake-fan/news/",
+    "summary": "The post The Knicks Attempt Damage Control After Tyler Kolek Calls Taylor Swift A Fake Fan appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Knicks",
+      "Madison Square Garden",
+      "Miles McBride",
+      "Noah Kahan",
+      "Taylor Swift",
+      "Tyler Kolek"
+    ],
+    "published": "2026-11-08T16:43:52+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "d804b86fc75a98de",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "U2 Sound Revitalized on ‘Carnaval de Luz’",
+    "link": "https://www.rollingstone.com/music/music-album-reviews/u2-carnaval-de-luz-album-review-1235645569/",
+    "summary": "The rock legends return with a tightly focused album that stands as a counterargument to pop-culture doomsaying",
+    "full_text": false,
+    "categories": [
+      "Album Reviews",
+      "Music",
+      "Adam Clayton",
+      "Bono",
+      "Larry Mullen Jr",
+      "The Edge",
+      "U2"
+    ],
+    "published": "2026-11-08T16:29:02+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "01b9bcf88e132ffe",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "SNL Debuts Humiliating Elon Musk Impersonation",
+    "link": "https://consequence.net/2026/11/snl-elon-musk-impersonation/",
+    "summary": "Jeremy Culhane nailed Musk's awkward cadence and mannerisms, as well as his penchant for self-humiliation SNL Debuts Humiliating Elon Musk Impersonation Alex Young",
+    "full_text": false,
+    "categories": [
+      "News Bites",
+      "News",
+      "TV & Movie News",
+      "TV & Movies",
+      "Elon Musk",
+      "Saturday Night Live"
+    ],
+    "published": "2026-11-08T16:28:07+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "1beb0e9b580b2f90",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Mon Laferte Hit In The Face With Phone Thrown By Fan At Las Vegas Show",
+    "link": "https://stereogum.com/2516980/mon-laferte-hit-in-the-face-with-phone-thrown-by-fan-at-las-vegas-show/news/",
+    "summary": "The post Mon Laferte Hit In The Face With Phone Thrown By Fan At Las Vegas Show appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Mon Laferte"
+    ],
+    "published": "2026-11-08T16:06:24+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "4f8789d82ceb2edc",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Future-Prog Foursome Polyphia Want to Freak You Out on Their New Album",
+    "link": "https://www.rollingstone.com/music/music-features/polyphia-interview-tim-henson-new-album-1235653994/",
+    "summary": "Next-gen guitar shredders Tim Henson and Scott LePage on why their band got heavy and scary while staying weird on ‘Be Not Afraid’",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "Kanye West",
+      "Mike Dean",
+      "Polyphia",
+      "Scott LePage",
+      "Steve Vai",
+      "Tim Henson"
+    ],
+    "published": "2026-11-08T15:38:35+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "e1af6b1f846614e9",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Strokes Play Druski-Hosted SNL, Share New Video Featuring Spitting Image Puppets",
+    "link": "https://stereogum.com/2516969/the-strokes-play-druski-hosted-snl-share-new-video-featuring-spitting-image-puppets/news/",
+    "summary": "The post The Strokes Play Druski-Hosted SNL, Share New Video Featuring Spitting Image Puppets appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Anthony Fantano",
+      "Austin Butler",
+      "Billy Evans",
+      "Chris Rock",
+      "Chris Smalls",
+      "Dave Chappelle",
+      "Druski",
+      "Elizabeth Holmes",
+      "Elon Musk",
+      "Emma Stone",
+      "Greta Thunberg",
+      "James Talarico",
+      "Lee Camp",
+      "Michael B. Jordan",
+      "Nathan Fielder",
+      "Saturday Night Live",
+      "Spitting Image",
+      "The Strokes",
+      "Warren Fu",
+      "You Can See Everything"
+    ],
+    "published": "2026-11-08T15:33:01+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "b0b82dac6908c7d9",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Alanis Morissette Reveals She’s Pansexual",
+    "link": "https://consequence.net/2026/11/alanis-morissette-reveals-shes-pansexual/",
+    "summary": "The Canadian singer-songwriter joked, \"I get everything,\" after being asked if she ever considered being a lesbian. Alanis Morissette Reveals She’s Pansexual Travis Bland",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Music",
+      "News",
+      "Alternative Pop",
+      "Alternative Rock"
+    ],
+    "published": "2026-11-08T15:31:06+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "a2d3c0188979fe70",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Hayley Williams Hangs in Her Hotel Room in “Dream Girl in Shibuya” Video",
+    "link": "https://pitchfork.com/story/hayley-williams-hangs-in-a-hotel-room-in-new-dream-girl-in-shibuya-video/",
+    "summary": "The Ego Death at a Bachelorette Party track just got a black-and-white visual to match",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Video"
+    ],
+    "published": "2026-11-08T15:29:53+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "9abe0338bb39f74a",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "This Former Physics Teacher Recorded an Album of Folky Songs Inspired by Sonar",
+    "link": "https://www.rollingstone.com/music/music-features/ben-labat-the-terms-solo-album-1235654283/",
+    "summary": "On Echolocationism , Ben Labat, who once led the alt-rock band the Terms, looks to marine-life navigation for musical ideas: \"It’s really about finding that new path\"",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "Americana",
+      "Ben LaBat",
+      "Country Music"
+    ],
+    "published": "2026-11-08T15:25:26+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "26b1aba3517ae572",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Strokes Skewer Billionaire Class in Puppet-Filled “Lonely in the Future” Video",
+    "link": "https://consequence.net/2026/11/the-strokes-lonely-in-the-future-video/",
+    "summary": "Elon Musk, Jeff Bezos, Mark Zuckerberg, and Rupert Murdoch are presented as puppets in The Strokes' latest visual in support of Reality Awaits. The Strokes Skewer Billionaire Class in Puppet-Filled “Lonely in the Future” Video Alex Young",
+    "full_text": false,
+    "categories": [
+      "Music Videos",
+      "Music",
+      "Music News",
+      "News",
+      "Alternative Rock",
+      "Elon Musk",
+      "Jeff Bezos",
+      "Mark Zuckerberg",
+      "Rock"
+    ],
+    "published": "2026-11-08T15:13:12+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "71564231021787b0",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Why Are So Many Artists Dropping Holiday Music?",
+    "link": "https://www.rollingstone.com/music/music-features/olivia-rodrigo-holiday-music-artists-2026-1235653142/",
+    "summary": "Here's your guide to everyone releasing holiday projects, from Olivia Rodrigo to Alanis Morissette to Hilary Duff",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "Holiday"
+    ],
+    "published": "2026-11-08T15:00:19+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "9daef4c510baa52a",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch the Strokes Play “Lonely in the Future” and “Going Shopping” on SNL",
+    "link": "https://pitchfork.com/story/watch-the-strokes-play-lonely-in-the-future-and-going-shopping-on-snl/",
+    "summary": "Nick Valensi didn’t join, but Walton Goggins did",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Video"
+    ],
+    "published": "2026-11-08T14:50:55+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "0fc309c3e1eb462d",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Strokes Join SNL Five-Timers Club With Dazzling Visuals and Walton Goggins",
+    "link": "https://consequence.net/2026/11/the-strokes-join-snl-five-timers-club-with-dazzling-visuals-and-walton-goggins/",
+    "summary": "The NYC alt-rockers performed \"Lonely in the Future\" and \"Going Shopping.\" The Strokes Join SNL Five-Timers Club With Dazzling Visuals and Walton Goggins Alex Young",
+    "full_text": false,
+    "categories": [
+      "Late Night Performances",
+      "Music",
+      "Music News",
+      "News",
+      "Alternative Rock",
+      "Saturday Night Live",
+      "Walton Goggins"
+    ],
+    "published": "2026-11-08T14:44:55+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "b14ed90a74e6a934",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Justin Timberlake Reveals ‘What Goes Around… Comes Around’ Is Not About Britney Spears",
+    "link": "https://www.rollingstone.com/music/music-news/justin-timberlake-what-goes-around-comes-around-britney-spears-1235654443/",
+    "summary": "\"Maybe I should dispel a rumor at this point, which has gone around forever, which is like, it’s not a personal story from mine,\" singer says of FutureSex/LoveSounds hit",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Britney Spears",
+      "Justin Timberlake"
+    ],
+    "published": "2026-11-08T14:33:47+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "5a3a9e96def085f7",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Here’s Where to Find Tickets to Celine Dion’s 2027 Paris Residency Online",
+    "link": "https://www.billboard.com/culture/product-recommendations/celine-dion-paris-tickets-best-deals-prices-offers-online-1236339179/",
+    "summary": "The residency marks the singer's big comeback since announcing her diagnosis with Stiff Person Syndrome in 2022.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "NOADS",
+      "tickets"
+    ],
+    "published": "2026-11-08T13:34:00+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "73ce5483c7dc266b",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Rosalía celebrates one year of ‘Lux’ with 1,000-song playlist and anniversary box set",
+    "link": "https://www.nme.com/news/music/rosalia-celebrates-one-year-lux-1000-song-playlist-anniversary-box-set-3975386?utm_source=rss&utm_medium=rss&utm_campaign=rosalia-celebrates-one-year-lux-1000-song-playlist-anniversary-box-set",
+    "summary": "The Spanish star has reflected on the making of her acclaimed fourth album: \"I was thinking about cathedrals\" The post Rosalía celebrates one year of ‘Lux’ with 1,000-song playlist and anniversary box set appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News"
+    ],
+    "published": "2026-11-08T11:49:56+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "334456c6979dcd7a",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "NFL Madrid Game Halftime Show 2026: Here’s Where to Watch Manuel Turizo Perform Live Online Free",
+    "link": "https://www.billboard.com/culture/product-recommendations/nfl-madrid-game-2026-manuel-turizo-halftime-watch-live-free-1236373868/",
+    "summary": "Livestream the Cincinnati Bengals taking on the Atlanta Falcons live from Madrid on Nov. 8. Watch Manuel Turizo perform at halftime.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "football",
+      "how to watch",
+      "nfl",
+      "NOADS",
+      "streaming"
+    ],
+    "published": "2026-11-08T11:30:00+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "3df90d5328aaa450",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Blink-182’s Mark Hoppus join Jimmy Eat World for ‘A Praise Chorus’ at The Hollywood Bowl",
+    "link": "https://www.nme.com/news/music/blink-182-mark-hoppus-jimmy-eat-world-a-praise-chorus-hollywood-bowl-3975382?utm_source=rss&utm_medium=rss&utm_campaign=blink-182-mark-hoppus-jimmy-eat-world-a-praise-chorus-hollywood-bowl",
+    "summary": "The two bands have a long history together, with Jimmy Eat World even performing at Tom DeLonge's wedding in 2001 The post Watch Blink-182’s Mark Hoppus join Jimmy Eat World for ‘A Praise Chorus’ at The Hollywood Bowl appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Pop-Punk"
+    ],
+    "published": "2026-11-08T10:35:36+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "080f37e4e61c805b",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch The Strokes perform ‘Lonely In The Future’ and ‘Going Shopping’ with Walton Goggins on ‘SNL’",
+    "link": "https://www.nme.com/news/music/the-strokes-lonely-in-the-future-going-shopping-walton-goggins-snl-3975379?utm_source=rss&utm_medium=rss&utm_campaign=the-strokes-lonely-in-the-future-going-shopping-walton-goggins-snl",
+    "summary": "The New York band made their fifth appearance on the show, which was hosted by comedian Druski The post Watch The Strokes perform ‘Lonely In The Future’ and ‘Going Shopping’ with Walton Goggins on ‘SNL’ appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Indie"
+    ],
+    "published": "2026-11-08T09:32:06+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "9e20585128a22443",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Tributes paid after death of Television guitarist Richard Lloyd: “A seeker and finder and a true inspiration”",
+    "link": "https://www.nme.com/news/music/tributes-paid-after-death-of-television-guitarist-richard-lloyd-a-seeker-and-finder-and-a-true-inspiration-3975375?utm_source=rss&utm_medium=rss&utm_campaign=tributes-paid-after-death-of-television-guitarist-richard-lloyd-a-seeker-and-finder-and-a-true-inspiration",
+    "summary": "Johnny Marr and Lloyd Cole are among those remembering the influential musician, who has died aged 75 The post Tributes paid after death of Television guitarist Richard Lloyd: “A seeker and finder and a true inspiration” appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Post-Punk",
+      "Punk"
+    ],
+    "published": "2026-11-08T08:36:27+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "0228648e744fb8fc",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘SNL’: Watch The Strokes Perform ‘Lonely in the Future,’ ‘Going Shopping’",
+    "link": "https://www.rollingstone.com/music/music-news/snl-watch-the-strokes-perform-lonely-future-going-shopping-1235654344/",
+    "summary": "Both songs are from the New York rock band's latest album, Reality Awaits",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Late-Night TV",
+      "Saturday Night Live",
+      "SNL",
+      "The Strokes"
+    ],
+    "published": "2026-11-08T07:40:07+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "5bab73183844dae8",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Druski Spoofs You Can See Everything on SNL",
+    "link": "https://consequence.net/2026/11/druski-spoofs-you-can-see-everything-snl/",
+    "summary": "Jane Wickline played Elizabeth Holmes and Ben Marshall portrayed her husband, Billy. Druski Spoofs You Can See Everything on SNL Alex Young",
+    "full_text": false,
+    "categories": [
+      "News Bites",
+      "News",
+      "TV & Movie News",
+      "TV & Movies",
+      "Saturday Night Live",
+      "You Can See Everything"
+    ],
+    "published": "2026-11-08T05:44:07+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "9eff40851747272a",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "James Talarico Crashes SNL’s Cold Open: “It’s Clear People Want Something New”",
+    "link": "https://consequence.net/2026/11/james-talarico-snl-cold-open/",
+    "summary": "The Texas Senator-elect interrupted the show's latest Trump-led cold open to deliver a pointed joke about audiences wanting something new. James Talarico Crashes SNL’s Cold Open: “It’s Clear People Want Something New” Alex Young",
+    "full_text": false,
+    "categories": [
+      "News Bites",
+      "News",
+      "TV & Movie News",
+      "TV & Movies",
+      "Saturday Night Live"
+    ],
+    "published": "2026-11-08T05:11:53+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
+    "id": "c40dec0d2bf952ed",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "The Nightfly",
+    "link": "https://pitchfork.com/reviews/albums/donald-fagen-the-nightfly/",
+    "summary": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Tonight, we join Steely Dan’s Donald Fagen under cover as an after-hours radio DJ, bringing studio perfection to the music of his adolescent dreams.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums",
+      "Sunday Review"
+    ],
+    "published": "2026-11-08T05:00:00+00:00",
+    "collected": "2026-11-09T02:43:19.293813+00:00"
+  },
+  {
     "id": "79f10aa541b657e6",
     "source": "Billboard",
     "source_type": "news",
@@ -19577,48 +20296,5 @@
     ],
     "published": "2026-10-12T03:45:31+00:00",
     "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "f431f0284c3a327d",
-    "source": "Slant (music)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Review: With ‘She’s the Best,’ Troye Sivan Loses Himself in His Muses",
-    "link": "https://www.slantmagazine.com/music/troye-sivan-shes-the-best-album-review/",
-    "summary": "There are certainly pleasures to be found on the album, but the singer himself seems to get lost. The post Review: With ‘She’s the Best,’ Troye Sivan Loses Himself in His Muses appeared first on Slant Magazine .",
-    "categories": [
-      "Music",
-      "Troye Sivan"
-    ],
-    "published": "2026-10-09T23:08:53+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "25c1ad1ba56883e4",
-    "source": "Pitchfork (track reviews)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "“Accelerando”",
-    "link": "https://pitchfork.com/reviews/tracks/grimes-vadakin-accelerando/",
-    "summary": "The pop artist teases her long-awaited AI-inspired album with a new single that doesn’t quite live up to its presentation.",
-    "categories": [
-      "Reviews / Tracks"
-    ],
-    "published": "2026-10-09T18:45:48+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "8263fef42b9eba28",
-    "source": "Pitchfork (Best New Albums)",
-    "source_type": "reviews",
-    "weight": 2.0,
-    "title": "Live at Carnegie Hall",
-    "link": "https://pitchfork.com/reviews/albums/cameron-winter-live-at-carnegie-hall/",
-    "summary": "With new songs that rank among his very best, the Geese frontman’s solo live album is an exquisite rendering of a had-to-be-there night and a work of real-time mythmaking.",
-    "categories": [
-      "Reviews / Albums"
-    ],
-    "published": "2026-10-09T04:03:00+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
   }
 ]
