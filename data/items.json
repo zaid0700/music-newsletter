@@ -1,5 +1,1874 @@
 [
   {
+    "id": "ab4d748a54cc164b",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Latin Grammys 2026 Special Awards: Best Quotes From Lila Downs, Chichí Peralta & More Honorees",
+    "link": "https://www.billboard.com/music/latin/latin-grammys-special-awards-2026-best-quotes-lila-downs-1236378490/",
+    "summary": "Alaska, Omar Alfanno, Francisco Céspedes & Daniela Mercury also delivered moving speeches upon receiving their awards on Monday.",
+    "full_text": false,
+    "categories": [
+      "Latin",
+      "Music",
+      "Awards",
+      "genre latin",
+      "Latin Grammys",
+      "Music News"
+    ],
+    "published": "2026-11-10T02:25:17+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "3a66e82989e61e96",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Yella Beezy Executive Defends Mo3 Response Plan at Rapper's Trial",
+    "link": "https://www.xxlmag.com/yella-beezy-marketing-executive-mo3-shooting-trial/",
+    "summary": "WFAA/YouTube (2)",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Mo3",
+      "Yella Beezy"
+    ],
+    "published": "2026-11-10T02:04:48+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "72ef11fde3e1b114",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Steven Tyler ‘Teen Bride’ Sex Abuse Trial Set for 2027 — And the Scope of the Case Could Widen Again",
+    "link": "https://www.billboard.com/pro/steven-tyler-teen-bride-sexual-abuse-lawsuit-trial-2027/",
+    "summary": "A judge might revisit an earlier ruling that substantially narrowed claims against the Aerosmith frontman.",
+    "full_text": false,
+    "categories": [
+      "Business",
+      "Legal News",
+      "genre rock",
+      "lawsuit",
+      "Legal",
+      "Music News",
+      "nsfs",
+      "rock"
+    ],
+    "published": "2026-11-10T00:11:45+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "983db2d448a5ed59",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Pink announces 2027 Sphere residency",
+    "link": "https://theneedledrop.com/news/pink-announces-2027-sphere-residency/",
+    "summary": "The announcement marks her as the first female solo artist to headline the venue.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "pink"
+    ],
+    "published": "2026-11-10T00:01:15+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "2e5f9118e2018823",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "U2 reunite with Brian Eno to launch ‘Carnaval De Luz’ at intimate London gig at The Modern for the BBC",
+    "link": "https://www.nme.com/news/music/u2-tate-modern-live-for-bbc-london-gig-setlist-report-how-to-watch-3974926",
+    "summary": "See photos, the setlist and what went down here, along with how to watch the spectacular show The post U2 reunite with Brian Eno to launch ‘Carnaval De Luz’ at intimate London gig at The Modern for the BBC appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "TV News",
+      "Rock"
+    ],
+    "published": "2026-11-10T00:01:00+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "94c738e80162db75",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "U2 Celebrate Brian Eno With Secret Show at London’s Tate Museum: Best Moments",
+    "link": "https://www.billboard.com/lists/u2-london-best-moments-brian-eno/",
+    "summary": "The band release their 16th studio album Carnaval de Luze next Friday (Nov. 13).",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Rock",
+      "Billboard UK",
+      "genre rock"
+    ],
+    "published": "2026-11-10T00:00:00+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "e81546c6641ec231",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Nightmare Before Christmas: Michael Jackson, Wham! & Mariah Carey Hits Celebrate Dual Holidays on the Hot 100",
+    "link": "https://www.billboard.com/music/chart-beat/halloween-christmas-hits-hot-100-2026-michael-jackson-mariah-1236378420/",
+    "summary": "Five Halloween classics, one newer paranormal-themed pop hit & two Christmas carols scale the chart.",
+    "full_text": false,
+    "categories": [
+      "Chart Beat",
+      "Music",
+      "genre pop",
+      "halloween",
+      "holiday",
+      "Music News"
+    ],
+    "published": "2026-11-09T23:58:10+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "bad80e31e35e3def",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Canadian Government Introduces Canada Creative Credit to Support ‘Artistic Production’",
+    "link": "https://www.billboard.com/pro/canada-government-tax-relief-canadian-artists-budget/",
+    "summary": "The Mark Carney government's new federal budget also confirms a $600 million investment to provide relief to the audiovisual sector for 2026-27.",
+    "full_text": false,
+    "categories": [
+      "Business",
+      "Business News",
+      "Canada",
+      "International",
+      "Music News"
+    ],
+    "published": "2026-11-09T23:44:44+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "2c0366ef1cc65a05",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Black Belt Eagle Scout Shares New Song “Fantasy”",
+    "link": "https://pitchfork.com/story/black-belt-eagle-scout-shares-new-song-fantasy/",
+    "summary": "The Swinomish musician enlisted her family members to join her in its music video",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Video"
+    ],
+    "published": "2026-11-09T23:41:18+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "74bbe4c65164c2f8",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Every Role Cast in the Snoop Dogg Biopic So Far, From Dr. Dre & 2Pac to Snoop Himself",
+    "link": "https://www.billboard.com/photos/snoop-dogg-biopic-cast-actors-1236325221/",
+    "summary": "'Snoop' hits U.S. theaters on Aug. 6, 2027.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "R&B/Hip-Hop",
+      "Billboard Gallery",
+      "genre hiphop",
+      "Music News",
+      "TV / Film"
+    ],
+    "published": "2026-11-09T23:40:53+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "0f567b7999a4dac9",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Dashboard Confessional announce Unplugged 25th anniversary tour",
+    "link": "https://theneedledrop.com/news/dashboard-confessional-announce-unplugged-25th-anniversary-tour/",
+    "summary": "The North American tour is set to begin in March 2027, spanning major cities across the United States such as Chicago, Denver, and Los Angeles.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "dashboard confessional"
+    ],
+    "published": "2026-11-09T23:12:55+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "a780e86d2b203a41",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Inside Brooklyn Pacha’s Opening Weekend: Exclusive Photos",
+    "link": "https://www.billboard.com/music/lyrics/brooklyn-pacha-opening-weekend-exclusive-photos-1236378259/",
+    "summary": "The indoor club, which occupies the former Avant Gardner Great Hall, opened Nov. 6-7 with sets from Loco Dice, Louie Vega & more.",
+    "full_text": false,
+    "categories": [
+      "Lyrics",
+      "Music",
+      "Dance",
+      "genre dance",
+      "Live",
+      "Music News"
+    ],
+    "published": "2026-11-09T23:07:00+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "086066d87d6ed98e",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Juan Atkins’ Catalog Surges 1,285% on Streaming After Producer’s Death",
+    "link": "https://www.billboard.com/music/music-news/juan-atkins-music-catalog-streams-surge-producer-death-1236378199/",
+    "summary": "The techno founder died on Oct. 31 at age 64.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Dance",
+      "genre dance",
+      "streaming"
+    ],
+    "published": "2026-11-09T22:50:03+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "e16b5ad82279f128",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "A Former Country Star Said the CMA Wouldn’t Let Him on the Red Carpet. All Hell Broke Loose",
+    "link": "https://www.rollingstone.com/music/music-features/sammy-kershaw-cma-awards-red-carpet-what-happened-1235654814/",
+    "summary": "Sammy Kershaw, a Nineties country singer, caused an uproar ahead of the CMA Awards and elicited a response from the org, but is this really what we're getting so worked up over?",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "CMA Awards",
+      "Country Music",
+      "Nashville",
+      "Sammy Kershaw"
+    ],
+    "published": "2026-11-09T22:29:56+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "cc3aa7491c554bbc",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Mariah Carey’s ‘Obsessed’ Joins Spotify Billions Club",
+    "link": "https://www.udiscovermusic.com/news/mariah-carey-obsessed-spotify-billions-club/",
+    "summary": "The 2005 hit is her second song to achieve the feat, following the holiday classic 'All I Want For Christmas Is You.'",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Homepage Featured",
+      "Mariah Carey",
+      "Memoirs Of An Imperfect Angel",
+      "Obsessed",
+      "Pop",
+      "R&B",
+      "Spotify Billions Club"
+    ],
+    "published": "2026-11-09T22:26:45+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "f3746407fc5475bc",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "15 Great Songs That Use the Wah-Wah Guitar Pedal & Its Funky, Fluid Feel",
+    "link": "https://www.billboard.com/lists/best-wah-wah-pedal-guitar-songs-del-casher/",
+    "summary": "Del Casher, the inventor of the wah-wah pedal, died last month at 88. His creation has had a massive impact on musical history.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "genre rb",
+      "genre rock"
+    ],
+    "published": "2026-11-09T22:25:22+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "785af57c18cec1ce",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Damage Control: Why Warner Bros. Keeps Making a Mess of the DC Universe",
+    "link": "https://consequence.net/2026/11/dc-comics-movies-warner-bros-superman/",
+    "summary": "James Gunn and Peter Safran's exit is more than just post-merger corporate reorganizing. Damage Control: Why Warner Bros. Keeps Making a Mess of the DC Universe Liz Shannon Miller",
+    "full_text": false,
+    "categories": [
+      "TV & Movie Editorials",
+      "Editorials",
+      "Features",
+      "TV & Movies",
+      "DC Studios",
+      "James Gunn",
+      "Marvel Cinematic Universe",
+      "Superman",
+      "Warner Bros."
+    ],
+    "published": "2026-11-09T22:21:35+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "c770ab3aba7f2fca",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "ROSÉ of BLACKPINK Covers ‘One of My Favorite Songs’ by The Killers at Star-Studded LACMA Gala",
+    "link": "https://www.billboard.com/music/music-news/blackpink-rose-covers-the-killers-lacma-gala-1236378257/",
+    "summary": "The star also played three of her own tracks, including solo release \"New Trick.\"",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "genre kpop"
+    ],
+    "published": "2026-11-09T22:06:37+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "358239edc403bf5d",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Paul McCartney and Ringo Starr to Reunite at Las Vegas Show in 2027",
+    "link": "https://www.rollingstone.com/music/music-news/paul-mccartney-ringo-starr-vegas-2027-reunion-1235654889/",
+    "summary": "The two Beatles will make a rare onstage appearance together at Joe Walsh's VetsAid music festival in January",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Joe Walsh",
+      "Paul McCartney",
+      "Ringo Starr"
+    ],
+    "published": "2026-11-09T22:02:46+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "22eaaee0987ecc78",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Paul McCartney Is Officially a Billionaire, Third Wealthiest Musician",
+    "link": "https://consequence.net/2026/11/paul-mccartney-billionaire/",
+    "summary": "Macca's cut from The Beatles, his own music holdings, along with art and real estate rake in the dough. Paul McCartney Is Officially a Billionaire, Third Wealthiest Musician Travis Bland",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Music",
+      "News",
+      "Classic Rock"
+    ],
+    "published": "2026-11-09T21:55:50+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "ed215449da6107e3",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "A Supreme Elliott Smith Collection? What the Hell, Sure",
+    "link": "https://pitchfork.com/story/a-supreme-elliott-smith-collection-what-the-hell-sure/",
+    "summary": "The streetwear brand is launching a capsule collection inspired by the late songwriter",
+    "full_text": false,
+    "categories": [
+      "News"
+    ],
+    "published": "2026-11-09T21:39:11+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "523338b51877181f",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Opus Kink – “Low Roader”",
+    "link": "https://stereogum.com/2517069/opus-kink-low-roader/music/",
+    "summary": "The post Opus Kink – “Low Roader” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Opus Kink"
+    ],
+    "published": "2026-11-09T21:38:51+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "63fda993b1651841",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Lil Yachty Reveals He Quit Drinking Lean Seven Months Ago",
+    "link": "https://www.xxlmag.com/lil-yachty-quits-lean/",
+    "summary": "adinupdates/X",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Lil Yachty"
+    ],
+    "published": "2026-11-09T21:32:03+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "66f08f910156f1b3",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Oasis Won’t Attend Their Rock & Roll Hall Of Fame Induction",
+    "link": "https://stereogum.com/2517176/oasis-wont-attend-their-rock-roll-hall-of-fame-induction/news/",
+    "summary": "The post Oasis Won’t Attend Their Rock & Roll Hall Of Fame Induction appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Liam Gallagher",
+      "Oasis"
+    ],
+    "published": "2026-11-09T21:26:28+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "40e42cbc63e75a9c",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Judge Sets Steven Tyler Sex Assault Trial Date",
+    "link": "https://www.rollingstone.com/music/music-news/steven-tyler-child-sex-abuse-trial-julia-misley-aerosmith-1235654761/",
+    "summary": "A California judge said Monday he would toss out and reconsider any rulings by a previous judge if either side requests it in the long-running case",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Aerosmith",
+      "controversy",
+      "courts and crime",
+      "Steven Tyler"
+    ],
+    "published": "2026-11-09T21:24:33+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "9e7d7d0c85441a7b",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "YouTube Squashes Feud With Billboard Charts",
+    "link": "https://pitchfork.com/story/youtube-squashes-feud-with-billboard-charts/",
+    "summary": "A year after the company said it would no longer submit its numbers for chart consideration, it’s reversed course",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Industry"
+    ],
+    "published": "2026-11-09T21:24:28+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "d425e5b6a92536d0",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Paul McCartney and Ringo Starr to join Joe Walsh at VetsAid benefit show",
+    "link": "https://theneedledrop.com/news/paul-mccartney-and-ringo-starr-to-join-joe-walsh-at-vetsaid-benefit-show/",
+    "summary": "The surviving Beatles will join Walsh, alongside The Killers, The War on Drugs, and more at Las Vegas' MGM Grand Garden Arena on January 29, 2027.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "paul mccartney",
+      "ringo starr"
+    ],
+    "published": "2026-11-09T21:07:51+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "66414feddb7bd89d",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Paul McCartney and Ringo Starr Set for Rare Reunion at VetsAid",
+    "link": "https://consequence.net/2026/11/paul-mccartney-ringo-starr-reunion/",
+    "summary": "The 2027 benefit concert also features The Killers, St. Vincent, and The War on Drugs. Paul McCartney and Ringo Starr Set for Rare Reunion at VetsAid Travis Bland",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Live",
+      "Music",
+      "News",
+      "Classic Rock"
+    ],
+    "published": "2026-11-09T20:39:04+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "a160d4d0f4136293",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "U2 Recalls 2006 Brazilian Carnival Experience with Music Icon Gilberto Gil That Helped Inspire Carnaval De Luz",
+    "link": "https://consequence.net/2026/11/u2-brazil-carnaval-gilberto-gil-carnaval-de-luz/",
+    "summary": "Nearly two decades after the celebration, The Edge explains how its blend of spirituality and celebration helped shape the band's new record. U2 Recalls 2006 Brazilian Carnival Experience with Music Icon Gilberto Gil That Helped Inspire Carnaval De Luz Pedro Camacho",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Consequence Latino",
+      "News",
+      "Alternative Rock"
+    ],
+    "published": "2026-11-09T20:35:57+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "8846798ccc4029f7",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Grand Theft Auto VI Preloads Are Going Live: Pre-Order Now to Play at Launch",
+    "link": "https://consequence.net/2026/11/gta-6-preloads-how-to-download-early/",
+    "summary": "The game's files are soon available to download on PlayStation 5 and XBOX Series X/S. Grand Theft Auto VI Preloads Are Going Live: Pre-Order Now to Play at Launch Eddie Fu",
+    "full_text": false,
+    "categories": [
+      "Tech News",
+      "News",
+      "Pop Culture",
+      "Pop Culture News",
+      "Grand Theft Auto",
+      "Video Games"
+    ],
+    "published": "2026-11-09T20:18:08+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "8a2b1282522b19cf",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Bassvictim, Chxrry, Boys Noize, and More: This Week’s Pitchfork Selects Playlist",
+    "link": "https://pitchfork.com/story/bassvictim-chxrry-boys-noize-and-more-this-weeks-pitchfork-selects-playlist/",
+    "summary": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Pitchfork",
+      "Pitchfork Selects",
+      "Staff Picks"
+    ],
+    "published": "2026-11-09T20:11:39+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "1afac441ba21e86a",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Brooke Lena Johnson on A Dog’s Perfect Christmas, Ice Skating, and Covering Joni Mitchell: Podcast",
+    "link": "https://consequence.net/2026/11/brooke-lena-johnson-a-dogs-perfect-christmas/",
+    "summary": "The actress talks the unpredictable joys of working with animals and toddlers, her surprising performance background, and finding real heartbreak beneath the holiday cheer. Brooke Lena Johnson on A Dog’s Perfect Christmas, Ice Skating, and Covering Joni Mitchell: Podcast Kyle Meredith",
+    "full_text": false,
+    "categories": [
+      "Kyle Meredith With... Podcast",
+      "Consequence Podcast Network",
+      "TV & Movie Interviews",
+      "TV & Movies",
+      "Christmas Movie",
+      "Netflix"
+    ],
+    "published": "2026-11-09T19:54:54+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "785cc68efdad54ed",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Pink Becomes First Solo Female Pop Artist to Headline the Sphere",
+    "link": "https://www.rollingstone.com/music/music-news/pink-sphere-residency-2027-1235654728/",
+    "summary": "Musician’s Las Vegas run at the venue kicks off in September 2027",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Pink",
+      "The Sphere"
+    ],
+    "published": "2026-11-09T19:49:55+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "4f2ccb8512c3c9b6",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Silversun Pickups Announce 2027 North American “Tenterhooks Tour”",
+    "link": "https://consequence.net/2026/11/silversun-pickups-tenterhooks-tour/",
+    "summary": "The Los Angeles band's tour in support of their recent Butch Vig-produced album hits New York, Chicago, Seattle, and more. Silversun Pickups Announce 2027 North American “Tenterhooks Tour” Travis Bland",
+    "full_text": false,
+    "categories": [
+      "Tour Dates",
+      "Live",
+      "Music",
+      "Music News",
+      "News",
+      "2027 Tour Dates",
+      "Alternative Rock"
+    ],
+    "published": "2026-11-09T19:42:10+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "a5663cf9dda5970a",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Hear Bob Dylan Play ‘Love and Theft’ Classic ‘Sugar Baby’ for First Time Since 2012",
+    "link": "https://www.rollingstone.com/music/music-news/bob-dylan-sugar-baby-first-time-since-2012-1235654727/",
+    "summary": "Guitarist Julian Lage has also returned to the tour for the first time since August, replacing Mike Seal after just eight concerts",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Bob Dylan"
+    ],
+    "published": "2026-11-09T19:38:14+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "e4be8d3b3d150f50",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "CMA Awards Respond To Backlash Over Red Carpet Exclusions",
+    "link": "https://stereogum.com/2517155/cma-awards-respond-to-backlash-over-red-carpet-exclusions/news/",
+    "summary": "The post CMA Awards Respond To Backlash Over Red Carpet Exclusions appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "CMAs",
+      "Rodney Atkins",
+      "Sammy Kershaw"
+    ],
+    "published": "2026-11-09T19:35:57+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "523fb9c8889ed0e1",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Ye Breaks U.S. Rap Concert Attendance Record for Third Time",
+    "link": "https://www.xxlmag.com/ye-breaks-rap-concert-attendance-record-third-time/",
+    "summary": "ye/Instagram/Matt Winkelmeyer/Getty Images",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Kanye West"
+    ],
+    "published": "2026-11-09T19:35:14+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "6f310528fbcf306a",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Body & Cel Genesis Announce Collaborative 2027 North American Tour",
+    "link": "https://consequence.net/2026/11/the-body-cel-genesis-tour-2027/",
+    "summary": "The tour is set to celebrate the collaborative album Whole Wide World due out this Friday. The Body & Cel Genesis Announce Collaborative 2027 North American Tour Langdon Hickman",
+    "full_text": false,
+    "categories": [
+      "Heavy Consequence",
+      "Heavy Music Concerts",
+      "Heavy Music News",
+      "Live",
+      "Music",
+      "Music News",
+      "News",
+      "Tour Dates",
+      "Hardcore",
+      "Heavy Metal",
+      "Industrial",
+      "Punk",
+      "Sludge Metal"
+    ],
+    "published": "2026-11-09T19:29:52+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "071f124258d4c1f7",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Oasis to Skip Rock and Roll Hall of Fame Induction Ceremony",
+    "link": "https://consequence.net/2026/11/oasis-skip-rock-and-roll-hall-of-fame-induction-ceremony/",
+    "summary": "Despite finally making it into the Rock Hall, Noel and Liam Gallagher will not attend, perform, or accept the honor at the November 14th ceremony. Oasis to Skip Rock and Roll Hall of Fame Induction Ceremony Paolo Ragusa",
+    "full_text": false,
+    "categories": [
+      "News Bites",
+      "Music",
+      "Music News",
+      "News",
+      "Alternative Rock",
+      "Britpop",
+      "Rock",
+      "Rock and Roll Hall of Fame"
+    ],
+    "published": "2026-11-09T19:29:34+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "563446a955e561ee",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "B0YG1RL – “i dont recall” & “openinghearts”",
+    "link": "https://stereogum.com/2517160/b0yg1rl-i-dont-recall-openinghearts/music/",
+    "summary": "The post B0YG1RL – “i dont recall” & “openinghearts” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "4evr",
+      "B0YG1RL",
+      "Cass Morrison",
+      "Surf Gang"
+    ],
+    "published": "2026-11-09T19:27:32+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "d92b9fe654f08a28",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Beach Boys Cancel Final 2026 Concert",
+    "link": "https://www.rollingstone.com/music/music-news/beach-boys-cancel-remaining-2026-date-1235649836/",
+    "summary": "Troubled run was supposed to wrap in Bristol, Virginia, but was cancelled like many before it",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Beach Boys"
+    ],
+    "published": "2026-11-09T19:26:25+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "3e724ef6703f1c1e",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Blueface Gets White House Tattoo to Cover Up Chrisean Rock’s Name",
+    "link": "https://www.xxlmag.com/blueface-white-house-tattoo/",
+    "summary": "theshaderoom/Instagram/Jerritt Clark/Getty Images for Spank",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Blueface",
+      "Chrisean Rock"
+    ],
+    "published": "2026-11-09T19:11:07+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "43e472c74ba23ed6",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "DJ Sabrina The Teenage DJ – “Be (With You)”",
+    "link": "https://stereogum.com/2517153/dj-sabrina-the-teenage-dj-be-with-you/music/",
+    "summary": "The post DJ Sabrina The Teenage DJ – “Be (With You)” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "DJ Sabrina The Teenage DJ"
+    ],
+    "published": "2026-11-09T19:09:42+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "61de70cbad865805",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Black Belt Eagle Scout releases new song \"Fantasy\"",
+    "link": "https://theneedledrop.com/news/black-belt-eagle-scout-releases-new-song-fantasy/",
+    "summary": "Katherine “KP” Paul's indie folk project will also be playing a special show at The MET in NYC this month.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "black belt eagle scout"
+    ],
+    "published": "2026-11-09T19:08:34+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "824bab820591a830",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Fall Out Boy Announce 2027 Tour With The Offspring and Good Charlotte",
+    "link": "https://consequence.net/2026/11/fall-out-boy-2027-tour-the-offspring-good-charlotte/",
+    "summary": "Fall Out Boy have also released the new single \"ACES.\" Fall Out Boy Announce 2027 Tour With The Offspring and Good Charlotte Spencer Kaufman",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Heavy Consequence",
+      "Heavy Music News",
+      "Music",
+      "News",
+      "Tour Dates",
+      "2027 Tour Dates",
+      "Alternative Rock",
+      "Emo",
+      "Pop Punk",
+      "Rock"
+    ],
+    "published": "2026-11-09T19:05:42+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "771fbd756e22e1f1",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Travis Scott, Cardi B, and more to celebrate ‘Grand Theft Auto VI’ launch with Miami music festival",
+    "link": "https://theneedledrop.com/news/travis-scott-cardi-b-and-more-to-celebrate-grand-theft-auto-vi-launch-with-miami-music-festival/",
+    "summary": "Experience the music of Vice City and Leonida at Mana Wynwood.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "gta iv",
+      "travis scott",
+      "cardi b",
+      "morgan wallen"
+    ],
+    "published": "2026-11-09T19:00:11+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "ab4ba44d73b031d9",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Sleeper Hit Support Group: \"Water at a Wedding\" by Greylan James",
+    "link": "https://theneedledrop.com/sleeper-hit-support-group-water-at-a-wedding-by-greylan-james/",
+    "summary": "James made his Grand Ole Opry debut a couple weeks ago, but they seem to be letting anyone do that these days.",
+    "full_text": false,
+    "categories": [
+      "Editorial",
+      "greylan james",
+      "sleeper hit support group"
+    ],
+    "published": "2026-11-09T18:55:44+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "8cd2e2e481a873f9",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "New Order announce 2027 US tour dates",
+    "link": "https://theneedledrop.com/news/new-order-announce-2027-us-tour-dates/",
+    "summary": "Future Islands, Zachery Allan Starkey, and DJ Arthur Baker will join the band throughout the Southwest.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "new order"
+    ],
+    "published": "2026-11-09T18:48:58+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "f4dcd565fa8046ec",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Royal Blood announce new tour",
+    "link": "https://theneedledrop.com/news/royal-blood-announce-new-tour/",
+    "summary": "The tour will take place next spring.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "royal blood"
+    ],
+    "published": "2026-11-09T18:47:44+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "cc4e46ab778e6c39",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Krill – “Secret Language”",
+    "link": "https://stereogum.com/2517143/krill-secret-language/music/",
+    "summary": "The post Krill – “Secret Language” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Fran",
+      "Krill",
+      "Macie Stewart"
+    ],
+    "published": "2026-11-09T18:46:17+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "b8568f09f7c32c72",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Criterion Collection Is 50% Off on Amazon for Black Friday",
+    "link": "https://consequence.net/2026/11/criterion-collection-black-friday-amazon-sale/",
+    "summary": "The holiday sale includes KPop Demon Hunters, David Lynch's Lost Highway and Mulholland Drive, and a complete Kubrick set. The Criterion Collection Is 50% Off on Amazon for Black Friday Eddie Fu",
+    "full_text": false,
+    "categories": [
+      "TV & Movie News",
+      "News",
+      "TV & Movies",
+      "4K",
+      "Amazon",
+      "Criterion"
+    ],
+    "published": "2026-11-09T18:44:57+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "c6f4c176e853b4ee",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Fall Out Boy Announce Biggest Tour Yet — and New Single ‘Aces’",
+    "link": "https://www.rollingstone.com/music/music-features/fall-out-boy-interview-tour-dates-new-single-aces-1235654708/",
+    "summary": "Patrick Stump and Pete Wentz tell Rolling Stone about the band's super-sized return with “Aces” and 202’'s Twilight of the Punks Tour, which will hit U.S. baseball stadiums",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "Fall Out Boy",
+      "Joe Trohman",
+      "Patrick Stump",
+      "Pete Wentz"
+    ],
+    "published": "2026-11-09T18:30:00+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "0dc4a955c61ba0a0",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Beck Releases ‘Disappearing Act’ Video Ahead of Tour Finale",
+    "link": "https://www.udiscovermusic.com/news/beck-disappearing-act-video/",
+    "summary": "Directed by Mikai Karl from Beck’s original vision, the video features funeral processions, rituals, architecture, and other imagery.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Beck",
+      "Disappearing Act",
+      "Homepage Featured",
+      "Live Music",
+      "Music Videos",
+      "Ride Lonesome",
+      "Rock"
+    ],
+    "published": "2026-11-09T18:24:21+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "3888c209a62ed38f",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "YouTube Streams Will Once Again Count Toward Billboard Charts",
+    "link": "https://stereogum.com/2517130/youtube-streams-will-once-again-count-toward-billboard-charts/news/",
+    "summary": "The post YouTube Streams Will Once Again Count Toward <em>Billboard</em> Charts appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Billboard",
+      "YouTube"
+    ],
+    "published": "2026-11-09T18:21:36+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "ec98e1ffb4cb2258",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Blue Note Announces 2027 Tone Poet Vinyl Reissues",
+    "link": "https://www.udiscovermusic.com/news/blue-note-tone-poet-2027-vinyl-reissues/",
+    "summary": "Donald Byrd, Pepper Adams and Grant Green lead the opening January releases.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "2027",
+      "Blue Note",
+      "Blue Note Records",
+      "Blue Note Tone Poet",
+      "Donald Byrd",
+      "Grant Green",
+      "Homepage Featured",
+      "Jazz",
+      "Pepper Adams",
+      "Reissues",
+      "Tone Poet Audiophile Vinyl Reissue Series",
+      "Vinyl"
+    ],
+    "published": "2026-11-09T18:21:31+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "c8627e8d560ffa44",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "U2’s The Edge Once Wrote a Screenplay for Elf 2",
+    "link": "https://consequence.net/2026/11/elf-2-the-edge-u2-screenplay/",
+    "summary": "Seriously, the guitarist allegedly has a full screenplay written for a follow-up to the Will Ferrell movie. U2’s The Edge Once Wrote a Screenplay for Elf 2 Liz Shannon Miller",
+    "full_text": false,
+    "categories": [
+      "TV & Movie News",
+      "TV & Movies",
+      "Andy Richter",
+      "Will Ferrell"
+    ],
+    "published": "2026-11-09T18:20:56+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "88e0940a3770e494",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Stray Kids Announce 2027 ‘RUN IT’ World Tour",
+    "link": "https://www.udiscovermusic.com/news/stray-kids-run-it-world-tour/",
+    "summary": "The tour begins in Seattle in May and concludes in Milan in July, with dates across North America and Europe.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Homepage Featured",
+      "K-pop",
+      "Live Music",
+      "RUN IT World Tour",
+      "Stray Kids",
+      "This & That"
+    ],
+    "published": "2026-11-09T18:17:35+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "ae21e713c51220e7",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Surviving Type O Negative Members Offered “A Lot of Money” to Perform Again",
+    "link": "https://consequence.net/2026/11/type-o-negative-offered-lot-of-money/",
+    "summary": "The reveal came during guitarist Kenny Hickey's appearance on the podcast Hardlore. Surviving Type O Negative Members Offered “A Lot of Money” to Perform Again Langdon Hickman",
+    "full_text": false,
+    "categories": [
+      "Heavy Music News",
+      "Heavy Consequence",
+      "Music",
+      "Music News",
+      "News",
+      "Doom Metal",
+      "Gothic Metal",
+      "Heavy Metal"
+    ],
+    "published": "2026-11-09T18:11:12+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "3fcd16fd871bfc5a",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "P!NK Announces 2027 Sphere Residency",
+    "link": "https://consequence.net/2026/11/pink-2027-sphere-residency/",
+    "summary": "The nine-date run takes place in September and October 2027. P!NK Announces 2027 Sphere Residency Paolo Ragusa",
+    "full_text": false,
+    "categories": [
+      "Tour Dates",
+      "Music",
+      "Music News",
+      "News",
+      "2027 Tour Dates",
+      "Las Vegas",
+      "Pop",
+      "Sphere"
+    ],
+    "published": "2026-11-09T18:07:14+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "540cd6c1828162d7",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "New Order Plot 2027 U.S. Tour",
+    "link": "https://pitchfork.com/story/new-order-plot-2027-us-tour/",
+    "summary": "Future Islands will support the synth-pop greats on three Texas dates to launch the Southern run",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Tours"
+    ],
+    "published": "2026-11-09T18:05:25+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "d84c68916a0bc562",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Paul McCartney & Ringo Starr To Perform With Joe Walsh At VetsAid Benefit",
+    "link": "https://stereogum.com/2517131/paul-mccartney-ringo-starr-to-perform-with-joe-wash-at-vetsaid-benefit/news/",
+    "summary": "The post Paul McCartney & Ringo Starr To Perform With Joe Walsh At VetsAid Benefit appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Eagles",
+      "Joe Walsh",
+      "Lucius",
+      "Paul McCartney",
+      "Ringo Starr",
+      "St. Vincent",
+      "The Beatles",
+      "The Killers",
+      "The War On Drugs",
+      "VetsAid"
+    ],
+    "published": "2026-11-09T17:59:54+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "8d8ded5770f26173",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "James Gunn and Peter Safran No Longer in Charge of DC Studios",
+    "link": "https://consequence.net/2026/11/dc-studios-james-gunn-peter-safran-exit/",
+    "summary": "Gunn expressed his excitement for escaping the corporate aspects of the job on Instagram. James Gunn and Peter Safran No Longer in Charge of DC Studios Liz Shannon Miller",
+    "full_text": false,
+    "categories": [
+      "TV & Movie News",
+      "News",
+      "TV & Movies",
+      "DC Studios",
+      "James Gunn",
+      "Warner Bros."
+    ],
+    "published": "2026-11-09T17:52:01+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "5644032e962a8a7a",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Tallia Storm Links With Jeremih On ‘She Decides’",
+    "link": "https://www.clashmusic.com/news/tallia-storm-links-with-jeremih-on-she-decides/",
+    "summary": "Tallia Storm has linked up with Jeremih for her new single ‘She Decides’. The Camper-produced single opens her independent EP ‘After The Storm’, due in January. Elton John discovered the Scottish singer, songwriter and broadcaster when she was 13, and industry veteran Ron Fair signed her the following year. Now… The post Tallia Storm Links With Jeremih On ‘She Decides’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Jeremih",
+      "Tallia Storm"
+    ],
+    "published": "2026-11-09T17:49:39+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "b0b0eb4c869f3d56",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "John Summit Asks Fans To Stop Throwing Shit At Him: “It’s Getting Disrespectful”",
+    "link": "https://stereogum.com/2517123/john-summit-asks-fans-to-stop-throwing-shit-at-him-its-getting-disrespectful/news/",
+    "summary": "The post John Summit Asks Fans To Stop Throwing Shit At Him: “It’s Getting Disrespectful” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "John Summit"
+    ],
+    "published": "2026-11-09T17:33:54+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "e7dfaa082761a112",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "YNW Melly’s Murder Retrial Takes New Turn With Casey Anthony",
+    "link": "https://www.xxlmag.com/ynw-melly-retrial-casey-anthony-legal-team/",
+    "summary": "Mike Stocker/South Florida Sun Sentinel/Tribune News Service via Getty Images/Joe Burbank/Orlando Sentinel/Tribune News Service via Getty Images",
+    "full_text": false,
+    "categories": [
+      "News",
+      "YNW Melly"
+    ],
+    "published": "2026-11-09T17:33:13+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "5f86eeadbc932eab",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Oasis Won’t Be Attending Rock and Roll of Fame Induction Ceremony",
+    "link": "https://www.rollingstone.com/music/music-news/oasis-wont-be-attending-rock-and-roll-fame-induction-1235654642/",
+    "summary": "After months of silence and the occasional glib X post, we’ve confirmed that Noel and Liam Gallagher won’t be in Los Angeles for the event on November 14",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Oasis"
+    ],
+    "published": "2026-11-09T17:25:21+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "0b9a2bf1af94b211",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Credit Electric – “Cross”",
+    "link": "https://stereogum.com/2517117/credit-electric-cross/music/",
+    "summary": "The post Credit Electric – “Cross” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Credit Electric"
+    ],
+    "published": "2026-11-09T17:20:37+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "e658b0553b8f9230",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Julia Jacklin Covers Hunters & Collectors For SiriusXMU",
+    "link": "https://stereogum.com/2517116/julia-jacklin-covers-hunters-collectors-for-siriusxmu/news/",
+    "summary": "The post Julia Jacklin Covers Hunters & Collectors For SiriusXMU appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Hunters & Collectors",
+      "Julia Jacklin"
+    ],
+    "published": "2026-11-09T17:06:25+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "4801e323d3853850",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Pusha T’s ‘My Name Is My Name’ Returns to Vinyl",
+    "link": "https://www.udiscovermusic.com/news/pusha-t-my-name-is-my-name-clear-2lp-vinyl/",
+    "summary": "Pusha T’s 2013 debut album is getting a special reissue as a 2LP clear vinyl.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "EP",
+      "Hip-Hop",
+      "Homepage Featured",
+      "My Name Is My Name",
+      "Pusha T"
+    ],
+    "published": "2026-11-09T17:02:43+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "b005fe9947ea49f8",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘Grand Theft Auto 6: The Festival’ announced featuring performances from Travis Scott, Cardi B and more",
+    "link": "https://www.nme.com/news/music/grand-theft-auto-6-the-festival-announced-with-travis-scott-cardi-b-justice-more-3975480",
+    "summary": "The one-day event will also host DJ sets from Justice, The Dare, Fcukers and more The post ‘Grand Theft Auto 6: The Festival’ announced featuring performances from Travis Scott, Cardi B and more appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Gaming News",
+      "Music News",
+      "News",
+      "Electronic",
+      "Live Music News",
+      "Rap"
+    ],
+    "published": "2026-11-09T16:56:07+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "b406614059ae7bfc",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Divorce, Near-Death, and Drugs: Darius Rucker Will Look Back in New Documentary",
+    "link": "https://www.rollingstone.com/music/music-news/darius-rucker-documentary-release-date-1235654600/",
+    "summary": "They Called Me Hootie arrives Nov. 16 on Hulu/Disney+ and examines Hootie and the Blowfish singer’s rise to country-rock stardom",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Darius Rucker",
+      "Hootie and the Blowfish"
+    ],
+    "published": "2026-11-09T16:51:28+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "98d66e9ce29560d7",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Shygirl – SWALLOW!",
+    "link": "https://www.clashmusic.com/reviews/shygirl-swallow/",
+    "summary": "‘Swallow’, as defined by Merriam-Webster, can refer to either the feathered avian or the act of consuming, of taking something in. On her second album, Shygirl has managed to cultivate a sound that is equal parts electronically gritty and viscerally erotic, whilst also playing with the double entendre of its… The post Shygirl – SWALLOW! appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "Reviews",
+      "Shygirl"
+    ],
+    "published": "2026-11-09T16:50:30+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "fee21d095bb1aba7",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Supreme Announces Elliott Smith Collection",
+    "link": "https://stereogum.com/2517109/supreme-announces-elliott-smith-collection/news/",
+    "summary": "The post Supreme Announces Elliott Smith Collection appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Elliott Smith",
+      "Supreme"
+    ],
+    "published": "2026-11-09T16:48:19+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "d494989b355d966c",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Phil Collins Contemplating Possible Comeback Tour: ‘I Never Say Exactly Never’",
+    "link": "https://www.rollingstone.com/music/music-news/phil-collins-contemplating-comeback-tour-1235654574/",
+    "summary": "Days before his induction into the Rock and Roll Hall of Fame as a solo artist, Phil Collins revealed that his touring days might not be forever behind him",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Genesis",
+      "Phil Collins"
+    ],
+    "published": "2026-11-09T16:42:06+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "18c9dae41a3362d7",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Black Belt Eagle Scout – “Fantasy”",
+    "link": "https://stereogum.com/2517083/black-belt-eagle-scout-fantasy/music/",
+    "summary": "The post Black Belt Eagle Scout – “Fantasy” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Black Belt Eagle Scout",
+      "Claire Glass",
+      "Nay Mapalo"
+    ],
+    "published": "2026-11-09T16:36:46+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "87bfe0cc25da0586",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Liv East’s ‘FUNKSOULSEX’ – Womanhood, Romance And What The Hell It All Means",
+    "link": "https://www.clashmusic.com/features/liv-easts-funksoulsex-womanhood-romance-and-what-the-hell-it-all-means/",
+    "summary": "On debut album ‘FUNKSOULSEX’, Liv East turns modern dating, female philosophy and fairy tales into ten tracks of warm, jazzy, funk, immediately bringing listeners to their feet. — — “I feel elated – you work for so long on an album, not only the music, but who are you going… The post Liv East’s ‘FUNKSOULSEX’ – Womanhood, Romance And What The Hell It All Means appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "Features",
+      "Liv East"
+    ],
+    "published": "2026-11-09T16:29:01+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "16a64894f0c97937",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "GTA VI Is Putting on a Music Festival",
+    "link": "https://pitchfork.com/story/gta-vi-is-putting-on-a-music-festival/",
+    "summary": "Sure, why not",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Festivals"
+    ],
+    "published": "2026-11-09T16:22:53+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "76464cba22e1aaf1",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Knifeplay – “Toil (Reprise)”",
+    "link": "https://stereogum.com/2517097/knifeplay-toil-reprise/music/",
+    "summary": "The post Knifeplay – “Toil (Reprise)” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Knifeplay"
+    ],
+    "published": "2026-11-09T16:21:20+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "75ab132afa2f256f",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Fetty Wap Gets Married in Extravagant New Jersey Wedding",
+    "link": "https://www.xxlmag.com/fetty-wap-gets-married/",
+    "summary": "Zach Simmons/Instagram",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Fetty Wap"
+    ],
+    "published": "2026-11-09T16:12:46+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "90757b8df1da95fd",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Russell Brand sentenced to 10 years and six months in prison for rape and sexual assault",
+    "link": "https://www.nme.com/news/tv/russell-brand-sentenced-over-10-years-prison-for-rape-and-sexual-assault-3975464",
+    "summary": "“My thoughts today are with the women who came forward and made this investigation possible,” said Met Police, also describing the comedian and actor as a “dangerous offender” The post Russell Brand sentenced to 10 years and six months in prison for rape and sexual assault appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Film News",
+      "News",
+      "TV News",
+      ".."
+    ],
+    "published": "2026-11-09T16:08:32+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "c5289c6a0aeb0191",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Ella Mai Shares Surprise Birthday EP ‘3two’",
+    "link": "https://www.udiscovermusic.com/news/ella-mai-3two-ep/",
+    "summary": "The release features three brand new songs.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "3two",
+      "Ella Mai",
+      "EP",
+      "Homepage Featured",
+      "R&B"
+    ],
+    "published": "2026-11-09T16:04:25+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "ab03708b847d2932",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Squid Share Live Album ‘CROWDS’",
+    "link": "https://www.clashmusic.com/news/squid-share-live-album-crowds/",
+    "summary": "Squid have shard their new live album ‘CROWDS’. The band formed in Brighton, and across three sublime albums Squid have merged everything from math rock and electronics through to early music, brass, and beyond. New live album ‘CROWDS’ picks tracks from each of their albums, with the focus naturally on… The post Squid Share Live Album ‘CROWDS’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Squid"
+    ],
+    "published": "2026-11-09T15:57:18+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "e0d90581108ba33a",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘Pepper Adams Plays The Compositions of Charles Mingus’ Joins Blue Note Tone Poet Series",
+    "link": "https://www.udiscovermusic.com/news/pepper-adams-plays-blue-note-tone-poet-series-lp/",
+    "summary": "Baritone saxophonist Pepper Adams’ 1963 album is coming to Blue Note’s Tone Poet reissue collection.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Blue Note",
+      "Blue Note Tone Poet",
+      "Homepage Featured",
+      "Jazz",
+      "Pepper Adam Plays",
+      "Pepper Adams"
+    ],
+    "published": "2026-11-09T15:55:09+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "1bcd2e022445aa39",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Donald Byrd’s ‘Free Form’ Next Up for Blue Note Tone Poet Reissue Series",
+    "link": "https://www.udiscovermusic.com/news/donald-byrd-free-form-blue-note-tone-poet-series-lp/",
+    "summary": "Trumpeter Donald Byrd’s 1966 album came at the peak of his hard bop period.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Blue Note",
+      "Blue Note Tone Poet",
+      "Donald Byrd",
+      "Free Form",
+      "Homepage Featured",
+      "Jazz"
+    ],
+    "published": "2026-11-09T15:48:41+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "cad8da5783a5aafc",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Trapt Make Enemies Out Of Local Openers In Florida",
+    "link": "https://stereogum.com/2517078/trapt-make-enemies-out-of-local-openers-in-florida/news/",
+    "summary": "The post Trapt Make Enemies Out Of Local Openers In Florida appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Dirty Crumbums",
+      "Fear Of Infinity",
+      "Limb Breaker",
+      "Sygnal To Noise",
+      "Trapt"
+    ],
+    "published": "2026-11-09T15:48:20+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "421ca2a7c5c48c50",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Mariah Carey Announces ‘Firefly’ Festival Shows For Summer 2027",
+    "link": "https://www.clashmusic.com/news/mariah-carey-announces-firefly-festival-shows-for-summer-2027/",
+    "summary": "Mariah Carey has today announced Firefly, a series of headlining festival performances across Europe in summer 2027. The run will bring Mariah to stages throughout United Kingdom, Denmark, Germany, Italy, Belgium, and Switzerland, giving fans across the continent the opportunity to experience one of music’s most celebrated voices live. The… The post Mariah Carey Announces ‘Firefly’ Festival Shows For Summer 2027 appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Mariah Carey"
+    ],
+    "published": "2026-11-09T15:36:51+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "6788afab55be48a7",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Robbie Williams Explains Olivia Rodrigo Tweet: “I’m Not Going After Her”",
+    "link": "https://stereogum.com/2517053/robbie-williams-explains-olivia-rodrigo-tweet-im-not-going-after-her/news/",
+    "summary": "The post Robbie Williams Explains Olivia Rodrigo Tweet: “I’m Not Going After Her” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Christopher Butler",
+      "Olivia Rodrigo",
+      "Robbie Williams",
+      "The Waitresses"
+    ],
+    "published": "2026-11-09T15:25:27+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "2870549a507acc27",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Deftones Play “Melanie” For The First Time In 18 Years At Dia De Los Deftones",
+    "link": "https://stereogum.com/2517063/deftones-play-melanie-for-the-first-time-in-18-years-at-dia-de-los-deftones/news/",
+    "summary": "The post Deftones Play “Melanie” For The First Time In 18 Years At Dia De Los Deftones appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Deftones"
+    ],
+    "published": "2026-11-09T15:08:05+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "6fe6102935713963",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Sepultura Play Final Show At Massively Downgraded Venue",
+    "link": "https://stereogum.com/2517059/sepultura-play-final-show-at-massively-downgraded-venue/news/",
+    "summary": "The post Sepultura Play Final Show At Massively Downgraded Venue appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Sepultura"
+    ],
+    "published": "2026-11-09T15:04:08+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "5a595df7dd6a4fad",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Sabina Beyli’s ‘Everytime’ Explores Romantic Discontent",
+    "link": "https://www.clashmusic.com/news/sabina-beylis-everytime-explores-romantic-discontent/",
+    "summary": "LA-based, Azerbaijani-born artist Sabina Beyli has shared her new single, ‘Everytime’. Coming a few months after her last release ‘Novacaine’, Beyli channels the moody, darkly-romantic grandeur of Evanescence and ‘Riot!’-era Paramore on ‘Everytime’. Recorded in Boston in 2026 with producer Azulenrosa, and mixed and mastered by Mike Midura (Ok Goodnight,… The post Sabina Beyli’s ‘Everytime’ Explores Romantic Discontent appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Sabina Beyli"
+    ],
+    "published": "2026-11-09T14:43:30+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "454025f23da56285",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘Mass Effect’ composer reimagines leaked sequel trailer soundtrack: “It’s a love letter to the fans”",
+    "link": "https://www.nme.com/news/gaming-news/mass-effect-composer-scrapped-sequel-soundtrack-sam-hulick-3975462",
+    "summary": "Sam Hulick has spoken about his involvement in the scrapped ‘Mass Effect 5’ The post ‘Mass Effect’ composer reimagines leaked sequel trailer soundtrack: “It’s a love letter to the fans” appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Gaming News",
+      "News",
+      "Video game music"
+    ],
+    "published": "2026-11-09T14:30:03+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "2bf92bd904445a3a",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Live Report: Simple Things Festival 2026",
+    "link": "https://www.clashmusic.com/live/live-report-simple-things-festival-2026/",
+    "summary": "Where else but Bristol could host Simple Things? The city is a broiling hotbed of art at its most cutting edge; a city of relentless shift and momentum that’s been at the vanguard of innovations in dance and rock music for at least 50 years now. The annual multi-venue festival… The post Live Report: Simple Things Festival 2026 appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "Live",
+      "Simple Things festival"
+    ],
+    "published": "2026-11-09T14:29:45+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "a5ae896f8d3c092a",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Number Ones: Drake’s “Jimmy Cooks” (Feat. 21 Savage)",
+    "link": "https://stereogum.com/2516189/the-number-ones-drakes-jimmy-cooks-feat-21-savage/columns/the-number-ones/",
+    "summary": "The post The Number Ones: Drake’s “Jimmy Cooks” (Feat. 21 Savage) appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "Columns",
+      "The Number Ones",
+      "21 Savage",
+      "Al Goodman",
+      "Brook Benton",
+      "CuBeatz",
+      "Dougie F",
+      "Drake",
+      "Harry Ray",
+      "Playa Fly",
+      "Tay Keith",
+      "Tizzle",
+      "Vinylz",
+      "Walter Morris"
+    ],
+    "published": "2026-11-09T14:08:37+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "094b9a5b1b937a58",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch The Strokes hit out at Elon Musk and billionaire class in ‘Spitting Image’ puppet-filled ‘Lonely in the Future’ video",
+    "link": "https://www.nme.com/news/music/watch-the-strokes-hit-out-at-elon-musk-and-billionaire-class-in-spitting-image-puppet-filled-lonely-in-the-future-video-3975458",
+    "summary": "Julian Casablancas and co. also appear in puppet form, with nods to ‘Last Nite’, ‘You Only Live Once’ and more The post Watch The Strokes hit out at Elon Musk and billionaire class in ‘Spitting Image’ puppet-filled ‘Lonely in the Future’ video appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Elon Musk",
+      "Greta Thunberg",
+      "Indie"
+    ],
+    "published": "2026-11-09T14:04:14+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "0718a001dc6107ea",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "TV Priest On Their Cartoon Inspirations",
+    "link": "https://www.clashmusic.com/features/tv-priest-on-their-cartoon-inspirations/",
+    "summary": "TV Priest have always been animated, but now it’s literal. New album ‘Cartoons’ paints a picture, allowing the UK group to reach fresh heights in the process. Out now, it’s a vivid blast of energy, with TV Priest taking off on a quick fire tour around the country, playing multiple… The post TV Priest On Their Cartoon Inspirations appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "Features",
+      "TV Priest"
+    ],
+    "published": "2026-11-09T13:57:22+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "1e66304866e3f8b7",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘Ocarina Of Time’ players are covering Linkin Park, ‘Macarena’, Sabrina Carpenter and more with in-game instrument function",
+    "link": "https://www.nme.com/news/gaming-news/ocarina-of-time-cover-linkin-park-sabrina-carpenter-legend-of-zelda-soundtrack-3975455",
+    "summary": "Pop hits, movie soundtracks and gaming gems are all being reworked The post ‘Ocarina Of Time’ players are covering Linkin Park, ‘Macarena’, Sabrina Carpenter and more with in-game instrument function appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Gaming News",
+      "News"
+    ],
+    "published": "2026-11-09T13:04:40+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "2c07953f58d31d40",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Behind The Scenes At Trans+ Songwriting Camp Transpose",
+    "link": "https://www.clashmusic.com/live/behind-the-scenes-at-trans-songwriting-camp-transpose/",
+    "summary": "Trans musicians can find it hard to navigate the UK music industry, a space which – in spite of some valid forward movement – remains extremely heteronormative, and patriarchal. That’s why events like Transpose are so important. An intimate songwriting camp, it’s a space space run for trans+ songwriters and… The post Behind The Scenes At Trans+ Songwriting Camp Transpose appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "Live",
+      "jasmine.4.t",
+      "Tranpose"
+    ],
+    "published": "2026-11-09T12:53:29+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "7013c744d1b61860",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Download 2027: Line-Up Predictions",
+    "link": "https://www.clashmusic.com/live/download-2027-line-up-predictions/",
+    "summary": "For 24 years, it has remained the UK Mecca for Rock & Metal music – Download Festival. As fans from across the globe get ready to make their annual pilgrimage to the sacred grounds of Donington Park, tickets have been flying out, with Download XXIV now officially the festival’s fastest-selling… The post Download 2027: Line-Up Predictions appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "Live",
+      "Download Festival"
+    ],
+    "published": "2026-11-09T11:53:42+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "185c01991770a065",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "The Fork and Knife",
+    "link": "https://pitchfork.com/reviews/albums/skepta-the-fork-and-knife/",
+    "summary": "After a slightly creaky start, Skepta’s first album in seven years takes shape as a mature reflection on legacy from an icon of UK grime and a face of modern Britain.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-09T05:03:00+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "4c53a8b9e73a1ff9",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "O My Beloved",
+    "link": "https://pitchfork.com/reviews/albums/kings-of-leon-o-my-beloved/",
+    "summary": "The band’s 10th album is a shocking and largely impressive reinvention that’s also the loosest they’ve sounded in decades.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-09T05:02:00+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "0bfad73fcfbde93b",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Róisín",
+    "link": "https://pitchfork.com/reviews/ciaran-roisin/",
+    "summary": "The former Bearface of Brockhampton emerges for a solo album of slouchy bedroom pop-soul whose cramped pileup of influences guards a promising sensitivity.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-09T05:01:00+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
+    "id": "ef0e27621a827344",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Certain Uncertainties",
+    "link": "https://pitchfork.com/reviews/albums/dream-unending-certain-uncertainties/",
+    "summary": "On its third album, the dream-doom duo continues to tip the scales of its sound towards psychedelia, with a cowboy jazz record dotted with references to its creators’ metal roots.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-09T05:00:00+00:00",
+    "collected": "2026-11-10T02:39:32.955397+00:00"
+  },
+  {
     "id": "2f7a586261e5fffe",
     "source": "Billboard",
     "source_type": "news",
