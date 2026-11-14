@@ -1008,5 +1008,460 @@
   "name": "Materazi Future Club",
   "fans": 39,
   "checked": "2026-11-07T04:45:13.099734+00:00"
+ },
+ "idk": {
+  "name": "IDK",
+  "fans": 13960,
+  "checked": "2026-11-14T04:51:35.848617+00:00"
+ },
+ "ethelcain": {
+  "name": "Ethel Cain",
+  "fans": 41166,
+  "checked": "2026-11-14T04:51:36.213467+00:00"
+ },
+ "ralphiechoo": {
+  "name": "Ralphie Choo",
+  "fans": 2827,
+  "checked": "2026-11-14T04:51:36.560864+00:00"
+ },
+ "veeze": {
+  "name": "Veeze",
+  "fans": 6340,
+  "checked": "2026-11-14T04:51:36.963072+00:00"
+ },
+ "morgangarrett": {
+  "name": "Morgan Garrett",
+  "fans": 3,
+  "checked": "2026-11-14T04:51:37.346879+00:00"
+ },
+ "yeule": {
+  "name": "yeule",
+  "fans": 9974,
+  "checked": "2026-11-14T04:51:37.720047+00:00"
+ },
+ "hinrg": {
+  "name": "Hi-NRG!",
+  "fans": null,
+  "checked": "2026-11-14T04:51:38.157218+00:00"
+ },
+ "54ultra": {
+  "name": "54 Ultra",
+  "fans": 2032,
+  "checked": "2026-11-14T04:51:38.505248+00:00"
+ },
+ "dovetail": {
+  "name": "Dovetail",
+  "fans": 91,
+  "checked": "2026-11-14T04:51:38.955339+00:00"
+ },
+ "austra": {
+  "name": "Austra",
+  "fans": 40437,
+  "checked": "2026-11-14T04:51:39.313278+00:00"
+ },
+ "zsela": {
+  "name": "Zsela",
+  "fans": 533,
+  "checked": "2026-11-14T04:51:39.724052+00:00"
+ },
+ "hidingplaces": {
+  "name": "Hiding Places",
+  "fans": 105,
+  "checked": "2026-11-14T04:51:40.090752+00:00"
+ },
+ "jakebugg": {
+  "name": "Jake Bugg",
+  "fans": 310428,
+  "checked": "2026-11-14T04:51:40.456644+00:00"
+ },
+ "pumablue": {
+  "name": "Puma Blue",
+  "fans": 9421,
+  "checked": "2026-11-14T04:51:40.805205+00:00"
+ },
+ "losbitchos": {
+  "name": "Los Bitchos",
+  "fans": 8717,
+  "checked": "2026-11-14T04:51:41.153719+00:00"
+ },
+ "thisisthedeep": {
+  "name": "This Is The Deep",
+  "fans": 30,
+  "checked": "2026-11-14T04:51:41.528043+00:00"
+ },
+ "flo": {
+  "name": "FLO",
+  "fans": 27796,
+  "checked": "2026-11-14T04:51:41.884151+00:00"
+ },
+ "violetgrohl": {
+  "name": "Violet Grohl",
+  "fans": 2426,
+  "checked": "2026-11-14T04:51:42.240932+00:00"
+ },
+ "leonthomas": {
+  "name": "Leon Thomas",
+  "fans": 41293,
+  "checked": "2026-11-14T04:51:42.596376+00:00"
+ },
+ "venna": {
+  "name": "Venna",
+  "fans": 3277,
+  "checked": "2026-11-14T04:51:42.993837+00:00"
+ },
+ "trentemller": {
+  "name": "Trentemøller",
+  "fans": 103079,
+  "checked": "2026-11-14T04:51:43.327954+00:00"
+ },
+ "blackhaine": {
+  "name": "Blackhaine",
+  "fans": 241,
+  "checked": "2026-11-14T04:51:43.733967+00:00"
+ },
+ "wavves": {
+  "name": "Wavves",
+  "fans": 28553,
+  "checked": "2026-11-14T04:51:44.164994+00:00"
+ },
+ "palomamorphy": {
+  "name": "Paloma Morphy",
+  "fans": 1683,
+  "checked": "2026-11-14T04:51:44.527580+00:00"
+ },
+ "u2": {
+  "name": "U2",
+  "fans": 7375462,
+  "checked": "2026-11-14T04:51:44.877270+00:00"
+ },
+ "body": {
+  "name": "The Body",
+  "fans": 1529,
+  "checked": "2026-11-14T04:51:45.260426+00:00"
+ },
+ "gangofyouths": {
+  "name": "Gang of Youths",
+  "fans": 10805,
+  "checked": "2026-11-14T04:51:45.625810+00:00"
+ },
+ "cliffords": {
+  "name": "Cliffords",
+  "fans": 479,
+  "checked": "2026-11-14T04:51:46.074008+00:00"
+ },
+ "2hollis": {
+  "name": "2hollis",
+  "fans": 14123,
+  "checked": "2026-11-14T04:51:46.420003+00:00"
+ },
+ "tesseract": {
+  "name": "TesseracT",
+  "fans": 47580,
+  "checked": "2026-11-14T04:51:46.779761+00:00"
+ },
+ "discus": {
+  "name": "Discus",
+  "fans": 227,
+  "checked": "2026-11-14T04:51:47.163090+00:00"
+ },
+ "alexisonfire": {
+  "name": "Alexisonfire",
+  "fans": 55731,
+  "checked": "2026-11-14T04:51:47.527701+00:00"
+ },
+ "masstext": {
+  "name": "Mass Text",
+  "fans": 110,
+  "checked": "2026-11-14T04:51:47.919517+00:00"
+ },
+ "footballhead": {
+  "name": "Footballhead",
+  "fans": 207,
+  "checked": "2026-11-14T04:51:48.301154+00:00"
+ },
+ "kareno": {
+  "name": "Karen O",
+  "fans": 17278,
+  "checked": "2026-11-14T04:51:48.667119+00:00"
+ },
+ "youngjesus": {
+  "name": "Young Jesus",
+  "fans": 527,
+  "checked": "2026-11-14T04:51:49.042402+00:00"
+ },
+ "mynolia": {
+  "name": "Mynolia",
+  "fans": 199,
+  "checked": "2026-11-14T04:51:49.434496+00:00"
+ },
+ "weirdnightmare": {
+  "name": "Weird Nightmare",
+  "fans": 325,
+  "checked": "2026-11-14T04:51:49.769522+00:00"
+ },
+ "chip": {
+  "name": "Chip",
+  "fans": 116737,
+  "checked": "2026-11-14T04:51:50.162555+00:00"
+ },
+ "teenagehalloween": {
+  "name": "Teenage Halloween",
+  "fans": 213,
+  "checked": "2026-11-14T04:51:50.528830+00:00"
+ },
+ "johannawarren": {
+  "name": "Johanna Warren",
+  "fans": 358,
+  "checked": "2026-11-14T04:51:50.882282+00:00"
+ },
+ "harveycauson": {
+  "name": "Harvey Causon",
+  "fans": 225,
+  "checked": "2026-11-14T04:51:51.301873+00:00"
+ },
+ "bonnydoon": {
+  "name": "Bonny Doon",
+  "fans": 570,
+  "checked": "2026-11-14T04:51:51.710370+00:00"
+ },
+ "oklou": {
+  "name": "Oklou",
+  "fans": 35073,
+  "checked": "2026-11-14T04:51:52.067660+00:00"
+ },
+ "armandhammer": {
+  "name": "Armand Hammer",
+  "fans": 3814,
+  "checked": "2026-11-14T04:51:52.448681+00:00"
+ },
+ "quietlight": {
+  "name": "Quiet Light",
+  "fans": 330,
+  "checked": "2026-11-14T04:51:52.879652+00:00"
+ },
+ "naimabock": {
+  "name": "Naima Bock",
+  "fans": 742,
+  "checked": "2026-11-14T04:51:53.283542+00:00"
+ },
+ "jeanneriver": {
+  "name": "Jeanne River",
+  "fans": 2,
+  "checked": "2026-11-14T04:51:53.674326+00:00"
+ },
+ "dexterinthenewsagent": {
+  "name": "dexter in the newsagent",
+  "fans": 700,
+  "checked": "2026-11-14T04:51:54.004712+00:00"
+ },
+ "matthewdear": {
+  "name": "Matthew Dear",
+  "fans": 13329,
+  "checked": "2026-11-14T04:51:54.364072+00:00"
+ },
+ "index": {
+  "name": "Index",
+  "fans": 1385,
+  "checked": "2026-11-14T04:51:54.872463+00:00"
+ },
+ "parentteacher": {
+  "name": "Parent Teacher",
+  "fans": 7,
+  "checked": "2026-11-14T04:51:55.269171+00:00"
+ },
+ "middlekids": {
+  "name": "Middle Kids",
+  "fans": 2481,
+  "checked": "2026-11-14T04:51:55.608841+00:00"
+ },
+ "djseinfeld": {
+  "name": "DJ Seinfeld",
+  "fans": 3586,
+  "checked": "2026-11-14T04:51:55.960376+00:00"
+ },
+ "racingmountpleasant": {
+  "name": "Racing Mount Pleasant",
+  "fans": 1417,
+  "checked": "2026-11-14T04:51:56.300934+00:00"
+ },
+ "runnner": {
+  "name": "Runnner",
+  "fans": 550,
+  "checked": "2026-11-14T04:51:56.729879+00:00"
+ },
+ "gattamorta": {
+  "name": "Gatta Morta",
+  "fans": 159,
+  "checked": "2026-11-14T04:51:57.119155+00:00"
+ },
+ "atmosphere": {
+  "name": "Atmosphere",
+  "fans": 45729,
+  "checked": "2026-11-14T04:51:57.493892+00:00"
+ },
+ "palehound": {
+  "name": "Palehound",
+  "fans": 1836,
+  "checked": "2026-11-14T04:51:57.834713+00:00"
+ },
+ "dirtyprojectors": {
+  "name": "Dirty Projectors",
+  "fans": 17670,
+  "checked": "2026-11-14T04:51:58.168642+00:00"
+ },
+ "fearfactory": {
+  "name": "Fear Factory",
+  "fans": 124251,
+  "checked": "2026-11-14T04:51:58.546765+00:00"
+ },
+ "mildred": {
+  "name": "Mildred",
+  "fans": 27,
+  "checked": "2026-11-14T04:51:58.899858+00:00"
+ },
+ "shanebutler": {
+  "name": "Shane Butler",
+  "fans": 2,
+  "checked": "2026-11-14T04:51:59.340031+00:00"
+ },
+ "sorry": {
+  "name": "Sorry",
+  "fans": 6052,
+  "checked": "2026-11-14T04:51:59.683910+00:00"
+ },
+ "deloydelze": {
+  "name": "Deloyd Elze",
+  "fans": 19,
+  "checked": "2026-11-14T04:52:00.079740+00:00"
+ },
+ "graciehorse": {
+  "name": "GracieHorse",
+  "fans": 28,
+  "checked": "2026-11-14T04:52:00.440190+00:00"
+ },
+ "kristinhersh": {
+  "name": "Kristin Hersh",
+  "fans": 5069,
+  "checked": "2026-11-14T04:52:00.789965+00:00"
+ },
+ "iraglass": {
+  "name": "Ira Glass",
+  "fans": 28,
+  "checked": "2026-11-14T04:52:01.151798+00:00"
+ },
+ "daffo": {
+  "name": "Daffo",
+  "fans": 584,
+  "checked": "2026-11-14T04:52:01.524031+00:00"
+ },
+ "sinkane": {
+  "name": "Sinkane",
+  "fans": 6893,
+  "checked": "2026-11-14T04:52:01.937531+00:00"
+ },
+ "kinggizzard": {
+  "name": "King Gizzard",
+  "fans": null,
+  "checked": "2026-11-14T04:52:02.296723+00:00"
+ },
+ "feet": {
+  "name": "FEET",
+  "fans": 565,
+  "checked": "2026-11-14T04:52:02.663628+00:00"
+ },
+ "armlock": {
+  "name": "Armlock",
+  "fans": 145,
+  "checked": "2026-11-14T04:52:03.040564+00:00"
+ },
+ "disgrace": {
+  "name": "Disgrace",
+  "fans": 611,
+  "checked": "2026-11-14T04:52:03.449476+00:00"
+ },
+ "tovelo": {
+  "name": "Tove Lo",
+  "fans": 1668431,
+  "checked": "2026-11-14T04:52:03.790995+00:00"
+ },
+ "kelceyayer": {
+  "name": "Kelcey Ayer",
+  "fans": 13,
+  "checked": "2026-11-14T04:52:04.142386+00:00"
+ },
+ "beachbunny": {
+  "name": "Beach Bunny",
+  "fans": 69945,
+  "checked": "2026-11-14T04:52:04.499037+00:00"
+ },
+ "falloutboy": {
+  "name": "Fall Out Boy",
+  "fans": 2621745,
+  "checked": "2026-11-14T04:52:04.832869+00:00"
+ },
+ "blackbelteaglescout": {
+  "name": "Black Belt Eagle Scout",
+  "fans": 1316,
+  "checked": "2026-11-14T04:52:05.177195+00:00"
+ },
+ "krill": {
+  "name": "Krill",
+  "fans": 461,
+  "checked": "2026-11-14T04:52:05.620603+00:00"
+ },
+ "b0yg1rl": {
+  "name": "B0YG1RL",
+  "fans": 411,
+  "checked": "2026-11-14T04:52:05.974336+00:00"
+ },
+ "djsabrinatheteenagedj": {
+  "name": "DJ Sabrina The Teenage DJ",
+  "fans": 623,
+  "checked": "2026-11-14T04:52:06.323133+00:00"
+ },
+ "creditelectric": {
+  "name": "Credit Electric",
+  "fans": 70,
+  "checked": "2026-11-14T04:52:06.655128+00:00"
+ },
+ "knifeplay": {
+  "name": "Knifeplay",
+  "fans": 389,
+  "checked": "2026-11-14T04:52:07.005912+00:00"
+ },
+ "ellamai": {
+  "name": "Ella Mai",
+  "fans": 826155,
+  "checked": "2026-11-14T04:52:07.351085+00:00"
+ },
+ "sabinabeyli": {
+  "name": "Sabina Beyli",
+  "fans": 69,
+  "checked": "2026-11-14T04:52:07.734039+00:00"
+ },
+ "tvpriest": {
+  "name": "TV Priest",
+  "fans": 1264,
+  "checked": "2026-11-14T04:52:08.085558+00:00"
+ },
+ "ilvolo": {
+  "name": "Il Volo",
+  "fans": 159443,
+  "checked": "2026-11-14T04:52:08.474089+00:00"
+ },
+ "sufjanstevens": {
+  "name": "Sufjan Stevens",
+  "fans": 273258,
+  "checked": "2026-11-14T04:52:08.823394+00:00"
+ },
+ "skepta": {
+  "name": "Skepta",
+  "fans": 351380,
+  "checked": "2026-11-14T04:52:09.180138+00:00"
+ },
+ "roisin": {
+  "name": "Róisín",
+  "fans": 674,
+  "checked": "2026-11-14T04:52:09.559918+00:00"
  }
 }

@@ -1,5 +1,40 @@
 [
   {
+    "id": "7eeb9f9b0cc60621",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Rock & Roll Hall of Fame Induction Ceremony to Kick Off as Planned Amid FAA Grounding Flights Debacle",
+    "link": "https://www.rollingstone.com/music/music-news/rock-and-roll-hall-of-fame-induction-ceremony-flights-1235658269/",
+    "summary": "There will be no changes to the artists set to appear and perform",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Rock and Roll Hall of Fame"
+    ],
+    "published": "2026-11-14T02:49:03+00:00",
+    "collected": "2026-11-14T04:44:50.848770+00:00"
+  },
+  {
+    "id": "2d6296d50fb21fff",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Boosie Slams Adam22 Over Chrisean Rock, Adam Calls Him a Rat",
+    "link": "https://www.xxlmag.com/boosie-badazz-adam22-feud-chrisean-rock-parenting/",
+    "summary": "Kevin C. Cox/Getty Images/Adam22/Instagram",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Adam22",
+      "Boosie Badazz",
+      "Chrisean Rock"
+    ],
+    "published": "2026-11-14T02:43:29+00:00",
+    "collected": "2026-11-14T04:44:50.848770+00:00"
+  },
+  {
     "id": "259fdaec9abbc7c7",
     "source": "Rolling Stone (music)",
     "source_type": "news",
@@ -30359,18 +30394,6 @@
     "summary": "#music #stellalefty #lifeisahighway #cars #song",
     "categories": [],
     "published": "2026-10-15T23:54:45+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "2eaaec6d9fdbe386",
-    "source": "The Needle Drop (YouTube)",
-    "source_type": "video",
-    "weight": 1.5,
-    "title": "Remi Wolf - Mud ALBUM REVIEW",
-    "link": "https://www.youtube.com/watch?v=k3G3YpdV1gw",
-    "summary": "Listen: https://www.youtube.com/watch?v=JnqDGWp6CSM Sadly an underwhelming album from Remi. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: TWIGGY, I WON'T CRY LEAST FAV TRACK: WINE DRUNK REMI WOLF - MUD / 2026 / ISLAND / POP ROCK, ALT-COUNTRY 4/10 Y'all know this is just my opinion, right?",
-    "categories": [],
-    "published": "2026-10-15T04:05:57+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
   }
 ]

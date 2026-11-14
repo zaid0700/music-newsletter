@@ -805,5 +805,383 @@
   ],
   "tags_checked": "2026-11-07T04:45:53.767189+00:00",
   "checked": "2026-11-07T04:45:53.767189+00:00"
+ },
+ "ecco2k|echo|album": {
+  "spotify": "https://open.spotify.com/album/3u58jGUdXH3ofvTWzFewDp",
+  "artist_id": "6hG0VsXXlD10l60TqiIHIX",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273b00a5b78dcd1c0aae569f546",
+  "source": "Spotify",
+  "lfm_tags": [
+   "cloud rap",
+   "art pop",
+   "alternative rnb"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "oklou|swirlahead|single": {
+  "spotify": "https://open.spotify.com/album/4NFxpzYHexFWxPsFz1u0nT",
+  "artist_id": "6fFcUOFcbjeIuEomuUthkw",
+  "cover": "https://i.scdn.co/image/ab67616d0000b27392f1e5ad2c219fa19465d9e0",
+  "source": "Spotify",
+  "lfm_tags": [
+   "electronic",
+   "art pop",
+   "french"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "ethelcainandrobincarolan|wynterwaxeth|single": {
+  "spotify": "https://open.spotify.com/album/16dyh1vQfvG5vF0ni9WN4y",
+  "artist_id": "0avMDS4HyoCEP6RqZJWpY2",
+  "cover": "https://i.scdn.co/image/ab67616d0000b27342ccb1e427d78bf80838396b",
+  "source": "Spotify",
+  "lfm_tags": [
+   "dream pop",
+   "slowcore",
+   "ambient"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "yeule|lovepill|single": {
+  "spotify": "https://open.spotify.com/album/1B0Zmve2Tbg6fJEcr6TtSy",
+  "artist_id": "1WZarnZpWEv7dDtjAETt4X",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273fde55edd2cbcb36bff6de974",
+  "source": "Spotify",
+  "lfm_tags": [
+   "electronic",
+   "ambient pop",
+   "chillwave"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "sufjanstevens|worstchristmasever|album": {
+  "spotify": "https://open.spotify.com/album/5A2PggzRVRGsikgBfvkiwX",
+  "artist_id": "4MXUO7sVCaFgFjoTI5ox5c",
+  "cover": "https://i.scdn.co/image/ab67616d0000b2736d8db475b3dad16c9e5f6182",
+  "source": "Spotify",
+  "lfm_tags": [
+   "folk",
+   "indie",
+   "singer-songwriter"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "54ultraandclairo|honeymoon|single": {
+  "spotify": "https://open.spotify.com/album/5HZocqevwnLexkjpNCmG1l",
+  "artist_id": "6X5L6rmyvrWWu60Gx6exiZ",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273a4af0a78cdfa6ec163b79ec1",
+  "source": "Spotify",
+  "lfm_tags": [
+   "indie",
+   "soul",
+   "new jersey"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "skepta|forkandknife|album": {
+  "spotify": "https://open.spotify.com/album/5cld8q9clkWf6DtcUy9STc",
+  "artist_id": "2p1fiYHYiXz9qi0JJyxBzN",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273bb6ed2bcfdcac86babef4076",
+  "source": "Spotify",
+  "lfm_tags": [
+   "grime",
+   "dubstep",
+   "hip-hop"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "armandhammer|snakesandladders|album": {
+  "spotify": "https://open.spotify.com/album/7mM5Tj5zFnL8ZSHbADTyjJ",
+  "artist_id": "3SCI7sXHUZIeDKMWC5NT9C",
+  "cover": "https://i.scdn.co/image/ab67616d0000b27325688a28e8fdb7dffd3deeb3",
+  "source": "Spotify",
+  "lfm_tags": [
+   "hip-hop",
+   "rap",
+   "abstract hip hop"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "quietlight|forever|single": {
+  "spotify": "https://open.spotify.com/album/2iIbQxBJG9cX0HCtfVDXQt",
+  "artist_id": "6Uy2IwBjxdF0MxQVIN18n9",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273cef5be6efc087dd35687fe17",
+  "source": "Spotify",
+  "lfm_tags": [
+   "electronic",
+   "folk",
+   "indie folk"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "2hollis|pirouette|album": {
+  "spotify": "https://open.spotify.com/album/6TnYUZpDRbl6GiREL8Md4F",
+  "artist_id": "72NhFAGG5Pt91VbheJeEPG",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273db3c4c37735a6bd7fcadbc33",
+  "source": "Spotify",
+  "lfm_tags": [
+   "cloud rap",
+   "digicore",
+   "hyperpop"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "zsela|realromantic|single": {
+  "spotify": "https://open.spotify.com/album/4b0HlCAovUS1y9xqZlI1wm",
+  "artist_id": "7IYuY1VszmoEUu4o3tNgC6",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273feab15d0ec5d37555a4c2060",
+  "source": "Spotify",
+  "lfm_tags": [
+   "rnb",
+   "experimental",
+   "art pop"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "racingmountpleasant|greatdestroyer|single": {
+  "spotify": "https://open.spotify.com/album/3ovb20hHInBOA8IQA6cSGr",
+  "artist_id": "5zaSiNpGxS2lOvZTIZiOQX",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273339ee5f0d4b2b86c8eb6606d",
+  "source": "Spotify",
+  "lfm_tags": [
+   "chamber pop",
+   "post-rock",
+   "art rock"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "tvpriest|cartoons|album": {
+  "spotify": "https://open.spotify.com/album/7xhspL1Dl3vepVGJ5z47SM",
+  "artist_id": "61ujMGJVHgF9LPrIZw4MaI",
+  "cover": "https://i.scdn.co/image/ab67616d0000b2738cd1cb2f03390048a63919b5",
+  "source": "Spotify",
+  "lfm_tags": [
+   "post-punk",
+   "crank wave",
+   "indie rock"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "parentteacher|eightcents|single": {
+  "spotify": "https://open.spotify.com/album/1OpJ1VvpBiKRkYZ86Q9YVg",
+  "artist_id": "1ZF7sZoCluOISW7vSPrfkY",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273f15592c3d6244fdba02510a1",
+  "source": "Spotify",
+  "lfm_tags": [
+   "lo-fi",
+   "indie"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "b0yg1rl|idontrecall|single": {
+  "spotify": "https://open.spotify.com/track/2OzS3MVJ7VQA0R7prkusJf",
+  "artist_id": "0qhwdD2NFfJ8eCK1hKlAiq",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273499e84519f71abc079ce47d9",
+  "source": "Spotify",
+  "lfm_tags": [
+   "hip-hop",
+   "electronic",
+   "haitian"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "b0yg1rl|openinghearts|single": {
+  "spotify": "https://open.spotify.com/track/6hZJAi5JqlrNuEPiL9ykK2",
+  "artist_id": "0qhwdD2NFfJ8eCK1hKlAiq",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273499e84519f71abc079ce47d9",
+  "source": "Spotify",
+  "lfm_tags": [
+   "hip-hop",
+   "electronic",
+   "haitian"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "tovelo|bloodinyoureyes|single": {
+  "spotify": "https://open.spotify.com/album/2J5ttiLhgBPxcLyHlhQVKO",
+  "artist_id": "4NHQUGzhtTLFvgF5SZesLK",
+  "cover": "https://i.scdn.co/image/ab67616d0000b2735bb7bfb75165688663251cd9",
+  "source": "Spotify",
+  "lfm_tags": [
+   "pop",
+   "swedish",
+   "electronic"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "ralphiechoo|elhueso|single": {
+  "spotify": "https://open.spotify.com/album/6sxeIWSvy8JBemcPyy0JXM",
+  "artist_id": "5qjnPRE33rMgYAxIjGUrI7",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273ca5f9ea390871645a81c6d55",
+  "source": "Spotify",
+  "lfm_tags": [
+   "lo-fi",
+   "indie",
+   "spanish"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "arthurhill|santacaniborrowyoursleigh|single": {
+  "spotify": "https://open.spotify.com/album/1TlsoZZ9UmDTIvatxdMYDW",
+  "artist_id": "6Fe2C2iHDbs3yoKRvtVtdg",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273bd02ceb9ce8609d4ec55d0ea",
+  "source": "Spotify",
+  "lfm_tags": [
+   "seen live x2",
+   "indie",
+   "indie pop"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "ilvolo|ourchristmas|album": {
+  "spotify": "https://open.spotify.com/album/0kaTBWVzoxqf0sjShpzSYX",
+  "artist_id": "0dE9ooTNz8iEKIKItRI66t",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273ab6b617405bcc58cb962d8c6",
+  "source": "Spotify",
+  "lfm_tags": [
+   "progressive rock",
+   "italian",
+   "operatic pop"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "idk|welcome|single": {
+  "spotify": "https://open.spotify.com/album/0SIpXn5R4mqILiDJjWpbQd",
+  "artist_id": "6aiFCgyKNwF9Rv5TOxnE8E",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273de271ec71a6b0062d97ac6c7",
+  "source": "Spotify",
+  "lfm_tags": [
+   "rap",
+   "hip-hop",
+   "trap"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "veeze|guillermoandrade|single": {
+  "spotify": "https://open.spotify.com/album/56PZ6amR0FKpQwU1EUkA2c",
+  "artist_id": "0B3kMiB21aPQlKumGDr4c7",
+  "cover": "https://i.scdn.co/image/ab67616d0000b27317fc24d393166c8b7a7d902a",
+  "source": "Spotify",
+  "lfm_tags": [
+   "rap",
+   "hip hop",
+   "detroit"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "leonthomas|trophy|single": {
+  "spotify": "https://open.spotify.com/album/3GKB75ijlo1b33UVr809hQ",
+  "artist_id": "0nnBZ8FXWjG9wZgM2cpfeb",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273fd78215befadecf86148964e",
+  "source": "Spotify",
+  "lfm_tags": [
+   "jazz",
+   "soul",
+   "funk"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "falloutboy|aces|single": {
+  "spotify": "https://open.spotify.com/album/6T9ZMACdVbFDmk22nZLpzH",
+  "artist_id": "4UXqAaa6dQYAk18Lv7PEgX",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273ba164a2207400c58899d22c6",
+  "source": "Spotify",
+  "lfm_tags": [
+   "pop punk",
+   "rock",
+   "alternative"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "kinggizzardandthelizardwizard|roguewave|single": {
+  "lfm_tags": [
+   "psychedelic rock",
+   "australia"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "cover": "https://cdn-images.dzcdn.net/images/cover/d4abd6001a03bfaea99e675c60718f54/500x500-000000-80-0-0.jpg",
+  "source": "Deezer",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "dirtyprojectors|jumbotron|single": {
+  "spotify": "https://open.spotify.com/album/6uLG2mj1qqTmx6RtElmesD",
+  "artist_id": "5VF0YkVLeVD4ytyiyVSIiF",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273db49c2a2dfe7fcda82b011b9",
+  "source": "Spotify",
+  "lfm_tags": [
+   "experimental",
+   "indie",
+   "freak folk"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "shygirl|clubkidcompanion|ep": {
+  "lfm_tags": [
+   "electronic",
+   "grime",
+   "uk bass"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "djsabrinatheteenagedj|bewithyou|single": {
+  "lfm_tags": [
+   "outsider house",
+   "house",
+   "french house"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "austra|bittersweet|single": {
+  "spotify": "https://open.spotify.com/album/7w9Yc7PI4Fidqr3pmfSbJd",
+  "artist_id": "1o43SzzuLoyOxqThmp7s0g",
+  "cover": "https://i.scdn.co/image/ab67616d0000b2733fb65db99a8fc22a8d0bbd50",
+  "source": "Spotify",
+  "lfm_tags": [
+   "electronic",
+   "experimental",
+   "synthpop"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "austra|chainsandanchors|single": {
+  "spotify": "https://open.spotify.com/track/2NkWMgW1Rwo95IdWYg40j3",
+  "artist_id": "1o43SzzuLoyOxqThmp7s0g",
+  "cover": "https://i.scdn.co/image/ab67616d0000b2733fb65db99a8fc22a8d0bbd50",
+  "source": "Spotify",
+  "lfm_tags": [
+   "electronic",
+   "experimental",
+   "synthpop"
+  ],
+  "tags_checked": "2026-11-14T04:53:27.098609+00:00",
+  "checked": "2026-11-14T04:53:27.098609+00:00"
  }
 }
