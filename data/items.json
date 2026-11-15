@@ -1,5 +1,504 @@
 [
   {
+    "id": "ba7f19302b0cbad6",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Leaked GTA VI Soundtrack Tracklist Reveals New Songs By Lana Del Rey, Dua Lipa, Justice x Michael McDonald, & More",
+    "link": "https://stereogum.com/2518014/leaked-gta-vi-soundtrack-tracklist-reveals-new-songs-by-lana-del-rey-dua-lipa-justice-x-michael-mcdonald-more/news/",
+    "summary": "The post Leaked <em>GTA VI</em> Soundtrack Tracklist Reveals New Songs By Lana Del Rey, Dua Lipa, Justice x Michael McDonald, & More appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Arca",
+      "Burna Boy",
+      "Camila Cabello",
+      "Cardi B",
+      "Don Toliver",
+      "Dua Lipa",
+      "Fcukers",
+      "Future",
+      "Grand Theft Auto",
+      "GTA",
+      "Gunna",
+      "Justice",
+      "Kodak Black",
+      "Lana Del Rey",
+      "Metro Boomin",
+      "Morgan Wallen",
+      "Playboi Carti",
+      "Rina Sawayama",
+      "Rose Gray",
+      "Tee Grizzley",
+      "Travis Scott",
+      "Young Thug",
+      "Yung Lean",
+      "Zara Larsson"
+    ],
+    "published": "2026-11-15T02:26:53+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
+    "id": "30de07c45f77cbf1",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Filipino Singer Carmelle Storms to Victory in Eurovision Asia Debut in Bangkok",
+    "link": "https://www.billboard.com/music/music-news/carmelle-eurovision-asia-winner-2026-1236382296/",
+    "summary": "The 19-year-old said her winning song celebrated female empowerment and was intended as \"a tribute to all Filipino women.\"",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Eurovision",
+      "genre pop",
+      "International",
+      "News"
+    ],
+    "published": "2026-11-15T02:26:10+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
+    "id": "dba8a9eab374026a",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Richard Sterban, Oak Ridge Boys Bass Singer Who Helped Make ‘Elvira’ a Hit, Dies at 83",
+    "link": "https://www.billboard.com/music/country/richard-sterban-death-oak-ridge-boys-1236382272/",
+    "summary": "Known for his signature \"oom poppa, mow mow\" bass line on \"Elvira,\" Sterban had 17 No. 1s on the Hot Country Songs chart with The Oak Ridge Boys, plus two top 40 hits on the all-genre Hot 100.",
+    "full_text": false,
+    "categories": [
+      "Country",
+      "Music",
+      "genre country",
+      "Music News",
+      "News"
+    ],
+    "published": "2026-11-15T01:57:44+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
+    "id": "919e72c3bf42d08e",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "John Mulaney and Phoebe Bridgers on ‘SNL’: Here’s Where to Watch ‘Saturday Night Live’ Online for Free",
+    "link": "https://www.billboard.com/culture/product-recommendations/watch-snl-2026-john-mulaney-phoebe-bridgers-live-online-1236380661/",
+    "summary": "Livestream the comedian host and the singer-songwriter perform on Nov. 14 — watch live online for free.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "how to watch",
+      "nbc",
+      "NOADS",
+      "peacock",
+      "saturday night live",
+      "snl",
+      "streaming"
+    ],
+    "published": "2026-11-15T01:30:00+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
+    "id": "8a30313845dce9aa",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Latin Recording Academy Celebrates Leading Ladies of Entertainment & More Uplifting Moments",
+    "link": "https://www.billboard.com/music/latin/latin-grammy-leading-ladies-entertainment-uplifting-moments-1236382250/",
+    "summary": "Billboard rounds up inspiring news in Latin music from the past week.",
+    "full_text": false,
+    "categories": [
+      "Latin",
+      "Music",
+      "genre latin",
+      "Uplifting Moments"
+    ],
+    "published": "2026-11-14T21:25:03+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
+    "id": "6cd89a31eb157116",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Here’s How to Watch ‘The Chosen’ Season 6 Online for Free",
+    "link": "https://www.billboard.com/culture/product-recommendations/watch-the-chosen-season-six-tv-series-online-free-1236381749/",
+    "summary": "The newest season of the faith-based drama premieres on Nov. 15 — watch for free here.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "how to watch",
+      "NOADS",
+      "Prime Video",
+      "streaming"
+    ],
+    "published": "2026-11-14T21:00:00+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
+    "id": "daed0d0812907cfc",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘Grand Theft Auto VI’ Soundtrack: See the Full 34-Song Tracklist",
+    "link": "https://www.billboard.com/music/music-news/gta-6-album-tracklist-grand-theft-auto-vi-soundtrack-1236382244/",
+    "summary": "The album arrives Nov. 19 alongside the long-awaited video game.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "genre dance",
+      "genre hiphop",
+      "genre pop",
+      "GTA",
+      "video games"
+    ],
+    "published": "2026-11-14T20:45:56+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
+    "id": "1210b8b7d013bc9d",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Lana Del Rey, Dua Lipa, Zara Larsson Contribute New Music to ‘GTA VI: The Album’",
+    "link": "https://www.rollingstone.com/music/music-news/lana-del-rey-dua-lipa-zara-larsson-gta-vi-album-track-list-1235658416/",
+    "summary": "Much-anticipated game's 34-song soundtrack also features Jennie, Arca, Morgan Wallen, Keith Richards, Travis Scott, Justice with Michael McDonald and more",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Dua Lipa",
+      "Grand Theft Auto VI",
+      "GTA VI",
+      "Lana Del Rey",
+      "Zara Larsson"
+    ],
+    "published": "2026-11-14T20:37:42+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
+    "id": "bba6bdb085bc13fe",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Hoobastank, Simple Plan Play Mid-Flight Concert Aboard Warped Tour-Bound Plane",
+    "link": "https://www.rollingstone.com/music/music-news/hoobastank-simple-plan-concert-warped-tour-plane-1235658405/",
+    "summary": "The Used and LØLØ also played as part of Southwest's Live at 35 gig that coincided with nationwide air travel shutdown",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Simple Plan",
+      "Warped Tour",
+      "Warped Tour 2026"
+    ],
+    "published": "2026-11-14T19:23:34+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
+    "id": "3e802dab2378bd37",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Karol G Surprises Mexico City Fans With Thalía as Special Guest: ‘The First Person I Wanted to Be’",
+    "link": "https://www.billboard.com/music/latin/karol-g-thalia-surprise-guest-mexico-city-show-1236382220/",
+    "summary": "The Nov. 13 show at the GNP Seguros Stadiums marked the first performance of the Mexican pop icon in Mexico City.",
+    "full_text": false,
+    "categories": [
+      "Latin",
+      "Music",
+      "genre latin",
+      "Mexico"
+    ],
+    "published": "2026-11-14T19:11:19+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
+    "id": "d0793a25df608cf9",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Simple Plan, Hoobastank & More Take Warped Tour Mid-Flight Amid FAA Ground Stop",
+    "link": "https://www.billboard.com/music/rock/simple-plan-hoobastank-warped-tour-flight-faa-ground-stop-1236382214/",
+    "summary": "The Used and LØLØ also joined Southwest’s Live at 35 concert series aboard a flight to Orlando, Fla.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Rock",
+      "genre rock",
+      "Music News",
+      "Vans Warped Tour"
+    ],
+    "published": "2026-11-14T18:28:41+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
+    "id": "0ece7a997af61ef0",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Shane Gillis Says He Promised SNL His Monologue Would Have “No Controversy”",
+    "link": "https://consequence.net/2026/11/shane-gillis-snl-monologue-backlash-response/",
+    "summary": "Gillis also reflected on his 2019 firing from SNL and said he deleted social media to avoid seeing the latest reaction. Shane Gillis Says He Promised SNL His Monologue Would Have “No Controversy” Alex Krinsky",
+    "full_text": false,
+    "categories": [
+      "Comedy News",
+      "Comedy",
+      "News",
+      "Pop Culture",
+      "TV & Movie News",
+      "Saturday Night Live",
+      "Shane Gillis"
+    ],
+    "published": "2026-11-14T18:01:03+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
+    "id": "ff7bf4508c06b353",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Looze Cannon Was Rapping Before You Met ‘Big Michael’",
+    "link": "https://www.rollingstone.com/music/music-features/looze-cannon-big-michael-michael-tiktok-interview-1235658356/",
+    "summary": "His viral Michael Jackson character landed him onstage with G Herbo. Now he wants listeners to hear the rest of his music",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "livestreaming",
+      "looze cannon",
+      "Michael Jackson"
+    ],
+    "published": "2026-11-14T18:00:22+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
+    "id": "aac91c97943b91b9",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Where to Watch the 2026 Nickelodeon Kids’ Choice Awards for Free Online",
+    "link": "https://www.billboard.com/culture/product-recommendations/where-to-watch-2026-kids-choice-awards-free-online-1236382151/",
+    "summary": "The annual awards show will take place in Los Angeles on Saturday, Nov. 14, from 5:00 p.m. to 6:30 p.m. PT, with several streaming platforms offering free trials for viewers at home.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "how to watch",
+      "Kids Choice Awards",
+      "NOADS",
+      "streaming"
+    ],
+    "published": "2026-11-14T18:00:00+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
+    "id": "fee2f94048d4a8dd",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Could ‘Rubber Soul’ Be the Best Beatles Album? (Yes)",
+    "link": "https://www.rollingstone.com/music/music-features/rubber-soul-best-beatles-album-1235657869/",
+    "summary": "A new Special Edition reminds us why the 1965 masterpiece is the Fabs' moodiest and wittiest LP — and their greatest",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "Beatles",
+      "George Harrison",
+      "John Lennon",
+      "Paul McCartney",
+      "Ringo Starr",
+      "Rubber Soul"
+    ],
+    "published": "2026-11-14T17:34:11+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
+    "id": "8e6f50045f216f26",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Simple Plan, Hoobastank, and The Used Turn Southwest Flight into In-Air Concert",
+    "link": "https://consequence.net/2026/11/simple-plan-hoobastank-and-the-used-turn-southwest-flight-into-in-air-concert/",
+    "summary": "The bands performed “The Reason,” “I’m Just a Kid,” and “The Taste of Ink” just hours before the FAA issued a nationwide ground stop. Simple Plan, Hoobastank, and The Used Turn Southwest Flight into In-Air Concert Alex Krinsky",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Music",
+      "News",
+      "Alternative Rock",
+      "Emo",
+      "Pop Punk",
+      "Warped Tour"
+    ],
+    "published": "2026-11-14T17:32:55+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
+    "id": "b3af4f8ffa554945",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The 15 Best ‘Hunger Games’ Soundtrack Songs",
+    "link": "https://www.rollingstone.com/music/music-lists/hunger-games-soundtrack-songs-best-1235657014/",
+    "summary": "Lorde, Patti Smith, Olivia Rodrigo, and Taylor Swift have all contributed music to the epic franchise",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Lists",
+      "The Hunger Games"
+    ],
+    "published": "2026-11-14T16:12:17+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
+    "id": "c7895ea5214f0886",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Here’s How to Watch UFC 334: Gane vs. Hokit Live Online for Free",
+    "link": "https://www.billboard.com/culture/product-recommendations/ufc-334-gane-vs-hokit-nov-2026-watch-mma-live-online-free-1236379461/",
+    "summary": "Live from New York City on Nov. 14, you can watch the entire MMA event online for free.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "how to watch",
+      "NOADS",
+      "streaming",
+      "UFC"
+    ],
+    "published": "2026-11-14T16:00:00+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
+    "id": "bb39aa17cbc5816e",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "See Robyn Strip Down ‘Sexistential’ Songs for Tiny Desk Performance",
+    "link": "https://www.rollingstone.com/music/music-news/robyn-sexistential-songs-show-me-love-tiny-desk-performance-1235658322/",
+    "summary": "Swedish pop icon also revisits \"Show Me Love\" and \"Ever Again\" for NPR mini-concert",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "NPR Tiny Desk",
+      "Robyn"
+    ],
+    "published": "2026-11-14T14:51:23+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
+    "id": "0d5ae39e9f119506",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘Is This Supposed to Happen?’: How Matt Dike Dominated Eighties Hip-Hop Music",
+    "link": "https://www.rollingstone.com/music/music-features/bust-a-move-matt-dike-book-excerpt-1235655262/",
+    "summary": "Peter Relic details a wild night in LA with Delicious Vinyl's co-founders Matt Dike, Michael Ross, and rapper Tone Loc in this excerpt from his book Bust a Move , out now",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "book excerpt",
+      "excerpt",
+      "Hip-Hop"
+    ],
+    "published": "2026-11-14T14:00:00+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
+    "id": "9100f70047dda741",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Kate Nash to lose $16,000 from current tour as she keeps afloat with OnlyFans money",
+    "link": "https://www.nme.com/news/music/kate-nash-lose-16000-current-tour-keeps-afloat-onlyfans-money-3975948",
+    "summary": "\"The doors are quickly closing on who can access a career in music\" The post Kate Nash to lose $16,000 from current tour as she keeps afloat with OnlyFans money appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News"
+    ],
+    "published": "2026-11-14T11:37:51+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
+    "id": "b71ec0f56c940505",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "U2’s The Edge breaks his silence on sequel to ‘Elf’",
+    "link": "https://www.nme.com/news/music/u2s-the-edge-breaks-his-silence-on-sequel-to-elf-3975944",
+    "summary": "The guitarist has addressed the unlikely reports that he once wrote a follow-up to Will Ferrell's Christmas classic The post U2’s The Edge breaks his silence on sequel to ‘Elf’ appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Film News",
+      "Music News",
+      "News",
+      "Christmas",
+      "Rock"
+    ],
+    "published": "2026-11-14T10:27:42+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
+    "id": "44392a4ea47e8102",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Robyn says Eurovision is “just shit” now: “It really is embarrassing”",
+    "link": "https://www.nme.com/news/music/robyn-says-eurovision-is-just-shit-now-it-really-is-embarrassing-3975940",
+    "summary": "The Swedish pop star shared her thoughts on the competition during an appearance on Amy Poehler's ‘Good Hang’ podcast The post Robyn says Eurovision is “just shit” now: “It really is embarrassing” appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Eurovision",
+      "Pop"
+    ],
+    "published": "2026-11-14T09:30:27+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
+    "id": "ed9f12dc10478a4c",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Noel Fielding breaks silence on Russell Brand after rape and sexual assault conviction",
+    "link": "https://www.nme.com/news/tv/noel-fielding-breaks-silence-russell-brand-rape-sexual-assault-conviction-3975936",
+    "summary": "The two comedians frequently worked together on television, radio and live shows during the 2000s The post Noel Fielding breaks silence on Russell Brand after rape and sexual assault conviction appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "TV News",
+      ".."
+    ],
+    "published": "2026-11-14T08:37:20+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
+    "id": "e614d5f8380edec9",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Quiet Forest",
+    "link": "https://pitchfork.com/reviews/albums/hiroshi-yoshimura-quiet-forest/",
+    "summary": "Inspired by a visit to the Pacific Northwest, this 1996 record was the final album-length work released during the composer’s lifetime; it offers a rare glimpse of his most playful side.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-14T05:00:00+00:00",
+    "collected": "2026-11-15T02:40:44.772707+00:00"
+  },
+  {
     "id": "7eeb9f9b0cc60621",
     "source": "Rolling Stone (music)",
     "source_type": "news",
@@ -30365,35 +30864,6 @@
     "summary": "Listen: https://www.youtube.com/watch?v=qB8bqpVn_SA Alabama Shakes' comeback album is kind of carried by its great singles. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: ANOTHER LIFE, GARDEN, I FEEL HOPE COMING, HOW LOVE'S SUPPOSED TO GO, AMERICAN DREAM LEAST FAV TRACK: TEA TIME ALABAMA SHAKES - I MUST BE DREAMING / 2026 / ISLAND / PSYCH SOUL, BLUES ROCK 6/10 Y'all know this is just my opinion, right?",
     "categories": [],
     "published": "2026-10-16T03:47:18+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "38d82ad36d83b3b7",
-    "source": "Slant (music)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Olivia Rodrigo and Chappell Roan Drop “Expectations” Music Video, featuring David Byrne",
-    "link": "https://www.slantmagazine.com/music/olivia-rodrigo-chappell-roan-expectations-remix-music-video-david-byrne/",
-    "summary": "Not to put too fine a point on the track’s new-wave bona fides, the Talking Heads frontman serves as MC. The post Olivia Rodrigo and Chappell Roan Drop “Expectations” Music Video, featuring David Byrne appeared first on Slant Magazine .",
-    "categories": [
-      "Music",
-      "News",
-      "Chappell Roan",
-      "Olivia Rodrigo"
-    ],
-    "published": "2026-10-16T00:17:43+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "968ee61ccca06827",
-    "source": "The Needle Drop (YouTube)",
-    "source_type": "video",
-    "weight": 1.5,
-    "title": "WHAT IS SHE DOING 😭",
-    "link": "https://www.youtube.com/shorts/lwrSLWhn4iE",
-    "summary": "#music #stellalefty #lifeisahighway #cars #song",
-    "categories": [],
-    "published": "2026-10-15T23:54:45+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
   }
 ]
