@@ -1,5 +1,1097 @@
 [
   {
+    "id": "34890d9ff7b4e286",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The ‘Twilight’ Crocs Collection Just Got a Surprise Restock & It’s Worth Sinking Your Teeth Into",
+    "link": "https://www.billboard.com/culture/product-recommendations/twilight-crocs-collection-viral-where-to-buy-nov-2026-1236382590/",
+    "summary": "Team Edward and Team Jacob can finally agree on something: These fan-favorite Crocs deserve a spot in your closet.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "NOADS",
+      "shoes",
+      "twilight"
+    ],
+    "published": "2026-11-16T01:40:49+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "7d08d78b1d5c0cde",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Oak Ridge Boys: 10 Essential Songs",
+    "link": "https://www.rollingstone.com/music/music-country-lists/oak-ridge-boys-best-songs-joe-bonsall-1235056397/",
+    "summary": "From their signature \"Elvira\" to high-energy radio hits like \"American Made,\" the country quartet's must-hear tunes",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Country Lists",
+      "Joe Bonsall",
+      "Oak Ridge Boys",
+      "Richard Sterban"
+    ],
+    "published": "2026-11-16T00:55:06+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "65928d5bd6e0e635",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Richard Sterban, Oak Ridge Boys’ Bass Singer, Dead at 83",
+    "link": "https://www.rollingstone.com/music/music-country/richard-sterban-oak-ridge-boys-singer-dead-obituary-1235658566/",
+    "summary": "Sterban's baritone delivery of \"oom poppa mow-mow\" in \"Elvira\" helped give the Country Music Hall of Fame vocal group its signature song",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Country",
+      "Oak Ridge Boys",
+      "obit",
+      "Obituaries",
+      "Obituary",
+      "Richard Sterban"
+    ],
+    "published": "2026-11-16T00:46:58+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "924e713f530922ca",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Fans Choose U2 & Dolly Parton’s ‘Torn’ as This Week’s Favorite New Music",
+    "link": "https://www.billboard.com/music/music-news/u2-dolly-parton-torn-best-new-music-poll-results-1236382556/",
+    "summary": "Parton's posthumous collaboration with U2 brought in 40% of the vote.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "genre country",
+      "genre rock",
+      "News"
+    ],
+    "published": "2026-11-16T00:26:34+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "611d1a54ff912103",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Here’s How to Watch ‘Darius Rucker: They Called Me Hootie’ Online for Free",
+    "link": "https://www.billboard.com/culture/product-recommendations/darius-rucker-they-called-me-hootie-hulu-stream-online-free-1236382546/",
+    "summary": "The new documentary about the singer-songwriter is available to stream starting on Monday (Nov. 16).",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "documentary",
+      "hootie and the blowfish",
+      "how to watch",
+      "hulu",
+      "NOADS",
+      "streaming"
+    ],
+    "published": "2026-11-15T23:05:55+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "ee1651bb185484f2",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘SNL’ Imagines Bob Dylan & The Pope’s Conversation in Cut-for-Time Sketch",
+    "link": "https://www.billboard.com/culture/tv-film/snl-bob-dylan-pope-john-mulaney-1236382560/",
+    "summary": "\"The photos of their meeting went viral, but the conversation that followed has remained a mystery. Until now,\" the parody's opening crawl read.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "TV/Film",
+      "genre rock",
+      "Music News",
+      "News"
+    ],
+    "published": "2026-11-15T22:51:05+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "e88b75f67df54b12",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Bob Dylan Meets the Pope on SNL",
+    "link": "https://consequence.net/2026/11/bob-dylan-the-pope-snl/",
+    "summary": "James Austion Johnson reprised his Dylan impersonation in a sketch co-starring John Mulaney as Pope Francis. Bob Dylan Meets the Pope on SNL Alex Young",
+    "full_text": false,
+    "categories": [
+      "News Bites",
+      "News",
+      "TV & Movie News",
+      "TV & Movies",
+      "John Mulaney",
+      "Saturday Night Live"
+    ],
+    "published": "2026-11-15T21:53:26+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "7fb53e2d994ab400",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Shane Gillis Addresses ‘SNL’ Monologue Backlash: ‘A Lot to Do With the Climate’",
+    "link": "https://www.billboard.com/culture/tv-film/shane-gillis-addresses-snl-monologue-backlash-1236382542/",
+    "summary": "\"I promise there’s no controversy,\" the comedian told SNL ahead of his Oct. 10 episode.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "TV/Film",
+      "comedy",
+      "Music News",
+      "saturday night live",
+      "snl",
+      "TV / Film"
+    ],
+    "published": "2026-11-15T21:20:29+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "6d9074889c6356da",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The 46 Best Christmas Gifts to Shop Online in 2026",
+    "link": "https://www.billboard.com/culture/product-recommendations/best-christmas-gifts-2026-buy-shop-online-1236368800/",
+    "summary": "ShopBillboard has the best gift ideas for the holiday season — starting at just $25.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "Holiday Gift Guide",
+      "Music News",
+      "NOADS"
+    ],
+    "published": "2026-11-15T21:16:29+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "8cd15e680f8fe80e",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Phoebe Bridgers Play “Bobby” and “Still Standing” on Saturday Night Live",
+    "link": "https://pitchfork.com/story/watch-phoebe-bridgers-play-bobby-and-still-standing-on-saturday-night-live/",
+    "summary": "The singer-songwriter made her third SNL appearance, this time to promote Lost Weekend",
+    "full_text": false,
+    "categories": [
+      "News",
+      "TV",
+      "Video"
+    ],
+    "published": "2026-11-15T20:18:55+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "ad1e42a8dff8e453",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Garbage Wraps 2026 Tour With Mariachi-Infused Free Show at Mexico City’s Zócalo: 5 Best Moments",
+    "link": "https://www.billboard.com/lists/garbage-mexico-city-zocalo-free-show-best-moments/",
+    "summary": "Shirley Manson became the first non-Hispanic woman to conquer the iconic venue on Nov. 14.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Rock",
+      "Concerts",
+      "genre latin",
+      "genre rock",
+      "Mexico",
+      "Music News"
+    ],
+    "published": "2026-11-15T20:15:46+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "16f2e3cb0db97dc4",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Chart Rewind: In 1986, Alabama Had ‘The Touch’ at No. 1",
+    "link": "https://www.billboard.com/music/chart-beat/alabama-the-touch-chart-rewind-1986-1236382521/",
+    "summary": "The band’s 1986 LP marked its seventh straight multi-week Top Country Albums leader.",
+    "full_text": false,
+    "categories": [
+      "Chart Beat",
+      "Music",
+      "Charts",
+      "genre rock",
+      "Music News"
+    ],
+    "published": "2026-11-15T20:05:36+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "52422888ae6a6a35",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Olivia Rodrigo’s ‘you seem pretty sad for a girl so in love’ Scores Fifth Week at No. 1 on Billboard 200",
+    "link": "https://www.billboard.com/music/chart-beat/olivia-rodrigo-pretty-sad-fifth-week-atop-billboard-200-1236382448/",
+    "summary": "The set ties SOUR for her longest reign. Plus, Lil Baby and P1Harmony debut in the top five.",
+    "full_text": false,
+    "categories": [
+      "Chart Beat",
+      "Music",
+      "Billboard 200",
+      "breaking",
+      "genre pop",
+      "Music News"
+    ],
+    "published": "2026-11-15T20:00:09+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "a7b91b0da9d2184e",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Slayer’s Tom Araya Pauses Concert to Reprimand Unruly Fans: ‘Maintain Yourself’",
+    "link": "https://www.rollingstone.com/music/music-news/slayer-tom-araya-pauses-concert-reprimand-unruly-fans-1235658570/",
+    "summary": "“We’re gonna pause until you guys get your shit and your act together,” singer told destructive crowd. “There’s no one to blame but you”",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Slayer"
+    ],
+    "published": "2026-11-15T19:01:08+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "1cf024fab9167a1e",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Peter Hook, Lauren Mayberry, Deftones Play Joy Division and New Order Songs at 2026 Rock Hall",
+    "link": "https://pitchfork.com/story/deftones-lauren-mayberry-peter-hook-play-joy-division-and-new-order-songs-at-2026-rock-hall/",
+    "summary": "They christened the 2026 induction ceremony with “Love Will Tear Us Apart” and “Bizarre Love Triangle”",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Rock and Roll Hall of Fame",
+      "Video",
+      "Award"
+    ],
+    "published": "2026-11-15T18:36:24+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "f738eb3710c57ac8",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Phil Collins Says at Rock Hall Induction “The Door’s Not Closed” to New Music and Performing Live",
+    "link": "https://consequence.net/2026/11/phil-collins-on-music-and-performing/",
+    "summary": "The 75-year-old musician is remaining defiant against health issues that have limited his ability to perform Phil Collins Says at Rock Hall Induction “The Door’s Not Closed” to New Music and Performing Live Travis Bland",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Music",
+      "News",
+      "Classic Rock",
+      "Rock and Roll Hall of Fame"
+    ],
+    "published": "2026-11-15T18:15:17+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "eba0a3d8395470b0",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Stephen Wilson Jr. Interpret ‘Wonderwall’ for Oasis at Rock Hall Induction",
+    "link": "https://www.rollingstone.com/music/music-country/stephen-wilson-jr-sings-wonderwall-oasis-rock-hall-1235658561/",
+    "summary": "The country singer is heavily influenced by Nineties alt-rock and stood in for the Britpop honorees when they chose not to attend the ceremony",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Country",
+      "Oasis",
+      "Rock and Roll Hall of Fame",
+      "Stephen Wilson Jr."
+    ],
+    "published": "2026-11-15T18:07:11+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "fba86f6b61bcbc66",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Wu-Tang Clan Perform at the Rock & Roll Hall of Fame 2026 Induction Ceremony",
+    "link": "https://pitchfork.com/story/watch-wu-tang-clan-perform-at-the-rock-and-roll-hall-of-fame-2026-induction-ceremony/",
+    "summary": "RZA, GZA, Method Man, Raekwon, Ghostface Killah, and co. broke out the hits for the occasion",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Rock and Roll Hall of Fame",
+      "Video",
+      "Award"
+    ],
+    "published": "2026-11-15T17:14:57+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "bd33f9fda4de2d03",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Peter Hook Crushes Almost All Hope for Reunion With New Order at Rock Hall Induction Except for One Big Caveat",
+    "link": "https://consequence.net/2026/11/peter-hook-on-new-order-reunion/",
+    "summary": "The bassist expressed how personal the chasm between him and his former bandmates is at the Rock Hall ceremony. Peter Hook Crushes Almost All Hope for Reunion With New Order at Rock Hall Induction Except for One Big Caveat Travis Bland",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Music",
+      "News",
+      "Alternative",
+      "Rock and Roll Hall of Fame"
+    ],
+    "published": "2026-11-15T17:03:52+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "f68ca7a9c25fdb48",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Read Travis Barker’s Full Speech Inducting Phil Collins into the Rock and Roll Hall of Fame",
+    "link": "https://consequence.net/2026/11/travis-barker-phil-collins-rock-and-roll-hall-of-fame-speech/",
+    "summary": "Barker touched on both the massive cultural impact of Collins and the profound personal impact the drummer had on him as a young musician. Read Travis Barker’s Full Speech Inducting Phil Collins into the Rock and Roll Hall of Fame Jonah Krueger",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Music",
+      "News",
+      "Classic Rock",
+      "Pop",
+      "Rock and Roll Hall of Fame"
+    ],
+    "published": "2026-11-15T16:47:51+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "8cefee915b44fb6c",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "St. Vincent and Metallica Honor Iron Maiden at Rock Hall (With a Jack Black Assist)",
+    "link": "https://www.rollingstone.com/music/music-news/metallica-jack-black-st-vincent-iron-maiden-rock-hall-1235658543/",
+    "summary": "The supergroup — which also featured Rage Against the Machine’s Brad Wilk and guitarist John 5 — played the metal band’s 1983 classic “The Trooper”",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Iron Maiden",
+      "Jack Black",
+      "Metallica",
+      "Rage Against the Machine",
+      "Rock and Roll Hall of Fame",
+      "St. Vincent"
+    ],
+    "published": "2026-11-15T16:19:48+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "d51cff77f884905d",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Phil Collins Gets Rare Two-Time Inductee Status at Rock & Roll Hall of Fame",
+    "link": "https://pitchfork.com/story/phil-collins-gets-rare-two-time-inductee-status-at-rock-and-roll-hall-of-fame/",
+    "summary": "The Genesis musician was celebrated for his solo career at the 2026 Induction Ceremony",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Rock and Roll Hall of Fame",
+      "Video",
+      "Award"
+    ],
+    "published": "2026-11-15T16:18:14+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "f47451912dbf07e0",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Phoebe Bridgers Takes SNL Stage for Sophomore Performance with “Bobby” and “Still Standing”",
+    "link": "https://consequence.net/2026/11/phoebe-bridgers-plays-snl-november-2026-video/",
+    "summary": "The set marked the alternative songwriter's second appearance on SNL. Phoebe Bridgers Takes SNL Stage for Sophomore Performance with “Bobby” and “Still Standing” Travis Bland",
+    "full_text": false,
+    "categories": [
+      "Late Night Performances",
+      "Live",
+      "Music",
+      "Music News",
+      "News",
+      "TV",
+      "Indie",
+      "Indie Rock",
+      "Pop",
+      "Saturday Night Live"
+    ],
+    "published": "2026-11-15T15:57:52+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "10209c5b6f954c59",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Cynthia Erivo, Travis Barker Honor Phil Collins With Big Vocals, Big Drums at Rock Hall Ceremony",
+    "link": "https://www.rollingstone.com/music/music-news/cynthia-erivo-travis-barker-phil-collins-2026-rock-hall-1235658531/",
+    "summary": "The unlikely pair delivered a dynamic and dramatic rendition of Collins’ 1980 smash, “In the Air Tonight”",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Cynthia Erivo",
+      "Phil Collins",
+      "Rock and Roll Hall of Fame",
+      "Travis Barker"
+    ],
+    "published": "2026-11-15T15:29:30+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "6618cedc6af097fd",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Slayer Halt Reign in Blood 40th Anniversary Show in LA Due to Destructive Fans, Threaten to “Go Home”",
+    "link": "https://consequence.net/2026/11/slayer-reign-in-blood-show-stopped/",
+    "summary": "The progenitors of thrash metal left the stage eight songs in before Tom Araya came out to say, \"You can’t start destroying shit.\" Slayer Halt Reign in Blood 40th Anniversary Show in LA Due to Destructive Fans, Threaten to “Go Home” Travis Bland",
+    "full_text": false,
+    "categories": [
+      "Heavy Music News",
+      "Heavy Consequence",
+      "Live",
+      "Music",
+      "Music News",
+      "News",
+      "Metal"
+    ],
+    "published": "2026-11-15T15:21:52+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "91b37f0b90c22730",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Red Hot Chili Peppers Donned Their Bushiest Rick Rubin Beards for Wild Rock Hall Performance",
+    "link": "https://www.rollingstone.com/music/music-news/red-hot-chili-peppers-rick-rubin-rock-hall-performance-1235658506/",
+    "summary": "The band honored the legendary producer and Musical Excellence Award recipient with “Give It Away”",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Red Hot Chili Peppers",
+      "Rick Rubin",
+      "Rock and Roll Hall of Fame"
+    ],
+    "published": "2026-11-15T15:16:44+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "47930015a8ee2079",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch St. Vincent, Metallica, More Cover Iron Maiden at Rock & Roll Hall of Fame 2026 Induction Ceremony",
+    "link": "https://pitchfork.com/story/watch-st-vincent-metallica-more-cover-iron-maiden-at-rock-and-roll-hall-of-fame-2026-induction-ceremony/",
+    "summary": "Rage Against the Machine’s Brad Wilk, Mötley Crüe’s John 5, and Jack Black joined the all-star lineup to perform “The Trooper”",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Rock and Roll Hall of Fame",
+      "Video",
+      "Award"
+    ],
+    "published": "2026-11-15T15:11:40+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "79f561a1c9b5ad25",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Robert Christgau and Carola Dibbell Talk New Documentary ‘The Last Critic’ and Staying Crazy in Love",
+    "link": "https://www.rollingstone.com/music/music-features/robert-christgau-carola-dibbell-interview-last-critic-1235657436/",
+    "summary": "A new film focuses on the legendary music critic. It’s also a portrait of a rock & roll marriage that's lasted more than 50 years",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "Carola Dibbell",
+      "Prince",
+      "Robert Christgau",
+      "The Rolling Stones"
+    ],
+    "published": "2026-11-15T14:56:03+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "ec9da1e290e4d9e3",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Tyler, The Creator Performs Live Debuts And Rarities At Camp Flog Gnaw 2026, Tells His Fans He Hates Them",
+    "link": "https://stereogum.com/2518102/tyler-the-creator-performs-live-debuts-and-rarities-at-camp-flog-gnaw-2026/news/",
+    "summary": "The post Tyler, The Creator Performs Live Debuts And Rarities At Camp Flog Gnaw 2026, Tells His Fans He Hates Them appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Camp Flog Gnaw",
+      "Quavo",
+      "Tyler The Creator"
+    ],
+    "published": "2026-11-15T14:48:07+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "8e798277150f1aa4",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Live Report: Skye Newman – O2 Academy Brixton, London",
+    "link": "https://www.clashmusic.com/live/live-report-skye-newman-o2-academy-brixton-london/",
+    "summary": "“I’m here all week!” Skye Newman has every right to be in ebullient form. Her mood is like a firework, exploding into the night air – a South London girl, she’s just launched five completely sold out nights at the O2 Academy Brixton, and her fans absolutely adore her. But… The post Live Report: Skye Newman – O2 Academy Brixton, London appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "Live",
+      "Skye Newman"
+    ],
+    "published": "2026-11-15T14:41:13+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "32d131a005601f1c",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Travis Barker and Cynthia Erivo perform ‘In The Air Tonight’ as Phil Collins tells Rock & Roll Hall Of Fame: “You haven’t heard the last of me”",
+    "link": "https://www.nme.com/news/music/travis-barker-cynthia-erivo-in-the-air-tonight-phil-collins-rock-roll-hall-fame-3976002",
+    "summary": "The former Genesis frontman became a two-time inductee at an emotional ceremony in Los Angeles, where he received a standing ovation The post Watch Travis Barker and Cynthia Erivo perform ‘In The Air Tonight’ as Phil Collins tells Rock & Roll Hall Of Fame: “You haven’t heard the last of me” appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Rock"
+    ],
+    "published": "2026-11-15T14:39:54+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "ea6cf5f8ffa58f57",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Wu-Tang Clan, Billy Idol, Phil Collins Enter Rock Hall at All-Star Induction Ceremony",
+    "link": "https://www.rollingstone.com/music/music-live-reviews/rock-hall-2026-induction-ceremony-recap-1235658494/",
+    "summary": "Bearded Red Hot Chili Peppers honor Rick Rubin, U2 serve as surprise openers, Aerosmith and Run-D.M.C. reunite, Oprah Winfrey inducts Luther Vandross and more",
+    "full_text": false,
+    "categories": [
+      "Live Reviews",
+      "Music",
+      "Billy Idol",
+      "Iron Maiden",
+      "Joy Division",
+      "New Order",
+      "Oasis",
+      "Phil Collins",
+      "Rick Rubin",
+      "Rock and Roll Hall of Fame",
+      "Sade",
+      "Wu-Tang Clan"
+    ],
+    "published": "2026-11-15T14:36:30+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "bbc9a4f622789ef1",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Slayer’s Tom Araya Scolds Crowd Over Behavior At LA Show",
+    "link": "https://stereogum.com/2518093/slayers-tom-araya-scolds-crowd-over-behavior-at-la-show/news/",
+    "summary": "The post Slayer’s Tom Araya Scolds Crowd Over Behavior At LA Show appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Slayer",
+      "Tom Araya"
+    ],
+    "published": "2026-11-15T14:01:50+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "0ddda18f53c5f326",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Red Hot Chili Peppers dress as Rick Rubin for Rock & Roll Hall Of Fame performance as he declares: “You can’t kill rock ‘n’ roll”",
+    "link": "https://www.nme.com/news/music/watch-red-hot-chili-peppers-dress-rick-rubin-rock-roll-hall-fame-performance-3975998",
+    "summary": "Neil Young inducted the legendary producer, before the Chili Peppers paid tribute with a rendition of ‘Give It Away’ The post Watch Red Hot Chili Peppers dress as Rick Rubin for Rock & Roll Hall Of Fame performance as he declares: “You can’t kill rock ‘n’ roll” appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Rock"
+    ],
+    "published": "2026-11-15T13:54:14+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "bc4b520575daa9fd",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Red Hot Chili Peppers Perform As Rick Rubins At Rock & Roll Hall Of Fame 2026",
+    "link": "https://stereogum.com/2518085/red-hot-chili-peppers-perform-as-rick-rubins-at-rock-roll-hall-of-fame-2026/news/",
+    "summary": "The post Red Hot Chili Peppers Perform As Rick Rubins At Rock & Roll Hall Of Fame 2026 appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Neil Young",
+      "Red Hot Chili Peppers",
+      "Rick Rubin",
+      "Rock And Roll Hall Of Fame"
+    ],
+    "published": "2026-11-15T13:30:02+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "c13f235e1194aecd",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Oasis skip Rock & Roll Hall Of Fame induction as Bob Odenkirk hails them “a dose of Viagra for the ego” and Stephen Wilson Jr. covers ‘Wonderwall’",
+    "link": "https://www.nme.com/news/music/oasis-skip-rock-roll-hall-fame-induction-bob-odenkirk-stephen-wilson-jr-wonderwall-3975994",
+    "summary": "Noel Gallagher was performing with Goldie and Skunk Anansie's Skin in London instead, while Liam had already made his feelings about the ceremony clear The post Oasis skip Rock & Roll Hall Of Fame induction as Bob Odenkirk hails them “a dose of Viagra for the ego” and Stephen Wilson Jr. covers ‘Wonderwall’ appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Britpop",
+      "Indie"
+    ],
+    "published": "2026-11-15T13:15:45+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "329f286deca49480",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Phoebe Bridgers Glows On SNL",
+    "link": "https://stereogum.com/2518073/phoebe-bridgers-glows-on-snl/news/",
+    "summary": "The post Phoebe Bridgers Glows On <em>SNL</em> appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Bowen Yang",
+      "Elon Musk",
+      "Gary Numan",
+      "Inde Navarrette",
+      "Jensen Huang",
+      "John Mulaney",
+      "Mark Zuckerberg",
+      "Peter Thiel",
+      "Phoebe Bridgers",
+      "Robert F. Kennedy Jr.",
+      "Sam Altman",
+      "Saturday Night Live",
+      "Television",
+      "Veronika Slowikowska",
+      "Woodstock"
+    ],
+    "published": "2026-11-15T12:31:23+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "2ffc1ddf2fec0882",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Lana Del Rey, Dua Lipa and Zara Larsson contribute new music to ‘GTA VI: The Album’ – see the full tracklist",
+    "link": "https://www.nme.com/news/music/lana-del-rey-dua-lipa-zara-larsson-gta-vi-the-album-full-tracklist-3975990",
+    "summary": "The 34-song soundtrack also features collaborations from Justice, Tame Impala, SZA, Michael McDonald and more The post Lana Del Rey, Dua Lipa and Zara Larsson contribute new music to ‘GTA VI: The Album’ – see the full tracklist appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News"
+    ],
+    "published": "2026-11-15T12:23:01+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "7581874fb17d1050",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Deftones’ Chino Moreno, Chvrches’ Lauren Mayberry and Peter Hook perform Joy Division and New Order classics with Rock Hall Of Fame induction from Trent Reznor",
+    "link": "https://www.nme.com/news/music/deftones-chino-moreno-chvrches-peter-hook-joy-division-new-order-rock-hall-fame-trent-reznor-3975986",
+    "summary": "Hook was the only member of the band to attend the ceremony, where he paid tribute to the fans and reflected on his turbulent musical career The post Watch Deftones’ Chino Moreno, Chvrches’ Lauren Mayberry and Peter Hook perform Joy Division and New Order classics with Rock Hall Of Fame induction from Trent Reznor appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Electronic",
+      "Post-Punk"
+    ],
+    "published": "2026-11-15T11:41:50+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "9cbb6d5b5b247e42",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Phil Collins Enters Rock & Roll Hall Of Fame As Solo Artist, Says “You Haven’t Heard The Last Of Me”",
+    "link": "https://stereogum.com/2518065/phil-collins-enters-rock-roll-hall-of-fame-as-solo-artist-says-you-havent-heard-the-last-of-me/news/",
+    "summary": "The post Phil Collins Enters Rock & Roll Hall Of Fame As Solo Artist, Says “You Haven’t Heard The Last Of Me” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Cynthia Erivo",
+      "Genesis",
+      "Noel Gallagher",
+      "Phil Collins",
+      "Rock And Roll Hall Of Fame",
+      "Travis Barker"
+    ],
+    "published": "2026-11-15T11:23:05+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "bc96bc0382abc186",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Sienna Spiro Covers Sade At Rock & Roll Hall Of Fame 2026",
+    "link": "https://stereogum.com/2518015/sienna-spiro-covers-sade-at-rock-roll-hall-of-fame-2026/news/",
+    "summary": "The post Sienna Spiro Covers Sade At Rock & Roll Hall Of Fame 2026 appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Andra Day",
+      "Method Man",
+      "Rock And Roll Hall Of Fame",
+      "Sade",
+      "Sienna Spiro"
+    ],
+    "published": "2026-11-15T10:54:14+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "ed8cdb0ad96a75b9",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "St. Vincent-Led Supergroup Covers Iron Maiden At Rock & Roll Hall Of Fame Induction",
+    "link": "https://stereogum.com/2518034/st-vincent-led-supergroup-covers-iron-maiden-at-rock-roll-hall-of-fame-induction/news/",
+    "summary": "The post St. Vincent-Led Supergroup Covers Iron Maiden At Rock & Roll Hall Of Fame Induction appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Brad Wilk",
+      "Iron Maiden",
+      "John 5",
+      "Kirk Hammett",
+      "Metallica",
+      "Rage Against The Machine",
+      "Robert Trujillo",
+      "Rock And Roll Hall Of Fame",
+      "St. Vincent"
+    ],
+    "published": "2026-11-15T10:50:42+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "762cd0aab8f466ff",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Tout selling £1million of U2 tickets has raised questions about clampdown on bot use for bulk-buying",
+    "link": "https://www.nme.com/news/music/tout-1million-u2-tickets-raised-questions-clampdown-bot-use-bulk-buying-3975982",
+    "summary": "More than 2,000 tickets for the band's upcoming London shows were listed by a single seller on StubHub, with some priced at over four times their face value The post Tout selling £1million of U2 tickets has raised questions about clampdown on bot use for bulk-buying appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Live Music News",
+      "Politics"
+    ],
+    "published": "2026-11-15T10:39:58+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "29d93052079655a6",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Deftones & Lauren Mayberry Cover Joy Division & New Order With Peter Hook At Rock & Roll Hall Of Fame 2026",
+    "link": "https://stereogum.com/2518032/deftones-lauren-mayberry-cover-joy-division-new-order-with-peter-hook-at-rock-roll-hall-of-fame-2026/news/",
+    "summary": "The post Deftones & Lauren Mayberry Cover Joy Division & New Order With Peter Hook At Rock & Roll Hall Of Fame 2026 appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Bernard Sumner",
+      "Chino Moreno",
+      "Chvrches",
+      "Deftones",
+      "Gillian Gilbert",
+      "Joy Division",
+      "Lauren Mayberry",
+      "New Order",
+      "Peter Hook",
+      "Rock And Roll Hall Of Fame",
+      "Stephen Morris"
+    ],
+    "published": "2026-11-15T10:37:51+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "dc62bdeabf5b4956",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Peter Hook Accepts Joy Division/New Order’s Rock Hall Induction Following Introduction from Trent Reznor",
+    "link": "https://consequence.net/2026/11/peter-hook-joy-division-new-order-rock-hall-induction-trent-reznor/",
+    "summary": "The induction recognizes Ian Curtis, Bernard Sumner, Peter Hook, Stephen Morris, and Gillian Gilbert across two closely linked eras of music history. Peter Hook Accepts Joy Division/New Order’s Rock Hall Induction Following Introduction from Trent Reznor Alex Krinsky",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Music",
+      "News",
+      "Alternative Rock",
+      "Electronic",
+      "Post-Punk",
+      "Rock",
+      "Rock and Roll Hall of Fame"
+    ],
+    "published": "2026-11-15T08:44:19+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "e19cd484eddd177b",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Wu-Tang Clan Get Their Flowers, Perform at Rock & Roll Hall of Fame Induction Ceremony",
+    "link": "https://consequence.net/2026/11/wu-tang-clan-rock-hall-induction-speech/",
+    "summary": "The Staten Island rap group ascended into Rock Hall alongside the likes of Oasis, Phil Collins, Joy Division/New Order, and more. Wu-Tang Clan Get Their Flowers, Perform at Rock & Roll Hall of Fame Induction Ceremony Travis Bland",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Music",
+      "News",
+      "Hip-Hop",
+      "Rap",
+      "Rock and Roll Hall of Fame"
+    ],
+    "published": "2026-11-15T08:33:15+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "1ea7b6b332c1b649",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘SNL’: Watch Phoebe Bridgers Perform ‘Bobby,’ ‘Still Standing’",
+    "link": "https://www.rollingstone.com/music/music-news/snl-watch-phoebe-bridgers-performs-bobby-still-standing-1235658394/",
+    "summary": "Both are from her acclaimed album, Lost Weekend",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Late-Night TV",
+      "Phoebe Bridgers",
+      "Saturday Night Live",
+      "SNL"
+    ],
+    "published": "2026-11-15T08:05:34+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "0723590bb9c87e0d",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Iron Maiden Rock Hall Induction: Jack Black, St. Vincent Perform with Members of Metallica, RATM, and Mötley Crüe",
+    "link": "https://consequence.net/2026/11/iron-maiden-rock-hall-induction-jack-black-st-vincent-metallica-ratm-motley-crue/",
+    "summary": "The all-star supergroup performed \"The Trooper\" in honor of the legendary metal band. Iron Maiden Rock Hall Induction: Jack Black, St. Vincent Perform with Members of Metallica, RATM, and Mötley Crüe Spencer Kaufman",
+    "full_text": false,
+    "categories": [
+      "Heavy Music News",
+      "Heavy Consequence",
+      "Music",
+      "Music News",
+      "News",
+      "Heavy Metal",
+      "Rock and Roll Hall of Fame"
+    ],
+    "published": "2026-11-15T07:41:49+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "213b22dd6530f458",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Deftones, Lauren Mayberry, and Peter Hook Perform Joy Division and New Order Classics at Rock & Roll Hall of Fame Ceremony",
+    "link": "https://consequence.net/2026/11/deftones-joy-division-new-order-rock-roll-hall-of-fame-ceremony/",
+    "summary": "The one-off supergroup performed \"Love Will Tear Us Apart\" and \"Bizarre Love Triangle.\" Deftones, Lauren Mayberry, and Peter Hook Perform Joy Division and New Order Classics at Rock & Roll Hall of Fame Ceremony Spencer Kaufman",
+    "full_text": false,
+    "categories": [
+      "Heavy Music News",
+      "Heavy Consequence",
+      "Music",
+      "Music News",
+      "News",
+      "Alternative Metal",
+      "New Wave",
+      "Post-Punk"
+    ],
+    "published": "2026-11-15T07:06:50+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "481df7cae7554c89",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Rick Rubin Inducted into Rock & Roll Hall of Fame: “Can’t Kill Rock and Roll”",
+    "link": "https://consequence.net/2026/11/rick-rubin-rock-hall-neil-young-rhcp/",
+    "summary": "Neil Young introduced the producer with a lengthy, rambling speech. Rick Rubin Inducted into Rock & Roll Hall of Fame: “Can’t Kill Rock and Roll” Alex Young and Alex Krinsky",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Music",
+      "News",
+      "Classic Rock",
+      "Rock",
+      "Rock and Roll Hall of Fame"
+    ],
+    "published": "2026-11-15T07:04:36+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "90a191428179da15",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Red Hot Chili Peppers All Dress as Rick Rubin for Rock & Roll Hall of Fame Performance",
+    "link": "https://consequence.net/2026/11/red-hot-chili-peppers-rick-rubin-rock-roll-hall-of-fame-performance/",
+    "summary": "RHCP performed \"Give It Away\" off the Rubin-produced Blood Sugar Sex Magik. Red Hot Chili Peppers All Dress as Rick Rubin for Rock & Roll Hall of Fame Performance Spencer Kaufman",
+    "full_text": false,
+    "categories": [
+      "Heavy Consequence",
+      "Heavy Music News",
+      "Music",
+      "Music News",
+      "News",
+      "Alternative Rock",
+      "Funk Rock",
+      "Hard Rock"
+    ],
+    "published": "2026-11-15T06:27:55+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "ac2f70b67d17a1d8",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Bob Odenkirk Thinks It Made Sense for Oasis to Skip the Rock Hall Ceremony",
+    "link": "https://consequence.net/2026/11/bob-odenkirk-oasis-rock-hall-ceremony/",
+    "summary": "The band's music is \"a dose of Viagra for the ego,\" according to the Better Call Saul star. Bob Odenkirk Thinks It Made Sense for Oasis to Skip the Rock Hall Ceremony Liz Shannon Miller",
+    "full_text": false,
+    "categories": [
+      "TV & Movie News",
+      "Music",
+      "Music News",
+      "News",
+      "TV & Movies",
+      "Better Call Saul",
+      "Bob Odenkirk"
+    ],
+    "published": "2026-11-15T05:32:50+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "383743d5514c8ce3",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Yield",
+    "link": "https://pitchfork.com/reviews/albums/pearl-jam-yield/",
+    "summary": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the outspoken grunge icons’ daring and emotionally complicated fifth album, a test of faith after a series of controversies, tragedies, and failures.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums",
+      "Sunday Review"
+    ],
+    "published": "2026-11-15T05:00:00+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "b5c99099f554fccc",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Phil Collins Inducted Into Rock & Roll Hall of Fame: “You Haven’t Heard the Last from Me”",
+    "link": "https://consequence.net/2026/11/phil-collins-rock-hall-induction-solo-artist/",
+    "summary": "The two-time Rock Hall inductee was introduced by Travis Barker and serenaded by Cynthia Erivo. Phil Collins Inducted Into Rock & Roll Hall of Fame: “You Haven’t Heard the Last from Me” Alex Krinsky",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Music",
+      "News",
+      "Pop",
+      "Rock",
+      "Rock and Roll Hall of Fame"
+    ],
+    "published": "2026-11-15T04:47:52+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
+    "id": "2d0798c0905dea9f",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "U2 Deliver Surprise Performance at 2026 Rock & Roll Hall of Fame Induction Ceremony",
+    "link": "https://consequence.net/2026/11/u2-deliver-surprise-performance-at-2026-rock-and-roll-hall-of-fame-induction-ceremony/",
+    "summary": "The Irish rockers performed \"Silencio\" and \"Pride (In the Name of Love)\" to kick off this year's ceremony. U2 Deliver Surprise Performance at 2026 Rock & Roll Hall of Fame Induction Ceremony Alex Krinsky",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Music",
+      "News",
+      "Rock",
+      "Rock and Roll Hall of Fame"
+    ],
+    "published": "2026-11-15T03:24:20+00:00",
+    "collected": "2026-11-16T02:44:46.230893+00:00"
+  },
+  {
     "id": "ba7f19302b0cbad6",
     "source": "Stereogum",
     "source_type": "news",
@@ -30403,467 +31495,6 @@
       "Reviews / Albums"
     ],
     "published": "2026-10-17T04:00:00+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "c65271d5e3b9fbfb",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Mariah Carey Releases ‘Loverboy Remix’ Video In True 4K",
-    "link": "https://www.udiscovermusic.com/news/mariah-carey-loverboy-remix-video/",
-    "summary": "The David LaChapelle-directed video was reconstructed shot by shot from its original 35mm film elements.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "David LaChapelle",
-      "Glitter",
-      "Homepage Featured",
-      "Loverboy Remix",
-      "Mariah Carey",
-      "Music Videos",
-      "Pop",
-      "R&B",
-      "Reissues",
-      "Vinyl"
-    ],
-    "published": "2026-10-16T22:42:17+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "d838e92653f48f77",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "‘The Art Of Losing’: American Hi-Fi’s Powerful Sophomore Set",
-    "link": "https://www.udiscovermusic.com/stories/american-hi-fi-the-art-of-losing/",
-    "summary": "With Nick Launay producing, American Hi-Fi sharpened their sound without sacrificing the hooks that made their debut a hit.",
-    "full_text": false,
-    "categories": [
-      "Features",
-      "Google News Stories",
-      "American Hi-Fi",
-      "On This Day",
-      "Pop",
-      "Punk",
-      "The Art Of Losing"
-    ],
-    "published": "2026-10-16T21:22:46+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "4ad0bd3889a89ef9",
-    "source": "Pitchfork (track reviews)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "“Lies” [ft. Lana Del Rey]",
-    "link": "https://pitchfork.com/reviews/track/zach-bryan-lana-del-rey-lies/",
-    "summary": "Star-crossed lovers sing right past each other on the duet from Bryan’s new Young Manhood and Other Donatable Organs EP.",
-    "categories": [
-      "Reviews / Tracks"
-    ],
-    "published": "2026-10-16T21:21:38+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "52c1fc2e75220cb2",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Detroit Singer-Songwriter Ebony Riley Releases Visuals For ‘Sick Of Me’",
-    "link": "https://www.udiscovermusic.com/news/ebony-riley-sick-of-me-video/",
-    "summary": "The track is the opener of the singer’s debut album ‘Beautiful Tragedy.’",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Beautiful Tragedy",
-      "Ebony Riley",
-      "Homepage Featured",
-      "R&B",
-      "Sick Of Me",
-      "Video"
-    ],
-    "published": "2026-10-16T19:05:25+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "89c7b8e40437fb6d",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "U2 Announces 2027 World Tour: The Greatest Show On Earth",
-    "link": "https://www.udiscovermusic.com/news/u2-carnaval-de-luz-tour/",
-    "summary": "Beck is set to join the band on their Latin American dates.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Carnaval De Luz",
-      "Homepage Featured",
-      "Rock",
-      "Tour",
-      "U2"
-    ],
-    "published": "2026-10-16T19:02:21+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "9b3e94a5945dd177",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Beck Shares Live Performance Of ‘Ride Lonesome’ With Sydney Symphony Orchestra",
-    "link": "https://www.udiscovermusic.com/news/beck-ride-lonesome-video/",
-    "summary": "The video comes from Beck’s May 2026 Sydney Opera House concert.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Beck",
-      "Homepage Featured",
-      "Ride Lonesome",
-      "Rock",
-      "Video"
-    ],
-    "published": "2026-10-16T18:38:14+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "31e0aefe7ae4c55e",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Max Richter Releases ‘While The Flood Rages’",
-    "link": "https://www.udiscovermusic.com/news/max-richter-while-the-flood-rages-out-now/",
-    "summary": "The Decca release draws on his third major collaboration with choreographer Wayne McGregor.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Decca Records",
-      "Electronic",
-      "Homepage Featured",
-      "MaddAddam",
-      "Max Richter",
-      "National Album Day",
-      "Wayne McGregor",
-      "While The Flood Rages"
-    ],
-    "published": "2026-10-16T18:28:13+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "8f468a927824d616",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Watch Leyla Ebrahimi’s New Music Video For ‘star’",
-    "link": "https://www.udiscovermusic.com/news/leyla-ebrahimi-star-video/",
-    "summary": "The New York City artist reunites with producers Alexander 23 and Shane Pielocik.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Alexander 23",
-      "Alternative",
-      "Homepage Featured",
-      "Leyla Ebrahimi",
-      "Music Videos",
-      "Planet You Forgot Me",
-      "Shane Pielocik",
-      "Star"
-    ],
-    "published": "2026-10-16T18:25:00+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "018c3a80e7e45731",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Stephan Micus Explores the Sea on ‘Traces in the Sand’",
-    "link": "https://www.udiscovermusic.com/news/stephan-micus-traces-in-the-sand/",
-    "summary": "His 27th solo album for ECM pairs instruments from Borneo, Japan, Armenia, and beyond.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "ECM Records",
-      "Folk",
-      "Homepage Featured",
-      "Stephan Micus",
-      "Traces in the Sand"
-    ],
-    "published": "2026-10-16T18:13:15+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "ed36dba4bfbb2e96",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Giant Rooks Release ‘IF HEAVEN EXISTS, THIS MIGHT BE IT’",
-    "link": "https://www.udiscovermusic.com/news/giant-rooks-if-heaven-exists-this-might-be-it/",
-    "summary": "The band recorded its third album at Angelic Studios and Real World Studios in England.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Alternative",
-      "Giant Rooks",
-      "Homepage Featured",
-      "IF HEAVEN EXISTS THIS MIGHT BE IT"
-    ],
-    "published": "2026-10-16T18:10:32+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "72acbd1aa9de232d",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Listen To Take That’s Disco-Infused New Single ‘Higher’",
-    "link": "https://www.udiscovermusic.com/news/take-that-higher-dreamers/",
-    "summary": "Howard Donald sings lead on the disco-infused track, premiered by Vernon Kay on BBC Radio 2.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "DREAMERS",
-      "Dreamers Tour",
-      "Higher",
-      "Homepage Featured",
-      "Howard Donald",
-      "Pop",
-      "Take That"
-    ],
-    "published": "2026-10-16T18:07:35+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "f7a775b031e0729a",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Nick Ward Shares ‘Making Time’ From Forthcoming Second Album",
-    "link": "https://www.udiscovermusic.com/news/nick-ward-making-time/",
-    "summary": "The track marked Ward’s first session with co-producer Timon Martin and helped reshape his recording process.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Alternative",
-      "Homepage Featured",
-      "Making Time",
-      "Nick Ward",
-      "Timon Martin",
-      "Year Of The Snake"
-    ],
-    "published": "2026-10-16T18:04:52+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "62210480d432155c",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "TOMORA Releases New Five-Track EP ‘Celebration’",
-    "link": "https://www.udiscovermusic.com/news/tomora-celebration-out-now/",
-    "summary": "The duo recorded the EP at RAR Studios in Sussex, with physical editions arriving November 27.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Aurora",
-      "Celebration",
-      "Come Closer",
-      "Electronic",
-      "Homepage Featured",
-      "Live Music",
-      "Tom Rowlands",
-      "Tomora",
-      "Vinyl"
-    ],
-    "published": "2026-10-16T17:58:30+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "a299203f56a4ee80",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Brooke Combe Announces New Album ‘Too Late For Tears’",
-    "link": "https://www.udiscovermusic.com/news/brooke-combe-too-late-for-tears/",
-    "summary": "The singer shared the song ‘Passing Faces’ ahead of a 13-date UK and European headline tour.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Brooke Combe",
-      "Fontana Records",
-      "Homepage Featured",
-      "James Skelly",
-      "Live Music",
-      "Passing Faces",
-      "Soul",
-      "Too Late For Tears"
-    ],
-    "published": "2026-10-16T17:20:25+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "548d34817ebcbec3",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Listen To Sydney Rose’s New EP ‘It Was My First Time’",
-    "link": "https://www.udiscovermusic.com/news/sydney-rose-it-was-my-first-time-ep-out-now/",
-    "summary": "The five-track Mercury Records release includes ‘My First Time,’ ‘Track Team,’ and focus track ‘Proof.’",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Alternative",
-      "Homepage Featured",
-      "It Was My First Time",
-      "Mercury Records",
-      "My First Time",
-      "Proof",
-      "Sydney Rose"
-    ],
-    "published": "2026-10-16T17:12:52+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "76bd98900402719a",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Amy Winehouse’s 2006 ‘Back To Black’ TV Performance Gets YouTube Release",
-    "link": "https://www.udiscovermusic.com/news/amy-winehouse-back-to-black-live-video/",
-    "summary": "The 2006 television appearance accompanies the anniversary campaign for Winehouse’s second album.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Amy Winehouse",
-      "Back To Black",
-      "Back To Black 20",
-      "Homepage Featured",
-      "Live",
-      "Music Video",
-      "Soul"
-    ],
-    "published": "2026-10-16T17:02:54+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "a7cb2c15cb22de36",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Tadhg Nolan Signs To Capitol, Releases ‘Mayday (demo)’",
-    "link": "https://www.udiscovermusic.com/news/tadhg-nolan-mayday-demo/",
-    "summary": "The Irish singer-songwriter’s first North American headline shows include a November appearance in Los Angeles.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Capitol Records",
-      "Folk",
-      "Homepage Featured",
-      "Live Music",
-      "Mayday (demo)",
-      "Tadhg Nolan"
-    ],
-    "published": "2026-10-16T16:59:38+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "3772b0d7d23c4347",
-    "source": "musicOMH",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Rachel Chinouriri – I Think I Spoke Too Soon",
-    "link": "https://www.musicomh.com/reviews/albums/rachel-chinouriri-i-think-i-spoke-too-soon",
-    "summary": "The follow-up to 2024's A Devastating Turn Of Events swaps the jangly guitars and indie hooks for a more polished pop production The post Rachel Chinouriri – I Think I Spoke Too Soon appeared first on musicOMH .",
-    "categories": [
-      "Album Reviews",
-      "Rachel Chinouriri"
-    ],
-    "published": "2026-10-16T15:26:54+00:00",
-    "collected": "2026-11-01T10:59:35.314292+00:00"
-  },
-  {
-    "id": "1d66b0b2e8337543",
-    "source": "musicOMH",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Arborist – Looking For Love",
-    "link": "https://www.musicomh.com/reviews/albums/arborist-looking-for-love",
-    "summary": "Mark McCambridge’s fourth album addresses human desires with authenticity and sensitivity, creating an expertly woven musical fabric with deft lyrical turns of phrase The post Arborist – Looking For Love appeared first on musicOMH .",
-    "categories": [
-      "Album Reviews",
-      "Arborist"
-    ],
-    "published": "2026-10-16T13:51:43+00:00",
-    "collected": "2026-11-01T10:59:35.314292+00:00"
-  },
-  {
-    "id": "cdc4827c52314a8e",
-    "source": "Pitchfork (track reviews)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "“expectations”",
-    "link": "https://pitchfork.com/reviews/olivia-rodrigo-chappell-roan-expectations/",
-    "summary": "If there were ever a song Chappie was born to add some sauce to, it’s “expectations.”",
-    "categories": [
-      "Reviews / Tracks"
-    ],
-    "published": "2026-10-16T13:44:55+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "1909a0c0eeadd5cf",
-    "source": "musicOMH",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Two Shell – Infinite Now",
-    "link": "https://www.musicomh.com/reviews/albums/two-shell-infinite-now",
-    "summary": "The elusive duo's second album provides a set of AI-augmented no frills bangers that combine charm with a gritty, urban underbelly The post Two Shell – Infinite Now appeared first on musicOMH .",
-    "categories": [
-      "Album Reviews",
-      "Two Shell"
-    ],
-    "published": "2026-10-16T07:31:11+00:00",
-    "collected": "2026-11-01T10:59:35.314292+00:00"
-  },
-  {
-    "id": "91916b259fcba139",
-    "source": "musicOMH",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Eels – Cookie Happened",
-    "link": "https://www.musicomh.com/reviews/albums/eels-cookie-happened",
-    "summary": "The latest thoughtfully erudite missive from Mark Everett and co comes with a title inspired by a quote from, of all entities, Cookie Monster The post Eels – Cookie Happened appeared first on musicOMH .",
-    "categories": [
-      "Album Reviews",
-      "Eels"
-    ],
-    "published": "2026-10-16T07:01:35+00:00",
-    "collected": "2026-11-01T10:59:35.314292+00:00"
-  },
-  {
-    "id": "c77e198e62cc7041",
-    "source": "Pitchfork (Best New Albums)",
-    "source_type": "reviews",
-    "weight": 2.0,
-    "title": "Autosmile",
-    "link": "https://pitchfork.com/reviews/albums/at-sign-autosmile/",
-    "summary": "The Philly duo’s folk music radiates a special kind of energy. Their second album is tinged with psychedelia, a wicker wunderkammer of songs, spells, and secrets.",
-    "categories": [
-      "Reviews / Albums"
-    ],
-    "published": "2026-10-16T04:03:00+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "c96396cc64f904da",
-    "source": "The Needle Drop (YouTube)",
-    "source_type": "video",
-    "weight": 1.5,
-    "title": "Alabama Shakes - I Must Be Dreaming ALBUM REVIEW",
-    "link": "https://www.youtube.com/watch?v=Ypyau5YSZgU",
-    "summary": "Listen: https://www.youtube.com/watch?v=qB8bqpVn_SA Alabama Shakes' comeback album is kind of carried by its great singles. More rock reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ori6-Iz-AWcX561iWCfapt_ =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: ANOTHER LIFE, GARDEN, I FEEL HOPE COMING, HOW LOVE'S SUPPOSED TO GO, AMERICAN DREAM LEAST FAV TRACK: TEA TIME ALABAMA SHAKES - I MUST BE DREAMING / 2026 / ISLAND / PSYCH SOUL, BLUES ROCK 6/10 Y'all know this is just my opinion, right?",
-    "categories": [],
-    "published": "2026-10-16T03:47:18+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
   }
 ]
