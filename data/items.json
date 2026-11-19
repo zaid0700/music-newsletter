@@ -1,5 +1,1809 @@
 [
   {
+    "id": "9fd9fac3c1010e35",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Lainey Wilson Debuts New Song ‘Just a Woman’ with All-Female Band at 2026 CMA Awards",
+    "link": "https://www.rollingstone.com/music/music-country/lainey-wilson-performs-just-a-woman-2026-cma-awards-1235658176/",
+    "summary": "Written with Luke Dick and Shane McAnally, the ballad is one of the singer's most potent yet",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Country",
+      "CMA Awards",
+      "Lainey Wilson"
+    ],
+    "published": "2026-11-19T02:40:47+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "125013231ed1c233",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Taylor Swift Returns to CMA Awards Stage for Star-Studded ‘I Knew It, I Knew You’ Performance",
+    "link": "https://www.billboard.com/music/awards/taylor-swift-i-knew-it-i-knew-you-cma-awards-2026-performance-1236385268/",
+    "summary": "Brad Paisley, Lainey Wilson and more appeared in the sweet set featuring nods to Toy Story 5 .",
+    "full_text": false,
+    "categories": [
+      "Awards",
+      "Music",
+      "CMA Awards",
+      "genre country",
+      "genre pop",
+      "Music News"
+    ],
+    "published": "2026-11-19T02:36:46+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "e3429e689281c808",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Glen Powell & Leslie Powell Reveals Who Surprised Him During Filming of ‘The Comeback King’ | CMA Awards 2026",
+    "link": "https://www.billboard.com/video/glen-powell-leslie-powell-who-surprised-him-during-filming/",
+    "summary": "Glen Powell & Leslie Powell caught up with Ellie Thumann & Billboard’s Tetris Kelly at the CMA Awards 2026.",
+    "full_text": false,
+    "categories": [
+      "Media",
+      "Videos",
+      "Billboard",
+      "CMA Awards",
+      "genre country",
+      "Music News"
+    ],
+    "published": "2026-11-19T02:35:34+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "0c877089e76a08bc",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Ella Langley Delivers a Powerfully Unplugged ‘Loving Life Again’ at the 2026 CMA Awards",
+    "link": "https://www.billboard.com/music/awards/ella-langely-loving-life-again-cma-awards-2026-performance-1236385298/",
+    "summary": "While \"Choosin' Texas\" is winning all the awards at Thursday's ceremonies, Langley showed how deep her 'Dandelion' bench is with her acoustic \"Loving\" performance.",
+    "full_text": false,
+    "categories": [
+      "Awards",
+      "Music",
+      "CMA Awards",
+      "genre country"
+    ],
+    "published": "2026-11-19T02:33:01+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "5ca1760f511e6bb7",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Taylor Swift Throws It Back at the 2026 CMAs With ‘Our Song’",
+    "link": "https://www.rollingstone.com/music/music-country/taylor-swift-cma-awards-performance-1235656541/",
+    "summary": "The pop superstar returned to the awards ceremony stage after 13 years, alongside Keith Urban, to perform \"I Knew It, I Knew You\" and a bit of her 2006 hit",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Country",
+      "Country Music Awards",
+      "Taylor Swift"
+    ],
+    "published": "2026-11-19T02:26:31+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "3a172aea3c9cb15b",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Luke Combs Reveals He Originally Had 40 Songs on ‘The Way I Am’ | CMA Awards 2026",
+    "link": "https://www.billboard.com/video/luke-combs-reveals-originally-had-40-songs-on-the-way-i-am/",
+    "summary": "Luke Combs caught up with Ellie Thumann & Billboard’s Tetris Kelly at the CMA Awards 2026.",
+    "full_text": false,
+    "categories": [
+      "Media",
+      "Videos",
+      "Billboard",
+      "CMA Awards",
+      "genre country",
+      "Music News"
+    ],
+    "published": "2026-11-19T02:22:20+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "acd6d737a8b9f2a5",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "GNJB’s ‘Love Reason’ Hits No. 1 on Japan Hot 100 as Akira Senju’s ‘Beppan Gireikyoku’ From ‘VIVANT’ Debuts",
+    "link": "https://www.billboard.com/music/chart-beat/gnjb-love-reason-japan-hot-100-akira-senju-beppan-gireikyoku-1236385301/",
+    "summary": "EBiDAN’s “Yes! Tokyo” climbs 3-2, leading video views and coming in at No. 3 on streaming. 4U.’s “BLOOM WORLD” debuts at No. 3.",
+    "full_text": false,
+    "categories": [
+      "Chart Beat",
+      "Music",
+      "Billboard Japan",
+      "Global",
+      "Japan",
+      "Music News"
+    ],
+    "published": "2026-11-19T02:18:53+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "3edf0d0282a8eef3",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Jessica Chastain On How Her Acting Helps Connect Her to Country Music | CMA Awards 2026",
+    "link": "https://www.billboard.com/video/jessica-chastain-on-acting-helps-connect-to-country-music/",
+    "summary": "Jessica Chastain caught up with Ellie Thumann & Billboard’s Tetris Kelly at the CMA Awards 2026.",
+    "full_text": false,
+    "categories": [
+      "Media",
+      "Videos",
+      "Billboard",
+      "CMA Awards",
+      "genre country",
+      "Music News"
+    ],
+    "published": "2026-11-19T02:13:59+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "25bb12c526739c07",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Ella Langley Find What Matters on ‘Loving Life Again’ at 2026 CMA Awards",
+    "link": "https://www.rollingstone.com/music/music-country/ella-langley-sings-loving-life-again-2026-cma-awards-1235659276/",
+    "summary": "The \"Choosin' Texas\" singer slowed things down with a subtly gorgeous performance of her country radio hit",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Country",
+      "CMA Awards",
+      "Ella Langley"
+    ],
+    "published": "2026-11-19T02:04:53+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "a263527925086fd4",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Mumford & Sons and Chris Stapleton Team Up for ‘Here’ at 2026 CMA Awards",
+    "link": "https://www.rollingstone.com/music/music-country/watch-mumford-sons-chris-stapleton-here-cma-1235660385/",
+    "summary": "The British group's duet with Stapleton marked their CMA debut",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Country",
+      "Chris Stapleton",
+      "CMA Awards",
+      "Mumford & Sons"
+    ],
+    "published": "2026-11-19T01:56:02+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "d6464ba99f8c0415",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Kacey Musgraves and Miranda Lambert Perform ‘Horses and Divorces’ at the CMA Awards 2026",
+    "link": "https://www.billboard.com/music/country/kacey-musgraves-miranda-lambert-horses-divorces-cma-awards-1236385212/",
+    "summary": "The duet appears on Musgraves' album Middle of Nowhere .",
+    "full_text": false,
+    "categories": [
+      "Country",
+      "Music",
+      "CMAs",
+      "genre country"
+    ],
+    "published": "2026-11-19T01:54:20+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "8a87cd8fc7b52b2a",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "See Zach Top and Dierks Bentley Remember John Anderson With ‘Swingin” at 2026 CMAs",
+    "link": "https://www.rollingstone.com/music/music-country/dierks-bentley-zach-top-john-anderson-tribute-cma-awards-1235659488/",
+    "summary": "The country singers pay homage to the Country Music Hall of Fame member, who died in October",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Country",
+      "CMA Awards",
+      "Dierks Bentley",
+      "John Anderson",
+      "Zach Top"
+    ],
+    "published": "2026-11-19T01:49:34+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "90576e4a2494fb5e",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Lainey Wilson and Brad Paisley Joke About Taylor Swift’s Wedding By Parodying a Country Classic",
+    "link": "https://www.billboard.com/music/awards/lainey-wilson-brad-paisley-taylor-swift-wedding-cma-awards-1236385272/",
+    "summary": "They also cracked wise about data centers and dating apps during a hilarious musical monologue at the 2026 CMA Awards.",
+    "full_text": false,
+    "categories": [
+      "Awards",
+      "Music",
+      "CMA Awards",
+      "genre country"
+    ],
+    "published": "2026-11-19T01:49:30+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "a85815dcc8aad8a6",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Julio Iglesias Under Investigation for Sexual Abuse Claims",
+    "link": "https://www.rollingstone.com/music/music-news/julio-iglesias-under-investigation-sexual-abuse-claims-1235660597/",
+    "summary": "A Spanish court launched a criminal probe into the singer after two female employees filed a complaint against him",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "controversy",
+      "courts and crime",
+      "Julio Iglesias"
+    ],
+    "published": "2026-11-19T01:48:52+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "a13dd5a7478bd097",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Sammy Kershaw Gets Standing Ovation at CMA Awards After Initial Red Carpet Snub",
+    "link": "https://www.billboard.com/music/awards/sammy-kershaw-cma-awards-standing-ovation-red-carpet-snub-1236385258/",
+    "summary": "Following weeks of chatter about Kershaw being denied red carpet entry at the Nashville ceremonies, the show's hosts and crowd showed him some serious love and support.",
+    "full_text": false,
+    "categories": [
+      "Awards",
+      "Music",
+      "CMA Awards",
+      "genre country"
+    ],
+    "published": "2026-11-19T01:48:19+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "353c1b7a29ac21ec",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Kacey Musgraves and Miranda Lambert Duet on ‘Horses and Divorces’ at 2026 CMA Awards",
+    "link": "https://www.rollingstone.com/music/music-country/kacey-musgraves-miranda-lambert-perform-at-2026-cma-awards-1235658551/",
+    "summary": "The two artists, up for numerous awards, offered a version of their beef-squashing collab, off Musgraves' Middle of Nowhere album",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Country",
+      "CMA Awards",
+      "Kacey Musgraves",
+      "Miranda Lambert"
+    ],
+    "published": "2026-11-19T01:35:06+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "63e4f3b05c718f94",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Ella Langley’s ‘Choosin’ Texas’ Beats Taylor Swift’s ‘I Knew It, I Knew You’ for Single of the Year at CMAs",
+    "link": "https://www.rollingstone.com/music/music-country/ella-langley-choosin-texas-single-of-the-year-cmas-1235658140/",
+    "summary": "\"We just sat in a room and did our best one afternoon, and it is the gift that just keeps on giving,\" Alabama country star said",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Country",
+      "Country Music Awards",
+      "Ella Langley",
+      "Taylor Swift"
+    ],
+    "published": "2026-11-19T01:29:21+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "3755b5d7de0be94e",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "2026 CMA Awards Kicks Off With Emotional Tribute to Dolly Parton: ‘Our Tennessee Angel Is With the Angels’",
+    "link": "https://www.billboard.com/music/awards/lainey-wilson-vince-gill-dolly-parton-i-will-always-love-you-cmas-1236385209/",
+    "summary": "Host Lainey Wilson and Vince Gill began the show by singing the late country icon's hit.",
+    "full_text": false,
+    "categories": [
+      "Awards",
+      "Music",
+      "CMA Awards",
+      "genre country",
+      "Music News"
+    ],
+    "published": "2026-11-19T01:24:12+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "f234af0925767dad",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "See Lainey Wilson and Vince Gill Open 2026 CMA Awards With Dolly Parton Tribute",
+    "link": "https://www.rollingstone.com/music/music-country/lainey-wilson-opens-2026-cma-awards-dolly-parton-tribute-1235657554/",
+    "summary": "The country singers duetted on \"I Will Always Love You\" to honor the music legend, who died in August at 80",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Country",
+      "CMA Awards",
+      "Dolly Parton",
+      "Lainey Wilson",
+      "Vince Gill"
+    ],
+    "published": "2026-11-19T01:08:29+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "d45a9ddf9b113334",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Erika de Casier releases new single",
+    "link": "https://theneedledrop.com/news/erika-de-casier-new-single-whisper/",
+    "summary": "Listen to \"Whisper\" now.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "erika de casier"
+    ],
+    "published": "2026-11-19T00:44:22+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "95163f8c2ee1ab5d",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Lost Nathan Fielder Documentary on the 2008 Election Now Available on YouTube",
+    "link": "https://consequence.net/2026/11/lost-nathan-fielder-documentary-youtube/",
+    "summary": "Eighteen years after it was first made, Nathan Fielder: Love and Cameras in America has been made available for streaming. Lost Nathan Fielder Documentary on the 2008 Election Now Available on YouTube Liz Shannon Miller",
+    "full_text": false,
+    "categories": [
+      "TV & Movie News",
+      "News",
+      "TV & Movies",
+      "Nathan Fielder",
+      "You Can See Everything"
+    ],
+    "published": "2026-11-18T23:53:40+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "62d95b78ddbc13a7",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Travis Scott, WNBA End Their Fight Over Rapper's Trademark Idea",
+    "link": "https://www.xxlmag.com/travis-scott-wnba-trademark-houston-comets/",
+    "summary": "TheStewartofNY/Erica Denhoff/Getty Images (2)",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Travi$ Scott",
+      "WNBA"
+    ],
+    "published": "2026-11-18T23:08:51+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "aacfdcd2c50fec57",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Truth Club return with double single, signs to Mtn Laurel Recording Co.",
+    "link": "https://theneedledrop.com/news/truth-club-return-with-double-single-signs-to-mtn-laurel-recording-co/",
+    "summary": "Catch them on tour with Wild Pink in March and April.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "truth club"
+    ],
+    "published": "2026-11-18T23:07:40+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "73cf444eb9e177e0",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Mythless Announce Debut Album Hex: Hear “Brocken Spectre”",
+    "link": "https://stereogum.com/2518625/mythless-announce-debut-album-hex-hear-brocken-spectre/music/",
+    "summary": "The post Mythless Announce Debut Album <em>Hex</em>: Hear “Brocken Spectre” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Fang Island",
+      "Mythless"
+    ],
+    "published": "2026-11-18T23:02:56+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "a8905a77084267fd",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Belle and Sebastian celebrate 30 years of 'If You’re Feeling Sinister' with bonus album of unreleased material",
+    "link": "https://theneedledrop.com/news/belle-and-sebastian-celebrate-30-years-of-if-youre-feeling-sinister-with-bonus-album-of-unreleased-material/",
+    "summary": "The reissue features previously unreleased recordings, archival demos, and a new preview with “Colette and the Mystery Girl.”",
+    "full_text": false,
+    "categories": [
+      "News",
+      "belle and sebastian"
+    ],
+    "published": "2026-11-18T23:01:56+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "4caf92157d9456ac",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Al Jardine Writes Open Letter to Fellow Beach Boy Mike Love: ‘Praying For Your Recovery’",
+    "link": "https://www.rollingstone.com/music/music-news/al-jardine-open-letter-boy-mike-love-1235660444/",
+    "summary": "In an emotional note that quoted lyrics from the 1968 Beach Boys song \"Friends,\" Jardine sent Love \"the warmth of the sun\" and \"good vibes.\"",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Al Jardine",
+      "Beach Boys",
+      "Mike Love"
+    ],
+    "published": "2026-11-18T22:36:40+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "15e9b92bb5d2115b",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Macklemore Shares “Where’s Our Love,” Benefitting Mothers And Children Of Gaza",
+    "link": "https://stereogum.com/2518614/macklemore-shares-wheres-our-love-benefitting-mothers-and-children-of-gaza/music/",
+    "summary": "The post Macklemore Shares “Where’s Our Love,” Benefitting Mothers And Children Of Gaza appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Macklemore"
+    ],
+    "published": "2026-11-18T21:51:44+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "c0fc9c4f5b9c0fb6",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Theatre – “Clouds”",
+    "link": "https://stereogum.com/2518586/theatre-clouds/music/",
+    "summary": "The post Theatre – “Clouds” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Theatre"
+    ],
+    "published": "2026-11-18T21:38:58+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "a6950e8fed248844",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "concealer. – “Disguised In Pins” & “Pleading”",
+    "link": "https://stereogum.com/2518600/concealer-disguised-in-pins-pleading/music/",
+    "summary": "The post concealer. – “Disguised In Pins” & “Pleading” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Alex Scalzo-Brown",
+      "Concealer"
+    ],
+    "published": "2026-11-18T21:13:35+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "eaa7da7b5985a030",
+    "source": "The Needle Drop (YouTube)",
+    "source_type": "video",
+    "weight": 1.0,
+    "title": "Westside Gunn - Heelmatic ALBUM REVIEW",
+    "link": "https://www.youtube.com/watch?v=kC6YyCppiyY",
+    "summary": "Listen: https://youtu.be/4uWSjmk62NM?si=kXq_M2gm9XXSz6kD HEELMATIC brings an enjoyable mix of quality hip hop and kayfabe. More rap reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormBIO138tYonB949PHnNcP =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: KOKE SLAM, DON PISTOLA, MARTIN 4SESE, HURT + HEEL, EGYPTIAN CADILLAC, BOTTOM BUNK LEGENDS, THE BASTARD PAC LEAST FAV TRACK: PRICE CHOPPERS WESTSIDE GUNN - HEELMATIC / 2026 / GRISELDA, MASS APPEAL / EAST COAST HIP HOP, HEEL RAP 7/10 Y'all know this is just my opinion, right?",
+    "full_text": false,
+    "categories": [],
+    "published": "2026-11-18T21:08:21+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "f251087446854b23",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Philip Frobos – “Fulton County Stadium At 8:05AM” (Feat. Mastodon’s Bill Kelliher)",
+    "link": "https://stereogum.com/2518585/philip-frobos-fulton-county-stadium-at-805am-feat-mastodons-bill-kelliher/music/",
+    "summary": "The post Philip Frobos – “Fulton County Stadium At 8:05AM” (Feat. Mastodon’s Bill Kelliher) appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Bill Kelliher",
+      "Mastodon",
+      "Omni",
+      "Philip Frobos"
+    ],
+    "published": "2026-11-18T21:05:54+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "4cfb3e28e0a71f5e",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Rockstar Leaves Sex Workers Out of Grand Theft Auto for First Time in 25 Years",
+    "link": "https://consequence.net/2026/11/gta-6-no-sex-workers-rockstar-games-comment/",
+    "summary": "A representative explained that Rockstar wanted players to focus on Jason and Lucia's Bonnie and Clyde story. Rockstar Leaves Sex Workers Out of Grand Theft Auto for First Time in 25 Years Eddie Fu",
+    "full_text": false,
+    "categories": [
+      "News Bites",
+      "News",
+      "Pop Culture",
+      "Pop Culture News",
+      "Tech News",
+      "Grand Theft Auto",
+      "Video Games"
+    ],
+    "published": "2026-11-18T21:04:41+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "94db8f9df6d1b058",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Kevin Gates to Pay Dreka $94,000 a Month in Child Support",
+    "link": "https://www.xxlmag.com/kevin-gates-ordered-to-pay-dreka-94000-a-month-in-child-and-spousal-support-report/",
+    "summary": "JC Olivera/Variety via Getty Images/Prince Williams/Getty Images",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Kevin Gates"
+    ],
+    "published": "2026-11-18T21:03:41+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "7a87bdaceafcdcae",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "R.E.M.’s Mike Mills on Reveal at 25, the Songs That Got Away, and Howl Owl Howl’s New Album: Podcast",
+    "link": "https://consequence.net/2026/11/rem-mike-mills-reveal-25th-anniversary/",
+    "summary": "The bassist looks back on finding the band's footing after Bill Berry, great songs that never made the cut, and what it’s like to finally experience R.E.M. as a fan. R.E.M.’s Mike Mills on Reveal at 25, the Songs That Got Away, and Howl Owl Howl’s New Album: Podcast Kyle Meredith",
+    "full_text": false,
+    "categories": [
+      "Kyle Meredith With... Podcast",
+      "Consequence Podcast Network",
+      "Music",
+      "Alternative Rock",
+      "Indie Rock"
+    ],
+    "published": "2026-11-18T20:56:51+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "5ab458c46b5a905b",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Touché Amoré – “(I Can’t Get Out Of) My Own Way”",
+    "link": "https://stereogum.com/2518593/touche-amore-cant-get-out-of-my-own-way/music/",
+    "summary": "The post Touché Amoré – “(I Can’t Get Out Of) My Own Way” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Touché Amoré"
+    ],
+    "published": "2026-11-18T20:41:57+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "a3da453522c2f824",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Pooh Shiesty’s Lawyer Claims Rapper Lost 30 Pounds in Texas Jail",
+    "link": "https://www.xxlmag.com/pooh-shiesty-lost-30-pounds-solitary-confinement/",
+    "summary": "KTXNews//XXL/YouTube (2)",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Pooh Shiesty"
+    ],
+    "published": "2026-11-18T20:39:25+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "e06cb4a1f8c48b45",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Slauson Malone 1 – “IDKW2TU” (Feat. Show Me The Body’s Julian Cashwan Pratt)",
+    "link": "https://stereogum.com/2518591/slauson-malone-1-idkw2tu-feat-show-me-the-bodys-julian-cashwan-pratt/music/",
+    "summary": "The post Slauson Malone 1 – “IDKW2TU” (Feat. Show Me The Body’s Julian Cashwan Pratt) appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Julian Cashwan Pratt",
+      "Show Me The Body",
+      "Slauson Malone 1"
+    ],
+    "published": "2026-11-18T20:39:14+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "28437842a8cbd8ab",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Erika de Casier – “Whispers”",
+    "link": "https://stereogum.com/2518584/erika-de-casier-whispers/music/",
+    "summary": "The post Erika de Casier – “Whispers” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Erika de Casier"
+    ],
+    "published": "2026-11-18T20:39:13+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "2d7844799164a0bb",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Chilean Rock Icons La Ley Hint at Classic Lineup Reunion for Viña del Mar Festival 2027",
+    "link": "https://consequence.net/2026/11/la-ley-hint-classic-lineup-reunion-vina-del-mar/",
+    "summary": "Six mysterious doors, a set of coordinates, and a possible reunion of five musicians from different eras of the legendary Chilean rock band. Chilean Rock Icons La Ley Hint at Classic Lineup Reunion for Viña del Mar Festival 2027 Pedro Camacho",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Consequence Latino",
+      "News",
+      "Latin music",
+      "Latin rock"
+    ],
+    "published": "2026-11-18T20:38:38+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "3ebae5c0e2b2085b",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Noah Kahan Announces Openers for “The Last of the Bugs World Tour”",
+    "link": "https://consequence.net/2026/11/noah-kahan-2027-tour-gregory-alan-isakov-remi-wolf/",
+    "summary": "The rotating support lineup includes Gregory Alan Isakov, Remi Wolf, Buffalo Traffic Jam, Alyssa Grace, and Tiny Habits. Noah Kahan Announces Openers for “The Last of the Bugs World Tour” Alex Krinsky",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Music",
+      "News",
+      "Tour Dates",
+      "2027 Tour Dates",
+      "Alternative Rock",
+      "Indie Folk",
+      "Singer-Songwriter"
+    ],
+    "published": "2026-11-18T20:23:38+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "f74e7802e3a0d8d7",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Sharp Pins – “(You’ve Got An) Elephant Eye”",
+    "link": "https://stereogum.com/2518582/sharp-pins-youve-got-an-elephant-eye/music/",
+    "summary": "The post Sharp Pins – “(You’ve Got An) Elephant Eye” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Sharp Pins"
+    ],
+    "published": "2026-11-18T20:11:25+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "8efb4548ce17e8c0",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Big Boi Shows Off Massive 200-Pound Fish He Caught",
+    "link": "https://www.xxlmag.com/big-boi-200-pound-fish/",
+    "summary": "bigboi/Instagram",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Big Boi"
+    ],
+    "published": "2026-11-18T20:03:42+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "7694fbae94c8201f",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Make Do And Mend Share First New Song 11 Years “If You’re Nowhere I Want To Be, Nowhere Too”",
+    "link": "https://stereogum.com/2518575/make-do-and-mend-share-first-new-song-11-years-if-youre-nowhere-i-want-to-be-nowhere-too/music/",
+    "summary": "The post Make Do And Mend Share First New Song 11 Years “If You’re Nowhere I Want To Be, Nowhere Too” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Dave Weinberg",
+      "Make Do And Mend",
+      "The Suicide File"
+    ],
+    "published": "2026-11-18T19:59:59+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "3f78d6d6c7cf521e",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Truth Club – “Hard To Change” & “Seeli”",
+    "link": "https://stereogum.com/2518574/truth-club-hard-to-change-seeli/music/",
+    "summary": "The post Truth Club – “Hard To Change” & “Seeli” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "News",
+      "Truth Club"
+    ],
+    "published": "2026-11-18T19:58:46+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "0988c11c501eb8ac",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "John Mulaney Produced His Stepfather-in-Law’s Country Album — Then Got Him on Kimmel",
+    "link": "https://consequence.net/2026/11/john-mulaney-stepfather-in-law-country-album-kimmel/",
+    "summary": "Sam and the Pink Notes made their national TV debut with “Yellow Rambler” after Mulaney turned Schmid’s decades-old songs into a finished record. John Mulaney Produced His Stepfather-in-Law’s Country Album — Then Got Him on Kimmel Alex Krinsky",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Music",
+      "News",
+      "TV",
+      "TV & Movie News",
+      "Folk",
+      "Jimmy Kimmel Live!",
+      "John Mulaney",
+      "Olivia Munn"
+    ],
+    "published": "2026-11-18T19:38:18+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "34acf97202c3357a",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "M(h)aol Announce New Album Slander: Hear “Male Loneliness Epidemic”",
+    "link": "https://stereogum.com/2518569/mhaol-announce-new-album-slander-hear-male-loneliness-epidemic/music/",
+    "summary": "The post M(h)aol Announce New Album <em>Slander</em>: Hear “Male Loneliness Epidemic” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Constance Keane",
+      "M(h)aol"
+    ],
+    "published": "2026-11-18T19:36:09+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "378e387d313ea08f",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Touché Amoré Announce 2027 US Tour Dates, Unleash “(I Can’t Get Out Of) My Own Way”: Stream",
+    "link": "https://consequence.net/2026/11/touche-amore-spring-2027-tour-my-own-way/",
+    "summary": "The headlining shows following the band's Spring 2027 tour supporting Alexisonfire and Poison the Well Touché Amoré Announce 2027 US Tour Dates, Unleash “(I Can’t Get Out Of) My Own Way”: Stream Langdon Hickman",
+    "full_text": false,
+    "categories": [
+      "Heavy Music Concerts",
+      "Heavy Consequence",
+      "Heavy Music News",
+      "Heavy New Music",
+      "Live",
+      "Music",
+      "Music News",
+      "Music Videos",
+      "New Music Releases",
+      "News",
+      "Tour Dates",
+      "Hardcore",
+      "Post-Hardcore"
+    ],
+    "published": "2026-11-18T19:17:02+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "9b1467608d66ef2b",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "mercury Announces Debut Album The Real Thing, The Determiner: Hear “Mess”",
+    "link": "https://stereogum.com/2518559/mercury-announces-debut-album-the-real-thing-the-determiner-hear-mess/music/",
+    "summary": "The post mercury Announces Debut Album <em>The Real Thing, The Determiner</em>: Hear “Mess” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Eliot Lee",
+      "Mercury"
+    ],
+    "published": "2026-11-18T19:09:39+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "f78aafa4a5cff88a",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Chvrches – “Evil”",
+    "link": "https://stereogum.com/2518560/chvrches-evil/music/",
+    "summary": "The post Chvrches – “Evil” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Chvrches",
+      "Dobermann",
+      "Lauren Mayberry"
+    ],
+    "published": "2026-11-18T19:04:10+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "de4aab17502b82b5",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Nick Cannon Gets Reality Show With 12 Kids and Their Six Mothers",
+    "link": "https://www.xxlmag.com/nick-cannon-kids-reality-show-raising-the-cannons/",
+    "summary": "Netflix/YouTube",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Nick Cannon"
+    ],
+    "published": "2026-11-18T19:02:51+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "4ff19a4b77df0162",
+    "source": "Pitchfork (track reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "“Whispers”",
+    "link": "https://pitchfork.com/reviews/tracks/erika-de-casier-whispers/",
+    "summary": "Working with gossamer fragments of guitar and breakbeat, Erika de Casier constructs her own lullaby of the wind.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Tracks"
+    ],
+    "published": "2026-11-18T19:02:22+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "6722a5eb52eff202",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Ben Folds Five Extend 2027 Comeback US Tour",
+    "link": "https://consequence.net/2026/11/ben-folds-five-extended-2027-tour-dates/",
+    "summary": "Their first US tour in 15 years now runs into July, with Andrew McMahon and Jackie Evans as support on select dates. Ben Folds Five Extend 2027 Comeback US Tour Eddie Fu",
+    "full_text": false,
+    "categories": [
+      "Tour Dates",
+      "Live",
+      "Music",
+      "Music News",
+      "News",
+      "2027 Tour Dates",
+      "Alternative Rock",
+      "Singer-Songwriter"
+    ],
+    "published": "2026-11-18T18:57:20+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "e9cb442b91395782",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Hoobastank Play To Their First Wall Of Death, Airplane Audience",
+    "link": "https://stereogum.com/2518550/hoobastank-play-to-their-first-wall-of-death-airplane-audience/news/",
+    "summary": "The post Hoobastank Play To Their First Wall Of Death, Airplane Audience appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Hoobastank"
+    ],
+    "published": "2026-11-18T18:43:22+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "5fc2c17f44e16675",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Waxahatchee Is Hosting a Songwriting Workshop",
+    "link": "https://pitchfork.com/story/enroll-now-for-the-waxahatchee-songwriting-workshop/",
+    "summary": "Katie Crutchfield will host four weeks of online classes via School of Song",
+    "full_text": false,
+    "categories": [
+      "News"
+    ],
+    "published": "2026-11-18T17:58:50+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "22c0b6d6dbadd4c3",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Kilby Block Party Finalizes 2027 Lineup with New Artist Additions",
+    "link": "https://consequence.net/2026/11/kilby-block-party-finalizes-2027-lineup-new-artist-additions/",
+    "summary": "Remi Wolf, Angine de Poitrine, underscores, Tiffany Day, and others joined the bill for the Salt Lake City-based music festival. Kilby Block Party Finalizes 2027 Lineup with New Artist Additions Alex Young",
+    "full_text": false,
+    "categories": [
+      "News Bites",
+      "Festival News and Rumors",
+      "Music",
+      "Music News",
+      "News",
+      "Alternative Rock",
+      "Kilby Block Party"
+    ],
+    "published": "2026-11-18T17:51:39+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "a546942b3f256134",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "CHVRCHES Add New US Tour Dates, Share New Song “Evil”: Stream",
+    "link": "https://consequence.net/2026/11/chvrches-new-us-tour-dates-new-song-evil-stream/",
+    "summary": "The band have extended their US run through April in support of their upcoming album All the King's Men. CHVRCHES Add New US Tour Dates, Share New Song “Evil”: Stream Paolo Ragusa",
+    "full_text": false,
+    "categories": [
+      "Tour Dates",
+      "Music",
+      "Music News",
+      "New Music Releases",
+      "News",
+      "2027 Tour Dates",
+      "Alternative Rock",
+      "Pop",
+      "Synthpop"
+    ],
+    "published": "2026-11-18T17:50:38+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "ad3b9bb2d1ba72ef",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Camp Flog Gnaw 2026: West Coast culture at its best",
+    "link": "https://theneedledrop.com/camp-flog-gnaw-2026-west-coast-culture-at-its-best/",
+    "summary": "“where we at wid it? LA bitch” – Tyler the Creator",
+    "full_text": false,
+    "categories": [
+      "Editorial",
+      "Camp Flog Gnaw",
+      "tyler the creator"
+    ],
+    "published": "2026-11-18T17:50:27+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "1631b3c87f424028",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Tame Impala Breaks Record For Most ARIA Awards Of All Time",
+    "link": "https://stereogum.com/2518543/tame-impala-breaks-record-for-most-aria-awards-of-all-time/news/",
+    "summary": "The post Tame Impala Breaks Record For Most ARIA Awards Of All Time appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Tame Impala"
+    ],
+    "published": "2026-11-18T17:41:28+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "a34d22fe3d98bcc1",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Lemon Twigs Win Over Argentine Fans Forever With Cover of Beloved Icons Serú Girán: Watch",
+    "link": "https://consequence.net/2026/11/the-lemon-twigs-seru-giran-argentina-cover/",
+    "summary": "The retro-rock duo reached beyond their usual '60s and '70s influences to honor a local legend during their latest Buenos Aires concert. The Lemon Twigs Win Over Argentine Fans Forever With Cover of Beloved Icons Serú Girán: Watch Pedro Camacho",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Consequence Latino",
+      "News",
+      "Argentine music",
+      "Indie Rock"
+    ],
+    "published": "2026-11-18T17:35:59+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "d8505f5d95c762fd",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Lana Del Rey Gets A Shoutout In Kacey Musgraves’ New Single “The Vacation Song”",
+    "link": "https://stereogum.com/2518540/lana-del-rey-gets-a-shoutout-in-kacey-musgraves-new-single-the-vacation-song/music/",
+    "summary": "The post Lana Del Rey Gets A Shoutout In Kacey Musgraves’ New Single “The Vacation Song” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Kacey Musgraves",
+      "Lana Del Rey",
+      "Texas Tornados"
+    ],
+    "published": "2026-11-18T17:35:52+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "518af8be95d911a6",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "SML Announce 2027 U.S. Tour",
+    "link": "https://pitchfork.com/story/sml-announce-2027-us-tour/",
+    "summary": "Including an opening slot for Death Cab for Cutie at Red Rocks",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Tours"
+    ],
+    "published": "2026-11-18T17:18:31+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "cd663a66f1998b41",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "LCD Soundsystem Play “Disco Infiltrator” For The First Time In 21 Years",
+    "link": "https://stereogum.com/2518537/lcd-soundsystem-play-disco-infiltrator-for-the-first-time-in-21-years/news/",
+    "summary": "The post LCD Soundsystem Play “Disco Infiltrator” For The First Time In 21 Years appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "LCD Soundsystem",
+      "Music Hall Of Williamsburg",
+      "TV On The Radio"
+    ],
+    "published": "2026-11-18T17:16:57+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "5f65574768aa4955",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Reviews Are In: GTA 6 Lands 99 Metacritic Score, Ties for Highest-Rated Game of All Time",
+    "link": "https://consequence.net/2026/11/gta-6-review-scores-highest-rated-game-metacritic/",
+    "summary": "The original 1998 Legend of Zelda: Ocarina of Time was the first game to achieve a 99. The Reviews Are In: GTA 6 Lands 99 Metacritic Score, Ties for Highest-Rated Game of All Time Eddie Fu",
+    "full_text": false,
+    "categories": [
+      "News Bites",
+      "News",
+      "Pop Culture",
+      "Tech News",
+      "Grand Theft Auto",
+      "Video Games"
+    ],
+    "published": "2026-11-18T17:09:39+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "da39d5076498ecfa",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Touché Amoré Share New Song, 2027 Tour Dates",
+    "link": "https://pitchfork.com/story/touche-amore-share-new-song-2027-tour-dates/",
+    "summary": "The band will make their way to New York, Chicago, Detroit, and more",
+    "full_text": false,
+    "categories": [
+      "News",
+      "New Releases",
+      "Videos",
+      "Tours"
+    ],
+    "published": "2026-11-18T17:03:49+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "6b98d7406f51228d",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Don Toliver Announces New Album Nitrous, Leads Rap Grammy Nominations, Books SNL, Faces Sample Lawsuit",
+    "link": "https://stereogum.com/2518530/don-toliver-announces-new-album-nitrous-leads-rap-grammy-nominations-books-snl-faces-sample-lawsuit/music/",
+    "summary": "The post Don Toliver Announces New Album <em>Nitrous</em>, Leads Rap Grammy Nominations, Books <em>SNL</em>, Faces Sample Lawsuit appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Bam Margera",
+      "Camp Flog Gnaw",
+      "Don Toliver",
+      "Early Yellow",
+      "Grammys",
+      "Saturday Night Live",
+      "Travis Scott"
+    ],
+    "published": "2026-11-18T17:00:25+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "f7251bad85d72f25",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Pollyfromthedirt shares new single, \"Last song I sing\"",
+    "link": "https://theneedledrop.com/news/pollyfromthedirt-shares-new-single-last-song-i-sing/",
+    "summary": "The British singer-songwriter pushes his minimal production and poetic lyricism to its rawest and most spun out version yet.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Pollyfromthedirt"
+    ],
+    "published": "2026-11-18T16:54:34+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "566f04b57b82f178",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Bruce Dickinson Announces New Album PsychoGod, Unleashes “Speaking in Tongues”: Stream",
+    "link": "https://consequence.net/2026/11/bruce-dickinson-psychogod-speaking-in-tongues/",
+    "summary": "The Iron Maiden frontman's new solo effort PsychoGod will be out March 12th. Bruce Dickinson Announces New Album PsychoGod, Unleashes “Speaking in Tongues”: Stream Langdon Hickman",
+    "full_text": false,
+    "categories": [
+      "Heavy Music News",
+      "Heavy Consequence",
+      "Heavy New Music",
+      "Music",
+      "Music News",
+      "Music Videos",
+      "New Music Releases",
+      "News",
+      "Heavy Metal"
+    ],
+    "published": "2026-11-18T16:48:44+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "b62dc01aebb8940c",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Sum 41’s Deryck Whibley Announces Debut Solo Album Diamonds of the Night, Shares Rework of “With Me”: Stream",
+    "link": "https://consequence.net/2026/11/deryck-whibley-sum-41-diamonds-of-the-night-with-me-first-dance-version-stream/",
+    "summary": "The project finds Whibley reimagining 12 songs from across Sum 41's discography. Sum 41’s Deryck Whibley Announces Debut Solo Album Diamonds of the Night, Shares Rework of “With Me”: Stream Paolo Ragusa",
+    "full_text": false,
+    "categories": [
+      "Heavy Music News",
+      "Heavy Consequence",
+      "Heavy New Music",
+      "Music",
+      "Music News",
+      "New Music Releases",
+      "News",
+      "Acoustic",
+      "Album Announcement",
+      "Pop Punk"
+    ],
+    "published": "2026-11-18T16:39:57+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "56179ab786989f0d",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Sex Pistols’ Glen Matlock reveals work on first Faces album since 1973: “Never a dull moment”",
+    "link": "https://www.nme.com/news/music/sex-pistols-glen-matlock-reveals-work-on-first-faces-album-since-1973-never-a-dull-moment-3976338",
+    "summary": "Rumours of a reunion stem back to when the original trio came together at the 2020 BRITs The post Sex Pistols’ Glen Matlock reveals work on first Faces album since 1973: “Never a dull moment” appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Rock"
+    ],
+    "published": "2026-11-18T16:38:53+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "4a2cc1220c6f2663",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Lucinda Williams Is Going on Tour in 2027",
+    "link": "https://pitchfork.com/story/lucinda-williams-is-going-on-tour-in-2027/",
+    "summary": "The World’s Gone Wrong trek kicks off next February in Knoxville",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Tours"
+    ],
+    "published": "2026-11-18T16:35:46+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "390d6e590e39c76e",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Harold Budd and Robin Guthrie’s Mysterious Skin Score Coming to Vinyl",
+    "link": "https://pitchfork.com/story/harold-budd-and-robin-guthries-mysterious-skin-score-coming-to-vinyl/",
+    "summary": "“Much more than mere background music: It’s the heart and soul of the whole movie,” says director Gregg Araki",
+    "full_text": false,
+    "categories": [
+      "News",
+      "New Releases"
+    ],
+    "published": "2026-11-18T16:21:41+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "e788cd8b75758592",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Rod Wave Indicted for 2025 Arrest on Drug and Gun Charges",
+    "link": "https://www.xxlmag.com/rod-wave-indicted-drug-gun-possession-2025-arrest/",
+    "summary": "Paras Griffin/Getty Images",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Rod Wave"
+    ],
+    "published": "2026-11-18T16:14:39+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "0911bc966d776ba3",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "NØ MAN Will Stab You In The Eye",
+    "link": "https://stereogum.com/2518343/no-man-will-stab-you-in-the-eye/columns/let-the-roundup-begin/",
+    "summary": "The first time I heard the word \"Lynchburg,\" or at least the first time than I can remember hearing it, I thought it was a joke. In the opening scenes from Escape From LA , John Carpenter's slightly misbegotten 1996 sequel to his classic Escape From New York , a voiceover describes a bleak future in which the US elects a hardline Christian Nationalist president, who then declares himself dictator for life and moves the US capital to his Lynchburg hometown. The film never names that president, though he's played by Cliff Robertson, the square-jawed Oscar-winning actor and future Uncle Ben. When I saw that movie in the theater, I thought everything about this president was a wild exaggeration, including his decision to relocate federal operations to this surely made-up place that's basically called Racist Murderville. The post NØ MAN Will Stab You In The Eye appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "Columns",
+      "Let The Roundup Begin: The Month In Hardcore",
+      "Alive",
+      "Beex",
+      "Foghorn",
+      "Halo Bite",
+      "If It Rains",
+      "Invertebrates",
+      "Lethal Method",
+      "NØ MAN",
+      "One Step Closer",
+      "Public Acid",
+      "Revolt",
+      "Statement Of Pride",
+      "Tani",
+      "The Brood",
+      "Volcano"
+    ],
+    "published": "2026-11-18T16:10:46+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "7546c435d107f47b",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "THEATRE share new single \"Clouds\"",
+    "link": "https://theneedledrop.com/news/theatre-share-new-single-clouds/",
+    "summary": "The emerging Irish indie rock band return with a dreamy new track today via BMG/ECHO. It arrives shortly after their debut EP, 'Incarnate.'",
+    "full_text": false,
+    "categories": [
+      "News",
+      "THEATRE"
+    ],
+    "published": "2026-11-18T16:07:59+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "541731e979f59e97",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Touché Amoré release new single and tour dates",
+    "link": "https://theneedledrop.com/news/touche-amore-new-single-and-tour-dates/",
+    "summary": "\"(I Can't Get Out Of) My Own Way\" is the first new release from the band since 2024’s ‘Spiral in a Straight Line.’",
+    "full_text": false,
+    "categories": [
+      "News",
+      "touche amore"
+    ],
+    "published": "2026-11-18T16:00:06+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "059f81c912101a72",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Skylar Grey hits out at Olivia Rodrigo and Phoebe Bridgers’ ‘rock’ Grammy nominations",
+    "link": "https://www.nme.com/news/music/skylar-grey-hits-out-at-olivia-rodrigo-and-phoebe-bridgers-rock-grammy-nominations-3976334",
+    "summary": "“Hey Alexa, did the Grammys forget what rock music is?” The post Skylar Grey hits out at Olivia Rodrigo and Phoebe Bridgers’ ‘rock’ Grammy nominations appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Grammys",
+      "Indie",
+      "Pop",
+      "Rock"
+    ],
+    "published": "2026-11-18T15:59:21+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "e5dcac9bfc28c89e",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Listen to Erika de Casier’s New Song “Whispers”",
+    "link": "https://pitchfork.com/story/listen-to-erika-de-casiers-new-song-whispers/",
+    "summary": "The track was co-produced by Bladee and Yung Lean collaborator Eurohead",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Video"
+    ],
+    "published": "2026-11-18T15:49:12+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "50ecf94f9de6bc16",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Josh Homme Covers Arctic Monkeys, The Kills Cover Smashing Pumpkins, And Jack Black Sings A QOTSA Medley At Joshua Homme And Friends 2026",
+    "link": "https://stereogum.com/2518518/josh-homme-covers-arctic-monkeys-the-kills-cover-smashing-pumpkins-and-jack-black-sings-a-qotsa-medley-at-joshua-homme-and-friends-2026/news/",
+    "summary": "The post Josh Homme Covers Arctic Monkeys, The Kills Cover Smashing Pumpkins, And Jack Black Sings A QOTSA Medley At Joshua Homme And Friends 2026 appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News"
+    ],
+    "published": "2026-11-18T15:39:54+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "10af804e871632ce",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "John Mulaney Got His Optometrist Stepfather-In-Law A Backing Band, An Album Of His Music, And A Kimmel Booking",
+    "link": "https://stereogum.com/2518512/john-mulaney-got-his-optometrist-stepfather-in-law-a-backing-band-an-album-of-his-music-and-a-kimmel-booking/news/",
+    "summary": "The post John Mulaney Got His Optometrist Stepfather-In-Law A Backing Band, An Album Of His Music, And A <em>Kimmel</em> Booking appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Jimmy Kimmel",
+      "John Mulaney",
+      "Olivia Munn",
+      "Sam And The Pink Notes"
+    ],
+    "published": "2026-11-18T15:33:21+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "b93833ce5be4c18f",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Glastonbury announces 2027 lineup featuring Harry Styles, Billie Eilish, Sam Fender, and Cher",
+    "link": "https://theneedledrop.com/news/glastonbury-announces-2027-lineup-featuring-harry-styles-billie-eilish-sam-fender-and-cher/",
+    "summary": "The British festival returns after a year off, with the xx, Massive Attack, Little Simz, FKA twigs, and Robyn also set to perform.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Glastonbury"
+    ],
+    "published": "2026-11-18T15:24:02+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "0b235a10442627c2",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Belle and Sebastian Reissuing If You’re Feeling Sinister With New Rarities Album",
+    "link": "https://pitchfork.com/story/belle-and-sebastian-reissuing-if-youre-feeling-sinister-with-new-rarities-album/",
+    "summary": "Listen to the unearthed “Colette and the Mystery Girl” from bonus LP Lisa Helps the Blind",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Audio",
+      "New Releases"
+    ],
+    "published": "2026-11-18T15:03:14+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "3cc44218462d234f",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Belle And Sebastian Announce If You’re Feeling Sinister (30th Anniversary Edition) With Previously Unreleased Songs",
+    "link": "https://stereogum.com/2518498/belle-and-sebastian-announce-if-youre-feeling-sinister-30th-anniversary-edition-with-previously-unreleased-songs/music/",
+    "summary": "The post Belle And Sebastian Announce <em>If You’re Feeling Sinister (30th Anniversary Edition)</em> With Previously Unreleased Songs appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Belle And Sebastian"
+    ],
+    "published": "2026-11-18T15:02:47+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "a48c5a9e2d007463",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Noah Kahan Speaks About Grammys Snub, Debuts New Song, Isn’t Playing L.L.Bean Store",
+    "link": "https://stereogum.com/2518496/noah-kahan-speaks-about-grammys-snub-debuts-new-song-isnt-playing-l-l-bean-store/news/",
+    "summary": "The post Noah Kahan Speaks About Grammys Snub, Debuts New Song, Isn’t Playing L.L.Bean Store appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Grammys",
+      "Noah Kahan"
+    ],
+    "published": "2026-11-18T14:50:09+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "8d7f8abbaf4f98f3",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Vote Now for Your Favorite Albums and Songs of 2026",
+    "link": "https://pitchfork.com/story/vote-now-for-your-favorite-albums-and-songs-of-2026/",
+    "summary": "Take the Pitchfork Readers’ Poll",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Best of 2026"
+    ],
+    "published": "2026-11-18T14:36:19+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "fc7d6035537abd6c",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Elena Pinderhughes’ Time Has Come",
+    "link": "https://stereogum.com/2518460/elena-pinderhughes-time-has-come/columns/ugly-beauty/",
+    "summary": "Flutist Elena Pinderhughes has been on the scene for over a decade. Many people likely first spotted her name when she appeared as a credited guest on “Sunrise In Beijing” and “Liberation Over Gangsterism,” two tracks from Chief Adjuah’s 2015 album Stretch Music . She was part of his band for the Centennial Trilogy ( Ruler Rebel , Diaspora , and The Emancipation Procrastination ), Ancestral Recall , and the live Axiom . She’s also worked with Ambrose Akinmusire, Terri Lyne Carrington, Immanuel Wilkins, Terrace Martin, Meshell Ndegeocello, Herbie Hancock, her brother Samora Pinderhughes, and more. But somehow she’s only releasing her debut album now. The post Elena Pinderhughes’ Time Has Come appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "Columns",
+      "Ugly Beauty: The Month In Jazz",
+      "Andrew Toombs",
+      "Brandon Sanders",
+      "Caleb Wheeler Curtis",
+      "Elena Pinderhughes",
+      "Fumi Tomita",
+      "Jason Moran",
+      "John Coltrane",
+      "Joshua Redman",
+      "Matthew Shipp",
+      "Mike Reed",
+      "Muriel Grossmann",
+      "Paal Nilssen-Love",
+      "Raoul Björkenheim",
+      "Sonny Rollins",
+      "William Parker",
+      "Willie Morris"
+    ],
+    "published": "2026-11-18T14:17:28+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "4be26ebc3967b517",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Beach Boys Set Holiday Vinyl, Mixtape and Video",
+    "link": "https://www.udiscovermusic.com/news/the-beach-boys-holiday-vinyl-mixtape-video/",
+    "summary": "The holiday collection also includes new merchandise and a limited-edition pressing of The Pet Sounds Sessions Highlights.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Christmas by the Beach",
+      "Classic Pop",
+      "Holiday Music",
+      "Homepage Featured",
+      "The Beach Boys",
+      "The Beach Boys’ Christmas Album",
+      "The Pet Sounds Sessions Highlights"
+    ],
+    "published": "2026-11-18T14:00:58+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "6247b345bb75b921",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Glastonbury Announces 2027 Lineup",
+    "link": "https://stereogum.com/2518491/glastonbury-announces-2027-lineup/news/",
+    "summary": "The post Glastonbury Announces 2027 Lineup appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Billie Eilish",
+      "Chase & Status",
+      "Cher",
+      "Ezra Collective",
+      "Glastonbury",
+      "Harry Styles",
+      "Kraftwerk",
+      "Lily Allen",
+      "Little Simz",
+      "Massive Attack",
+      "Sam Fender",
+      "sombr",
+      "The XX"
+    ],
+    "published": "2026-11-18T13:58:55+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "4d528b6b75fb2249",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "RAYE announces second London BST Hyde Park 2027 show due to phenomenal demand",
+    "link": "https://www.nme.com/news/music/raye-announces-second-bst-hyde-park-2027-show-phenomenal-demand-tickets-3976332",
+    "summary": "She will play to up to 150,000 people across the two nights The post RAYE announces second London BST Hyde Park 2027 show due to phenomenal demand appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Jazz",
+      "Pop"
+    ],
+    "published": "2026-11-18T13:50:14+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "cc615363785d7d14",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Glastonbury 2027: Fans react to line-up",
+    "link": "https://www.nme.com/news/music/glastonbury-2027-fans-react-to-line-up-3976320",
+    "summary": "Some loved how there is “something there for everyone”, while others criticised it as “safe and generic” The post Glastonbury 2027: Fans react to line-up appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Indie",
+      "Pop",
+      "Rock"
+    ],
+    "published": "2026-11-18T13:30:58+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "f61f05e6ad8cb41e",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Don Toliver Releasing New Album Nitrous Next Month",
+    "link": "https://pitchfork.com/story/don-toliver-releasing-new-album-nitrous-next-month/",
+    "summary": "The Cactus Jack artist is following his Grammy nominations splash with a self-produced, second LP of the year",
+    "full_text": false,
+    "categories": [
+      "News",
+      "New Releases"
+    ],
+    "published": "2026-11-18T13:09:18+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "21b7ebdfaf8b1a2d",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘Grand Theft Auto 6’ fans are pretending they’re in New Zealand to play the game early",
+    "link": "https://www.nme.com/news/gaming-news/grand-theft-auto-6-fans-new-zealand-trick-playstation-xbox-release-time-3976324",
+    "summary": "Even the country’s tourism board has acknowledged the hack The post ‘Grand Theft Auto 6’ fans are pretending they’re in New Zealand to play the game early appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Gaming News",
+      "News"
+    ],
+    "published": "2026-11-18T12:42:26+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "68089caa29909c32",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘Grand Theft Auto 6’ is the best-reviewed game of 2026: “A masterpiece”",
+    "link": "https://www.nme.com/news/gaming-news/grand-theft-auto-6-best-reviewed-game-2026-critic-review-score-3976317",
+    "summary": "“The single most impressive video game I have ever played” The post ‘Grand Theft Auto 6’ is the best-reviewed game of 2026: “A masterpiece” appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Gaming News",
+      "News"
+    ],
+    "published": "2026-11-18T12:04:26+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "bbc3a714f91514c9",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Billie Eilish, Harry Styles, and Sam Fender Headlining Glastonbury 2027",
+    "link": "https://pitchfork.com/story/billie-eilish-harry-styles-and-sam-fender-headlining-glastonbury-2027/",
+    "summary": "Cher returns to the stage in the “legend slot,” with Massive Attack, the xx, and Kraftwerk also on the lineup",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Festivals"
+    ],
+    "published": "2026-11-18T10:58:35+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "bef5e5835a5cd00f",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Desperate Journalist – Gilding The Lily",
+    "link": "https://www.musicomh.com/reviews/albums/desperate-journalist-gilding-the-lily",
+    "summary": "Intense yet with a lightness of touch, these big dramatic anthems show off this four-piece's expertise at producing luxuriant, memorable melodies The post Desperate Journalist – Gilding The Lily appeared first on musicOMH .",
+    "full_text": false,
+    "categories": [
+      "Album Reviews",
+      "Desperate Journalist"
+    ],
+    "published": "2026-11-18T10:16:59+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "4a4b3f83509442b2",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Sheherazaad – Khudgarzi",
+    "link": "https://www.musicomh.com/reviews/albums/sheherazaad-khudgarzi",
+    "summary": "NYC based artist’s debut journeys through worlds cloaked in mystery, offering a set of alluring and atmospheric soundscapes that defy easy categorisation The post Sheherazaad – Khudgarzi appeared first on musicOMH .",
+    "full_text": false,
+    "categories": [
+      "Album Reviews",
+      "Sheherazaad"
+    ],
+    "published": "2026-11-18T08:01:06+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "0a1996d03cda4a1f",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "U, Me & My Ego (Deluxe)",
+    "link": "https://pitchfork.com/reviews/albums/chxrry-u-me-and-my-ego-deluxe/",
+    "summary": "The Toronto singer caps her breakout year with a deluxe edition of her debut, a potent blend of 2010s R&B glam, sticky synth-pop, and heroic self-hype.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-18T05:03:00+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "5edec3906b9d7af7",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "An Exchange of Information",
+    "link": "https://pitchfork.com/reviews/albums/oso-oso-an-exchange-of-information/",
+    "summary": "On his sixth album, Jade Lilitri reckons with a crowded mind, a shortened attention span, and the dream of better days ahead in a set of jittery emo and power-pop songs.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-18T05:02:00+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "fa8b6dbc3da99296",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Beginningless",
+    "link": "https://pitchfork.com/reviews/anna-butterss-john-raymond-ben-lumsdaine-beginningless/",
+    "summary": "A group with ties to SML and Jeff Parker’s ETA IVtet puts an atmospheric spin on the classic bass/drums/horn trio format, using subtle electronic detailing to play up the music’s shifting textures.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-18T05:01:00+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
+    "id": "4735087926942e9a",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "40 Acres",
+    "link": "https://pitchfork.com/reviews/albums/camden-malik-40-acres/",
+    "summary": "The DMV-based rapper spotlights his community and his loose, nonchalant flow on a breezy new project, executive-produced by MIKE and Surf Gang’s Elipropperr.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-18T05:00:00+00:00",
+    "collected": "2026-11-19T02:42:38.457655+00:00"
+  },
+  {
     "id": "6deff9c7d50c45cf",
     "source": "Consequence",
     "source_type": "news",
@@ -35304,65 +37108,6 @@
       "Reviews / Albums"
     ],
     "published": "2026-10-20T04:00:00+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "23b7c8ad9ec75f28",
-    "source": "The Needle Drop (YouTube)",
-    "source_type": "video",
-    "weight": 1.5,
-    "title": "MASSIVE VINYL UPDATE",
-    "link": "https://www.youtube.com/watch?v=huYP-3TUgs8",
-    "summary": "Albums getting added to Anthony's collection (in order of mention): Frank Zappa / The Mothers of Invention - Freak Out! 60th Anniversary Box Set The Beatles - Rubber Soul 60th Anniversary Box Set Mos Def - The Ecstatic Photo Book Vinyl Nails - \"Fear Based Life\" 7\" Henson Cargill - What's My Name The Jimi Hendrix Experience - Electric Ladyland Interpol - This Mirror Weighs a Ton Earth Tongue - Dungeon Vision (CD) & Floating Being Ty Segall - Chrome Scientist - Scientific Dub SML - Spontaneous Music Live Carlos Santana & Mahavishnu John McLaughlin - Love Devotion Surrender Minnie Ripperton - Adventures in Paradise Melvins - Joe Preston Natalia Lafourcade - Cancionera More vinyl collection vids: https://www.youtube.com/playlist?list=PL41246372C72A479B Turntable Lab link: http://turntablelab.com/theneedledrop =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com",
-    "categories": [],
-    "published": "2026-10-20T00:06:08+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "97eae31f2994a39b",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Black Eyed Peas’ ‘Just Can’t Get Enough’ Joins Spotify Billions Club",
-    "link": "https://www.udiscovermusic.com/news/black-eyed-peas-just-cant-get-enough-spotify-billions-club/",
-    "summary": "The 2011 hit is one of many in the group’s catalogue to reach this milestone.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Black Eyed Peas",
-      "Hip-Hop",
-      "Homepage Featured",
-      "Just Can’t Get Enough",
-      "Spotify Billions Club",
-      "The Beginning"
-    ],
-    "published": "2026-10-19T15:18:52+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "6ba1d6ff7edfece9",
-    "source": "Pitchfork (Best New Albums)",
-    "source_type": "reviews",
-    "weight": 2.0,
-    "title": "Stick Around for Tea",
-    "link": "https://pitchfork.com/reviews/albums/worldpeace-dmt-stick-around-for-tea/",
-    "summary": "The irreverent duo of Leo Fincham and Rowan Please plies its brilliantly digitized indie-pop bricolage on an album with the ragtag splendor of a low-budget musical.",
-    "categories": [
-      "Reviews / Albums"
-    ],
-    "published": "2026-10-19T04:03:00+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "4261bd9539781d88",
-    "source": "The Needle Drop (YouTube)",
-    "source_type": "video",
-    "weight": 1.5,
-    "title": "Taylor Swift, Grimes, femtanyl, A$AP Rocky | Weekly Track Roundup: 10/18/26",
-    "link": "https://www.youtube.com/watch?v=kChEOoG-uCM",
-    "summary": "2026 FAV TRACKS PLAYLIST: https://music.apple.com/us/playlist/my-fav-singles-of-2026/pl.u-7DYysxmV9Lx TND Patreon: https://www.patreon.com/theneedledrop Turntable Lab link: http://turntablelab.com/theneedledrop !!!BEST TRACKS THIS WEEK!!! LustSickPuppy - SHAKER https://www.youtube.com/watch?v=xly1kfOATxI Danny L Harle - Starlight ft. PinkPantheress (Skrillex & ring noord Remix) https://www.youtube.com/watch?v=lM1bydMNMHA fakemink & Skepta - Chiltern Firehouse . https://www.youtube.com/watch?v=3FqzoaWq4wc femtanyl - ALL THE TIME https://www.youtube.com/watch?v=ZlKSjeYIxr8 Power Trip - Precinct 3 https://www.youtube.com/watch?v=N4u9M1eXxq0 Michael Kiwanuka - Sing https://www.youtube.com/watch?v=7esTGcAwxcM Undeath - Arterial Bombardment https://www.youtube.com/watch?v=ZJObtup-6qY Silvana Estrada - Todo Baila ft. M. Ward https://www.youtube.com/watch?v=bGerVl-wRLo PISS - Rote Zora. “Resistance is Possible.” Emma, no. 6, June 1984, pp. 39-41. https://www.youtube.com/watch?v=6TiFlIIijPA The",
-    "categories": [],
-    "published": "2026-10-19T03:29:21+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
   }
 ]
