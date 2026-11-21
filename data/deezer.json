@@ -1463,5 +1463,290 @@
   "name": "Róisín",
   "fans": 674,
   "checked": "2026-11-14T04:52:09.559918+00:00"
+ },
+ "grimes": {
+  "name": "Grimes",
+  "fans": 287996,
+  "checked": "2026-11-21T04:55:32.774190+00:00"
+ },
+ "brittanyhoward": {
+  "name": "Brittany Howard",
+  "fans": 12703,
+  "checked": "2026-11-21T04:55:33.209885+00:00"
+ },
+ "blondie": {
+  "name": "Blondie",
+  "fans": 830385,
+  "checked": "2026-11-21T04:55:33.642229+00:00"
+ },
+ "madrasalach": {
+  "name": "Madra Salach",
+  "fans": 1319,
+  "checked": "2026-11-21T04:55:34.037589+00:00"
+ },
+ "ledbyher": {
+  "name": "Ledbyher",
+  "fans": 577,
+  "checked": "2026-11-21T04:55:34.435223+00:00"
+ },
+ "loudluxury": {
+  "name": "Loud Luxury",
+  "fans": 58687,
+  "checked": "2026-11-21T04:55:34.847827+00:00"
+ },
+ "cikho": {
+  "name": "Cikho",
+  "fans": 803,
+  "checked": "2026-11-21T04:55:35.409020+00:00"
+ },
+ "jamiemiller": {
+  "name": "Jamie Miller",
+  "fans": 10558,
+  "checked": "2026-11-21T04:55:35.818180+00:00"
+ },
+ "kerryking": {
+  "name": "Kerry King",
+  "fans": 13194,
+  "checked": "2026-11-21T04:55:36.242004+00:00"
+ },
+ "stonesour": {
+  "name": "Stone Sour",
+  "fans": 647652,
+  "checked": "2026-11-21T04:55:36.684177+00:00"
+ },
+ "lanadelrey": {
+  "name": "Lana Del Rey",
+  "fans": 5854555,
+  "checked": "2026-11-21T04:55:37.152497+00:00"
+ },
+ "gatestohell": {
+  "name": "Gates To Hell",
+  "fans": 503,
+  "checked": "2026-11-21T04:55:37.565119+00:00"
+ },
+ "tems": {
+  "name": "Tems",
+  "fans": 273167,
+  "checked": "2026-11-21T04:55:37.985778+00:00"
+ },
+ "maydayparade": {
+  "name": "Mayday Parade",
+  "fans": 115550,
+  "checked": "2026-11-21T04:55:38.387823+00:00"
+ },
+ "tommyrichman": {
+  "name": "Tommy Richman",
+  "fans": 20058,
+  "checked": "2026-11-21T04:55:38.794279+00:00"
+ },
+ "desperatejournalist": {
+  "name": "Desperate Journalist",
+  "fans": 1274,
+  "checked": "2026-11-21T04:55:39.238066+00:00"
+ },
+ "spencerzahn": {
+  "name": "Spencer Zahn",
+  "fans": 237,
+  "checked": "2026-11-21T04:55:39.721089+00:00"
+ },
+ "soak": {
+  "name": "SOAK",
+  "fans": 6934,
+  "checked": "2026-11-21T04:55:40.250339+00:00"
+ },
+ "endit": {
+  "name": "End It",
+  "fans": 1948,
+  "checked": "2026-11-21T04:55:40.699580+00:00"
+ },
+ "muramasa": {
+  "name": "Mura Masa",
+  "fans": 54142,
+  "checked": "2026-11-21T04:55:41.139364+00:00"
+ },
+ "jonahyano": {
+  "name": "Jonah Yano",
+  "fans": 1606,
+  "checked": "2026-11-21T04:55:41.648539+00:00"
+ },
+ "horsevision": {
+  "name": "Horse Vision",
+  "fans": 220,
+  "checked": "2026-11-21T04:55:42.063196+00:00"
+ },
+ "babywave": {
+  "name": "Baby Wave",
+  "fans": 15,
+  "checked": "2026-11-21T04:55:42.611054+00:00"
+ },
+ "karleegirl": {
+  "name": "KARLEE GIRL",
+  "fans": 1606,
+  "checked": "2026-11-21T04:55:43.045672+00:00"
+ },
+ "erikadecasier": {
+  "name": "Erika de Casier",
+  "fans": 5064,
+  "checked": "2026-11-21T04:55:43.498260+00:00"
+ },
+ "toucheamore": {
+  "name": "Touché Amoré",
+  "fans": 18745,
+  "checked": "2026-11-21T04:55:43.981628+00:00"
+ },
+ "theatre": {
+  "name": "Theatre",
+  "fans": 365,
+  "checked": "2026-11-21T04:55:44.435141+00:00"
+ },
+ "mythless": {
+  "name": "Mythless",
+  "fans": 24,
+  "checked": "2026-11-21T04:55:44.993156+00:00"
+ },
+ "macklemore": {
+  "name": "Macklemore",
+  "fans": 998326,
+  "checked": "2026-11-21T04:55:45.423199+00:00"
+ },
+ "concealer": {
+  "name": "concealer.",
+  "fans": 169,
+  "checked": "2026-11-21T04:55:45.847452+00:00"
+ },
+ "sharppins": {
+  "name": "Sharp Pins",
+  "fans": 596,
+  "checked": "2026-11-21T04:55:46.283963+00:00"
+ },
+ "makedoandmend": {
+  "name": "Make Do And Mend",
+  "fans": 2646,
+  "checked": "2026-11-21T04:55:46.703673+00:00"
+ },
+ "truthclub": {
+  "name": "Truth Club",
+  "fans": 318,
+  "checked": "2026-11-21T04:55:47.105622+00:00"
+ },
+ "mhaol": {
+  "name": "M(h)aol",
+  "fans": 894,
+  "checked": "2026-11-21T04:55:47.517555+00:00"
+ },
+ "mercury": {
+  "name": "mercury",
+  "fans": 1446,
+  "checked": "2026-11-21T04:55:47.955242+00:00"
+ },
+ "brucedickinson": {
+  "name": "Bruce Dickinson",
+  "fans": 133600,
+  "checked": "2026-11-21T04:55:48.353788+00:00"
+ },
+ "julienbaker": {
+  "name": "Julien Baker",
+  "fans": 31712,
+  "checked": "2026-11-21T04:55:48.771201+00:00"
+ },
+ "combat": {
+  "name": "Combat",
+  "fans": 127,
+  "checked": "2026-11-21T04:55:49.198737+00:00"
+ },
+ "ambrosekennysmith": {
+  "name": "Ambrose Kenny-Smith",
+  "fans": 479,
+  "checked": "2026-11-21T04:55:49.599589+00:00"
+ },
+ "mikiberenyitrio": {
+  "name": "Miki Berenyi Trio",
+  "fans": 300,
+  "checked": "2026-11-21T04:55:49.990226+00:00"
+ },
+ "stillruins": {
+  "name": "Still Ruins",
+  "fans": 31,
+  "checked": "2026-11-21T04:55:50.415035+00:00"
+ },
+ "narrowhead": {
+  "name": "Narrow Head",
+  "fans": 4192,
+  "checked": "2026-11-21T04:55:50.827028+00:00"
+ },
+ "destroyboys": {
+  "name": "Destroy Boys",
+  "fans": 16866,
+  "checked": "2026-11-21T04:55:51.252417+00:00"
+ },
+ "strokes": {
+  "name": "The Strokes",
+  "fans": 1762463,
+  "checked": "2026-11-21T04:55:51.672124+00:00"
+ },
+ "bdrmm": {
+  "name": "bdrmm",
+  "fans": 3546,
+  "checked": "2026-11-21T04:55:52.065157+00:00"
+ },
+ "devonagain": {
+  "name": "Devon Again",
+  "fans": 1379,
+  "checked": "2026-11-21T04:55:52.467163+00:00"
+ },
+ "desire": {
+  "name": "Desire",
+  "fans": 11783,
+  "checked": "2026-11-21T04:55:52.904017+00:00"
+ },
+ "jura": {
+  "name": "Jura",
+  "fans": 119,
+  "checked": "2026-11-21T04:55:53.350749+00:00"
+ },
+ "hotchip": {
+  "name": "Hot Chip",
+  "fans": 143361,
+  "checked": "2026-11-21T04:55:53.789734+00:00"
+ },
+ "dutchkills": {
+  "name": "The Dutch Kills",
+  "fans": 11,
+  "checked": "2026-11-21T04:55:54.252450+00:00"
+ },
+ "sekou": {
+  "name": "Sekou",
+  "fans": 3509,
+  "checked": "2026-11-21T04:55:54.698671+00:00"
+ },
+ "heavensouls": {
+  "name": "heavensouls",
+  "fans": 169,
+  "checked": "2026-11-21T04:55:55.115831+00:00"
+ },
+ "westsidegunn": {
+  "name": "Westside Gunn",
+  "fans": 56200,
+  "checked": "2026-11-21T04:55:55.539134+00:00"
+ },
+ "aldoyle": {
+  "name": "Al Doyle",
+  "fans": 29,
+  "checked": "2026-11-21T04:55:55.998923+00:00"
+ },
+ "alexridha": {
+  "name": "Alex Ridha",
+  "fans": null,
+  "checked": "2026-11-21T04:55:56.411128+00:00"
+ },
+ "jadelilitri": {
+  "name": "Jade Lilitri",
+  "fans": null,
+  "checked": "2026-11-21T04:55:56.821600+00:00"
+ },
+ "johntalabot": {
+  "name": "John Talabot",
+  "fans": 34437,
+  "checked": "2026-11-21T04:55:57.232461+00:00"
  }
 }

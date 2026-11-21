@@ -1183,5 +1183,357 @@
   ],
   "tags_checked": "2026-11-14T04:53:27.098609+00:00",
   "checked": "2026-11-14T04:53:27.098609+00:00"
+ },
+ "grimes|killinggodwithcomputers|single": {
+  "spotify": "https://open.spotify.com/track/45wasIhGDIplDfMXXAaiEJ",
+  "artist_id": "053q0ukIDRgzwTr4vNSwab",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273a7178543f95a21dd9009e004",
+  "source": "Spotify",
+  "lfm_tags": [
+   "electronic",
+   "dream pop",
+   "experimental"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "grimes|deepseek|single": {
+  "spotify": "https://open.spotify.com/track/5KxjmVqp52UGqk3YDq9ON6",
+  "artist_id": "053q0ukIDRgzwTr4vNSwab",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273a7178543f95a21dd9009e004",
+  "source": "Spotify",
+  "lfm_tags": [
+   "electronic",
+   "dream pop",
+   "experimental"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "erikadecasier|whispers|single": {
+  "spotify": "https://open.spotify.com/album/5Mo6eSAVWITxgvIjfAeLF7",
+  "artist_id": "1nIJEqPyIj5qutlgWNmQB0",
+  "cover": "https://i.scdn.co/image/ab67616d0000b2732a1e4cc6621a9b1a11e6310d",
+  "source": "Spotify",
+  "lfm_tags": [
+   "rnb",
+   "soul",
+   "alternative rnb"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "lanadelrey|crazyforyou|single": {
+  "spotify": "https://open.spotify.com/track/7atOpwxr1aIeRlyGEPNn0C",
+  "artist_id": "00FQb4jTyendYWaN8pK0wa",
+  "cover": "https://i.scdn.co/image/ab67616d0000b2737f62c9c136c0ab9ef78f2d15",
+  "source": "Spotify",
+  "lfm_tags": [
+   "indie",
+   "indie pop",
+   "pop"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "phoebebridgers|anything|single": {
+  "spotify": "https://open.spotify.com/album/0ULXa77Rw81AiaU4xymLiW",
+  "artist_id": "1r1uxoy19fzMxunt3ONAkG",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273881947e0aace2ea429e7304a",
+  "source": "Spotify",
+  "lfm_tags": [
+   "singer-songwriter",
+   "indie folk",
+   "folk"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "erikadecasier|whisper|single": {
+  "spotify": "https://open.spotify.com/album/5Mo6eSAVWITxgvIjfAeLF7",
+  "artist_id": "1nIJEqPyIj5qutlgWNmQB0",
+  "cover": "https://i.scdn.co/image/ab67616d0000b2732a1e4cc6621a9b1a11e6310d",
+  "source": "Spotify",
+  "lfm_tags": [
+   "rnb",
+   "soul",
+   "alternative rnb"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "westsidegunn|heelmatic|album": {
+  "spotify": "https://open.spotify.com/album/6xpcVVjSc8kUuddtdJtiY0",
+  "artist_id": "0ABk515kENDyATUdpCKVfW",
+  "cover": "https://i.scdn.co/image/ab67616d0000b2730a52e1f5e6147d83b2e396bf",
+  "source": "Spotify",
+  "lfm_tags": [
+   "rap",
+   "hip-hop",
+   "boom bap"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "strokes|lonelyinthefuture|single": {
+  "spotify": "https://open.spotify.com/track/5gBMUQu2FVV1OYu92hbJjv",
+  "artist_id": "0epOFNiUfyON9EYx7Tpr6V",
+  "cover": "https://i.scdn.co/image/ab67616d0000b2736b458d1409d938dad4e3ba2c",
+  "source": "Spotify",
+  "lfm_tags": [
+   "indie rock",
+   "indie",
+   "rock"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "julienbaker|hound|single": {
+  "spotify": "https://open.spotify.com/album/3IMaSJPDmxhDDNWPPSh0Il",
+  "artist_id": "12zbUHbPHL5DGuJtiUfsip",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273436ba386e03b1d3f4151de09",
+  "source": "Spotify",
+  "lfm_tags": [
+   "indie",
+   "singer-songwriter",
+   "folk"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "johntalabot|musicforemptystadiums|album": {
+  "lfm_tags": [
+   "deep house",
+   "electronic",
+   "house"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "tommyrichman|narcissist|single": {
+  "spotify": "https://open.spotify.com/album/5ZnqAF9r8DK25AXQk5Zy7g",
+  "artist_id": "1WaFQSHVGZQJTbf0BdxdNo",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273d83f010a8ba7f9d427c422b6",
+  "source": "Spotify",
+  "lfm_tags": [
+   "rnb",
+   "rap",
+   "funk"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "jonahyano|door|single": {
+  "spotify": "https://open.spotify.com/album/0WyFmfvy45GgBseqdUnBLr",
+  "artist_id": "4Js9qeA7KMFyjBYHEjFaeJ",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273ce1be331cfd0afcc243f49db",
+  "source": "Spotify",
+  "lfm_tags": [
+   "jazz",
+   "electronic",
+   "neo-soul"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "atlassound|thanatos|album": {
+  "spotify": "https://open.spotify.com/album/2RjS6PSex8ZKmCnWHr9bTh",
+  "artist_id": "3kGhAL9j1WyNjNkWTRQd8T",
+  "cover": "https://i.scdn.co/image/ab67616d0000b27350883e12ee4cafcaa63bd2a1",
+  "source": "Spotify",
+  "lfm_tags": [
+   "shoegaze",
+   "experimental",
+   "psychedelic"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "bdrmm|amuseyourself|single": {
+  "spotify": "https://open.spotify.com/album/3Xa0sDE0mEAcV7dbNPYzIZ",
+  "artist_id": "4Cx5LnF4WNJIn9SSqyeq9C",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273a2f90495ad032a2fb1b17c42",
+  "source": "Spotify",
+  "lfm_tags": [
+   "dream pop",
+   "shoegaze",
+   "post-punk"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "orbestoffer|feetout|single": {
+  "spotify": "https://open.spotify.com/album/5pBVmr3waYnZcMo7OV48L8",
+  "artist_id": "5ouOkzzLXQsWiWNpoBAnUU",
+  "cover": "https://i.scdn.co/image/ab67616d0000b27346c2f37a0936be5b714f5c38",
+  "source": "Spotify",
+  "lfm_tags": [
+   "chicago",
+   "post-rock",
+   "experimental rock"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "devonagain|slug|single": {
+  "spotify": "https://open.spotify.com/album/7Hy5GsTBkvTCndGqVLOrQR",
+  "artist_id": "3xz28DkZR6bmPpVh6Rq13t",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273f47e2767b2c109274104e23a",
+  "source": "Spotify",
+  "lfm_tags": [
+   "alternative",
+   "indie pop",
+   "indie"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "chvrches|evil|single": {
+  "spotify": "https://open.spotify.com/album/2kd3EO629nFKikFxc7MpH4",
+  "artist_id": "3CjlHNtplJyTf9npxaPl5w",
+  "cover": "https://i.scdn.co/image/ab67616d0000b2735e66bc6ac931249e09d7c778",
+  "source": "Spotify",
+  "lfm_tags": [
+   "synthpop",
+   "electronic",
+   "electropop"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "cikho|stargazer|album": {
+  "spotify": "https://open.spotify.com/album/5vbmIGe4EuGvdzMcOPxilt",
+  "artist_id": "3K5lshiZhzx2bvme3n4hTz",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273267229d60714a232e6752c36",
+  "source": "Spotify",
+  "lfm_tags": [],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "jamiemiller|itsbeginningtolookalotlikechristmas|single": {
+  "spotify": "https://open.spotify.com/album/1h2WJJI1GFrW6pmrYjdVLy",
+  "artist_id": "2LkkwxA19J8C52wPQl5bG6",
+  "cover": "https://i.scdn.co/image/ab67616d0000b2732f0a24ecffedc28707dc1376",
+  "source": "Spotify",
+  "lfm_tags": [
+   "the voice",
+   "pop",
+   "the voice uk"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "ledbyher|midwinter|ep": {
+  "spotify": "https://open.spotify.com/album/2ZTK4ev5m9mN8prURW5nlY",
+  "artist_id": "4UDkTxtdr3HpZrDRu9727s",
+  "cover": "https://i.scdn.co/image/ab67616d0000b2734ea0d906421b24a884d9a5ec",
+  "source": "Spotify",
+  "lfm_tags": [
+   "uk rap",
+   "drill",
+   "underground hip-hop"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "tems|africanlovestory|single": {
+  "spotify": "https://open.spotify.com/album/3gatJjBKQfFZlRKLW0TUX6",
+  "artist_id": "687cZJR45JO7jhk1LHIbgq",
+  "cover": "https://i.scdn.co/image/ab67616d0000b2735d8190d6970a9cd947d8c35d",
+  "source": "Spotify",
+  "lfm_tags": [
+   "rnb",
+   "soul",
+   "afrobeats"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "brittanyhowardandrobertglasper|makingsoftomorrow|single": {
+  "spotify": "https://open.spotify.com/album/1UOJdhwpuc4zD9qdiCcny0",
+  "artist_id": "4XquDVA8pkg5Lx91No1JxB",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273e2812723eb3ac27cd45bd976",
+  "source": "Spotify",
+  "lfm_tags": [
+   "soul",
+   "blues",
+   "blues rock"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "toucheamore|icantgetoutofmyownway|single": {
+  "spotify": "https://open.spotify.com/track/5mx3Sm7ercSZASQBShNrpN",
+  "artist_id": "16QCJENzcdhwka9bTKYMVB",
+  "cover": "https://i.scdn.co/image/ab67616d0000b2738a6e87ade968f90013f6591a",
+  "source": "Spotify",
+  "lfm_tags": [
+   "screamo",
+   "hardcore",
+   "post-hardcore"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "ambrosekennysmithandorb|lightweight|single": {
+  "spotify": "https://open.spotify.com/album/2WGNoSXLIiDWMIY92HxTNT",
+  "artist_id": "0NLFuTzlY3oCTiJGBzpu97",
+  "cover": "https://i.scdn.co/image/ab67616d0000b273d2f9e88fd2d7985d1fd2fd06",
+  "source": "Spotify",
+  "lfm_tags": [],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "horsevision|proudofme|single": {
+  "spotify": "https://open.spotify.com/album/5zLM2ebQmRQURg85VHt4fx",
+  "artist_id": "28gAkTGnjn8QZllb4EU4OM",
+  "cover": "https://i.scdn.co/image/ab67616d0000b27342318dfabb160b27900a5db3",
+  "source": "Spotify",
+  "lfm_tags": [
+   "indie rock",
+   "dream pop",
+   "art rock"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "muramasa|nobodycanknowmelikeyoudo|single": {
+  "spotify": "https://open.spotify.com/album/2yEwVF5gabrSZFZ473Syr6",
+  "artist_id": "5Q81rlcTFh3k6DQJXPdsot",
+  "cover": "https://i.scdn.co/image/ab67616d0000b2737c50c48c8cb1ebb44297ffe3",
+  "source": "Spotify",
+  "lfm_tags": [
+   "electronic",
+   "future bass",
+   "lovestep"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "desire|deepend|single": {
+  "spotify": "https://open.spotify.com/album/4oLUdkw6ohCBn2ZyIBAcR7",
+  "artist_id": "2OuSnRT9BKAvFuw0yoTim0",
+  "cover": "https://i.scdn.co/image/ab67616d0000b2730e006f25484599f19d0350c5",
+  "source": "Spotify",
+  "lfm_tags": [
+   "electronic",
+   "synthpop",
+   "doom metal"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "loudluxuryandbrando|heartsdontlie|single": {
+  "spotify": "https://open.spotify.com/album/6NLito7Y08A4Zv7ZRcoNSE",
+  "artist_id": "6t1gpxYbY8OlLA7D2RiikQ",
+  "cover": "https://i.scdn.co/image/ab67616d0000b27373f3c57ff1d3f82022016483",
+  "source": "Spotify",
+  "lfm_tags": [
+   "house",
+   "pop",
+   "electronic"
+  ],
+  "tags_checked": "2026-11-21T04:57:04.664294+00:00",
+  "checked": "2026-11-21T04:57:04.664294+00:00"
  }
 }

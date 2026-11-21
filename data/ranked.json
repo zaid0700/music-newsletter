@@ -1,100 +1,421 @@
 {
-  "week_start": "2026-11-07",
-  "week_end": "2026-11-13",
-  "generated": "2026-11-14T04:52:58.431015+00:00",
+  "week_start": "2026-11-14",
+  "week_end": "2026-11-20",
+  "generated": "2026-11-21T04:56:37.363907+00:00",
   "top": [
     {
-      "artist": "Ecco2k",
-      "title": "Echo",
-      "type": "album",
-      "genre": "Hip-hop / R&B",
-      "release_date": "2026-11-12",
+      "artist": "Grimes",
+      "title": "Killing God With Computers",
+      "type": "single",
+      "genre": "Electronic / Dance",
+      "release_date": "2026-11-20",
       "date_source": "feeds",
       "scores": [],
       "sources": [
-        "Clash",
         "Pitchfork (news)",
         "The Needle Drop (website)"
       ],
       "mentions": [
         {
-          "source": "Clash",
+          "source": "Pitchfork (news)",
           "source_type": "news",
           "weight": 1.0,
-          "mention": "announcement",
+          "mention": "new_song",
           "score": null,
-          "headline": "Ecco2k Readies New Album ‘Echo’",
-          "link": "https://www.clashmusic.com/news/ecco2k-readies-new-album-echo/",
-          "published": "2026-11-11T13:29:13+00:00"
+          "headline": "Grimes Releases Two New Psy Opera Songs",
+          "link": "https://pitchfork.com/story/listen-to-two-new-grimes-songs/",
+          "published": "2026-11-20T18:11:09+00:00"
         },
         {
           "source": "The Needle Drop (website)",
           "source_type": "reviews",
           "weight": 1.0,
-          "mention": "announcement",
+          "mention": "new_song",
           "score": null,
-          "headline": "Ecco2k reveals new album 'Echo'",
-          "link": "https://theneedledrop.com/news/ecco2k-new-album-echo/",
-          "published": "2026-11-10T20:26:09+00:00"
+          "headline": "Grimes shares two new singles ahead of 'Psy Opera'",
+          "link": "https://theneedledrop.com/news/grimes-shares-two-new-singles-ahead-of-psy-opera/",
+          "published": "2026-11-20T15:33:19+00:00"
+        }
+      ],
+      "fans": 287996,
+      "star_power": 0.78,
+      "personal": 0.899,
+      "personal_reason": "You've played Grimes 182 times",
+      "coverage": 2.0,
+      "publications": [
+        "Pitchfork",
+        "The Needle Drop"
+      ],
+      "popularity": 0.514,
+      "rank_score": 0.822,
+      "avg_score": null
+    },
+    {
+      "artist": "Grimes",
+      "title": "Deepseek",
+      "type": "single",
+      "genre": "Electronic / Dance",
+      "release_date": "2026-11-20",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Pitchfork (news)",
+        "The Needle Drop (website)"
+      ],
+      "mentions": [
+        {
+          "source": "Pitchfork (news)",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Grimes Releases Two New Psy Opera Songs",
+          "link": "https://pitchfork.com/story/listen-to-two-new-grimes-songs/",
+          "published": "2026-11-20T18:11:09+00:00"
+        },
+        {
+          "source": "The Needle Drop (website)",
+          "source_type": "reviews",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Grimes shares two new singles ahead of 'Psy Opera'",
+          "link": "https://theneedledrop.com/news/grimes-shares-two-new-singles-ahead-of-psy-opera/",
+          "published": "2026-11-20T15:33:19+00:00"
+        }
+      ],
+      "fans": 287996,
+      "star_power": 0.78,
+      "personal": 0.899,
+      "personal_reason": "You've played Grimes 182 times",
+      "coverage": 2.0,
+      "publications": [
+        "Pitchfork",
+        "The Needle Drop"
+      ],
+      "popularity": 0.514,
+      "rank_score": 0.822,
+      "avg_score": null
+    },
+    {
+      "artist": "Erika de Casier",
+      "title": "Whispers",
+      "type": "single",
+      "genre": "Hip-hop / R&B",
+      "release_date": "2026-11-18",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Pitchfork (news)",
+        "Pitchfork (track reviews)",
+        "Stereogum"
+      ],
+      "mentions": [
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Erika de Casier – “Whispers”",
+          "link": "https://stereogum.com/2518584/erika-de-casier-whispers/music/",
+          "published": "2026-11-18T20:39:13+00:00"
+        },
+        {
+          "source": "Pitchfork (track reviews)",
+          "source_type": "reviews",
+          "weight": 1.0,
+          "mention": "review",
+          "score": null,
+          "headline": "“Whispers”",
+          "link": "https://pitchfork.com/reviews/tracks/erika-de-casier-whispers/",
+          "published": "2026-11-18T19:02:22+00:00"
         },
         {
           "source": "Pitchfork (news)",
           "source_type": "news",
           "weight": 1.0,
-          "mention": "announcement",
+          "mention": "new_song",
           "score": null,
-          "headline": "Ecco2k Sets New Album Echo",
-          "link": "https://pitchfork.com/story/ecco2k-sets-new-album-echo/",
-          "published": "2026-11-10T19:02:53+00:00"
+          "headline": "Listen to Erika de Casier’s New Song “Whispers”",
+          "link": "https://pitchfork.com/story/listen-to-erika-de-casiers-new-song-whispers/",
+          "published": "2026-11-18T15:49:12+00:00"
         }
       ],
-      "fans": 14518,
-      "star_power": 0.595,
-      "personal": 0.97,
-      "personal_reason": "You've played Ecco2K 637 times",
-      "coverage": 3.0,
+      "fans": 5064,
+      "star_power": 0.529,
+      "personal": 0.818,
+      "personal_reason": "You've played Erika de Casier 44 times",
+      "coverage": 2.0,
       "publications": [
-        "Clash",
         "Pitchfork",
-        "The Needle Drop"
+        "Stereogum"
       ],
-      "popularity": 0.598,
-      "rank_score": 0.896,
+      "popularity": 0.439,
+      "rank_score": 0.742,
       "avg_score": null
     },
     {
-      "artist": "Oklou",
-      "title": "The Swirl Ahead",
+      "artist": "Lana Del Rey",
+      "title": "Crazy for You",
       "type": "single",
-      "genre": "Electronic / Dance",
-      "release_date": "2026-11-11",
+      "genre": "Pop",
+      "release_date": "2026-11-20",
       "date_source": "feeds",
       "scores": [],
       "sources": [
+        "Pitchfork (news)"
+      ],
+      "mentions": [
+        {
+          "source": "Pitchfork (news)",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "release_news",
+          "score": null,
+          "headline": "Lana Del Rey’s “Crazy for You” Gets Official Release for GTA VI",
+          "link": "https://pitchfork.com/story/lana-del-reys-crazy-for-you-gets-official-release-for-gta-vi/",
+          "published": "2026-11-20T15:42:36+00:00"
+        }
+      ],
+      "fans": 5854555,
+      "star_power": 0.967,
+      "personal": 0.796,
+      "personal_reason": "You've played Lana Del Rey 174 times",
+      "coverage": 1.0,
+      "publications": [
+        "Pitchfork"
+      ],
+      "popularity": 0.43,
+      "rank_score": 0.723,
+      "avg_score": null
+    },
+    {
+      "artist": "Phoebe Bridgers",
+      "title": "Anything",
+      "type": "single",
+      "genre": "Rock / Alternative / Indie",
+      "release_date": "2026-11-19",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "NME",
+        "Pitchfork (news)",
+        "Rolling Stone (music)",
+        "Stereogum"
+      ],
+      "mentions": [
+        {
+          "source": "Pitchfork (news)",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Phoebe Bridgers Covers Adrianne Lenker’s “Anything” for the Holidays",
+          "link": "https://pitchfork.com/story/phoebe-bridgers-covers-adrianne-lenkers-anything-for-the-holidays/",
+          "published": "2026-11-19T17:13:14+00:00"
+        },
+        {
+          "source": "NME",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Check out Phoebe Bridgers’ cosy festive cover of Adrianne Lenker’s ‘Anything’",
+          "link": "https://www.nme.com/news/music/phoebe-bridgers-releases-festive-cover-of-adrianne-lenkers-anything-listen-3976434",
+          "published": "2026-11-19T16:09:13+00:00"
+        },
+        {
+          "source": "Rolling Stone (music)",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Rejoice: Phoebe Bridgers Rings in the Holidays With an Adrianne Lenker Cover",
+          "link": "https://www.rollingstone.com/music/music-news/phoebe-bridgers-adrianne-lenker-holiday-cover-1235660592/",
+          "published": "2026-11-19T15:35:08+00:00"
+        },
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Phoebe Bridgers – “Anything” (Adrianne Lenker Cover)",
+          "link": "https://stereogum.com/2518664/phoebe-bridgers-anything-adrianne-lenker-cover/music/",
+          "published": "2026-11-19T15:32:10+00:00"
+        }
+      ],
+      "fans": 209777,
+      "star_power": 0.76,
+      "personal": 0.707,
+      "personal_reason": "You've played Phoebe Bridgers 36 times",
+      "coverage": 4.0,
+      "publications": [
+        "NME",
+        "Pitchfork",
+        "Rolling Stone",
+        "Stereogum"
+      ],
+      "popularity": 0.788,
+      "rank_score": 0.723,
+      "avg_score": null
+    },
+    {
+      "artist": "Erika de Casier",
+      "title": "Whisper",
+      "type": "single",
+      "genre": "Hip-hop / R&B",
+      "release_date": "2026-11-19",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "The Needle Drop (website)"
+      ],
+      "mentions": [
+        {
+          "source": "The Needle Drop (website)",
+          "source_type": "reviews",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "Erika de Casier releases new single",
+          "link": "https://theneedledrop.com/news/erika-de-casier-new-single-whisper/",
+          "published": "2026-11-19T00:44:22+00:00"
+        }
+      ],
+      "fans": 5064,
+      "star_power": 0.529,
+      "personal": 0.818,
+      "personal_reason": "You've played Erika de Casier 44 times",
+      "coverage": 1.0,
+      "publications": [
+        "The Needle Drop"
+      ],
+      "popularity": 0.299,
+      "rank_score": 0.714,
+      "avg_score": null
+    },
+    {
+      "artist": "Westside Gunn",
+      "title": "HEELMATIC",
+      "type": "album",
+      "genre": "Hip-hop / R&B",
+      "release_date": "2026-11-13",
+      "date_source": "musicbrainz",
+      "scores": [
+        7
+      ],
+      "sources": [
+        "The Needle Drop (YouTube)",
+        "The Needle Drop (website)"
+      ],
+      "mentions": [
+        {
+          "source": "The Needle Drop (website)",
+          "source_type": "reviews",
+          "weight": 1.0,
+          "mention": "review",
+          "score": 7,
+          "headline": "Westside Gunn - HEELMATIC",
+          "link": "https://theneedledrop.com/album-reviews/westside-gunn-heelmatic-album-review-kc6yycppiyy/",
+          "published": "2026-11-20T15:03:15+00:00"
+        },
+        {
+          "source": "The Needle Drop (YouTube)",
+          "source_type": "video",
+          "weight": 1.0,
+          "mention": "review",
+          "score": null,
+          "headline": "Westside Gunn - Heelmatic ALBUM REVIEW",
+          "link": "https://www.youtube.com/watch?v=kC6YyCppiyY",
+          "published": "2026-11-18T21:08:21+00:00"
+        }
+      ],
+      "fans": 56200,
+      "star_power": 0.679,
+      "personal": 0.796,
+      "personal_reason": "You've played Westside Gunn 174 times",
+      "coverage": 1.0,
+      "publications": [
+        "The Needle Drop"
+      ],
+      "popularity": 0.344,
+      "rank_score": 0.706,
+      "avg_score": 7.0
+    },
+    {
+      "artist": "The Strokes",
+      "title": "Lonely in the Future",
+      "type": "single",
+      "genre": "Rock / Alternative / Indie",
+      "release_date": "2026-11-16",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "NME",
+        "The Needle Drop (website)"
+      ],
+      "mentions": [
+        {
+          "source": "The Needle Drop (website)",
+          "source_type": "reviews",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "My Response to The Strokes Music Video",
+          "link": "https://theneedledrop.com/opinion/my-response-to-the-strokes-music-video-8r54x-ssix4/",
+          "published": "2026-11-16T14:05:42+00:00"
+        },
+        {
+          "source": "NME",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "release_news",
+          "score": null,
+          "headline": "Watch The Strokes hit out at Elon Musk and billionaire class in ‘Spitting Image’ puppet-filled ‘Lonely in the Future’ video",
+          "link": "https://www.nme.com/news/music/watch-the-strokes-hit-out-at-elon-musk-and-billionaire-class-in-spitting-image-puppet-filled-lonely-in-the-future-video-3975458",
+          "published": "2026-11-09T14:04:14+00:00"
+        }
+      ],
+      "fans": 1762463,
+      "star_power": 0.892,
+      "personal": 0.642,
+      "personal_reason": "You've played The Strokes 11 times",
+      "coverage": 2.0,
+      "publications": [
+        "NME",
+        "The Needle Drop"
+      ],
+      "popularity": 0.548,
+      "rank_score": 0.623,
+      "avg_score": null
+    },
+    {
+      "artist": "Julien Baker",
+      "title": "Hound",
+      "type": "single",
+      "genre": "Rock / Alternative / Indie",
+      "release_date": "2026-11-17",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "NME",
         "Pitchfork (news)",
         "Slant (music)",
-        "Stereogum"
+        "Stereogum",
+        "The Needle Drop (website)"
       ],
       "mentions": [
         {
           "source": "Slant (music)",
           "source_type": "reviews",
           "weight": 1.0,
-          "mention": "release_news",
+          "mention": "new_song",
           "score": null,
-          "headline": "Oklou Paddles Out with New Film Score for Netflix’s ‘In Waves’",
-          "link": "https://www.slantmagazine.com/music/oklou-in-waves-score-the-swirl-ahead/",
-          "published": "2026-11-11T16:43:20+00:00"
-        },
-        {
-          "source": "Pitchfork (news)",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "release_news",
-          "score": null,
-          "headline": "Oklou Scored a New Animated Film",
-          "link": "https://pitchfork.com/story/oklou-scored-a-new-animated-film/",
-          "published": "2026-11-11T16:12:22+00:00"
+          "headline": "Julien Baker Drops New Track “Hound,” from Upcoming Album ‘This World or the Next’",
+          "link": "https://www.slantmagazine.com/music/julien-baker-hound-this-world-or-the-next/",
+          "published": "2026-11-17T17:42:15+00:00"
         },
         {
           "source": "Stereogum",
@@ -102,58 +423,9 @@
           "weight": 1.0,
           "mention": "new_song",
           "score": null,
-          "headline": "Oklou Announces In Waves Soundtrack: Hear “the swirl ahead”",
-          "link": "https://stereogum.com/2517570/oklou-in-waves-movie-soundtrack-score-the-swirl-ahead-rob/music/",
-          "published": "2026-11-11T14:28:56+00:00"
-        }
-      ],
-      "fans": 35073,
-      "star_power": 0.649,
-      "personal": 0.879,
-      "personal_reason": "You've played Oklou 130 times",
-      "coverage": 3.0,
-      "publications": [
-        "Pitchfork",
-        "Slant",
-        "Stereogum"
-      ],
-      "popularity": 0.615,
-      "rank_score": 0.826,
-      "avg_score": null
-    },
-    {
-      "artist": "Ethel Cain & Robin Carolan",
-      "title": "Wynter Waxeth",
-      "type": "single",
-      "genre": "Pop",
-      "release_date": "2026-11-13",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Consequence",
-        "Stereogum",
-        "The Needle Drop (website)"
-      ],
-      "mentions": [
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "Ethel Cain & Robin Carolan – “Wynter Waxeth”",
-          "link": "https://stereogum.com/2517871/ethel-cain-robin-carolan-wynter-waxeth-werwulf-robert-eggers/music/",
-          "published": "2026-11-13T16:42:02+00:00"
-        },
-        {
-          "source": "Consequence",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "Ethel Cain and Composer Robin Carolan Share Brooding New Song “Wynter Waxeth” for Robert Eggers’ Werwulf: Stream",
-          "link": "https://consequence.net/2026/11/ethel-cain-robin-carolan-wynter-waxeth-werwulf-stream/",
-          "published": "2026-11-13T15:26:59+00:00"
+          "headline": "Julien Baker Announces New Album This World Or The Next: Hear “Hound”",
+          "link": "https://stereogum.com/2518378/julien-baker-announces-new-album-this-world-or-the-next-hear-hound/music/",
+          "published": "2026-11-17T15:07:47+00:00"
         },
         {
           "source": "The Needle Drop (website)",
@@ -161,67 +433,54 @@
           "weight": 1.0,
           "mention": "new_song",
           "score": null,
-          "headline": "Ethel Cain collaborated with Robert Eggers for Werwulf Soundtrack",
-          "link": "https://theneedledrop.com/news/ethel-cain-collaborated-with-robert-eggers-for-werwulf-soundtrack/",
-          "published": "2026-10-28T16:45:11+00:00"
-        }
-      ],
-      "fans": 41166,
-      "star_power": 0.659,
-      "personal": 0.828,
-      "personal_reason": "You've played Ethel Cain 52 times",
-      "coverage": 3.0,
-      "publications": [
-        "Consequence",
-        "Stereogum",
-        "The Needle Drop"
-      ],
-      "popularity": 0.618,
-      "rank_score": 0.786,
-      "avg_score": null
-    },
-    {
-      "artist": "yeule",
-      "title": "Lovepill",
-      "type": "single",
-      "genre": "Rock / Alternative / Indie",
-      "release_date": "2026-11-13",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Stereogum"
-      ],
-      "mentions": [
+          "headline": "Julien Baker announces new album ‘This World or the Next,’ shares new single “Hound”",
+          "link": "https://theneedledrop.com/news/julien-baker-announces-new-album-this-world-or-the-next-shares-new-single-hound/",
+          "published": "2026-11-17T15:00:17+00:00"
+        },
         {
-          "source": "Stereogum",
+          "source": "NME",
           "source_type": "news",
           "weight": 1.0,
           "mention": "new_song",
           "score": null,
-          "headline": "yeule – “Lovepill”",
-          "link": "https://stereogum.com/2517963/yeule-lovepill/music/",
-          "published": "2026-11-13T19:03:58+00:00"
+          "headline": "Julien Baker announces new album ‘This World Or The Next’ with epic single ‘Hound’",
+          "link": "https://www.nme.com/news/music/julien-baker-announces-new-album-this-world-or-the-next-with-epic-single-hound-3976206",
+          "published": "2026-11-17T15:00:12+00:00"
+        },
+        {
+          "source": "Pitchfork (news)",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "announcement",
+          "score": null,
+          "headline": "Julien Baker Lines Up New Album This World or the Next",
+          "link": "https://pitchfork.com/story/julien-baker-lines-up-new-album-this-world-or-the-next/",
+          "published": "2026-11-17T15:00:00+00:00"
         }
       ],
-      "fans": 9974,
-      "star_power": 0.571,
-      "personal": 0.857,
-      "personal_reason": "You've played yeule 87 times",
-      "coverage": 1.0,
+      "fans": 31712,
+      "star_power": 0.643,
+      "personal": 0.54,
+      "personal_reason": "You've played Julien Baker 1 time",
+      "coverage": 5.0,
       "publications": [
-        "Stereogum"
+        "NME",
+        "Pitchfork",
+        "Slant",
+        "Stereogum",
+        "The Needle Drop"
       ],
-      "popularity": 0.311,
-      "rank_score": 0.748,
+      "popularity": 0.893,
+      "rank_score": 0.611,
       "avg_score": null
     },
     {
-      "artist": "Sufjan Stevens",
-      "title": "Worst Christmas Ever!",
+      "artist": "John Talabot",
+      "title": "Music for Empty Stadiums",
       "type": "album",
-      "genre": "Rock / Alternative / Indie",
-      "release_date": "2026-11-06",
-      "date_source": "musicbrainz",
+      "genre": "Electronic / Dance",
+      "release_date": null,
+      "date_source": "feeds",
       "scores": [],
       "sources": [
         "Pitchfork (album reviews)"
@@ -233,29 +492,31 @@
           "weight": 1.0,
           "mention": "review",
           "score": null,
-          "headline": "Worst Christmas Ever!",
-          "link": "https://pitchfork.com/reviews/albums/sufjan-stevens-worst-christmas-ever/",
-          "published": "2026-11-11T05:03:00+00:00"
+          "headline": "Music for Empty Stadiums",
+          "link": "https://pitchfork.com/reviews/albums/or-music-for-empty-stadiums/",
+          "published": "2026-11-16T05:01:00+00:00"
         }
       ],
-      "fans": 273258,
-      "star_power": 0.777,
-      "personal": 0.827,
-      "personal_reason": "You've played Sufjan Stevens 51 times",
+      "fans": 34437,
+      "star_power": 0.648,
+      "personal": 0.651,
+      "personal_reason": "You've played John Talabot 13 times",
       "coverage": 1.0,
       "publications": [
         "Pitchfork"
       ],
-      "popularity": 0.373,
-      "rank_score": 0.736,
+      "popularity": 0.334,
+      "rank_score": 0.588,
       "avg_score": null
-    },
+    }
+  ],
+  "discover": [
     {
-      "artist": "54 Ultra & Clairo",
-      "title": "Honeymoon",
+      "artist": "Tommy Richman",
+      "title": "Narcissist",
       "type": "single",
-      "genre": "Pop",
-      "release_date": "2026-11-13",
+      "genre": "Hip-hop / R&B",
+      "release_date": "2026-11-20",
       "date_source": "feeds",
       "scores": [],
       "sources": [
@@ -268,103 +529,95 @@
           "weight": 1.0,
           "mention": "new_song",
           "score": null,
-          "headline": "54 Ultra Shares Clairo Collab “Honeymoon”",
-          "link": "https://stereogum.com/2517941/54-ultra-clairo-collab-honeymoon/music/",
-          "published": "2026-11-13T18:43:40+00:00"
+          "headline": "Tommy Richman – “Narcissist” (Feat. Viuta)",
+          "link": "https://stereogum.com/2518808/tommy-richman-narcissist-feat-viuta/music/",
+          "published": "2026-11-20T14:20:39+00:00"
         }
       ],
-      "fans": 2032,
-      "star_power": 0.473,
-      "personal": 0.822,
-      "personal_reason": "You've played Clairo 47 times",
+      "fans": 20058,
+      "star_power": 0.615,
+      "personal": 0.263,
+      "personal_reason": "Similar to Jack Harlow, 4batz",
       "coverage": 1.0,
       "publications": [
         "Stereogum"
       ],
-      "popularity": 0.282,
-      "rank_score": 0.714,
-      "avg_score": null
+      "popularity": 0.325,
+      "rank_score": 0.275,
+      "avg_score": null,
+      "discover_score": 0.198
     },
     {
-      "artist": "Skepta",
-      "title": "The Fork and Knife",
-      "type": "album",
-      "genre": "Hip-hop / R&B",
-      "release_date": "2026-11-06",
+      "artist": "Jonah Yano",
+      "title": "The Door",
+      "type": "single",
+      "genre": "Rock / Alternative / Indie",
+      "release_date": "2026-11-17",
       "date_source": "deezer",
       "scores": [],
       "sources": [
-        "Pitchfork (album reviews)",
-        "Slant (music)"
-      ],
-      "mentions": [
-        {
-          "source": "Pitchfork (album reviews)",
-          "source_type": "reviews",
-          "weight": 1.0,
-          "mention": "review",
-          "score": null,
-          "headline": "The Fork and Knife",
-          "link": "https://pitchfork.com/reviews/albums/skepta-the-fork-and-knife/",
-          "published": "2026-11-09T05:03:00+00:00"
-        },
-        {
-          "source": "Slant (music)",
-          "source_type": "reviews",
-          "weight": 1.0,
-          "mention": "review",
-          "score": null,
-          "headline": "Skepta ‘The Fork and Knife’ Review: A U.K. Rap Vet Reckons with the Past",
-          "link": "https://www.slantmagazine.com/music/skepta-the-fork-and-knife-album-review/",
-          "published": "2026-11-07T19:40:28+00:00"
-        }
-      ],
-      "fans": 351380,
-      "star_power": 0.792,
-      "personal": 0.759,
-      "personal_reason": "You've played Skepta 90 times",
-      "coverage": 2.0,
-      "publications": [
-        "Pitchfork",
-        "Slant"
-      ],
-      "popularity": 0.518,
-      "rank_score": 0.711,
-      "avg_score": null
-    },
-    {
-      "artist": "Armand Hammer",
-      "title": "Snakes & Ladders",
-      "type": "album",
-      "genre": "Hip-hop / R&B",
-      "release_date": "2026-11-11",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Pitchfork (news)",
-        "Stereogum",
-        "The Needle Drop (website)"
+        "Stereogum"
       ],
       "mentions": [
         {
           "source": "Stereogum",
           "source_type": "news",
           "weight": 1.0,
-          "mention": "release_news",
+          "mention": "new_song",
           "score": null,
-          "headline": "Armand Hammer Release Surprise Album Snakes & Ladders",
-          "link": "https://stereogum.com/2517597/armand-hammer-release-surprise-album-snakes-ladders/music/",
-          "published": "2026-11-11T15:10:09+00:00"
-        },
+          "headline": "Jonah Yano – “The Door”",
+          "link": "https://stereogum.com/2518685/jonah-yano-the-door/music/",
+          "published": "2026-11-19T15:53:07+00:00"
+        }
+      ],
+      "fans": 1606,
+      "star_power": 0.458,
+      "personal": 0.216,
+      "personal_reason": "Similar to Dijon, Hiatus Kaiyote",
+      "coverage": 1.0,
+      "publications": [
+        "Stereogum"
+      ],
+      "popularity": 0.277,
+      "rank_score": 0.228,
+      "avg_score": null,
+      "discover_score": 0.176
+    },
+    {
+      "artist": "Atlas Sound",
+      "title": "Thanatos",
+      "type": "album",
+      "genre": "Rock / Alternative / Indie",
+      "release_date": "2026-11-20",
+      "date_source": "feeds",
+      "scores": [],
+      "sources": [
+        "Consequence",
+        "Pitchfork (news)",
+        "Rolling Stone (music)",
+        "Stereogum",
+        "The Needle Drop (website)"
+      ],
+      "mentions": [
         {
-          "source": "Pitchfork (news)",
+          "source": "Rolling Stone (music)",
           "source_type": "news",
           "weight": 1.0,
           "mention": "release_news",
           "score": null,
-          "headline": "Armand Hammer Surprise-Release New Album, Snakes & Ladders",
-          "link": "https://pitchfork.com/story/armand-hammer-surprise-release-new-album-snakes-and-ladders/",
-          "published": "2026-11-11T14:01:11+00:00"
+          "headline": "Atlas Sound Returns With Surprise New Album ‘Thanatos,’ First LP in 15 Years",
+          "link": "https://www.rollingstone.com/music/music-news/atlas-sound-bradford-cox-surprise-new-album-thanatos-1235661600/",
+          "published": "2026-11-20T15:53:45+00:00"
+        },
+        {
+          "source": "Consequence",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "release_news",
+          "score": null,
+          "headline": "Atlas Sound Releases New Album Thanatos: Stream",
+          "link": "https://consequence.net/2026/11/atlas-sound-new-album-thanatos-stream/",
+          "published": "2026-11-20T15:10:20+00:00"
         },
         {
           "source": "The Needle Drop (website)",
@@ -372,35 +625,105 @@
           "weight": 1.0,
           "mention": "release_news",
           "score": null,
-          "headline": "Armand Hammer drop surprise album",
-          "link": "https://theneedledrop.com/news/armand-hammer-drop-surprise-album/",
-          "published": "2026-11-11T12:38:15+00:00"
+          "headline": "Atlas Sound surprise-releases first new album in 15 years",
+          "link": "https://theneedledrop.com/news/atlas-sound-surprise-releases-first-new-album-in-15-years/",
+          "published": "2026-11-20T12:59:52+00:00"
+        },
+        {
+          "source": "Pitchfork (news)",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "release_news",
+          "score": null,
+          "headline": "Atlas Sound Surprise Releases First Album in 15 Years",
+          "link": "https://pitchfork.com/story/atlas-sound-surprise-releases-first-album-in-15-years/",
+          "published": "2026-11-20T05:03:13+00:00"
+        },
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "release_news",
+          "score": null,
+          "headline": "Bradford Cox Surprise-Releases Thanatos, Atlas Sound’s First New Album In 15 Years",
+          "link": "https://stereogum.com/2518717/bradford-cox-surprise-releases-thanatos-atlas-sounds-first-new-album-in-15-years/music/",
+          "published": "2026-11-20T05:03:13+00:00"
         }
       ],
-      "fans": 3814,
-      "star_power": 0.512,
-      "personal": 0.721,
-      "personal_reason": "You've played Armand Hammer 46 times",
-      "coverage": 3.0,
+      "fans": 9299,
+      "star_power": 0.567,
+      "personal": 0.216,
+      "personal_reason": "Similar to Deerhunter, Panda Bear",
+      "coverage": 5.0,
       "publications": [
+        "Consequence",
         "Pitchfork",
+        "Rolling Stone",
         "Stereogum",
         "The Needle Drop"
       ],
-      "popularity": 0.574,
-      "rank_score": 0.692,
-      "avg_score": null
+      "popularity": 0.87,
+      "rank_score": 0.347,
+      "avg_score": null,
+      "discover_score": 0.167
     },
     {
-      "artist": "Quiet Light",
-      "title": "Forever",
+      "artist": "bdrmm",
+      "title": "Amuse Yourself",
       "type": "single",
       "genre": "Rock / Alternative / Indie",
-      "release_date": "2026-11-11",
+      "release_date": "2026-11-16",
       "date_source": "feeds",
       "scores": [],
       "sources": [
         "Clash",
+        "Stereogum"
+      ],
+      "mentions": [
+        {
+          "source": "Clash",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "bdrmm Channel Industrial Paranoia On New Single ‘Amuse Yourself’",
+          "link": "https://www.clashmusic.com/news/bdrmm-channel-industrial-paranoia-on-new-single-amuse-yourself/",
+          "published": "2026-11-16T17:21:01+00:00"
+        },
+        {
+          "source": "Stereogum",
+          "source_type": "news",
+          "weight": 1.0,
+          "mention": "new_song",
+          "score": null,
+          "headline": "bdrmm – “Amuse Yourself”",
+          "link": "https://stereogum.com/2518286/bdrmm-amuse-yourself/music/",
+          "published": "2026-11-16T17:00:52+00:00"
+        }
+      ],
+      "fans": 3546,
+      "star_power": 0.507,
+      "personal": 0.194,
+      "personal_reason": "Similar to DIIV, Just Mustard",
+      "coverage": 2.0,
+      "publications": [
+        "Clash",
+        "Stereogum"
+      ],
+      "popularity": 0.432,
+      "rank_score": 0.242,
+      "avg_score": null,
+      "discover_score": 0.155
+    },
+    {
+      "artist": "Or Best Offer",
+      "title": "Feet Out",
+      "type": "single",
+      "genre": "Rock / Alternative / Indie",
+      "release_date": "2026-11-18",
+      "date_source": "deezer",
+      "scores": [],
+      "sources": [
         "Stereogum"
       ],
       "mentions": [
@@ -410,44 +733,33 @@
           "weight": 1.0,
           "mention": "new_song",
           "score": null,
-          "headline": "Quiet Light – “Forever”",
-          "link": "https://stereogum.com/2517616/quiet-light-forever/music/",
-          "published": "2026-11-11T16:35:52+00:00"
-        },
-        {
-          "source": "Clash",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "Quiet Light Shares New Single ‘Forever’",
-          "link": "https://www.clashmusic.com/news/quiet-light-shares-new-single-forever/",
-          "published": "2026-11-11T14:13:22+00:00"
+          "headline": "Or Best Offer – “Feet Out”",
+          "link": "https://stereogum.com/2518656/or-best-offer-feet-out/music/",
+          "published": "2026-11-19T15:38:58+00:00"
         }
       ],
-      "fans": 330,
-      "star_power": 0.36,
-      "personal": 0.737,
-      "personal_reason": "You've played Quiet Light 10 times",
-      "coverage": 2.0,
+      "fans": 8,
+      "star_power": 0.136,
+      "personal": 0.156,
+      "personal_reason": "Similar to Gastr Del Sol, Sprain",
+      "coverage": 1.0,
       "publications": [
-        "Clash",
         "Stereogum"
       ],
-      "popularity": 0.388,
-      "rank_score": 0.667,
-      "avg_score": null
+      "popularity": 0.181,
+      "rank_score": 0.161,
+      "avg_score": null,
+      "discover_score": 0.148
     },
     {
-      "artist": "2hollis",
-      "title": "Pirouette",
-      "type": "album",
-      "genre": "Electronic / Dance",
-      "release_date": "2026-11-11",
+      "artist": "Devon Again",
+      "title": "Slug",
+      "type": "single",
+      "genre": "Pop",
+      "release_date": "2026-11-13",
       "date_source": "deezer",
       "scores": [],
       "sources": [
-        "Stereogum",
         "uDiscover Music"
       ],
       "mentions": [
@@ -455,1199 +767,35 @@
           "source": "uDiscover Music",
           "source_type": "news",
           "weight": 1.0,
-          "mention": "release_news",
+          "mention": "new_song",
           "score": null,
-          "headline": "Listen to 2hollis’ New Album ‘Pirouette’",
-          "link": "https://www.udiscovermusic.com/news/2hollis-pirouette-out-now/",
-          "published": "2026-11-12T13:53:02+00:00"
-        },
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "release_news",
-          "score": null,
-          "headline": "Stream 2hollis’ Genre-Bending New Album Pirouette, Featuring Writing And Production From Mk.gee",
-          "link": "https://stereogum.com/2517631/stream-2hollis-genre-bending-new-album-pirouette-featuring-writing-and-production-from-mk-gee/music/",
-          "published": "2026-11-11T18:25:13+00:00"
+          "headline": "Listen to Devon Again’s New Song ‘Slug’",
+          "link": "https://www.udiscovermusic.com/news/devon-again-slug/",
+          "published": "2026-11-16T20:26:04+00:00"
         }
       ],
-      "fans": 14123,
-      "star_power": 0.593,
-      "personal": 0.702,
-      "personal_reason": "You've played 2hollis 33 times",
-      "coverage": 2.0,
+      "fans": 1379,
+      "star_power": 0.449,
+      "personal": 0.174,
+      "personal_reason": "Similar to Remi Wolf, Samia",
+      "coverage": 1.0,
       "publications": [
-        "Stereogum",
         "uDiscover Music"
       ],
-      "popularity": 0.458,
-      "rank_score": 0.653,
-      "avg_score": null
-    }
-  ],
-  "discover": [
-    {
-      "artist": "Zsela",
-      "title": "Real Romantic",
-      "type": "single",
-      "genre": "Pop",
-      "release_date": "2026-11-13",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Stereogum"
-      ],
-      "mentions": [
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "Zsela Announces New Album The Party: Hear “Real Romantic”",
-          "link": "https://stereogum.com/2517932/zsela-announces-new-album-the-party-hear-real-romantic/music/",
-          "published": "2026-11-13T17:22:31+00:00"
-        }
-      ],
-      "fans": 533,
-      "star_power": 0.39,
-      "personal": 0.312,
-      "personal_reason": "Similar to SMERZ, Erika de Casier",
-      "coverage": 1.0,
-      "publications": [
-        "Stereogum"
-      ],
-      "popularity": 0.257,
-      "rank_score": 0.301,
-      "avg_score": null,
-      "discover_score": 0.263
-    },
-    {
-      "artist": "Racing Mount Pleasant",
-      "title": "Great Destroyer",
-      "type": "single",
-      "genre": "Rock / Alternative / Indie",
-      "release_date": "2026-11-11",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Stereogum"
-      ],
-      "mentions": [
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "Racing Mount Pleasant – “Great Destroyer”",
-          "link": "https://stereogum.com/2517628/racing-mount-pleasant-great-destroyer/music/",
-          "published": "2026-11-11T17:46:12+00:00"
-        }
-      ],
-      "fans": 1417,
-      "star_power": 0.45,
-      "personal": 0.301,
-      "personal_reason": "Similar to Black Country, New Road, Maruja",
-      "coverage": 1.0,
-      "publications": [
-        "Stereogum"
-      ],
       "popularity": 0.275,
-      "rank_score": 0.296,
+      "rank_score": 0.194,
       "avg_score": null,
-      "discover_score": 0.247
-    },
-    {
-      "artist": "TV Priest",
-      "title": "Cartoons",
-      "type": "album",
-      "genre": "Rock / Alternative / Indie",
-      "release_date": "2026-11-06",
-      "date_source": "deezer",
-      "scores": [],
-      "sources": [
-        "Clash"
-      ],
-      "mentions": [
-        {
-          "source": "Clash",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "release_news",
-          "score": null,
-          "headline": "TV Priest On Their Cartoon Inspirations",
-          "link": "https://www.clashmusic.com/features/tv-priest-on-their-cartoon-inspirations/",
-          "published": "2026-11-09T13:57:22+00:00"
-        }
-      ],
-      "fans": 1264,
-      "star_power": 0.443,
-      "personal": 0.274,
-      "personal_reason": "Similar to The Murder Capital, Shame",
-      "coverage": 1.0,
-      "publications": [
-        "Clash"
-      ],
-      "popularity": 0.273,
-      "rank_score": 0.274,
-      "avg_score": null,
-      "discover_score": 0.225
-    },
-    {
-      "artist": "Parent Teacher",
-      "title": "Eight Cents",
-      "type": "single",
-      "genre": "Rock / Alternative / Indie",
-      "release_date": "2026-11-11",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Stereogum"
-      ],
-      "mentions": [
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "announcement",
-          "score": null,
-          "headline": "Parent Teacher Announces New EP Celestial Mom: Hear “Eight Cents”",
-          "link": "https://stereogum.com/2517665/parent-teacher-announces-new-ep-celestial-mom-hear-eight-cents/music/",
-          "published": "2026-11-11T20:25:20+00:00"
-        }
-      ],
-      "fans": 7,
-      "star_power": 0.129,
-      "personal": 0.235,
-      "personal_reason": "Similar to Grace Ives",
-      "coverage": 1.0,
-      "publications": [
-        "Stereogum"
-      ],
-      "popularity": 0.179,
-      "rank_score": 0.224,
-      "avg_score": null,
-      "discover_score": 0.223
-    },
-    {
-      "artist": "B0YG1RL",
-      "title": "i dont recall",
-      "type": "single",
-      "genre": "Rock / Alternative / Indie",
-      "release_date": "2026-11-09",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Stereogum"
-      ],
-      "mentions": [
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "B0YG1RL – “i dont recall” & “openinghearts”",
-          "link": "https://stereogum.com/2517160/b0yg1rl-i-dont-recall-openinghearts/music/",
-          "published": "2026-11-09T19:27:32+00:00"
-        }
-      ],
-      "fans": 411,
-      "star_power": 0.374,
-      "personal": 0.26,
-      "personal_reason": "Similar to Arca, M.I.A.",
-      "coverage": 1.0,
-      "publications": [
-        "Stereogum"
-      ],
-      "popularity": 0.252,
-      "rank_score": 0.258,
-      "avg_score": null,
-      "discover_score": 0.221
-    },
-    {
-      "artist": "B0YG1RL",
-      "title": "openinghearts",
-      "type": "single",
-      "genre": "Rock / Alternative / Indie",
-      "release_date": "2026-11-09",
-      "date_source": "feeds",
-      "scores": [],
-      "sources": [
-        "Stereogum"
-      ],
-      "mentions": [
-        {
-          "source": "Stereogum",
-          "source_type": "news",
-          "weight": 1.0,
-          "mention": "new_song",
-          "score": null,
-          "headline": "B0YG1RL – “i dont recall” & “openinghearts”",
-          "link": "https://stereogum.com/2517160/b0yg1rl-i-dont-recall-openinghearts/music/",
-          "published": "2026-11-09T19:27:32+00:00"
-        }
-      ],
-      "fans": 411,
-      "star_power": 0.374,
-      "personal": 0.26,
-      "personal_reason": "Similar to Arca, M.I.A.",
-      "coverage": 1.0,
-      "publications": [
-        "Stereogum"
-      ],
-      "popularity": 0.252,
-      "rank_score": 0.258,
-      "avg_score": null,
-      "discover_score": 0.221
+      "discover_score": 0.143
     }
   ],
   "by_genre": {
     "Pop": [
       {
-        "artist": "Ethel Cain & Robin Carolan",
-        "title": "Wynter Waxeth",
+        "artist": "Lana Del Rey",
+        "title": "Crazy for You",
         "type": "single",
         "genre": "Pop",
-        "release_date": "2026-11-13",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Consequence",
-          "Stereogum",
-          "The Needle Drop (website)"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Ethel Cain & Robin Carolan – “Wynter Waxeth”",
-            "link": "https://stereogum.com/2517871/ethel-cain-robin-carolan-wynter-waxeth-werwulf-robert-eggers/music/",
-            "published": "2026-11-13T16:42:02+00:00"
-          },
-          {
-            "source": "Consequence",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Ethel Cain and Composer Robin Carolan Share Brooding New Song “Wynter Waxeth” for Robert Eggers’ Werwulf: Stream",
-            "link": "https://consequence.net/2026/11/ethel-cain-robin-carolan-wynter-waxeth-werwulf-stream/",
-            "published": "2026-11-13T15:26:59+00:00"
-          },
-          {
-            "source": "The Needle Drop (website)",
-            "source_type": "reviews",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Ethel Cain collaborated with Robert Eggers for Werwulf Soundtrack",
-            "link": "https://theneedledrop.com/news/ethel-cain-collaborated-with-robert-eggers-for-werwulf-soundtrack/",
-            "published": "2026-10-28T16:45:11+00:00"
-          }
-        ],
-        "fans": 41166,
-        "star_power": 0.659,
-        "personal": 0.828,
-        "personal_reason": "You've played Ethel Cain 52 times",
-        "coverage": 3.0,
-        "publications": [
-          "Consequence",
-          "Stereogum",
-          "The Needle Drop"
-        ],
-        "popularity": 0.618,
-        "rank_score": 0.786,
-        "avg_score": null
-      },
-      {
-        "artist": "54 Ultra & Clairo",
-        "title": "Honeymoon",
-        "type": "single",
-        "genre": "Pop",
-        "release_date": "2026-11-13",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Stereogum"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "54 Ultra Shares Clairo Collab “Honeymoon”",
-            "link": "https://stereogum.com/2517941/54-ultra-clairo-collab-honeymoon/music/",
-            "published": "2026-11-13T18:43:40+00:00"
-          }
-        ],
-        "fans": 2032,
-        "star_power": 0.473,
-        "personal": 0.822,
-        "personal_reason": "You've played Clairo 47 times",
-        "coverage": 1.0,
-        "publications": [
-          "Stereogum"
-        ],
-        "popularity": 0.282,
-        "rank_score": 0.714,
-        "avg_score": null
-      },
-      {
-        "artist": "Tove Lo",
-        "title": "Blood In Your Eyes",
-        "type": "single",
-        "genre": "Pop",
-        "release_date": "2026-11-10",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "NME"
-        ],
-        "mentions": [
-          {
-            "source": "NME",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Tove Lo drops new single from ‘GTA 6’ soundtrack, ‘Blood In Your Eyes’",
-            "link": "https://www.nme.com/news/music/tove-lo-drops-new-single-from-gta-6-soundtrack-blood-in-your-eyes-3975584",
-            "published": "2026-11-10T16:00:58+00:00"
-          }
-        ],
-        "fans": 1668431,
-        "star_power": 0.889,
-        "personal": 0.257,
-        "personal_reason": "Similar to Carly Rae Jepsen, Charli xcx",
-        "coverage": 1.0,
-        "publications": [
-          "NME"
-        ],
-        "popularity": 0.407,
-        "rank_score": 0.287,
-        "avg_score": null
-      },
-      {
-        "artist": "Ralphie Choo",
-        "title": "El Hueso",
-        "type": "single",
-        "genre": "Pop",
-        "release_date": "2026-11-13",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Pitchfork (news)",
-          "The Needle Drop (website)"
-        ],
-        "mentions": [
-          {
-            "source": "The Needle Drop (website)",
-            "source_type": "reviews",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Ralphie Choo unveils new album ‘Charmain “Le grand architecte”’ and single “El Hueso”",
-            "link": "https://theneedledrop.com/news/ralphie-choo-charmain-le-grand-architecte-el-hueso/",
-            "published": "2026-11-13T19:46:17+00:00"
-          },
-          {
-            "source": "Pitchfork (news)",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Ralphie Choo Returns With New Album and Song",
-            "link": "https://pitchfork.com/story/ralphie-choo-returns-with-new-album-and-song/",
-            "published": "2026-11-12T23:03:19+00:00"
-          }
-        ],
-        "fans": 2827,
-        "star_power": 0.493,
-        "personal": 0.037,
-        "personal_reason": "Similar to Dean Blunt, Judeline",
-        "coverage": 2.0,
-        "publications": [
-          "Pitchfork",
-          "The Needle Drop"
-        ],
-        "popularity": 0.428,
-        "rank_score": 0.115,
-        "avg_score": null,
-        "discover_score": 0.03
-      },
-      {
-        "artist": "Arthur Hill",
-        "title": "Santa, Can I Borrow Your Sleigh",
-        "type": "single",
-        "genre": "Pop",
-        "release_date": "2026-11-13",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "uDiscover Music"
-        ],
-        "mentions": [
-          {
-            "source": "uDiscover Music",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "release_news",
-            "score": null,
-            "headline": "Arthur Hill Releases Christmas Single ‘Santa, Can I Borrow Your Sleigh’",
-            "link": "https://www.udiscovermusic.com/news/arthur-hill-santa-can-i-borrow-your-sleigh/",
-            "published": "2026-11-13T13:52:50+00:00"
-          }
-        ],
-        "fans": 695,
-        "star_power": 0.406,
-        "personal": 0.058,
-        "personal_reason": "Similar to Dominic Fike, Bella Kay",
-        "coverage": 1.0,
-        "publications": [
-          "uDiscover Music"
-        ],
-        "popularity": 0.262,
-        "rank_score": 0.099,
-        "avg_score": null,
-        "discover_score": 0.049
-      },
-      {
-        "artist": "Il Volo",
-        "title": "Our Christmas",
-        "type": "album",
-        "genre": "Pop",
-        "release_date": "2026-11-06",
-        "date_source": "musicbrainz",
-        "scores": [],
-        "sources": [
-          "Billboard"
-        ],
-        "mentions": [
-          {
-            "source": "Billboard",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "release_news",
-            "score": null,
-            "headline": "Il Volo Reflect on 18 Years Together, Their Christmas Traditions and What’s Next",
-            "link": "https://www.billboard.com/music/music-news/il-volo-our-christmas-billboard-italy-1236382101/",
-            "published": "2026-11-13T22:42:25+00:00"
-          }
-        ],
-        "fans": 159443,
-        "star_power": 0.743,
-        "personal": 0.0,
-        "personal_reason": "",
-        "coverage": 1.0,
-        "publications": [
-          "Billboard"
-        ],
-        "popularity": 0.363,
-        "rank_score": 0.073,
-        "avg_score": null
-      }
-    ],
-    "Hip-hop / R&B": [
-      {
-        "artist": "Ecco2k",
-        "title": "Echo",
-        "type": "album",
-        "genre": "Hip-hop / R&B",
-        "release_date": "2026-11-12",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Clash",
-          "Pitchfork (news)",
-          "The Needle Drop (website)"
-        ],
-        "mentions": [
-          {
-            "source": "Clash",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "announcement",
-            "score": null,
-            "headline": "Ecco2k Readies New Album ‘Echo’",
-            "link": "https://www.clashmusic.com/news/ecco2k-readies-new-album-echo/",
-            "published": "2026-11-11T13:29:13+00:00"
-          },
-          {
-            "source": "The Needle Drop (website)",
-            "source_type": "reviews",
-            "weight": 1.0,
-            "mention": "announcement",
-            "score": null,
-            "headline": "Ecco2k reveals new album 'Echo'",
-            "link": "https://theneedledrop.com/news/ecco2k-new-album-echo/",
-            "published": "2026-11-10T20:26:09+00:00"
-          },
-          {
-            "source": "Pitchfork (news)",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "announcement",
-            "score": null,
-            "headline": "Ecco2k Sets New Album Echo",
-            "link": "https://pitchfork.com/story/ecco2k-sets-new-album-echo/",
-            "published": "2026-11-10T19:02:53+00:00"
-          }
-        ],
-        "fans": 14518,
-        "star_power": 0.595,
-        "personal": 0.97,
-        "personal_reason": "You've played Ecco2K 637 times",
-        "coverage": 3.0,
-        "publications": [
-          "Clash",
-          "Pitchfork",
-          "The Needle Drop"
-        ],
-        "popularity": 0.598,
-        "rank_score": 0.896,
-        "avg_score": null
-      },
-      {
-        "artist": "Skepta",
-        "title": "The Fork and Knife",
-        "type": "album",
-        "genre": "Hip-hop / R&B",
-        "release_date": "2026-11-06",
-        "date_source": "deezer",
-        "scores": [],
-        "sources": [
-          "Pitchfork (album reviews)",
-          "Slant (music)"
-        ],
-        "mentions": [
-          {
-            "source": "Pitchfork (album reviews)",
-            "source_type": "reviews",
-            "weight": 1.0,
-            "mention": "review",
-            "score": null,
-            "headline": "The Fork and Knife",
-            "link": "https://pitchfork.com/reviews/albums/skepta-the-fork-and-knife/",
-            "published": "2026-11-09T05:03:00+00:00"
-          },
-          {
-            "source": "Slant (music)",
-            "source_type": "reviews",
-            "weight": 1.0,
-            "mention": "review",
-            "score": null,
-            "headline": "Skepta ‘The Fork and Knife’ Review: A U.K. Rap Vet Reckons with the Past",
-            "link": "https://www.slantmagazine.com/music/skepta-the-fork-and-knife-album-review/",
-            "published": "2026-11-07T19:40:28+00:00"
-          }
-        ],
-        "fans": 351380,
-        "star_power": 0.792,
-        "personal": 0.759,
-        "personal_reason": "You've played Skepta 90 times",
-        "coverage": 2.0,
-        "publications": [
-          "Pitchfork",
-          "Slant"
-        ],
-        "popularity": 0.518,
-        "rank_score": 0.711,
-        "avg_score": null
-      },
-      {
-        "artist": "Armand Hammer",
-        "title": "Snakes & Ladders",
-        "type": "album",
-        "genre": "Hip-hop / R&B",
-        "release_date": "2026-11-11",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Pitchfork (news)",
-          "Stereogum",
-          "The Needle Drop (website)"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "release_news",
-            "score": null,
-            "headline": "Armand Hammer Release Surprise Album Snakes & Ladders",
-            "link": "https://stereogum.com/2517597/armand-hammer-release-surprise-album-snakes-ladders/music/",
-            "published": "2026-11-11T15:10:09+00:00"
-          },
-          {
-            "source": "Pitchfork (news)",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "release_news",
-            "score": null,
-            "headline": "Armand Hammer Surprise-Release New Album, Snakes & Ladders",
-            "link": "https://pitchfork.com/story/armand-hammer-surprise-release-new-album-snakes-and-ladders/",
-            "published": "2026-11-11T14:01:11+00:00"
-          },
-          {
-            "source": "The Needle Drop (website)",
-            "source_type": "reviews",
-            "weight": 1.0,
-            "mention": "release_news",
-            "score": null,
-            "headline": "Armand Hammer drop surprise album",
-            "link": "https://theneedledrop.com/news/armand-hammer-drop-surprise-album/",
-            "published": "2026-11-11T12:38:15+00:00"
-          }
-        ],
-        "fans": 3814,
-        "star_power": 0.512,
-        "personal": 0.721,
-        "personal_reason": "You've played Armand Hammer 46 times",
-        "coverage": 3.0,
-        "publications": [
-          "Pitchfork",
-          "Stereogum",
-          "The Needle Drop"
-        ],
-        "popularity": 0.574,
-        "rank_score": 0.692,
-        "avg_score": null
-      },
-      {
-        "artist": "IDK",
-        "title": "WELCOME",
-        "type": "single",
-        "genre": "Hip-hop / R&B",
-        "release_date": "2026-11-13",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Consequence",
-          "Rolling Stone (music)",
-          "Stereogum",
-          "uDiscover Music"
-        ],
-        "mentions": [
-          {
-            "source": "Consequence",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "IDK Taps Eminem for J Dilla-Produced New Song “WELCOME”: Stream",
-            "link": "https://consequence.net/2026/11/idk-eminem-j-dilla-new-song-welcome/",
-            "published": "2026-11-13T17:31:27+00:00"
-          },
-          {
-            "source": "Rolling Stone (music)",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "IDK Brings Together Eminem and J Dilla for First Time on New Song ‘Welcome’",
-            "link": "https://www.rollingstone.com/music/music-news/idk-eminem-j-dilla-new-song-welcome-1235657529/",
-            "published": "2026-11-13T16:56:34+00:00"
-          },
-          {
-            "source": "uDiscover Music",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "announcement",
-            "score": null,
-            "headline": "IDK Announces Eminem Collaboration ‘WELCOME,’ Produced by J Dilla",
-            "link": "https://www.udiscovermusic.com/news/idk-eminem-j-dilla-welcome/",
-            "published": "2026-11-13T16:31:05+00:00"
-          },
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "IDK – “Welcome” (Feat. Eminem & Prod. J Dilla)",
-            "link": "https://stereogum.com/2517907/idk-welcome-feat-eminem-prod-j-dilla/music/",
-            "published": "2026-11-13T16:14:17+00:00"
-          }
-        ],
-        "fans": 13960,
-        "star_power": 0.592,
-        "personal": 0.563,
-        "personal_reason": "You've played IDK 2 times",
-        "coverage": 4.0,
-        "publications": [
-          "Consequence",
-          "Rolling Stone",
-          "Stereogum",
-          "uDiscover Music"
-        ],
-        "popularity": 0.738,
-        "rank_score": 0.598,
-        "avg_score": null
-      },
-      {
-        "artist": "Veeze",
-        "title": "guillermoandrade",
-        "type": "single",
-        "genre": "Hip-hop / R&B",
-        "release_date": "2026-11-13",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Stereogum",
-          "The Needle Drop (website)"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Veeze – “guillermoandrade”",
-            "link": "https://stereogum.com/2517955/veeze-guillermoandrade/music/",
-            "published": "2026-11-13T18:52:53+00:00"
-          },
-          {
-            "source": "The Needle Drop (website)",
-            "source_type": "reviews",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Veeze shares new single \"guillermoandrade\"",
-            "link": "https://theneedledrop.com/news/veeze-shares-new-single-guillermoandrade/",
-            "published": "2026-11-13T17:28:28+00:00"
-          }
-        ],
-        "fans": 6340,
-        "star_power": 0.543,
-        "personal": 0.54,
-        "personal_reason": "You've played Veeze 1 time",
-        "coverage": 2.0,
-        "publications": [
-          "Stereogum",
-          "The Needle Drop"
-        ],
-        "popularity": 0.443,
-        "rank_score": 0.521,
-        "avg_score": null
-      },
-      {
-        "artist": "Leon Thomas",
-        "title": "TROPHY",
-        "type": "single",
-        "genre": "Hip-hop / R&B",
-        "release_date": "2026-11-13",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "uDiscover Music"
-        ],
-        "mentions": [
-          {
-            "source": "uDiscover Music",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Listen to Leon Thomas’ New Single ‘TROPHY’",
-            "link": "https://www.udiscovermusic.com/news/leon-thomas-trophy/",
-            "published": "2026-11-13T13:56:58+00:00"
-          }
-        ],
-        "fans": 41293,
-        "star_power": 0.659,
-        "personal": 0.54,
-        "personal_reason": "You've played Leon Thomas 1 time",
-        "coverage": 1.0,
-        "publications": [
-          "uDiscover Music"
-        ],
-        "popularity": 0.338,
-        "rank_score": 0.5,
-        "avg_score": null
-      }
-    ],
-    "Rock / Alternative / Indie": [
-      {
-        "artist": "yeule",
-        "title": "Lovepill",
-        "type": "single",
-        "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-11-13",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Stereogum"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "yeule – “Lovepill”",
-            "link": "https://stereogum.com/2517963/yeule-lovepill/music/",
-            "published": "2026-11-13T19:03:58+00:00"
-          }
-        ],
-        "fans": 9974,
-        "star_power": 0.571,
-        "personal": 0.857,
-        "personal_reason": "You've played yeule 87 times",
-        "coverage": 1.0,
-        "publications": [
-          "Stereogum"
-        ],
-        "popularity": 0.311,
-        "rank_score": 0.748,
-        "avg_score": null
-      },
-      {
-        "artist": "Sufjan Stevens",
-        "title": "Worst Christmas Ever!",
-        "type": "album",
-        "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-11-06",
-        "date_source": "musicbrainz",
-        "scores": [],
-        "sources": [
-          "Pitchfork (album reviews)"
-        ],
-        "mentions": [
-          {
-            "source": "Pitchfork (album reviews)",
-            "source_type": "reviews",
-            "weight": 1.0,
-            "mention": "review",
-            "score": null,
-            "headline": "Worst Christmas Ever!",
-            "link": "https://pitchfork.com/reviews/albums/sufjan-stevens-worst-christmas-ever/",
-            "published": "2026-11-11T05:03:00+00:00"
-          }
-        ],
-        "fans": 273258,
-        "star_power": 0.777,
-        "personal": 0.827,
-        "personal_reason": "You've played Sufjan Stevens 51 times",
-        "coverage": 1.0,
-        "publications": [
-          "Pitchfork"
-        ],
-        "popularity": 0.373,
-        "rank_score": 0.736,
-        "avg_score": null
-      },
-      {
-        "artist": "Quiet Light",
-        "title": "Forever",
-        "type": "single",
-        "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-11-11",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Clash",
-          "Stereogum"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Quiet Light – “Forever”",
-            "link": "https://stereogum.com/2517616/quiet-light-forever/music/",
-            "published": "2026-11-11T16:35:52+00:00"
-          },
-          {
-            "source": "Clash",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Quiet Light Shares New Single ‘Forever’",
-            "link": "https://www.clashmusic.com/news/quiet-light-shares-new-single-forever/",
-            "published": "2026-11-11T14:13:22+00:00"
-          }
-        ],
-        "fans": 330,
-        "star_power": 0.36,
-        "personal": 0.737,
-        "personal_reason": "You've played Quiet Light 10 times",
-        "coverage": 2.0,
-        "publications": [
-          "Clash",
-          "Stereogum"
-        ],
-        "popularity": 0.388,
-        "rank_score": 0.667,
-        "avg_score": null
-      },
-      {
-        "artist": "Fall Out Boy",
-        "title": "ACES",
-        "type": "single",
-        "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-11-09",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Consequence",
-          "Rolling Stone (music)",
-          "The Needle Drop (website)"
-        ],
-        "mentions": [
-          {
-            "source": "Consequence",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Fall Out Boy Announce 2027 Tour With The Offspring and Good Charlotte",
-            "link": "https://consequence.net/2026/11/fall-out-boy-2027-tour-the-offspring-good-charlotte/",
-            "published": "2026-11-09T19:05:42+00:00"
-          },
-          {
-            "source": "Rolling Stone (music)",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "announcement",
-            "score": null,
-            "headline": "Fall Out Boy Announce Biggest Tour Yet — and New Single ‘Aces’",
-            "link": "https://www.rollingstone.com/music/music-features/fall-out-boy-interview-tour-dates-new-single-aces-1235654708/",
-            "published": "2026-11-09T18:30:00+00:00"
-          },
-          {
-            "source": "The Needle Drop (website)",
-            "source_type": "reviews",
-            "weight": 1.0,
-            "mention": "announcement",
-            "score": null,
-            "headline": "Fall Out Boy announce first new single in three years, rumored 2027 stadium tour with The Offspring",
-            "link": "https://theneedledrop.com/news/fall-out-boy-announces-first-new-single-in-three-years-rumore2027-stadium-tour-with-the-offspring/",
-            "published": "2026-11-06T20:10:48+00:00"
-          }
-        ],
-        "fans": 2621745,
-        "star_power": 0.917,
-        "personal": 0.563,
-        "personal_reason": "You've played Fall Out Boy 2 times",
-        "coverage": 3.0,
-        "publications": [
-          "Consequence",
-          "Rolling Stone",
-          "The Needle Drop"
-        ],
-        "popularity": 0.695,
-        "rank_score": 0.589,
-        "avg_score": null
-      },
-      {
-        "artist": "King Gizzard & The Lizard Wizard",
-        "title": "Rogue Wave",
-        "type": "single",
-        "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-11-12",
-        "date_source": "deezer",
-        "scores": [],
-        "sources": [
-          "Stereogum"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "King Gizzard & The Lizard Wizard Announce New Album Entropy: Hear “Rogue Wave”",
-            "link": "https://stereogum.com/2517043/king-gizzard-the-lizard-wizard-announce-new-album-entropy-hear-rogue-wave/music/",
-            "published": "2026-11-10T17:04:39+00:00"
-          }
-        ],
-        "fans": 0,
-        "star_power": 0.0,
-        "personal": 0.666,
-        "personal_reason": "You've played King Gizzard & The Lizard Wizard 17 times",
-        "coverage": 1.0,
-        "publications": [
-          "Stereogum"
-        ],
-        "popularity": 0.14,
-        "rank_score": 0.561,
-        "avg_score": null
-      },
-      {
-        "artist": "Dirty Projectors",
-        "title": "Jumbotron",
-        "type": "single",
-        "genre": "Rock / Alternative / Indie",
-        "release_date": "2026-11-10",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Stereogum",
-          "The Needle Drop (website)"
-        ],
-        "mentions": [
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Dirty Projectors – “Jumbotron”",
-            "link": "https://stereogum.com/2517236/dirty-projectors-jumbotron/music/",
-            "published": "2026-11-10T15:51:49+00:00"
-          },
-          {
-            "source": "The Needle Drop (website)",
-            "source_type": "reviews",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Dirty Projectors release new song \"Jumbotron,\" announce solo spring tour",
-            "link": "https://theneedledrop.com/news/dirty-projectors-release-new-song-jumbotron-announce-solo-spring-tour/",
-            "published": "2026-11-10T15:30:20+00:00"
-          }
-        ],
-        "fans": 17670,
-        "star_power": 0.607,
-        "personal": 0.563,
-        "personal_reason": "You've played Dirty Projectors 2 times",
-        "coverage": 2.0,
-        "publications": [
-          "Stereogum",
-          "The Needle Drop"
-        ],
-        "popularity": 0.462,
-        "rank_score": 0.543,
-        "avg_score": null
-      }
-    ],
-    "Electronic / Dance": [
-      {
-        "artist": "Oklou",
-        "title": "The Swirl Ahead",
-        "type": "single",
-        "genre": "Electronic / Dance",
-        "release_date": "2026-11-11",
-        "date_source": "feeds",
-        "scores": [],
-        "sources": [
-          "Pitchfork (news)",
-          "Slant (music)",
-          "Stereogum"
-        ],
-        "mentions": [
-          {
-            "source": "Slant (music)",
-            "source_type": "reviews",
-            "weight": 1.0,
-            "mention": "release_news",
-            "score": null,
-            "headline": "Oklou Paddles Out with New Film Score for Netflix’s ‘In Waves’",
-            "link": "https://www.slantmagazine.com/music/oklou-in-waves-score-the-swirl-ahead/",
-            "published": "2026-11-11T16:43:20+00:00"
-          },
-          {
-            "source": "Pitchfork (news)",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "release_news",
-            "score": null,
-            "headline": "Oklou Scored a New Animated Film",
-            "link": "https://pitchfork.com/story/oklou-scored-a-new-animated-film/",
-            "published": "2026-11-11T16:12:22+00:00"
-          },
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "new_song",
-            "score": null,
-            "headline": "Oklou Announces In Waves Soundtrack: Hear “the swirl ahead”",
-            "link": "https://stereogum.com/2517570/oklou-in-waves-movie-soundtrack-score-the-swirl-ahead-rob/music/",
-            "published": "2026-11-11T14:28:56+00:00"
-          }
-        ],
-        "fans": 35073,
-        "star_power": 0.649,
-        "personal": 0.879,
-        "personal_reason": "You've played Oklou 130 times",
-        "coverage": 3.0,
-        "publications": [
-          "Pitchfork",
-          "Slant",
-          "Stereogum"
-        ],
-        "popularity": 0.615,
-        "rank_score": 0.826,
-        "avg_score": null
-      },
-      {
-        "artist": "2hollis",
-        "title": "Pirouette",
-        "type": "album",
-        "genre": "Electronic / Dance",
-        "release_date": "2026-11-11",
-        "date_source": "deezer",
-        "scores": [],
-        "sources": [
-          "Stereogum",
-          "uDiscover Music"
-        ],
-        "mentions": [
-          {
-            "source": "uDiscover Music",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "release_news",
-            "score": null,
-            "headline": "Listen to 2hollis’ New Album ‘Pirouette’",
-            "link": "https://www.udiscovermusic.com/news/2hollis-pirouette-out-now/",
-            "published": "2026-11-12T13:53:02+00:00"
-          },
-          {
-            "source": "Stereogum",
-            "source_type": "news",
-            "weight": 1.0,
-            "mention": "release_news",
-            "score": null,
-            "headline": "Stream 2hollis’ Genre-Bending New Album Pirouette, Featuring Writing And Production From Mk.gee",
-            "link": "https://stereogum.com/2517631/stream-2hollis-genre-bending-new-album-pirouette-featuring-writing-and-production-from-mk-gee/music/",
-            "published": "2026-11-11T18:25:13+00:00"
-          }
-        ],
-        "fans": 14123,
-        "star_power": 0.593,
-        "personal": 0.702,
-        "personal_reason": "You've played 2hollis 33 times",
-        "coverage": 2.0,
-        "publications": [
-          "Stereogum",
-          "uDiscover Music"
-        ],
-        "popularity": 0.458,
-        "rank_score": 0.653,
-        "avg_score": null
-      },
-      {
-        "artist": "Shygirl",
-        "title": "Club Kid Companion",
-        "type": "ep",
-        "genre": "Electronic / Dance",
-        "release_date": "2026-11-13",
+        "release_date": "2026-11-20",
         "date_source": "feeds",
         "scores": [],
         "sources": [
@@ -1660,29 +808,337 @@
             "weight": 1.0,
             "mention": "release_news",
             "score": null,
-            "headline": "Shygirl, Brutalismus 3000, Nirosta Steel Feature on Club Kid Companion EP",
-            "link": "https://pitchfork.com/story/shygirl-brutalismus-3000-nirosta-steel-feature-on-club-kid-ep/",
-            "published": "2026-11-13T16:59:26+00:00"
+            "headline": "Lana Del Rey’s “Crazy for You” Gets Official Release for GTA VI",
+            "link": "https://pitchfork.com/story/lana-del-reys-crazy-for-you-gets-official-release-for-gta-vi/",
+            "published": "2026-11-20T15:42:36+00:00"
           }
         ],
-        "fans": 26006,
-        "star_power": 0.631,
-        "personal": 0.888,
-        "personal_reason": "You've played Shygirl 152 times",
+        "fans": 5854555,
+        "star_power": 0.967,
+        "personal": 0.796,
+        "personal_reason": "You've played Lana Del Rey 174 times",
         "coverage": 1.0,
         "publications": [
           "Pitchfork"
         ],
-        "popularity": 0.329,
-        "rank_score": 0.621,
+        "popularity": 0.43,
+        "rank_score": 0.723,
         "avg_score": null
       },
       {
-        "artist": "DJ Sabrina The Teenage DJ",
-        "title": "Be (With You)",
+        "artist": "Chvrches",
+        "title": "Evil",
         "type": "single",
-        "genre": "Electronic / Dance",
-        "release_date": "2026-11-09",
+        "genre": "Pop",
+        "release_date": "2026-11-20",
+        "date_source": "deezer",
+        "scores": [],
+        "sources": [
+          "Consequence",
+          "NME",
+          "Stereogum"
+        ],
+        "mentions": [
+          {
+            "source": "NME",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Chvrches share tongue-in-cheek new single ‘Evil’ and announce UK album launch shows in churches",
+            "link": "https://www.nme.com/news/music/chvrches-release-new-single-evil-announce-uk-album-launch-shows-buy-tickets-3976473",
+            "published": "2026-11-19T18:08:32+00:00"
+          },
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Chvrches – “Evil”",
+            "link": "https://stereogum.com/2518560/chvrches-evil/music/",
+            "published": "2026-11-18T19:04:10+00:00"
+          },
+          {
+            "source": "Consequence",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "CHVRCHES Add New US Tour Dates, Share New Song “Evil”: Stream",
+            "link": "https://consequence.net/2026/11/chvrches-new-us-tour-dates-new-song-evil-stream/",
+            "published": "2026-11-18T17:50:38+00:00"
+          }
+        ],
+        "fans": 184668,
+        "star_power": 0.752,
+        "personal": 0.081,
+        "personal_reason": "Similar to Metric, Grimes",
+        "coverage": 3.0,
+        "publications": [
+          "Consequence",
+          "NME",
+          "Stereogum"
+        ],
+        "popularity": 0.646,
+        "rank_score": 0.194,
+        "avg_score": null
+      },
+      {
+        "artist": "Cikho",
+        "title": "stargazer",
+        "type": "album",
+        "genre": "Pop",
+        "release_date": "2026-11-20",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "uDiscover Music"
+        ],
+        "mentions": [
+          {
+            "source": "uDiscover Music",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "release_news",
+            "score": null,
+            "headline": "Cikho Releases Debut Project ‘stargazer’",
+            "link": "https://www.udiscovermusic.com/news/cikho-stargazer/",
+            "published": "2026-11-20T19:02:04+00:00"
+          }
+        ],
+        "fans": 803,
+        "star_power": 0.415,
+        "personal": 0.108,
+        "personal_reason": "Similar to Steve Lacy, LiIM",
+        "coverage": 1.0,
+        "publications": [
+          "uDiscover Music"
+        ],
+        "popularity": 0.264,
+        "rank_score": 0.139,
+        "avg_score": null,
+        "discover_score": 0.09
+      },
+      {
+        "artist": "Jamie Miller",
+        "title": "It's Beginning To Look A Lot Like Christmas",
+        "type": "single",
+        "genre": "Pop",
+        "release_date": "2026-11-20",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "uDiscover Music"
+        ],
+        "mentions": [
+          {
+            "source": "uDiscover Music",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Listen to Jamie Miller’s New Christmas Cover",
+            "link": "https://www.udiscovermusic.com/news/jamie-miller-its-beginning-to-look-a-lot-like-christmas/",
+            "published": "2026-11-20T18:55:23+00:00"
+          }
+        ],
+        "fans": 10558,
+        "star_power": 0.575,
+        "personal": 0.0,
+        "personal_reason": "",
+        "coverage": 1.0,
+        "publications": [
+          "uDiscover Music"
+        ],
+        "popularity": 0.312,
+        "rank_score": 0.062,
+        "avg_score": null
+      }
+    ],
+    "Hip-hop / R&B": [
+      {
+        "artist": "Erika de Casier",
+        "title": "Whispers",
+        "type": "single",
+        "genre": "Hip-hop / R&B",
+        "release_date": "2026-11-18",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Pitchfork (news)",
+          "Pitchfork (track reviews)",
+          "Stereogum"
+        ],
+        "mentions": [
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Erika de Casier – “Whispers”",
+            "link": "https://stereogum.com/2518584/erika-de-casier-whispers/music/",
+            "published": "2026-11-18T20:39:13+00:00"
+          },
+          {
+            "source": "Pitchfork (track reviews)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "review",
+            "score": null,
+            "headline": "“Whispers”",
+            "link": "https://pitchfork.com/reviews/tracks/erika-de-casier-whispers/",
+            "published": "2026-11-18T19:02:22+00:00"
+          },
+          {
+            "source": "Pitchfork (news)",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Listen to Erika de Casier’s New Song “Whispers”",
+            "link": "https://pitchfork.com/story/listen-to-erika-de-casiers-new-song-whispers/",
+            "published": "2026-11-18T15:49:12+00:00"
+          }
+        ],
+        "fans": 5064,
+        "star_power": 0.529,
+        "personal": 0.818,
+        "personal_reason": "You've played Erika de Casier 44 times",
+        "coverage": 2.0,
+        "publications": [
+          "Pitchfork",
+          "Stereogum"
+        ],
+        "popularity": 0.439,
+        "rank_score": 0.742,
+        "avg_score": null
+      },
+      {
+        "artist": "Erika de Casier",
+        "title": "Whisper",
+        "type": "single",
+        "genre": "Hip-hop / R&B",
+        "release_date": "2026-11-19",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "The Needle Drop (website)"
+        ],
+        "mentions": [
+          {
+            "source": "The Needle Drop (website)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Erika de Casier releases new single",
+            "link": "https://theneedledrop.com/news/erika-de-casier-new-single-whisper/",
+            "published": "2026-11-19T00:44:22+00:00"
+          }
+        ],
+        "fans": 5064,
+        "star_power": 0.529,
+        "personal": 0.818,
+        "personal_reason": "You've played Erika de Casier 44 times",
+        "coverage": 1.0,
+        "publications": [
+          "The Needle Drop"
+        ],
+        "popularity": 0.299,
+        "rank_score": 0.714,
+        "avg_score": null
+      },
+      {
+        "artist": "Westside Gunn",
+        "title": "HEELMATIC",
+        "type": "album",
+        "genre": "Hip-hop / R&B",
+        "release_date": "2026-11-13",
+        "date_source": "musicbrainz",
+        "scores": [
+          7
+        ],
+        "sources": [
+          "The Needle Drop (YouTube)",
+          "The Needle Drop (website)"
+        ],
+        "mentions": [
+          {
+            "source": "The Needle Drop (website)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "review",
+            "score": 7,
+            "headline": "Westside Gunn - HEELMATIC",
+            "link": "https://theneedledrop.com/album-reviews/westside-gunn-heelmatic-album-review-kc6yycppiyy/",
+            "published": "2026-11-20T15:03:15+00:00"
+          },
+          {
+            "source": "The Needle Drop (YouTube)",
+            "source_type": "video",
+            "weight": 1.0,
+            "mention": "review",
+            "score": null,
+            "headline": "Westside Gunn - Heelmatic ALBUM REVIEW",
+            "link": "https://www.youtube.com/watch?v=kC6YyCppiyY",
+            "published": "2026-11-18T21:08:21+00:00"
+          }
+        ],
+        "fans": 56200,
+        "star_power": 0.679,
+        "personal": 0.796,
+        "personal_reason": "You've played Westside Gunn 174 times",
+        "coverage": 1.0,
+        "publications": [
+          "The Needle Drop"
+        ],
+        "popularity": 0.344,
+        "rank_score": 0.706,
+        "avg_score": 7.0
+      },
+      {
+        "artist": "Ledbyher",
+        "title": "MIDWINTER",
+        "type": "ep",
+        "genre": "Hip-hop / R&B",
+        "release_date": "2026-11-20",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "uDiscover Music"
+        ],
+        "mentions": [
+          {
+            "source": "uDiscover Music",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "announcement",
+            "score": null,
+            "headline": "Hear Ledbyher’s New EP ‘MIDWINTER’",
+            "link": "https://www.udiscovermusic.com/news/ledbyher-midwinter/",
+            "published": "2026-11-20T19:08:07+00:00"
+          }
+        ],
+        "fans": 577,
+        "star_power": 0.395,
+        "personal": 0.816,
+        "personal_reason": "You've played Ledbyher 42 times",
+        "coverage": 1.0,
+        "publications": [
+          "uDiscover Music"
+        ],
+        "popularity": 0.258,
+        "rank_score": 0.564,
+        "avg_score": null
+      },
+      {
+        "artist": "Tems",
+        "title": "African Love Story",
+        "type": "single",
+        "genre": "Hip-hop / R&B",
+        "release_date": "2026-11-20",
         "date_source": "feeds",
         "scores": [],
         "sources": [
@@ -1695,91 +1151,637 @@
             "weight": 1.0,
             "mention": "new_song",
             "score": null,
-            "headline": "DJ Sabrina The Teenage DJ – “Be (With You)”",
-            "link": "https://stereogum.com/2517153/dj-sabrina-the-teenage-dj-be-with-you/music/",
-            "published": "2026-11-09T19:09:42+00:00"
+            "headline": "Tems – “African Love Story”",
+            "link": "https://stereogum.com/2518836/tems-african-love-story/music/",
+            "published": "2026-11-20T15:04:51+00:00"
           }
         ],
-        "fans": 623,
-        "star_power": 0.399,
-        "personal": 0.675,
-        "personal_reason": "You've played DJ Sabrina The Teenage DJ 20 times",
+        "fans": 273167,
+        "star_power": 0.777,
+        "personal": 0.223,
+        "personal_reason": "Similar to Burna Boy, Coco Jones",
         "coverage": 1.0,
         "publications": [
           "Stereogum"
         ],
-        "popularity": 0.26,
-        "rank_score": 0.592,
+        "popularity": 0.373,
+        "rank_score": 0.253,
         "avg_score": null
       },
       {
-        "artist": "Austra",
-        "title": "Bittersweet",
+        "artist": "Brittany Howard & Robert Glasper",
+        "title": "Makings Of Tomorrow",
+        "type": "single",
+        "genre": "Hip-hop / R&B",
+        "release_date": "2026-11-19",
+        "date_source": "deezer",
+        "scores": [],
+        "sources": [
+          "Stereogum",
+          "uDiscover Music"
+        ],
+        "mentions": [
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Brittany Howard & Robert Glasper – “Makings Of Tomorrow”",
+            "link": "https://stereogum.com/2518854/brittany-howard-robert-glasper-makings-of-tomorrow/music/",
+            "published": "2026-11-20T17:17:48+00:00"
+          },
+          {
+            "source": "uDiscover Music",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "release_news",
+            "score": null,
+            "headline": "Brittany Howard and Robert Glasper Release ‘Makings of Tomorrow’",
+            "link": "https://www.udiscovermusic.com/news/brittany-howard-robert-glasper-makings-of-tomorrow/",
+            "published": "2026-11-20T14:03:37+00:00"
+          }
+        ],
+        "fans": 12703,
+        "star_power": 0.586,
+        "personal": 0.144,
+        "personal_reason": "Similar to Moses Sumney, Sampha",
+        "coverage": 2.0,
+        "publications": [
+          "Stereogum",
+          "uDiscover Music"
+        ],
+        "popularity": 0.456,
+        "rank_score": 0.206,
+        "avg_score": null,
+        "discover_score": 0.11
+      }
+    ],
+    "Rock / Alternative / Indie": [
+      {
+        "artist": "Phoebe Bridgers",
+        "title": "Anything",
+        "type": "single",
+        "genre": "Rock / Alternative / Indie",
+        "release_date": "2026-11-19",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "NME",
+          "Pitchfork (news)",
+          "Rolling Stone (music)",
+          "Stereogum"
+        ],
+        "mentions": [
+          {
+            "source": "Pitchfork (news)",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Phoebe Bridgers Covers Adrianne Lenker’s “Anything” for the Holidays",
+            "link": "https://pitchfork.com/story/phoebe-bridgers-covers-adrianne-lenkers-anything-for-the-holidays/",
+            "published": "2026-11-19T17:13:14+00:00"
+          },
+          {
+            "source": "NME",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Check out Phoebe Bridgers’ cosy festive cover of Adrianne Lenker’s ‘Anything’",
+            "link": "https://www.nme.com/news/music/phoebe-bridgers-releases-festive-cover-of-adrianne-lenkers-anything-listen-3976434",
+            "published": "2026-11-19T16:09:13+00:00"
+          },
+          {
+            "source": "Rolling Stone (music)",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Rejoice: Phoebe Bridgers Rings in the Holidays With an Adrianne Lenker Cover",
+            "link": "https://www.rollingstone.com/music/music-news/phoebe-bridgers-adrianne-lenker-holiday-cover-1235660592/",
+            "published": "2026-11-19T15:35:08+00:00"
+          },
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Phoebe Bridgers – “Anything” (Adrianne Lenker Cover)",
+            "link": "https://stereogum.com/2518664/phoebe-bridgers-anything-adrianne-lenker-cover/music/",
+            "published": "2026-11-19T15:32:10+00:00"
+          }
+        ],
+        "fans": 209777,
+        "star_power": 0.76,
+        "personal": 0.707,
+        "personal_reason": "You've played Phoebe Bridgers 36 times",
+        "coverage": 4.0,
+        "publications": [
+          "NME",
+          "Pitchfork",
+          "Rolling Stone",
+          "Stereogum"
+        ],
+        "popularity": 0.788,
+        "rank_score": 0.723,
+        "avg_score": null
+      },
+      {
+        "artist": "The Strokes",
+        "title": "Lonely in the Future",
+        "type": "single",
+        "genre": "Rock / Alternative / Indie",
+        "release_date": "2026-11-16",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "NME",
+          "The Needle Drop (website)"
+        ],
+        "mentions": [
+          {
+            "source": "The Needle Drop (website)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "My Response to The Strokes Music Video",
+            "link": "https://theneedledrop.com/opinion/my-response-to-the-strokes-music-video-8r54x-ssix4/",
+            "published": "2026-11-16T14:05:42+00:00"
+          },
+          {
+            "source": "NME",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "release_news",
+            "score": null,
+            "headline": "Watch The Strokes hit out at Elon Musk and billionaire class in ‘Spitting Image’ puppet-filled ‘Lonely in the Future’ video",
+            "link": "https://www.nme.com/news/music/watch-the-strokes-hit-out-at-elon-musk-and-billionaire-class-in-spitting-image-puppet-filled-lonely-in-the-future-video-3975458",
+            "published": "2026-11-09T14:04:14+00:00"
+          }
+        ],
+        "fans": 1762463,
+        "star_power": 0.892,
+        "personal": 0.642,
+        "personal_reason": "You've played The Strokes 11 times",
+        "coverage": 2.0,
+        "publications": [
+          "NME",
+          "The Needle Drop"
+        ],
+        "popularity": 0.548,
+        "rank_score": 0.623,
+        "avg_score": null
+      },
+      {
+        "artist": "Julien Baker",
+        "title": "Hound",
+        "type": "single",
+        "genre": "Rock / Alternative / Indie",
+        "release_date": "2026-11-17",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "NME",
+          "Pitchfork (news)",
+          "Slant (music)",
+          "Stereogum",
+          "The Needle Drop (website)"
+        ],
+        "mentions": [
+          {
+            "source": "Slant (music)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Julien Baker Drops New Track “Hound,” from Upcoming Album ‘This World or the Next’",
+            "link": "https://www.slantmagazine.com/music/julien-baker-hound-this-world-or-the-next/",
+            "published": "2026-11-17T17:42:15+00:00"
+          },
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Julien Baker Announces New Album This World Or The Next: Hear “Hound”",
+            "link": "https://stereogum.com/2518378/julien-baker-announces-new-album-this-world-or-the-next-hear-hound/music/",
+            "published": "2026-11-17T15:07:47+00:00"
+          },
+          {
+            "source": "The Needle Drop (website)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Julien Baker announces new album ‘This World or the Next,’ shares new single “Hound”",
+            "link": "https://theneedledrop.com/news/julien-baker-announces-new-album-this-world-or-the-next-shares-new-single-hound/",
+            "published": "2026-11-17T15:00:17+00:00"
+          },
+          {
+            "source": "NME",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Julien Baker announces new album ‘This World Or The Next’ with epic single ‘Hound’",
+            "link": "https://www.nme.com/news/music/julien-baker-announces-new-album-this-world-or-the-next-with-epic-single-hound-3976206",
+            "published": "2026-11-17T15:00:12+00:00"
+          },
+          {
+            "source": "Pitchfork (news)",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "announcement",
+            "score": null,
+            "headline": "Julien Baker Lines Up New Album This World or the Next",
+            "link": "https://pitchfork.com/story/julien-baker-lines-up-new-album-this-world-or-the-next/",
+            "published": "2026-11-17T15:00:00+00:00"
+          }
+        ],
+        "fans": 31712,
+        "star_power": 0.643,
+        "personal": 0.54,
+        "personal_reason": "You've played Julien Baker 1 time",
+        "coverage": 5.0,
+        "publications": [
+          "NME",
+          "Pitchfork",
+          "Slant",
+          "Stereogum",
+          "The Needle Drop"
+        ],
+        "popularity": 0.893,
+        "rank_score": 0.611,
+        "avg_score": null
+      },
+      {
+        "artist": "Touché Amoré",
+        "title": "(I Can't Get Out Of) My Own Way",
+        "type": "single",
+        "genre": "Rock / Alternative / Indie",
+        "release_date": "2026-11-18",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Consequence",
+          "Stereogum",
+          "The Needle Drop (website)"
+        ],
+        "mentions": [
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Touché Amoré – “(I Can’t Get Out Of) My Own Way”",
+            "link": "https://stereogum.com/2518593/touche-amore-cant-get-out-of-my-own-way/music/",
+            "published": "2026-11-18T20:41:57+00:00"
+          },
+          {
+            "source": "Consequence",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Touché Amoré Announce 2027 US Tour Dates, Unleash “(I Can’t Get Out Of) My Own Way”: Stream",
+            "link": "https://consequence.net/2026/11/touche-amore-spring-2027-tour-my-own-way/",
+            "published": "2026-11-18T19:17:02+00:00"
+          },
+          {
+            "source": "The Needle Drop (website)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Touché Amoré release new single and tour dates",
+            "link": "https://theneedledrop.com/news/touche-amore-new-single-and-tour-dates/",
+            "published": "2026-11-18T16:00:06+00:00"
+          }
+        ],
+        "fans": 18745,
+        "star_power": 0.61,
+        "personal": 0.579,
+        "personal_reason": "You've played Touché Amoré 3 times",
+        "coverage": 3.0,
+        "publications": [
+          "Consequence",
+          "Stereogum",
+          "The Needle Drop"
+        ],
+        "popularity": 0.603,
+        "rank_score": 0.584,
+        "avg_score": null
+      },
+      {
+        "artist": "Ambrose Kenny-Smith & O.R.B.",
+        "title": "Lightweight",
+        "type": "single",
+        "genre": "Rock / Alternative / Indie",
+        "release_date": "2026-11-19",
+        "date_source": "deezer",
+        "scores": [],
+        "sources": [
+          "Stereogum"
+        ],
+        "mentions": [
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "announcement",
+            "score": null,
+            "headline": "Ambrose Kenny-Smith & O.R.B. Announce Debut Album As ORBROSE: Hear “Lightweight”",
+            "link": "https://stereogum.com/2518469/ambrose-kenny-smith-o-r-b-announce-debut-album-as-orbrose-hear-lightweight/music/",
+            "published": "2026-11-17T21:38:12+00:00"
+          }
+        ],
+        "fans": 479,
+        "star_power": 0.383,
+        "personal": 0.54,
+        "personal_reason": "You've played The Orb 1 time",
+        "coverage": 1.0,
+        "publications": [
+          "Stereogum"
+        ],
+        "popularity": 0.255,
+        "rank_score": 0.483,
+        "avg_score": null
+      },
+      {
+        "artist": "Horse Vision",
+        "title": "Proud Of Me",
+        "type": "single",
+        "genre": "Rock / Alternative / Indie",
+        "release_date": "2026-11-19",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Stereogum"
+        ],
+        "mentions": [
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Horse Vision Announce New Album Mouse: Hear “Proud Of Me”",
+            "link": "https://stereogum.com/2518634/horse-vision-announce-new-album-mouse-hear-proud-of-me/music/",
+            "published": "2026-11-19T15:06:13+00:00"
+          }
+        ],
+        "fans": 220,
+        "star_power": 0.335,
+        "personal": 0.54,
+        "personal_reason": "You've played Horse Vision 1 time",
+        "coverage": 1.0,
+        "publications": [
+          "Stereogum"
+        ],
+        "popularity": 0.24,
+        "rank_score": 0.48,
+        "avg_score": null
+      }
+    ],
+    "Electronic / Dance": [
+      {
+        "artist": "Grimes",
+        "title": "Killing God With Computers",
+        "type": "single",
+        "genre": "Electronic / Dance",
+        "release_date": "2026-11-20",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Pitchfork (news)",
+          "The Needle Drop (website)"
+        ],
+        "mentions": [
+          {
+            "source": "Pitchfork (news)",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Grimes Releases Two New Psy Opera Songs",
+            "link": "https://pitchfork.com/story/listen-to-two-new-grimes-songs/",
+            "published": "2026-11-20T18:11:09+00:00"
+          },
+          {
+            "source": "The Needle Drop (website)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Grimes shares two new singles ahead of 'Psy Opera'",
+            "link": "https://theneedledrop.com/news/grimes-shares-two-new-singles-ahead-of-psy-opera/",
+            "published": "2026-11-20T15:33:19+00:00"
+          }
+        ],
+        "fans": 287996,
+        "star_power": 0.78,
+        "personal": 0.899,
+        "personal_reason": "You've played Grimes 182 times",
+        "coverage": 2.0,
+        "publications": [
+          "Pitchfork",
+          "The Needle Drop"
+        ],
+        "popularity": 0.514,
+        "rank_score": 0.822,
+        "avg_score": null
+      },
+      {
+        "artist": "Grimes",
+        "title": "Deepseek",
+        "type": "single",
+        "genre": "Electronic / Dance",
+        "release_date": "2026-11-20",
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Pitchfork (news)",
+          "The Needle Drop (website)"
+        ],
+        "mentions": [
+          {
+            "source": "Pitchfork (news)",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Grimes Releases Two New Psy Opera Songs",
+            "link": "https://pitchfork.com/story/listen-to-two-new-grimes-songs/",
+            "published": "2026-11-20T18:11:09+00:00"
+          },
+          {
+            "source": "The Needle Drop (website)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Grimes shares two new singles ahead of 'Psy Opera'",
+            "link": "https://theneedledrop.com/news/grimes-shares-two-new-singles-ahead-of-psy-opera/",
+            "published": "2026-11-20T15:33:19+00:00"
+          }
+        ],
+        "fans": 287996,
+        "star_power": 0.78,
+        "personal": 0.899,
+        "personal_reason": "You've played Grimes 182 times",
+        "coverage": 2.0,
+        "publications": [
+          "Pitchfork",
+          "The Needle Drop"
+        ],
+        "popularity": 0.514,
+        "rank_score": 0.822,
+        "avg_score": null
+      },
+      {
+        "artist": "John Talabot",
+        "title": "Music for Empty Stadiums",
+        "type": "album",
+        "genre": "Electronic / Dance",
+        "release_date": null,
+        "date_source": "feeds",
+        "scores": [],
+        "sources": [
+          "Pitchfork (album reviews)"
+        ],
+        "mentions": [
+          {
+            "source": "Pitchfork (album reviews)",
+            "source_type": "reviews",
+            "weight": 1.0,
+            "mention": "review",
+            "score": null,
+            "headline": "Music for Empty Stadiums",
+            "link": "https://pitchfork.com/reviews/albums/or-music-for-empty-stadiums/",
+            "published": "2026-11-16T05:01:00+00:00"
+          }
+        ],
+        "fans": 34437,
+        "star_power": 0.648,
+        "personal": 0.651,
+        "personal_reason": "You've played John Talabot 13 times",
+        "coverage": 1.0,
+        "publications": [
+          "Pitchfork"
+        ],
+        "popularity": 0.334,
+        "rank_score": 0.588,
+        "avg_score": null
+      },
+      {
+        "artist": "Mura Masa",
+        "title": "Nobody Can Know Me Like You Do",
+        "type": "single",
+        "genre": "Electronic / Dance",
+        "release_date": "2026-11-17",
+        "date_source": "deezer",
+        "scores": [],
+        "sources": [
+          "Stereogum"
+        ],
+        "mentions": [
+          {
+            "source": "Stereogum",
+            "source_type": "news",
+            "weight": 1.0,
+            "mention": "new_song",
+            "score": null,
+            "headline": "Mura Masa – “Nobody Can Know Me Like You Do”",
+            "link": "https://stereogum.com/2518655/mura-masa-nobody-can-know-me-like-you-do/music/",
+            "published": "2026-11-19T15:58:44+00:00"
+          }
+        ],
+        "fans": 54142,
+        "star_power": 0.676,
+        "personal": 0.603,
+        "personal_reason": "You've played Mura Masa 5 times",
+        "coverage": 1.0,
+        "publications": [
+          "Stereogum"
+        ],
+        "popularity": 0.343,
+        "rank_score": 0.551,
+        "avg_score": null
+      },
+      {
+        "artist": "Desire",
+        "title": "Deep End",
         "type": "single",
         "genre": "Electronic / Dance",
         "release_date": "2026-11-13",
-        "date_source": "feeds",
+        "date_source": "deezer",
         "scores": [],
         "sources": [
-          "Stereogum"
+          "Clash"
         ],
         "mentions": [
           {
-            "source": "Stereogum",
+            "source": "Clash",
             "source_type": "news",
             "weight": 1.0,
             "mention": "new_song",
             "score": null,
-            "headline": "Austra – “Bittersweet” & “Chains And Anchors”",
-            "link": "https://stereogum.com/2517771/austra-bittersweet-chains-and-anchors/music/",
-            "published": "2026-11-13T17:28:08+00:00"
+            "headline": "Desire Shares New Single ‘Deep End’",
+            "link": "https://www.clashmusic.com/news/desire-shares-new-single-deep-end/",
+            "published": "2026-11-16T18:15:47+00:00"
           }
         ],
-        "fans": 40437,
-        "star_power": 0.658,
-        "personal": 0.277,
-        "personal_reason": "Similar to The Knife, Fever Ray",
+        "fans": 11783,
+        "star_power": 0.582,
+        "personal": 0.563,
+        "personal_reason": "You've played Desire 2 times",
         "coverage": 1.0,
         "publications": [
-          "Stereogum"
+          "Clash"
         ],
-        "popularity": 0.337,
-        "rank_score": 0.289,
+        "popularity": 0.315,
+        "rank_score": 0.513,
         "avg_score": null
       },
       {
-        "artist": "Austra",
-        "title": "Chains And Anchors",
+        "artist": "Loud Luxury & Brando",
+        "title": "Hearts Don't Lie",
         "type": "single",
         "genre": "Electronic / Dance",
-        "release_date": "2026-11-13",
+        "release_date": "2026-11-20",
         "date_source": "feeds",
         "scores": [],
         "sources": [
-          "Stereogum"
+          "uDiscover Music"
         ],
         "mentions": [
           {
-            "source": "Stereogum",
+            "source": "uDiscover Music",
             "source_type": "news",
             "weight": 1.0,
             "mention": "new_song",
             "score": null,
-            "headline": "Austra – “Bittersweet” & “Chains And Anchors”",
-            "link": "https://stereogum.com/2517771/austra-bittersweet-chains-and-anchors/music/",
-            "published": "2026-11-13T17:28:08+00:00"
+            "headline": "Loud Luxury Reunite With Brando on ‘Hearts Don’t Lie’",
+            "link": "https://www.udiscovermusic.com/news/loud-luxary-hearts-dont-lie/",
+            "published": "2026-11-20T19:04:31+00:00"
           }
         ],
-        "fans": 40437,
-        "star_power": 0.658,
-        "personal": 0.277,
-        "personal_reason": "Similar to The Knife, Fever Ray",
+        "fans": 58687,
+        "star_power": 0.681,
+        "personal": 0.216,
+        "personal_reason": "Similar to Joel Corry, Galantis",
         "coverage": 1.0,
         "publications": [
-          "Stereogum"
+          "uDiscover Music"
         ],
-        "popularity": 0.337,
-        "rank_score": 0.289,
+        "popularity": 0.344,
+        "rank_score": 0.242,
         "avg_score": null
       }
     ]
