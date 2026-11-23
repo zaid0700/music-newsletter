@@ -1,5 +1,458 @@
 [
   {
+    "id": "883a86ecffc3068e",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Molly Meldrum, Australian Music Broadcaster and ‘Countdown’ Host, Dies at 83",
+    "link": "https://www.billboard.com/music/music-news/molly-meldrum-countdown-host-dies-83-1236387631/",
+    "summary": "\"Affectionately dubbed 'The Guru,' Molly was the heartbeat, the champion and the spirit of Australian music,\" his family said in a statement.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "ARIA Hall of Fame",
+      "australia",
+      "countdown",
+      "Molly Meldrum",
+      "obituaries"
+    ],
+    "published": "2026-11-23T00:30:36+00:00",
+    "collected": "2026-11-23T02:47:19.998532+00:00"
+  },
+  {
+    "id": "3915d601081aae88",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Fans Choose LISA’s ‘Leave With Me’ as This Week’s Favorite New Music",
+    "link": "https://www.billboard.com/music/music-news/lisa-leave-with-me-best-new-music-poll-results-1236387524/",
+    "summary": "Her latest solo release brought in more than 84% of the vote.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "genre kpop",
+      "News"
+    ],
+    "published": "2026-11-22T23:18:25+00:00",
+    "collected": "2026-11-23T02:47:19.998532+00:00"
+  },
+  {
+    "id": "a97cbfa4274e14dd",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "NFL Mexico City Game Halftime Show 2026: Here’s Where to Watch The Warning Perform Live Online Free",
+    "link": "https://www.billboard.com/culture/product-recommendations/nfl-mexico-city-game-the-warning-halftime-watch-live-free-1236385357/",
+    "summary": "Livestream the Minnesota Vikings taking on the San Fransisco 49ers live from Mexico City on Nov. 22 — and watch The Warning perform at halftime.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "football",
+      "how to watch",
+      "nbc",
+      "nfl",
+      "NOADS",
+      "peacock",
+      "streaming"
+    ],
+    "published": "2026-11-22T22:20:00+00:00",
+    "collected": "2026-11-23T02:47:19.998532+00:00"
+  },
+  {
+    "id": "9a1ffdae92029791",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Twenty One Pilots, The Offspring, Peaches & More: 5 Best Moments in Mexico City’s Corona Capital (Day 2)",
+    "link": "https://www.billboard.com/lists/corona-capital-2026-day-2-twenty-one-pilots-offspring/",
+    "summary": "Duo Tyler Joseph and Josh Dun bid an indefinite farewell to the stage on the second day of the festival.",
+    "full_text": false,
+    "categories": [
+      "Latin",
+      "Music",
+      "genre latin",
+      "Mexico",
+      "Music News",
+      "News"
+    ],
+    "published": "2026-11-22T21:58:31+00:00",
+    "collected": "2026-11-23T02:47:19.998532+00:00"
+  },
+  {
+    "id": "2bb07e5e2c58c919",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "ATEEZ Earn Fourth No. 1 on Billboard 200 With ‘GOLDEN HOUR : Part.6’",
+    "link": "https://www.billboard.com/music/chart-beat/ateez-golden-hour-part6-no1-billboard-200-chart-1236387535/",
+    "summary": "Plus, U2 achieves its 14th top 10 with the debut of Carnaval de Luz .",
+    "full_text": false,
+    "categories": [
+      "Chart Beat",
+      "Music",
+      "Billboard 200",
+      "genre kpop",
+      "Music News"
+    ],
+    "published": "2026-11-22T21:40:27+00:00",
+    "collected": "2026-11-23T02:47:19.998532+00:00"
+  },
+  {
+    "id": "5aff26eeff072d64",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "PlaqueBoyMax Wants to Find Your Next Favorite Artist",
+    "link": "https://www.rollingstone.com/music/music-features/plaqueboymax-rising-star-interview-new-album-1235662193/",
+    "summary": "With his music competition, \"Rising Star,\" the streamer is giving emerging artists a weekend to show what they can do. He’s got an album of his own in the works, too",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "plaqueboymax"
+    ],
+    "published": "2026-11-22T20:49:50+00:00",
+    "collected": "2026-11-23T02:47:19.998532+00:00"
+  },
+  {
+    "id": "9f60a37388cc0750",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Miley Cyrus & Maxx Morando’s Wedding Photos Are Here",
+    "link": "https://www.billboard.com/culture/lifestyle/miley-cyrus-wedding-photos-maxx-morando-1236387483/",
+    "summary": "The couple were married in Palm Springs, Calif., on Saturday (Nov. 21).",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Lifestyle",
+      "genre pop",
+      "Music News",
+      "News"
+    ],
+    "published": "2026-11-22T19:57:07+00:00",
+    "collected": "2026-11-23T02:47:19.998532+00:00"
+  },
+  {
+    "id": "9dfc63677812dc75",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Selena Gomez Helps Couple With Baby’s Sex Reveal at Spurs Game, ‘With No Hesitation’",
+    "link": "https://www.billboard.com/music/pop/selena-gomez-baby-gender-reveal-spurs-game-couple-1236387456/",
+    "summary": "The star opened the envelope and announced whether the baby will be born male or female at Saturday night's game in San Antonio, Texas.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Pop",
+      "genre pop",
+      "Music News",
+      "News",
+      "sports"
+    ],
+    "published": "2026-11-22T18:15:39+00:00",
+    "collected": "2026-11-23T02:47:19.998532+00:00"
+  },
+  {
+    "id": "c211b1161e0f8930",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Wayne Coyne Officiates Miley Cyrus’ Wedding",
+    "link": "https://consequence.net/2026/11/wayne-coyne-officiates-miley-cyrus-wedding/",
+    "summary": "The Flaming Lips' frontman and the pop star have long been friends and musical collaborators. Wayne Coyne Officiates Miley Cyrus’ Wedding Travis Bland",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Music",
+      "News",
+      "Pop"
+    ],
+    "published": "2026-11-22T16:46:30+00:00",
+    "collected": "2026-11-23T02:47:19.998532+00:00"
+  },
+  {
+    "id": "159fedeefcf544d7",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Georgia Maq Shares New Single, Wins Nathan Fielder Lookalike Contest",
+    "link": "https://stereogum.com/2519654/georgia-maq-shares-new-single-wins-nathan-fielder-lookalike-contest/news/",
+    "summary": "The post Georgia Maq Shares New Single, Wins Nathan Fielder Lookalike Contest appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "News",
+      "Georgia Maq",
+      "Nathan Fielder"
+    ],
+    "published": "2026-11-22T16:36:13+00:00",
+    "collected": "2026-11-23T02:47:19.998532+00:00"
+  },
+  {
+    "id": "3eaefac7f7a04a1a",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Cherry Blossom Festivalgoers Throw Beer At Swae Lee, T-Shirt At Khalid",
+    "link": "https://stereogum.com/2519645/cherry-blossom-festivalgoers-throw-beer-at-swae-lee-t-shirt-at-khalid/news/",
+    "summary": "The post Cherry Blossom Festivalgoers Throw Beer At Swae Lee, T-Shirt At Khalid appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Cherry Blossom Festival",
+      "Khalid",
+      "Swae Lee"
+    ],
+    "published": "2026-11-22T15:57:03+00:00",
+    "collected": "2026-11-23T02:47:19.998532+00:00"
+  },
+  {
+    "id": "af2742402c145705",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Boy George on His Israel Trip: ‘I Wasn’t Able to Not Say Something’",
+    "link": "https://www.rollingstone.com/music/music-news/boy-george-israel-trip-we-will-dance-again-interview-1235662143/",
+    "summary": "After performing in Tel Aviv and meeting survivors of the Oct. 7 attack, the Culture Club frontman reflects on the backlash to his song, rising antisemitism, and why he felt compelled to speak out",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Boy George",
+      "Culture Club",
+      "Gaza Conflict",
+      "Haircut 100",
+      "MTV"
+    ],
+    "published": "2026-11-22T15:28:36+00:00",
+    "collected": "2026-11-23T02:47:19.998532+00:00"
+  },
+  {
+    "id": "53068c4afbdfa79b",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Muse’s Matt Bellamy Wants an AI Guitar",
+    "link": "https://consequence.net/2026/11/muse-matt-bellamy-ai-guitar/",
+    "summary": "The guitarist envisioned being able to shape his tone through use of the technology. Muse’s Matt Bellamy Wants an AI Guitar Travis Bland",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Heavy Consequence",
+      "Music",
+      "News",
+      "Alternative Rock",
+      "Progressive rock",
+      "Rock"
+    ],
+    "published": "2026-11-22T15:17:36+00:00",
+    "collected": "2026-11-23T02:47:19.998532+00:00"
+  },
+  {
+    "id": "44e24883faca14b9",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "OsamaSon’s DJ Apologizes For Causing Crowd Crush At Terminal 5",
+    "link": "https://stereogum.com/2519640/osamasons-dj-apologizes-for-causing-crowd-crush-at-terminal-5/news/",
+    "summary": "The post OsamaSon’s DJ Apologizes For Causing Crowd Crush At Terminal 5 appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Nino Andretti",
+      "OsamaSon"
+    ],
+    "published": "2026-11-22T15:10:30+00:00",
+    "collected": "2026-11-23T02:47:19.998532+00:00"
+  },
+  {
+    "id": "b00d5860217779f3",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Here’s Where to Watch the Miami Dolphins vs. Buffalo Bills Game Live Online",
+    "link": "https://www.billboard.com/culture/product-recommendations/miami-dolphins-vs-buffalo-bills-watch-nfl-live-online-free-1236385695/",
+    "summary": "Livestream the Dolphins taking on the Bills on Sunday, Nov. 22 — plus, watch for a possible Hailee Steinfeld sighting at the game.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "CBS",
+      "how to watch",
+      "nfl",
+      "NOADS",
+      "paramount plus",
+      "streaming"
+    ],
+    "published": "2026-11-22T15:00:00+00:00",
+    "collected": "2026-11-23T02:47:19.998532+00:00"
+  },
+  {
+    "id": "93565e83cf454015",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Wayne Coyne Officiates Miley Cyrus & Maxx Morando’s Wedding",
+    "link": "https://stereogum.com/2519632/wayne-coyne-officiates-miley-cyrus-maxx-morandos-wedding/news/",
+    "summary": "The post Wayne Coyne Officiates Miley Cyrus & Maxx Morando’s Wedding appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Billy Ray Cyrus",
+      "Liily",
+      "Lil Nas X",
+      "Maxx Morando",
+      "Miley Cyrus",
+      "Tish Cryus",
+      "Wayne Coyne"
+    ],
+    "published": "2026-11-22T14:32:29+00:00",
+    "collected": "2026-11-23T02:47:19.998532+00:00"
+  },
+  {
+    "id": "7c9f3797f872bb51",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "50 Years Ago Today: The Beach Boys Play Pivotal ‘Brian’s Back’ Concert in Cincinnati",
+    "link": "https://www.rollingstone.com/music/music-features/50-years-ago-beach-boys-brians-back-tour-1235661576/",
+    "summary": "In the fall of 1976, the Beach Boys brought Brian back on the road for a tour that marked the last time the band played a significant amount of new material in concert",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "50 Years Ago",
+      "Beach Boys",
+      "Brian Wilson"
+    ],
+    "published": "2026-11-22T14:00:00+00:00",
+    "collected": "2026-11-23T02:47:19.998532+00:00"
+  },
+  {
+    "id": "0da51fec96787b2a",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Miley Cyrus and Maxx Morando Marry at Palm Springs Wedding",
+    "link": "https://www.rollingstone.com/music/music-news/miley-cyrus-maxx-morando-married-springs-wedding-1235662077/",
+    "summary": "Singer and drummer became engaged in December 2025 after four years of dating",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Miley Cyrus"
+    ],
+    "published": "2026-11-22T13:15:09+00:00",
+    "collected": "2026-11-23T02:47:19.998532+00:00"
+  },
+  {
+    "id": "04a5e1c2016ccbba",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Kelly Lee Owens announces two-day music festival in Wales to celebrate grassroots venues as part of Hometown Meltdown",
+    "link": "https://www.nme.com/news/music/kelly-lee-owens-music-festival-wales-grassroots-venues-hometown-meltdown-3976656",
+    "summary": "The Welsh electronic musician will curate and perform at the inaugural event in Bethesda, with Gruff Rhys and a range of local artists also on the bill The post Kelly Lee Owens announces two-day music festival in Wales to celebrate grassroots venues as part of Hometown Meltdown appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Live Music News"
+    ],
+    "published": "2026-11-22T11:38:10+00:00",
+    "collected": "2026-11-23T02:47:19.998532+00:00"
+  },
+  {
+    "id": "572325e6926bec2c",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Maruja thank fans for supporting them through burnout after “beautiful and brutal year” with new live album ‘The Holy Inadequate’ and Ritual Union headline set",
+    "link": "https://www.nme.com/news/music/maruja-thank-fans-burnout-live-album-holy-inadequate-ritual-union-headline-3976651",
+    "summary": "The Manchester jazz-punks played over 100 shows in 2025 before taking time off the road – and have now confirmed a major Bristol festival appearance for next year The post Maruja thank fans for supporting them through burnout after “beautiful and brutal year” with new live album ‘The Holy Inadequate’ and Ritual Union headline set appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Jazz",
+      "Live Music News"
+    ],
+    "published": "2026-11-22T10:41:59+00:00",
+    "collected": "2026-11-23T02:47:19.998532+00:00"
+  },
+  {
+    "id": "e2c05739ee3874d3",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Life Without Buildings reunite after 24 years and make hometown live return in Glasgow",
+    "link": "https://www.nme.com/news/music/life-without-buildings-reunite-24-years-hometown-glasgow-setlist-footage-3976648",
+    "summary": "The cult post-punk band played four comeback shows this week – check out footage and the full setlist here The post Life Without Buildings reunite after 24 years and make hometown live return in Glasgow appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Indie",
+      "Post-Punk"
+    ],
+    "published": "2026-11-22T09:27:17+00:00",
+    "collected": "2026-11-23T02:47:19.998532+00:00"
+  },
+  {
+    "id": "1a8db1d2cf64ca48",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Macaulay Culkin to return in ‘Home Alone’ sequel, written by Seth Rogen",
+    "link": "https://www.nme.com/news/film/macaulay-culkin-return-home-alone-sequel-seth-rogen-3976644",
+    "summary": "The actor is reportedly set to reprise his role as Kevin McCallister for the first time since 1992 The post Macaulay Culkin to return in ‘Home Alone’ sequel, written by Seth Rogen appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Film News",
+      "News",
+      "Christmas"
+    ],
+    "published": "2026-11-22T08:38:53+00:00",
+    "collected": "2026-11-23T02:47:19.998532+00:00"
+  },
+  {
+    "id": "f72b1798ef43d685",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Britney Spears Apologizes to Her Family on Instagram: ‘I Just Miss Them Like Crazy’",
+    "link": "https://www.billboard.com/music/pop/britney-spears-instagram-apology-family-1236387442/",
+    "summary": "The pop star wrote that she regretted raising past grievances publicly, five years after the end of the conservatorship that fractured her relationship with her parents and sister.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Pop",
+      "Britney Spears"
+    ],
+    "published": "2026-11-22T07:03:05+00:00",
+    "collected": "2026-11-23T02:47:19.998532+00:00"
+  },
+  {
+    "id": "b228cd5e9598b9fe",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Glitter",
+    "link": "https://pitchfork.com/reviews/albums/mariah-carey-glitter/",
+    "summary": "Each Sunday, Pitchfork takes an in-depth look at a significant album from the past, and any record not in our archives is eligible. Today, we revisit the superstar’s infamous eighth album and film soundtrack, an effervescent blend of retro synth-pop, aughties hip-hop, and piano balladry with legendary baggage.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums",
+      "Sunday Review"
+    ],
+    "published": "2026-11-22T05:00:00+00:00",
+    "collected": "2026-11-23T02:47:19.998532+00:00"
+  },
+  {
     "id": "3194360ebce652c6",
     "source": "Billboard",
     "source_type": "news",
@@ -39448,819 +39901,6 @@
       "Reviews / Albums"
     ],
     "published": "2026-10-24T04:00:00+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "3bd6c4abaf958d1b",
-    "source": "The Needle Drop (YouTube)",
-    "source_type": "video",
-    "weight": 1.5,
-    "title": "heavensouls - \"cantu\" of the sower ALBUM REVIEW",
-    "link": "https://www.youtube.com/watch?v=Z88G-jkrf78",
-    "summary": "Listen: https://officialauthks.bandcamp.com/album/cantu-of-the-sower heavensouls strikes an impressive balance of meticulous and freewheeling on \"cantu\" of the sower. More electronic reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormX2pL9h0inES2Ub630NoL =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: TODAY IS MY FAVORITE, MODEL HOUSING, STAR BALCONY, SHIPPING TIMES AND QUIET STREETS HEAVENSOULS - \"CANTU\" OF THE SOWER / 2026 / NTS / IDEK 8/10 https://theneedledrop.com/loved-list/2026/ Y'all know this is just my opinion, right?",
-    "categories": [],
-    "published": "2026-10-23T23:22:43+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "ce09dd3e61bdc3d1",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Bruiser Wolf & Conductor Williams – “Ain’t Got Time”",
-    "link": "https://stereogum.com/2515493/bruiser-wolf-conductor-williams-aint-got-time/music/",
-    "summary": "The post Bruiser Wolf & Conductor Williams – “Ain’t Got Time” appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "Bruiser Wolf",
-      "Conductor Williams"
-    ],
-    "published": "2026-10-23T19:43:08+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "ad02bbd09ff3baa1",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "A Celebration Of Julie London’s Sound and Style",
-    "link": "https://www.udiscovermusic.com/stories/a-celebration-of-julie-londons-sound-and-style/",
-    "summary": "From the intimacy of 'Cry Me a River' to her striking album covers, Julie London’s sound and style still resonate.",
-    "full_text": false,
-    "categories": [
-      "Features",
-      "Google News Stories",
-      "Classic Pop",
-      "Cry Me A River",
-      "Homepage Featured",
-      "Julie London"
-    ],
-    "published": "2026-10-23T18:54:01+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "694da31a8258e33f",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Nelly Furtado’s ‘All Good Things (Come to an End)’ Gets Ian Asher Remix",
-    "link": "https://www.udiscovermusic.com/news/nelly-furtado-all-good-things-come-to-an-end-remix/",
-    "summary": "The producer and DJ’s new rendition of the track arrives just after the 20th anniversary of 'Loose.'",
-    "full_text": false,
-    "categories": [
-      "News",
-      "All Good Things Come To An End",
-      "Ian Asher",
-      "Nelly Furtado",
-      "Pop",
-      "Remix"
-    ],
-    "published": "2026-10-23T17:36:53+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "ef063d42ea0ffaf6",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "keshi Releases New Single ‘MISS ME’ Ahead of Third Album",
-    "link": "https://www.udiscovermusic.com/news/keshi-miss-me/",
-    "summary": "The introspective song is keshi’s first new music since 2025.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Clockenflap",
-      "Homepage Featured",
-      "Island Records",
-      "Keshi",
-      "MISS ME",
-      "R&B",
-      "Vinyl"
-    ],
-    "published": "2026-10-23T16:49:19+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "e20922e3cfcb2b94",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "John Legend Releases New Album ‘Muse’",
-    "link": "https://www.udiscovermusic.com/news/john-legend-muse-out-now/",
-    "summary": "The project grew from Legend’s appearance on Clipse’s ‘Let God Sort ’Em Out.’",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Bodies On The Floor",
-      "Clipse",
-      "Homepage Featured",
-      "John Legend",
-      "muse",
-      "Music Videos",
-      "Pharrell Williams",
-      "R&B",
-      "Soul"
-    ],
-    "published": "2026-10-23T16:45:55+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "a9cb90e6c0ca8ed7",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "EZ MIL Releases ‘3RD WRLD VOL. 2’ EP",
-    "link": "https://www.udiscovermusic.com/news/ez-mil-3rd-world-vol-2-ep/",
-    "summary": "The three-track release also includes 'TALK 2 ME' and 'LET EM,' featuring drummer Luke Holland.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "3RD WRLD VOL. 2",
-      "Aftermath Records",
-      "Eminem",
-      "Ez Mil",
-      "Hideyoshi",
-      "Hip-Hop",
-      "Homepage Featured",
-      "Interscope Records",
-      "MADARA",
-      "Shady Records"
-    ],
-    "published": "2026-10-23T16:30:45+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "e2da09a140807769",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Kenny Whitmire Releases New Single ‘Leavin’ Lucy Lonesome’",
-    "link": "https://www.udiscovermusic.com/news/kenny-whitmire-leavin-lucy-lonesome/",
-    "summary": "The song pairs road-worn lyrics with a homeward-looking story, written by Whitmire, Dan Alley, and Sam Banks.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Country",
-      "Hits Me Tour",
-      "Homepage Featured",
-      "John Osborne",
-      "Kenny Whitmire",
-      "Leavin’ Lucy Lonesome",
-      "Live Music",
-      "Woman To Blame"
-    ],
-    "published": "2026-10-23T16:20:00+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "56ba5d245956ba22",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Seven Tracks Introduce JYT on ‘Just Your Type’ EP",
-    "link": "https://www.udiscovermusic.com/news/jyt-just-your-type-ep-out-now/",
-    "summary": "The five-member group’s seven-track debut includes the single 'Which One.'",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Homepage Featured",
-      "iHeartRadio Jingle Ball Tour",
-      "Just Your Type",
-      "JYT",
-      "Live Music",
-      "Pop",
-      "Which One"
-    ],
-    "published": "2026-10-23T16:16:48+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "fa81422347eb1513",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Amy Winehouse’s ‘Back to Black’ Celebrated at 20th-Anniversary Roundhouse Concert",
-    "link": "https://www.udiscovermusic.com/news/amy-winehouse-back-to-black-20-roundhouse/",
-    "summary": "Flo, Mark Ronson, Jessie Reyez, Baby Rose, and more performed at the Roundhouse Theater’s anniversary celebration in honor of the late singer-songwriter.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Amy Winehouse",
-      "Baby Rose",
-      "Back To Black",
-      "Back To Black 20",
-      "Corinne Bailey Rae",
-      "FLO",
-      "Jessie Reyez",
-      "Jorja Smith",
-      "Lianne La Havas",
-      "Nia Smith",
-      "Roundhouse",
-      "Sasha Keable",
-      "Skye Newman",
-      "Soul",
-      "Terri Walker",
-      "Yebba"
-    ],
-    "published": "2026-10-23T16:13:10+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "73aefd0540e9eace",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Ben Folds Five Set 2027 Tour",
-    "link": "https://www.udiscovermusic.com/news/ben-folds-five-30th-anniversary-tour/",
-    "summary": "The 2027 tour, which kicks off in Tennessee in April, marks the band’s first live dates in more than 15 years.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "30th Anniversary",
-      "Alternative",
-      "Ben Folds Five",
-      "Homepage Featured",
-      "Tour"
-    ],
-    "published": "2026-10-23T16:01:33+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "854156f261cfd87b",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Queens of the Stone Age Announce 2027 Tour",
-    "link": "https://www.udiscovermusic.com/news/queens-of-the-stone-age-2027-us-tour/",
-    "summary": "Queens of the Stone Age will traverse the U.S. with support from Pixies and Wheelchair Sports Camp in May 2027.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "2027",
-      "Alternative",
-      "Queens Of The Stone Age",
-      "US Tour"
-    ],
-    "published": "2026-10-23T15:32:18+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "d7d121ed0a28147b",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Listen To GIRLSET And Kylie Cantrall’s ‘Glown Up’",
-    "link": "https://www.udiscovermusic.com/news/girlset-kylie-cantrall-glown-up/",
-    "summary": "The collaboration follows GIRLSET’s festival appearance and opening dates on Cantrall’s tour.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "GIRLSET",
-      "Glown Up",
-      "Homepage Featured",
-      "JYP Entertainment",
-      "Kylie Cantrall",
-      "Pop",
-      "Republic Records",
-      "Streamer Awards"
-    ],
-    "published": "2026-10-23T15:27:44+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "8e12777380a244bd",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "The Tragically Hip Musical Releases Original Cast Recording",
-    "link": "https://www.udiscovermusic.com/news/the-tragically-hip-musical/",
-    "summary": "The recording features guest vocals from Owen Riegling, Allison Russell, Elysia Biro, and Braden Lam.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Allison Russell",
-      "Boots Or Hearts",
-      "Homepage Featured",
-      "It's a Good Life If You Don't Weaken",
-      "Kingston Grand Theatre",
-      "Owen Riegling",
-      "Rock",
-      "Soundtracks",
-      "The Tragically Hip",
-      "Wheat Kings"
-    ],
-    "published": "2026-10-23T15:24:33+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "a81bb01535e37729",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Arthur Hill Releases Two-Track Single ‘Record Timing’",
-    "link": "https://www.udiscovermusic.com/news/arthur-hill-record-timing/",
-    "summary": "The release pairs studio and live recordings with a performance video.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Arthur Hill",
-      "Arthway Round The World Tour",
-      "Homepage Featured",
-      "Hot Sprite",
-      "Live Music",
-      "Music Videos",
-      "Orange Wine",
-      "Pop",
-      "Record Timing",
-      "Shaun the Sheep: The Beast of Mossy Bottom",
-      "Winning Formula",
-      "Working On It"
-    ],
-    "published": "2026-10-23T15:20:15+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "5f232c6d63d48f86",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Listen to ‘Haymitch Meets Snow’ From New Hunger Games Score",
-    "link": "https://www.udiscovermusic.com/news/james-newton-howard-haymitch-meets-snow-hunger-games-soundtrack/",
-    "summary": "The 35-track score arrives November 20, alongside the film’s worldwide theatrical release.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Homepage Featured",
-      "James Newton Howard",
-      "Soundtracks",
-      "The Hunger Games Sunrise On The Reaping",
-      "“Haymitch Meets Snow”"
-    ],
-    "published": "2026-10-23T15:17:28+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "ea47357297fb7d8c",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Chase Shakur Releases New Single ‘Highly Favored’",
-    "link": "https://www.udiscovermusic.com/news/chase-shakur-highly-favored/",
-    "summary": "The Atlanta singer pairs the single with a laundromat-set visualizer that plays out like a late-night flirtation.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Chase Shakur",
-      "Def Jam Recordings",
-      "highly favored",
-      "Homepage Featured",
-      "Music Videos",
-      "R&B",
-      "WONDERLOVE+"
-    ],
-    "published": "2026-10-23T15:09:52+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "329f4fd5307258bc",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "dodie Releases ‘Not For Lack Of Trying’ Deluxe Edition",
-    "link": "https://www.udiscovermusic.com/news/dodie-not-for-lack-of-trying-deluxe-edition/",
-    "summary": "The new edition pairs a fresh song with live reworkings recorded during a birthday gathering at a countryside studio.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Alternative",
-      "As Far As We Know",
-      "Dodie",
-      "Fontana Records",
-      "Homepage Featured",
-      "Live Music",
-      "Not For Lack of Clarinets",
-      "Not For Lack Of Trying"
-    ],
-    "published": "2026-10-23T15:08:06+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "2bc9454994235fec",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Bluegirl Releases Debut Single ‘Look At All The Happy People’",
-    "link": "https://www.udiscovermusic.com/news/bluegirl-look-at-all-the-happy-people/",
-    "summary": "The London-based producer and songwriter wrote, produced and performed the track herself.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Bluegirl",
-      "Capitol UK",
-      "Darkroom Records",
-      "Homepage Featured",
-      "Look At All The Happy People",
-      "Music Videos",
-      "Pop"
-    ],
-    "published": "2026-10-23T15:04:38+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "38a69a66860c4549",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Brothers Osborne Release Fifth Album ‘Watertown’",
-    "link": "https://www.udiscovermusic.com/news/brothers-osborne-watertown-out-now/",
-    "summary": "The 11-track album reunites the duo with producer Jay Joyce and features Cody Johnson and Stephen Wilson Jr.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Born and Raised Hell",
-      "Brothers Osborne",
-      "Cody Johnson",
-      "Country",
-      "Homepage Featured",
-      "Jay Joyce",
-      "Music Videos",
-      "Stephen Wilson Jr.",
-      "Watertown"
-    ],
-    "published": "2026-10-23T15:00:42+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "e32f32707729c18f",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "‘Casual Crime’ Previews Lyn Lapid’s Next Project",
-    "link": "https://www.udiscovermusic.com/news/lyn-lapid-casual-crime/",
-    "summary": "The song follows 'one good thing' and previews a forthcoming project with electro-pop production.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "BUZZKILL",
-      "casual crime",
-      "Homepage Featured",
-      "Lyn Lapid",
-      "Music Videos",
-      "One Good Thing",
-      "Pop"
-    ],
-    "published": "2026-10-23T14:55:47+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "4e9cbbe3f60078c7",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Diana Silvers Announces Sophomore Album ‘Daughter of Sorts’",
-    "link": "https://www.udiscovermusic.com/news/diana-silvers-daughter-of-sorts/",
-    "summary": "Silvers recorded the album at Laurel Canyon’s Houdini mansion with co-producer Jason Lader.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Alternative",
-      "Capitol Records",
-      "Daughter",
-      "Daughter of Sorts",
-      "Diana Silvers",
-      "Homepage Featured",
-      "Jason Lader",
-      "Live Music",
-      "Plans"
-    ],
-    "published": "2026-10-23T14:49:58+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "99cf24629e66e79d",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "2hollis Announces 2027 Tour for ‘Pirouette’",
-    "link": "https://www.udiscovermusic.com/news/2hollis-pirouette-2027-tour/",
-    "summary": "The 2027 run includes arena dates in Los Angeles and London, plus a Brooklyn show at Under The K Bridge Park.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "2Hollis",
-      "Electronic",
-      "Homepage Featured",
-      "Live Music",
-      "Pirouette",
-      "Pop"
-    ],
-    "published": "2026-10-23T13:13:20+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "86421e8a8464006e",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Girl Group Release New Single ‘SAVIOUR/FATHER/PRINCE’",
-    "link": "https://www.udiscovermusic.com/news/girl-group-saviour-father-prince/",
-    "summary": "The single pairs electroclash with a protest-song take on mansplaining.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "BOYS BOYS BOYS",
-      "Electronic",
-      "Girl Group",
-      "Homepage Featured",
-      "Live Music",
-      "Pop",
-      "SAVIOUR/FATHER/PRINCE"
-    ],
-    "published": "2026-10-23T13:12:38+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "3bfb20a5e7e776d9",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "NEEDTOBREATHE Releases ‘Never Gonna Deserve Ya’ With Evan Honer",
-    "link": "https://www.udiscovermusic.com/news/needtobreathe-never-gonna-deserve-ya/",
-    "summary": "The new single pairs the band with Evan Honer ahead of a six-song deluxe expansion due in November.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Evan Honer",
-      "Homepage Featured",
-      "Live Music",
-      "NEEDTOBREATHE",
-      "Rock",
-      "The Long Surrender and The Fellow Passengers of Pain"
-    ],
-    "published": "2026-10-23T13:10:59+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "3876e2a710c3f5a2",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Listen to John Mayer’s New Single ‘Tom and Jerry’",
-    "link": "https://www.udiscovermusic.com/news/john-mayer-tom-and-jerry/",
-    "summary": "Blake Slatkin and Mayer produced the track, which Serban Genhea mixed.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Homepage Featured",
-      "John Mayer",
-      "Mercury Records",
-      "Music Videos",
-      "Rock",
-      "Sob Rock Records",
-      "Tom and Jerry"
-    ],
-    "published": "2026-10-23T13:10:00+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "6de59241fb9ed9e1",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "MPH And Megra Join Forces On ‘Skin To Skin’",
-    "link": "https://www.udiscovermusic.com/news/mph-megra-skin-to-skin/",
-    "summary": "The new single was written and produced by both artists and will appear on MPH’s November album.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Capitol Records",
-      "Electronic",
-      "Homepage Featured",
-      "Megra",
-      "MPH"
-    ],
-    "published": "2026-10-23T13:06:46+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "c33ed1cc6c84e897",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Yeat Compiles Fan-Demanded Songs on ‘Luh Leakyz Vol. 1’",
-    "link": "https://www.udiscovermusic.com/news/yeat-luh-leakyz-vol-1/",
-    "summary": "The 14-track collection includes songs fans first encountered through Yeat’s Fortnite collaboration.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Fortnite",
-      "Hip-Hop",
-      "Homepage Featured",
-      "Luh Leakyz Vol. 1",
-      "Summrs",
-      "Yeat"
-    ],
-    "published": "2026-10-23T13:04:29+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "109488b52db1daf1",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "‘Highway Love’ Leads Toosii’s 13-Track ‘Platinum Heart 2’",
-    "link": "https://www.udiscovermusic.com/news/toosii-platinum-heart-2/",
-    "summary": "The 13-track sequel features Hunxho and YoungBoy Never Broke Again.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Hip-Hop",
-      "Homepage Featured",
-      "Hunxho",
-      "Platinum Heart 2",
-      "Platinum Nights Tour",
-      "Toosii",
-      "YoungBoy Never Broke Again"
-    ],
-    "published": "2026-10-23T13:02:19+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "1129518f3dc0ef1d",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "The Game’s ‘Doctor’s Advocate’ Gets Two New Vinyl Variants",
-    "link": "https://www.udiscovermusic.com/news/the-games-doctors-advocate-gets-two-new-vinyl-variants/",
-    "summary": "The 2006 album debuted at No. 1 on the Billboard 200.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Doctor’s Advocate",
-      "Hip-Hop",
-      "Homepage Featured",
-      "The Game"
-    ],
-    "published": "2026-10-23T13:00:16+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "7d042c452620971e",
-    "source": "musicOMH",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Orchestra Baobab – Made In Senegal",
-    "link": "https://www.musicomh.com/reviews/albums/orchestra-baobab-made-in-senegal",
-    "summary": "On one of the world music albums of the year and their first in a decade, organic evolution has carried their ethos forward The post Orchestra Baobab – Made In Senegal appeared first on musicOMH .",
-    "categories": [
-      "Album Reviews",
-      "Orchestra Baobab"
-    ],
-    "published": "2026-10-23T11:26:43+00:00",
-    "collected": "2026-11-01T10:59:35.314292+00:00"
-  },
-  {
-    "id": "d46f9a15260777ef",
-    "source": "PopCrush",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Miley Cyrus ‘Cold Blooded’: Lyrics + Meaning",
-    "link": "https://popcrush.com/miley-cyrus-cold-blooded-meaning-lyrics/",
-    "summary": "Emma McIntyre, Getty Images",
-    "categories": [
-      "Celebrity News",
-      "Music News",
-      "Miley Cyrus"
-    ],
-    "published": "2026-10-23T07:36:42+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "c2349bab4f5a6ea3",
-    "source": "musicOMH",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Bernie Taupin – The Sea Has No Mercy",
-    "link": "https://www.musicomh.com/reviews/albums/bernie-taupin-the-sea-has-no-mercy",
-    "summary": "Elton John's lyricist has a fine, weathered baritone of his own, freely wearing its lines of age and experience with distinction, knowledge and humour The post Bernie Taupin – The Sea Has No Mercy appeared first on musicOMH .",
-    "categories": [
-      "Album Reviews",
-      "Bernie Taupin",
-      "Brandi Carlile"
-    ],
-    "published": "2026-10-23T07:01:41+00:00",
-    "collected": "2026-11-01T10:59:35.314292+00:00"
-  },
-  {
-    "id": "566444764dc33ba7",
-    "source": "musicOMH",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Strawberry Guy – Give Me A Dream",
-    "link": "https://www.musicomh.com/reviews/albums/strawberry-guy-give-me-a-dream",
-    "summary": "Alexander Stephens’ exquisite second album sees his mastery of melancholic, symphonic pop reach stunning new heights The post Strawberry Guy – Give Me A Dream appeared first on musicOMH .",
-    "categories": [
-      "Album Reviews",
-      "Strawberry Guy"
-    ],
-    "published": "2026-10-23T06:31:34+00:00",
-    "collected": "2026-11-01T10:59:35.314292+00:00"
-  },
-  {
-    "id": "38027db7277856a4",
-    "source": "musicOMH",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Angèle – Instinct",
-    "link": "https://www.musicomh.com/reviews/albums/angele-instinct",
-    "summary": "In French and English, and aided by Soulwax, SebastiAn, Caroline Polachek and Justice, the Belgian star is melding a pop sound all of her own The post Angèle – Instinct appeared first on musicOMH .",
-    "categories": [
-      "Album Reviews",
-      "Angèle"
-    ],
-    "published": "2026-10-23T06:01:52+00:00",
-    "collected": "2026-11-01T10:59:35.314292+00:00"
-  },
-  {
-    "id": "9906597a75654372",
-    "source": "Pitchfork (album reviews)",
-    "source_type": "reviews",
-    "weight": 1.5,
-    "title": "Jazz dreams",
-    "link": "https://pitchfork.com/reviews/albums/fine-jazz-dreams/",
-    "summary": "The Danish artist achieves a beguiling flow state on her second solo album: a set of future standards full of empty space.",
-    "categories": [
-      "Reviews / Albums"
-    ],
-    "published": "2026-10-23T04:03:00+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "e2e6fca38660d91e",
-    "source": "Pitchfork (Best New Albums)",
-    "source_type": "reviews",
-    "weight": 2.0,
-    "title": "Jazz dreams",
-    "link": "https://pitchfork.com/reviews/albums/fine-jazz-dreams/",
-    "summary": "The Danish artist achieves a beguiling flow state on her second solo album: a set of future standards full of empty space.",
-    "categories": [
-      "Reviews / Albums"
-    ],
-    "published": "2026-10-23T04:03:00+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "d968fb6f1079b3c8",
-    "source": "Pitchfork (album reviews)",
-    "source_type": "reviews",
-    "weight": 1.5,
-    "title": "jg",
-    "link": "https://pitchfork.com/reviews/albums/jacques-greene-jg/",
-    "summary": "A year after his moody collab with Nosaj Thing, the Montreal producer returns with his clubbiest album yet. But even when it bangs, his music still sounds as dreamy as ever.",
-    "categories": [
-      "Reviews / Albums"
-    ],
-    "published": "2026-10-23T04:02:00+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "91941f29ce840b8e",
-    "source": "Pitchfork (album reviews)",
-    "source_type": "reviews",
-    "weight": 1.5,
-    "title": "It’s a Style Sport",
-    "link": "https://pitchfork.com/reviews/albums/shabazz-palaces-its-a-style-sport/",
-    "summary": "Ishmael Butler explores the cosmos within on a shadowy and uncharacteristically introspective new album.",
-    "categories": [
-      "Reviews / Albums"
-    ],
-    "published": "2026-10-23T04:01:00+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "5b471cce5e1b6cb4",
-    "source": "Pitchfork (album reviews)",
-    "source_type": "reviews",
-    "weight": 1.5,
-    "title": "Beirut City Pop",
-    "link": "https://pitchfork.com/reviews/albums/various-artists-beirut-city-pop/",
-    "summary": "Habibi Funk’s latest compilation shines a spotlight on the vintage soul, disco, and jazz that sprang up as a homegrown response to Lebanon’s brutal civil war.",
-    "categories": [
-      "Reviews / Albums"
-    ],
-    "published": "2026-10-23T04:00:00+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "ff654506e6271e32",
-    "source": "The Needle Drop (YouTube)",
-    "source_type": "video",
-    "weight": 1.5,
-    "title": "The Avalanches - No Bad Memories ALBUM REVIEW",
-    "link": "https://www.youtube.com/watch?v=ZAHEPtclKOg",
-    "summary": "Listen: https://www.youtube.com/watch?v=EpNSk8qu_Vo The most fun album of The Avalanches' comeback so far. More electronic reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormX2pL9h0inES2Ub630NoL =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: TOGETHER, I GIVE EVERYTHING I HAVE 2 U, EVERY SINGLE WEEKEND, LIKE CLOCKWORK / HIT BY TRAFFIC, VIDA, CAN'T GET OVER LOSING YOU, HIGHFIELD, UNDER YR POWER, ONE MORE FANTASY, NO BAD MEMORIES, FINAL CREDITS, THE PAVEMENTS LIGHT THE AVALANCHES - NO BAD MEMORIES / 2026 / MODULAR / EDM, PLUNDERPHONICS, SOUND COLLAGE, CHILLWAVE 8/10 https://theneedledrop.com/l",
-    "categories": [],
-    "published": "2026-10-23T02:46:33+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
   }
 ]
