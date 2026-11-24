@@ -1,5 +1,1809 @@
 [
   {
+    "id": "a5be13d7ac526645",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Bob Seger and the Silver Bullet Band Bassist Chris Campbell Dead at 78",
+    "link": "https://www.rollingstone.com/music/music-news/bob-seger-silver-bullet-band-bassist-chris-campbell-dead-1235662929/",
+    "summary": "He spent 50 years playing alongside Seger and appears on \"Turn the Page,\" \"Night Moves,\" \"Rock and Roll Never Forgets,\" \"Still the Same,\" \"Hollywood Nights,\" and \"Against the Wind\"",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Bob Seger & the Silver Bullet Band",
+      "obit",
+      "Obituary"
+    ],
+    "published": "2026-11-24T01:11:22+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "23ebf2c191354ff0",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "See the Sasha & Digweed Poster That Sold for $21,500 at Auction",
+    "link": "https://www.billboard.com/music/music-news/sasha-digweed-poster-sold-21500-auction-photo-1236388407/",
+    "summary": "The poster for the duo's 1994 mix album Renaissance: The Mix Collection was originally created as a temporary ad.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Dance",
+      "genre dance"
+    ],
+    "published": "2026-11-24T00:41:55+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "c2d03fc76eccc5e3",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Robert Glasper on the State of R&B, Kendrick Lamar’s ‘To Pimp a Butterfly’ & Why ‘AI Can’t Copy This’",
+    "link": "https://www.billboard.com/music/rb-hip-hop/robert-glasper-interview-rb-kendrick-lamar-ai-1236388434/",
+    "summary": "The five-time Grammy-winning musician also discusses jazz's influence on hip-hop, scoring upcoming films & helping shape the next generation of Blue Note Records.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "R&B/Hip-Hop",
+      "genre hiphop",
+      "genre rb",
+      "Jazz",
+      "Music News"
+    ],
+    "published": "2026-11-24T00:39:19+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "43838c862408cee3",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Jagged Edge Member Brandon Casey Sued by Woman Claiming Child Rape",
+    "link": "https://www.billboard.com/pro/jagged-edge-brandon-casey-lawsuit-child-rape/",
+    "summary": "The woman also alleges she wrote the R&B group’s hit song “Walked Outta Heaven” at age six. Casey \"flatly rejects the untrue allegations.\"",
+    "full_text": false,
+    "categories": [
+      "Business",
+      "Legal News",
+      "genre rb",
+      "lawsuit",
+      "Legal",
+      "nsfs",
+      "R&B"
+    ],
+    "published": "2026-11-24T00:23:25+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "aff55a6c908bf1c9",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Jay-Z’s 2027 Super Bowl Halftime Show Coming to IMAX Theaters",
+    "link": "https://www.billboard.com/music/rb-hip-hop/jay-z-super-bowl-halftime-show-imax-theaters-2027-1236388294/",
+    "summary": "Get your popcorn ready.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "R&B/Hip-Hop",
+      "genre hiphop",
+      "Music News"
+    ],
+    "published": "2026-11-24T00:19:39+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "b8bd071693c4f17f",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Stevie Wonder Addresses Conspiracy Theories About His Blindness: ‘Get in the Car With Me & We’ll See’",
+    "link": "https://www.billboard.com/music/rb-hip-hop/stevie-wonder-conspiracy-theories-blindness-comments-1236388335/",
+    "summary": "The legendary singer is in on the joke and has been for quite some time.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "R&B/Hip-Hop",
+      "genre rb",
+      "Music News"
+    ],
+    "published": "2026-11-24T00:16:05+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "508f339c8327aa58",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "2 Chainz Survives Terrifying Car Accident in Custom Cybertruck",
+    "link": "https://www.xxlmag.com/2-chainz-survives-car-accident-cybertruck/",
+    "summary": "Kevin C. Cox/Getty Images/2chainz/Instagram",
+    "full_text": false,
+    "categories": [
+      "News",
+      "2 Chainz"
+    ],
+    "published": "2026-11-23T23:51:14+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "1d26ca3c9c7a7225",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘Do You Have What It Takes?’: KATSEYE Appears in Trailer for K-Pop Film Inspired by Their Experience",
+    "link": "https://www.billboard.com/music/music-news/katseye-makes-fitting-cameo-k-pop-the-debut-trailer-watch-1236388290/",
+    "summary": "K-Pop: The Debut follows a televised competition series aiming to form the next global girl group.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "genre kpop",
+      "TV / Film"
+    ],
+    "published": "2026-11-23T23:24:12+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "17b87cd57288931f",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Mary J. Blige’s ‘Real Love’ Did Not Infringe on ‘Impeach the President,’ Appeals Court Rules",
+    "link": "https://www.rollingstone.com/music/music-news/mary-j-blige-real-love-impeach-the-president-appeals-ruling-1235663099/",
+    "summary": "“The works as a whole are distinct,” the three-judge panel found",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "controversy",
+      "courts and crime",
+      "Mary J. Blige",
+      "Universal Music Publishing Group"
+    ],
+    "published": "2026-11-23T23:18:01+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "043811b5e69b7359",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Every Track From ‘Grand Theft Auto VI: The Album’ Ranked — Now Including the Deluxe Bonus Tracks",
+    "link": "https://www.billboard.com/lists/grand-theft-auto-vi-the-album-songs-ranked/",
+    "summary": "GTA 's accompanying soundtrack arrived 24 hours after the long-anticipated Rockstar video game — and they didn't waste time releasing the deluxe edition days later.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Pop",
+      "gaming",
+      "genre hiphop",
+      "genre latin",
+      "genre pop",
+      "Music News"
+    ],
+    "published": "2026-11-23T23:10:00+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "6a92c8a4601d8d64",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Nick Cave & The Bad Seeds Unearth Feral 1986 Live Footage for Your Funeral… My Trial’s 40th Anniversary: Stream",
+    "link": "https://consequence.net/2026/11/nick-cave-bad-seeds-1986-live-footage-your-funeral-my-trial/",
+    "summary": "The 10-song VHS set captures Cave and the Bad Seeds in a haze of leather, sweat, cigarette smoke, howls, and early-career chaos. Nick Cave & The Bad Seeds Unearth Feral 1986 Live Footage for Your Funeral… My Trial’s 40th Anniversary: Stream Alex Krinsky",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Music",
+      "New Music Releases",
+      "News",
+      "Alternative Rock",
+      "Rock",
+      "Singer-Songwriter"
+    ],
+    "published": "2026-11-23T22:38:37+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "b2749eaf8526faeb",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Here’s How to Save 50% Off HBO Max Annual Streaming Subscription",
+    "link": "https://www.billboard.com/culture/product-recommendations/hbo-max-2026-streaming-deals-black-friday-online-1236387950/",
+    "summary": "For Black Friday, get HBO Max for check to watch The Pitt , House of the Dragon , Euphoria , The Last of Us and original music programming.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "black friday",
+      "Deals",
+      "hbo max",
+      "NOADS",
+      "streaming",
+      "streaming deals"
+    ],
+    "published": "2026-11-23T22:36:00+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "8eb5485196120336",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Burning Man CEO Marian Goodell to Exit: ‘I’m Not Tired, I’m Not Done — I’m Ready to Be a Mentor’",
+    "link": "https://www.billboard.com/pro/burning-man-ceo-marian-goodell-exit-interview/",
+    "summary": "Burning Man’s CEO since 2013, Goodell will remain in the role during the search for a new leader and keep her seat on the Burning Man board.",
+    "full_text": false,
+    "categories": [
+      "Business",
+      "Business News",
+      "billboard green",
+      "Burning Man",
+      "Live",
+      "Music News"
+    ],
+    "published": "2026-11-23T22:31:04+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "9f8b82a874845ae2",
+    "source": "The Needle Drop (YouTube)",
+    "source_type": "video",
+    "weight": 1.0,
+    "title": "Odor Eater - But for Who? ALBUM REVIEW",
+    "link": "https://www.youtube.com/watch?v=EhCtDveJFOg",
+    "summary": "Listen: https://odoreater.bandcamp.com/album/but-for-who A very fun minimal wave throwback. Other reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7orSnEBkcBRqI5fDgKSs5c8o =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: BOA CONSTRICTOR, BUT FOR WHO?, NIGHTCALLER, HOTWIRED, PINOCCHIO, ISHMAEL ODOR EATER - BUT FOR WHO? / 2026 / FEEL IT / MINIMAL WAVE, SYNTH PUNK, ZOLO 7/10 Y'all know this is just my opinion, right?",
+    "full_text": false,
+    "categories": [],
+    "published": "2026-11-23T22:13:28+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "72957244f4f383e4",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Two of David Lee Roth’s Drummers Take on Van Halen’s “Jump” for Drumeo: Watch",
+    "link": "https://consequence.net/2026/11/two-former-david-lee-roth-drummers-jump-drumeo/",
+    "summary": "Gregg Bissonette and Korn's Ray Luzier, both former David Lee Roth drummers, each played their versions of the iconic rock track. Two of David Lee Roth’s Drummers Take on Van Halen’s “Jump” for Drumeo: Watch Langdon Hickman",
+    "full_text": false,
+    "categories": [
+      "Heavy Music News",
+      "Heavy Consequence",
+      "Music",
+      "Music News",
+      "News",
+      "Classic Rock",
+      "Drumeo",
+      "Hard Rock"
+    ],
+    "published": "2026-11-23T22:07:21+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "5eea7d3d44c71ee6",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Slayyyter, Charli XCX Added As Final SNL Musical Guests Of 2026",
+    "link": "https://stereogum.com/2520410/slayyyter-charli-xcx-added-as-final-snl-musical-guests-of-2026/news/",
+    "summary": "The post Slayyyter, Charli XCX Added As Final <em>SNL</em> Musical Guests Of 2026 appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Amanda Seyfried",
+      "Charli XCX",
+      "Don Toliver",
+      "Robert De Niro",
+      "Saturday Night Live",
+      "Slayyyter",
+      "Timothée Chalamet"
+    ],
+    "published": "2026-11-23T21:52:17+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "a164ec1c275467c5",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Sleeper Hit Support Group: \"God I'm Just Grateful\" by Elevation Worship",
+    "link": "https://theneedledrop.com/editors-choice/sleeper-hit-support-group-god-im-just-grateful-by-elevation-worship/",
+    "summary": "Elevation Worship are like Broken Social scene but if Toronto was actually just a megachurch in North Carolina",
+    "full_text": false,
+    "categories": [
+      "Editorial",
+      "Editor's Choice",
+      "sleeper hit support group"
+    ],
+    "published": "2026-11-23T21:32:39+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "9d3ee382d8658f05",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Adéla Announces 2027 World Tour",
+    "link": "https://pitchfork.com/story/adela-announces-2027-world-tour/",
+    "summary": "It runs nearly every single night from January to April",
+    "full_text": false,
+    "categories": [
+      "News"
+    ],
+    "published": "2026-11-23T21:23:36+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "064b95ca2ff41340",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "SNL Sets New Episodes with Timothée Chalamet, Charli xcx, and Slayyyter",
+    "link": "https://consequence.net/2026/11/snl-christmas-episode-timothee-chalamet-charli-xcx/",
+    "summary": "Upcoming episodes will also feature Robert De Niro, Amanda Seyfried, and Don Toliver. SNL Sets New Episodes with Timothée Chalamet, Charli xcx, and Slayyyter Alex Young",
+    "full_text": false,
+    "categories": [
+      "News Bites",
+      "Music",
+      "Music News",
+      "News",
+      "TV & Movie News",
+      "TV & Movies",
+      "Saturday Night Live",
+      "Timothée Chalamet"
+    ],
+    "published": "2026-11-23T21:00:08+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "6e218ab874189cec",
+    "source": "Pitchfork (track reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "“Kamikazi”",
+    "link": "https://pitchfork.com/reviews/tracks/dangelo-kamikazi/",
+    "summary": "“Kamikazi,” a funky single reminiscent of Black Messiah, is the songwriter’s first official posthumous release.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Tracks"
+    ],
+    "published": "2026-11-23T20:53:31+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "b31a55435b571bff",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Courtney Love Praises Nirvana’s ‘Unsung Hero’ Tracy Marander Amid Cancer Battle",
+    "link": "https://www.rollingstone.com/music/music-news/courtney-love-tracy-marander-cancer-battle-1235662840/",
+    "summary": "The photographer behind Bleach 's album cover and pivotal early Nirvana supporter enters hospice care after four-year cancer battle",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Courtney Love",
+      "Kurt Cobain",
+      "Nirvana",
+      "Tracy Marander"
+    ],
+    "published": "2026-11-23T20:52:09+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "0a7e5327edda2ae4",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Jaÿ-Z’s Super Bowl Halftime Show Will Be Shown in IMAX Theaters",
+    "link": "https://www.xxlmag.com/jay-z-superbowl-halftime-show-movie-theaters/",
+    "summary": "Apple Music/YouTube/Tero Vesalainen/iStock/Getty Images Plus",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Jay-Z"
+    ],
+    "published": "2026-11-23T20:49:20+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "ad358a8b5478f768",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Rappers Who Have the Most Kids",
+    "link": "https://www.xxlmag.com/rappers-who-have-a-lot-of-kids/",
+    "summary": "Nosyrevy/Paras Griffin/Erin Chang/iStock/ISI Photos/Getty Images (3)/YoungBoy Never Broke Again/YouTube",
+    "full_text": false,
+    "categories": [
+      "News",
+      "21 Savage",
+      "Blueface",
+      "Boosie Badazz",
+      "Chief Keef",
+      "Dae Dae",
+      "Diddy",
+      "DMX",
+      "Dr. Dre",
+      "Eazy-E",
+      "Fetty Wap",
+      "Flavor Flav",
+      "Foogiano",
+      "Future",
+      "Galleries",
+      "Gallery",
+      "Jay Fizzle",
+      "Lil Durk",
+      "Loon",
+      "Master P",
+      "Max B",
+      "Moneybagg Yo",
+      "NBA YoungBoy",
+      "Nick Cannon",
+      "ODB",
+      "ol dirty bastard",
+      "peter gunz",
+      "Rev Run",
+      "Shawty Lo",
+      "T.I.",
+      "Tate Kobang",
+      "Young Thug",
+      "YoungBoy Never Broke Again",
+      "Yung Joc"
+    ],
+    "published": "2026-11-23T20:48:57+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "3f17e94023a90d78",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Metallica Bring the Heat to Mohegan Sun Arena for Final Show of 2026: Review, Photos, Video",
+    "link": "https://consequence.net/2026/11/metallica-mohegan-sun-arena-final-show-2026/",
+    "summary": "The legendary metal act helped celebrate the Connecticut arena's 25th anniversary. Metallica Bring the Heat to Mohegan Sun Arena for Final Show of 2026: Review, Photos, Video Spencer Kaufman",
+    "full_text": false,
+    "categories": [
+      "Heavy Music Concerts",
+      "Concert Reviews",
+      "Heavy Consequence",
+      "Live",
+      "Music",
+      "Photo Galleries",
+      "Heavy Metal",
+      "Thrash Metal"
+    ],
+    "published": "2026-11-23T20:44:31+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "db438678177d7ce6",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Billy Corgan’s Supergroup Zwan to Reissue Debut Album With 19 Unreleased Tracks",
+    "link": "https://www.rollingstone.com/music/music-news/zwan-reissue-mary-star-of-the-sea-unreleased-music-1235662842/",
+    "summary": "Mary Star of the Sea will also return to streaming services, where it hasn’t been available for years",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Billy Corgan",
+      "jimmy chamberlin",
+      "Smashing Pumpkins",
+      "Zwan"
+    ],
+    "published": "2026-11-23T20:31:45+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "5c73ef933e0f8b7f",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Nicktoons Quietly Censors Two Jokes from Classic SpongeBob Episode",
+    "link": "https://consequence.net/2026/11/nicktoons-censors-spongebob-gary-takes-a-bath-jokes/",
+    "summary": "Fans quickly noticed the edits, especially given the show’s long history of cartoon explosions, including the bomb-pie plot of “Dying for Pie.” Nicktoons Quietly Censors Two Jokes from Classic SpongeBob Episode Alex Krinsky",
+    "full_text": false,
+    "categories": [
+      "TV & Movie News",
+      "News",
+      "TV & Movies",
+      "NickToons",
+      "SpongeBob Squarepants"
+    ],
+    "published": "2026-11-23T20:06:31+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "f50dad7ab11a5575",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Molly Santana Says Underground Rap Fans Don't Really Like Women",
+    "link": "https://www.xxlmag.com/molly-santana-underground-fans-dislike-women/",
+    "summary": "bootlegkev/YouTube",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Molly Santana"
+    ],
+    "published": "2026-11-23T20:03:48+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "edd9c12fe8c2a2fc",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "GTA 6 Players Are Learning the Hard Way Not to Steal Teslas",
+    "link": "https://consequence.net/2026/11/gta-6-steal-tesla-coil-car/",
+    "summary": "Each in-game Coil car comes with a brutal anti-theft security system. GTA 6 Players Are Learning the Hard Way Not to Steal Teslas Eddie Fu",
+    "full_text": false,
+    "categories": [
+      "News Bites",
+      "News",
+      "Pop Culture",
+      "Pop Culture News",
+      "Tech News",
+      "Grand Theft Auto",
+      "Tesla"
+    ],
+    "published": "2026-11-23T20:01:07+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "0a1c6038eba1bf1d",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Grand Theft Auto 6 Has a Super Mario Bros. Easter Egg – and You Have to Be High to Activate It",
+    "link": "https://consequence.net/2026/11/grand-theft-auto-vi-super-mario-bros-hats/",
+    "summary": "Players have unlocked some hidden clothing by first taking a big ol' rip and then climbing up some ruins. Grand Theft Auto 6 Has a Super Mario Bros. Easter Egg – and You Have to Be High to Activate It Ben Kaye",
+    "full_text": false,
+    "categories": [
+      "News Bites",
+      "News",
+      "Pop Culture",
+      "Pop Culture News",
+      "Grand Theft Auto",
+      "Super Mario Bros.",
+      "Video Games"
+    ],
+    "published": "2026-11-23T19:59:44+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "16b26e76c69440d5",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Super Bowl LXI to Be Shown in IMAX Theaters",
+    "link": "https://consequence.net/2026/11/super-bowl-lxi-in-imax-theaters/",
+    "summary": "The game, set for February 14th, 2017, and featuring JAY-Z as its halftime performer, will also be broadcast on ESPN, ABC, and Univision, and stream on Disney+. Super Bowl LXI to Be Shown in IMAX Theaters Alex Young",
+    "full_text": false,
+    "categories": [
+      "News Bites",
+      "News",
+      "TV & Movie News",
+      "TV & Movies",
+      "IMAX",
+      "Super Bowl"
+    ],
+    "published": "2026-11-23T19:15:30+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "9abaf62d1d0c255a",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Swae Lee Gets Hit With Beer While Performing at India Show",
+    "link": "https://www.xxlmag.com/swae-lee-india-beer-thrown-fan/",
+    "summary": "swaelee/Instagram/therickyway/Instagram",
+    "full_text": false,
+    "categories": [
+      "News",
+      "swae lee"
+    ],
+    "published": "2026-11-23T19:07:50+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "f51538ec926d1d86",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Hear Clairo Cover MF Doom With El Michels Affair",
+    "link": "https://pitchfork.com/story/hear-clairo-cover-mf-doom-with-el-michels-affair/",
+    "summary": "Leon Michels & co. enlisted the singer-songwriter to recreate the hook on 2002’s “Lavender Buds”",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Audio"
+    ],
+    "published": "2026-11-23T19:03:40+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "762dbc7a5e83be21",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Clairo Covers Beloved MF Doom Song With El Michels Affair",
+    "link": "https://www.rollingstone.com/music/music-news/clairo-mf-doom-lavender-buds-cover-1235662772/",
+    "summary": "The singer-songwriter provided vocals to a rendition of Doom’s “Lavender Buds” which is available via 7-inch and Bandcamp",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Clairo",
+      "El Michels Affair",
+      "MF Doom"
+    ],
+    "published": "2026-11-23T18:47:53+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "9e070caf90cd9257",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Steven Spielberg to Direct a New Western Written by Paul Thomas Anderson That Sounds Rad as Hell",
+    "link": "https://consequence.net/2026/11/steven-spielberg-western-paul-thomas-anderson/",
+    "summary": "Jessie Buckley, Cillian Murphy, and Mark Rylance are set to star in the 2028 adaptation of The Heart in Winter. Steven Spielberg to Direct a New Western Written by Paul Thomas Anderson That Sounds Rad as Hell Liz Shannon Miller",
+    "full_text": false,
+    "categories": [
+      "TV & Movie News",
+      "News",
+      "TV & Movies",
+      "Cillian Murphy",
+      "Jessie Buckley",
+      "Paul Thomas Anderson",
+      "Steven Spielberg"
+    ],
+    "published": "2026-11-23T18:36:05+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "312574d76bd62436",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "You Can Buy AirPods Knockoffs in GTA 6 and Listen to the Radio on Foot",
+    "link": "https://consequence.net/2026/11/gta-6-earbuds-listen-to-radio/",
+    "summary": "You can also buy wireless headphones in the game. You Can Buy AirPods Knockoffs in GTA 6 and Listen to the Radio on Foot Eddie Fu",
+    "full_text": false,
+    "categories": [
+      "Tech News",
+      "News",
+      "Pop Culture",
+      "Pop Culture News",
+      "Grand Theft Auto",
+      "Video Games"
+    ],
+    "published": "2026-11-23T18:33:57+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "de7fee67a63161b1",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "GloRilla Addresses Rumored Beef With Megan Thee Stallion",
+    "link": "https://www.xxlmag.com/glorilla-addresses-megan-thee-stallion-beef/",
+    "summary": "Kevin Winter/Getty Images for iHeartRadio/Maya Dehlin/Getty Images",
+    "full_text": false,
+    "categories": [
+      "News",
+      "GloRilla",
+      "Megan Thee Stallion"
+    ],
+    "published": "2026-11-23T18:16:48+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "517f0381f54c93e5",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "El Michels Affair & Clairo – “Lavender Buds” (MF DOOM Cover)",
+    "link": "https://stereogum.com/2520307/el-michels-affair-clairo-lavender-buds-mf-doom-cover/music/",
+    "summary": "The post El Michels Affair & Clairo – “Lavender Buds” (MF DOOM Cover) appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Clairo",
+      "El Michels Affair",
+      "MF Doom"
+    ],
+    "published": "2026-11-23T18:09:09+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "06e5088008444f5c",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Phoebe Bridgers Sets More Planetarium Listening Parties for Lost Weekend",
+    "link": "https://pitchfork.com/story/phoebe-bridgers-sets-more-planetarium-listening-parties-for-lost-weekend/",
+    "summary": "Stargazers of North America, Europe, and Australasia, unite",
+    "full_text": false,
+    "categories": [
+      "News"
+    ],
+    "published": "2026-11-23T18:07:57+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "6d000ded01043f36",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Zwan, Billy Corgan and Jimmy Chamberlin’s Short-Lived Supergroup, Announce Deluxe Reissue of 2003 Album Mary Star of the Sea",
+    "link": "https://consequence.net/2026/11/zwan-mary-star-of-the-sea-deluxe-reissue-billy-corgan-jimmy-chamberlin-supergroup/",
+    "summary": "The group have also shared a previously unheard track, \"The Empty Sea.\" Zwan, Billy Corgan and Jimmy Chamberlin’s Short-Lived Supergroup, Announce Deluxe Reissue of 2003 Album Mary Star of the Sea Paolo Ragusa",
+    "full_text": false,
+    "categories": [
+      "New Music Releases",
+      "Music",
+      "Music News",
+      "News",
+      "Alternative Rock",
+      "Reissue",
+      "Rock",
+      "Vinyl"
+    ],
+    "published": "2026-11-23T17:55:14+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "fc5b9a5c43f9d326",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Soundwalk Collective With Patti Smith – “Cry Of The Lost”",
+    "link": "https://stereogum.com/2520300/soundwalk-collective-with-patti-smith-cry-of-the-lost/music/",
+    "summary": "The post Soundwalk Collective With Patti Smith – “Cry Of The Lost” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Patti Smith",
+      "Soundwalk Collective"
+    ],
+    "published": "2026-11-23T17:52:13+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "5bff45d66decd98b",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "D’Angelo, Belle and Sebastian, and More: This Week’s Pitchfork Selects Playlist",
+    "link": "https://pitchfork.com/story/dangelo-belle-and-sebastian-and-more-this-weeks-pitchfork-selects-playlist/",
+    "summary": "Our weekly playlist highlights songs that our writers, editors, and contributors are listening to on repeat",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Pitchfork",
+      "Pitchfork Selects",
+      "Staff Picks"
+    ],
+    "published": "2026-11-23T17:50:53+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "23eb4fd783dc56c9",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "A Convo Between Fivio Foreign & Kirk Franklin About Christianity",
+    "link": "https://www.xxlmag.com/fivio-foreign-kirk-franklin-interview-christianity/",
+    "summary": "XXL",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Videos",
+      "Feature",
+      "Fivio Foreign",
+      "Kirk Franklin"
+    ],
+    "published": "2026-11-23T17:50:37+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "c21a0c2793c6a648",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Amy Lee on Evanescence’s Sanctuary, Fighting Manipulation, and 20 Years of The Open Door: Podcast",
+    "link": "https://consequence.net/2026/11/evanescence-amy-lee-sanctuary-the-open-door/",
+    "summary": "The frontwoman discusses finding hope in a fractured world, the grief behind her most personal songs, and why she’s finally ready to revisit some painful memories. Amy Lee on Evanescence’s Sanctuary, Fighting Manipulation, and 20 Years of The Open Door: Podcast Kyle Meredith",
+    "full_text": false,
+    "categories": [
+      "Kyle Meredith With... Podcast",
+      "Consequence Podcast Network",
+      "Music",
+      "Alternative Metal",
+      "Gothic Rock",
+      "Hard Rock"
+    ],
+    "published": "2026-11-23T17:45:57+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "10b73b7e2f280a5c",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Previously Unseen Footage of Led Zeppelin at Madison Square Garden Surfaces After 49 Years",
+    "link": "https://www.rollingstone.com/music/music-news/led-zeppelin-madison-square-garden-49-years-1235662709/",
+    "summary": "A 17-year-old fan sneaked a Super 8 camera into the New York arena in 1977 by stuffing it into his jacket, and Zeppelin fans worldwide owe him a debt of gratitude",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Led Zeppelin"
+    ],
+    "published": "2026-11-23T17:38:39+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "f30a7e0ef7ed7966",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Craig Wedren & Anna Waronker Announce Yellowjackets Final Season Soundtrack: Hear “Feed Someone”",
+    "link": "https://stereogum.com/2520293/craig-wedren-anna-waronker-announce-yellowjackets-final-season-soundtrack-hear-feed-someone/music/",
+    "summary": "The post Craig Wedren & Anna Waronker Announce <em>Yellowjackets</em> Final Season Soundtrack: Hear “Feed Someone” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Anna Waronker",
+      "Craig Wedren",
+      "Shudder To Think",
+      "That Dog.",
+      "Yellowjackets"
+    ],
+    "published": "2026-11-23T17:33:08+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "4f783a2e7d389747",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "RUSH’s Geddy Lee Dismisses Claim “Woke Agenda” Affected Drummer Choice",
+    "link": "https://consequence.net/2026/11/rush-geddy-lee-dismisses-woke-agenda-claims-new-drummer/",
+    "summary": "Geddy Lee dismisses the claim that the hiring of Anika Nilles was driven by a \"woke agenda\" rather than her universally lauded playing. RUSH’s Geddy Lee Dismisses Claim “Woke Agenda” Affected Drummer Choice Langdon Hickman",
+    "full_text": false,
+    "categories": [
+      "Heavy Music News",
+      "Heavy Consequence",
+      "Music",
+      "Music News",
+      "News",
+      "Classic Rock",
+      "Hard Rock",
+      "Progressive rock"
+    ],
+    "published": "2026-11-23T17:24:39+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "fc91452e00ac6003",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "D’Angelo’s ‘GTA VI’ Song ‘Kamikaze’ Released as Brother Teases Future Posthumous Songs",
+    "link": "https://www.rollingstone.com/music/music-news/dangelos-gta-vi-kamikaze-brother-new-music-1235662740/",
+    "summary": "“We look forward to sharing more of my brother’s legacy with you,” Luther Archer Jr. said",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "D'Angelo",
+      "Grand Theft Auto",
+      "Grand Theft Auto VI"
+    ],
+    "published": "2026-11-23T17:14:37+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "a822e5014c7d0da8",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Billy Corgan Announces Deluxe Zwan Reissue With Previously Unreleased Tracks",
+    "link": "https://stereogum.com/2520267/billy-corgan-announces-deluxe-zwan-reissue-with-previously-unreleased-tracks/music/",
+    "summary": "The post Billy Corgan Announces Deluxe Zwan Reissue With Previously Unreleased Tracks appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Billy Corgan",
+      "David Pajo",
+      "Jimmy Chamberlin",
+      "Matt Sweeney",
+      "Paz Lenchantin",
+      "Smashing Pumpkins",
+      "Zwan"
+    ],
+    "published": "2026-11-23T17:06:59+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "6a12cc9b5db70a4d",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘Focker-In-Law’ review: Even Ariana Grande’s comedy chops can’t save this legacy sequel",
+    "link": "https://www.nme.com/reviews/film-reviews/focker-in-law-review-ariana-grande-ben-stiller-rober-de-niro-3976765",
+    "summary": "A quarter of a century after their first encounter, Ben Stiller’s Greg Focker once again clashes with Robert De Niro’s patriarch Jack Byrnes The post ‘Focker-In-Law’ review: Even Ariana Grande’s comedy chops can’t save this legacy sequel appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Film Reviews",
+      "Reviews"
+    ],
+    "published": "2026-11-23T17:03:51+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "f23b68e7220c0941",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "ADÉLA announces new North American tour",
+    "link": "https://theneedledrop.com/news/adela-announces-new-north-american-tour/",
+    "summary": "The mini tour will start at Coachella and end in Toronto.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "adela"
+    ],
+    "published": "2026-11-23T16:56:55+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "accbedde6065739c",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Travis Scott, Slayyyter, the Dare Feature on Deluxe GTA VI Soundtrack",
+    "link": "https://pitchfork.com/story/travis-scott-slayyyter-the-dare-feature-on-deluxe-gta-vi-soundtrack/",
+    "summary": "The new version features 23 more songs, including contributions from Overmono and 21 Savage",
+    "full_text": false,
+    "categories": [
+      "News",
+      "New Releases",
+      "Audio"
+    ],
+    "published": "2026-11-23T16:54:39+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "f7122be40ec5e583",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "FKA Twigs and Patti Smith added to Gasometer grand opening as we go inside the “new cultural landmark for Northern Europe”",
+    "link": "https://www.nme.com/news/music/gasometer-stockholm-new-venue-interview-opening-tickets-gig-plans-3976585",
+    "summary": "Ahead of Gasometer's ambitious inaugural performances in March 2027, NME takes a look around the new state-of-the-art renovated gig destination that offers many \"historic moments\" to come The post FKA Twigs and Patti Smith added to Gasometer grand opening as we go inside the “new cultural landmark for Northern Europe” appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Pop",
+      "Rock"
+    ],
+    "published": "2026-11-23T16:37:17+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "88c60e1f221c439f",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "AC/DC, Blondie and Kylie Minogue lead tributes after beloved music promoter Molly Meldrum dies, aged 83",
+    "link": "https://www.nme.com/news/music/ac-dc-blondie-and-kylie-minogue-lead-tributes-after-beloved-music-promoter-molly-meldrum-dies-aged-83-3976776",
+    "summary": "\"He shaped not only the sound of a nation but also the dreams of generations who grew up with his voice guiding them\" The post AC/DC, Blondie and Kylie Minogue lead tributes after beloved music promoter Molly Meldrum dies, aged 83 appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "..",
+      "Pop"
+    ],
+    "published": "2026-11-23T16:36:45+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "4a3fb64bfde9148e",
+    "source": "XXL",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "More Than 12,000 Fans Evacuated From Don Toliver’s U.K. Concert",
+    "link": "https://www.xxlmag.com/don-toliver-manchester-show-evacuated-tear-gas/",
+    "summary": "Ryan Jenkinson/Getty Images/Paras Griffin/Getty Images for BET",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Don Toliver"
+    ],
+    "published": "2026-11-23T16:35:39+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "29a0a5acb1e99b7e",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Fontaines D.C. Dedicate “I Love You” To Liam Gallagher After He Dissed Them, Singer Responds",
+    "link": "https://stereogum.com/2520257/fontaines-d-c-dedicate-i-love-you-to-liam-gallagher-after-he-dissed-them-singer-responds/news/",
+    "summary": "The post Fontaines D.C. Dedicate “I Love You” To Liam Gallagher After He Dissed Them, Singer Responds appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Fontaines D.C.",
+      "Liam Gallagher",
+      "Oasis"
+    ],
+    "published": "2026-11-23T16:34:12+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "48c308fa3b1b09c1",
+    "source": "Slant (music)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Justin Timberlake Faces Tough Questions in Trailer for Apple TV Docuseries ‘Timberlake’",
+    "link": "https://www.slantmagazine.com/news/justin-timberlake-docuseries-trailer-apple-tv/",
+    "summary": "The four-part series revisits Britney Spears, the Super Bowl, and his 2024 arrest. The post Justin Timberlake Faces Tough Questions in Trailer for Apple TV Docuseries ‘Timberlake’ appeared first on Slant Magazine .",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "News",
+      "TV",
+      "Fisher Stevens",
+      "Justin Timberlake"
+    ],
+    "published": "2026-11-23T16:31:57+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "1422faa2d33f0c78",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Justin Timberlake Will Open Up About Highs and Lows of Stardom on Four-Part Documentary",
+    "link": "https://www.rollingstone.com/music/music-news/justin-timberlake-apple-tv-documentary-1235662641/",
+    "summary": "First two parts of Timberlake premiere on Apple TV on Dec. 11, with trailer out now",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Apple TV",
+      "Apple TV+",
+      "Justin Timberlake"
+    ],
+    "published": "2026-11-23T16:28:32+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "2f2d6165c7e4fc93",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "&TEAM Joins SANTOS BRAVOS for ‘ORIGAMI’",
+    "link": "https://www.udiscovermusic.com/news/santos-bravos-origami/",
+    "summary": "The single, produced by “hitman” Bang and Julia Lewis, is accompanied by a video set in Mexico.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "ACRUX",
+      "Homepage Featured",
+      "HYBE",
+      "K-pop",
+      "Latin",
+      "Music Videos",
+      "ORIGAMI",
+      "Pop",
+      "SANTOS BRAVOS",
+      "Team"
+    ],
+    "published": "2026-11-23T16:19:00+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "89f5d6fea43daabc",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Yuja Wang Announces Live Prokofiev and Bartók Concertos",
+    "link": "https://www.udiscovermusic.com/news/yuja-wang-prokofiev-bartok-piano-concertos/",
+    "summary": "The recordings capture Wang’s 2015 Berlin debut and a 2017 performance with Simon Rattle in Asia.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Bartók’s Second Piano Concerto",
+      "Berliner Philharmoniker",
+      "Classical",
+      "Classical News",
+      "Deutsche Grammophon",
+      "Homepage Featured",
+      "Live Music",
+      "Paavo Järvi",
+      "Prokofiev’s Second Piano Concerto",
+      "Simon Rattle",
+      "Vinyl",
+      "Yuja Wang"
+    ],
+    "published": "2026-11-23T16:13:29+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "87530eac0c9a7db8",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Lauren Spencer Smith Turns Holiday Memories Into ‘Birthdays & Christmas’",
+    "link": "https://www.udiscovermusic.com/news/lauren-spencer-smith-birthdays-christmas/",
+    "summary": "The singer says the song draws on her relationship with her father and the memories tied to holidays.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Birthdays and Christmas",
+      "Homepage Featured",
+      "Lauren Spencer Smith",
+      "New Music",
+      "Pop"
+    ],
+    "published": "2026-11-23T16:10:54+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "37bb34da11f13a0a",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Taylor Swift Surprise Brenda Lee With ‘Rockin’ Around the Christmas Tree’ Honor",
+    "link": "https://www.rollingstone.com/music/music-country/taylor-swift-rockin-around-the-christmas-tree-brenda-lee-1235662663/",
+    "summary": "Lee’s 1958 chestnut is one of just two Christmas songs to ever be certified Diamond",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Country",
+      "Brenda Lee",
+      "Taylor Swift"
+    ],
+    "published": "2026-11-23T16:10:30+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "ca72bdef15bf6263",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Steve Lacy Brought Out SZA, Childish Gambino, Tyler, The Creator & More In LA",
+    "link": "https://stereogum.com/2520245/steve-lacy-brought-out-sza-childish-gambino-tyler-the-creator-more-in-la/news/",
+    "summary": "The post Steve Lacy Brought Out SZA, Childish Gambino, Tyler, The Creator & More In LA appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Cecile Believe",
+      "Childish Gambino",
+      "Fousheé",
+      "Ravyn Lenae",
+      "Steve Lacy",
+      "Syd",
+      "SZA",
+      "The Internet",
+      "Thundercat",
+      "Tyler The Creator"
+    ],
+    "published": "2026-11-23T16:09:57+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "35e0602ce9c65c1d",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Drummer John Dolmayan Promises “Big Things” from System of a Down",
+    "link": "https://consequence.net/2026/11/john-dolmayan-big-things-system-of-a-down/",
+    "summary": "The drummer has grand plans for the band's future concerts. Drummer John Dolmayan Promises “Big Things” from System of a Down Spencer Kaufman",
+    "full_text": false,
+    "categories": [
+      "Heavy Music News",
+      "Heavy Consequence",
+      "Music",
+      "Music News",
+      "News",
+      "Alternative Metal",
+      "Heavy Metal"
+    ],
+    "published": "2026-11-23T16:09:32+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "a1528b81f1400087",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Listen to Mergui’s New EP ‘Gut Feeling’",
+    "link": "https://www.udiscovermusic.com/news/mergui-gut-feeling-ep-out-now/",
+    "summary": "The five-song release moves from the rush of new attraction to the work of facing conflict together.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Gut Feeling",
+      "Homepage Featured",
+      "Jesse Shatkin",
+      "Mergui",
+      "Pop"
+    ],
+    "published": "2026-11-23T16:05:36+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "a131121829a8f049",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Portishead Reportedly Pull Music From Israeli Streaming Services",
+    "link": "https://pitchfork.com/story/portishead-reportedly-pull-music-from-israeli-streaming-services/",
+    "summary": "The band, long aligned with the Palestinian cause, has not commented on the removal",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Politics"
+    ],
+    "published": "2026-11-23T16:00:53+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "4011612964239e53",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Frankie Grande Joins Ben Plum on ‘Sunshine’",
+    "link": "https://www.udiscovermusic.com/news/ben-plum-frankie-grande-sunshine/",
+    "summary": "The collaboration began after Grande discovered Plum’s music online and reached out to praise his song “Boys Like You.”",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Ben Plum",
+      "Electronic",
+      "Frankie Grande",
+      "Homepage Featured"
+    ],
+    "published": "2026-11-23T15:58:41+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "fcf8dd6a4fa6cffc",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Confidence Man Releases ‘Active Scenes Vol Two’",
+    "link": "https://www.udiscovermusic.com/news/confidence-man-active-scenes-vol-two/",
+    "summary": "The second installment draws on the band's Active Scenes parties and includes remixes from The Trip and Ben Sterling.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Active Scenes",
+      "Active Scenes Vol Two",
+      "Ben Sterling",
+      "Confidence Man",
+      "Electronic",
+      "Ewan McVicar",
+      "Homepage Featured",
+      "Rhythm Is Dope",
+      "The Trip",
+      "Young London"
+    ],
+    "published": "2026-11-23T15:56:19+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "7bfc5ee74f8dfbe5",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Diana Krall Marks 25 Years of ‘The Look of Love’",
+    "link": "https://www.udiscovermusic.com/news/diana-krall-the-look-of-love-25th-anniversary-edition/",
+    "summary": "The expanded release adds a digital debut, a CD-exclusive live track and a numbered One-Step vinyl edition.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "25th Anniversary",
+      "Diana Krall",
+      "Homepage Featured",
+      "Jazz",
+      "Reissues",
+      "The Look Of Love",
+      "Verve Records",
+      "Vinyl"
+    ],
+    "published": "2026-11-23T15:53:34+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "9c4db42a51ccf932",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Rema and Wizkid Join Forces on ‘Feel Alright’",
+    "link": "https://www.udiscovermusic.com/news/rema-wizkid-e-mortal-boy-ep/",
+    "summary": "The seven-track EP draws on Kompa, electronic and Caribbean influences.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "E-Mortal Boy",
+      "Feel Alright",
+      "Homepage Featured",
+      "Pop",
+      "Rema",
+      "Wizkid"
+    ],
+    "published": "2026-11-23T15:50:59+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "eb8a76b787b25c0c",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Nick Cave’s Raucous, Druggy Johnny Cash Cover Will Improve Your Day",
+    "link": "https://www.rollingstone.com/music/music-news/nick-cave-bob-dylan-johnny-cash-wanted-man-1986-concert-1235662612/",
+    "summary": "The Bad Seeds performed “Wanted Man” and other Cave classics at a 1986 gig that’s newly posted to YouTube",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Bob Dylan",
+      "Johnny Cash",
+      "Nick Cave",
+      "Nick Cave and the Bad Seeds"
+    ],
+    "published": "2026-11-23T15:49:44+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "ea430b48d87eb133",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Hear FINNEAS’ Cover of Feist’s ‘My Moon My Man’",
+    "link": "https://www.udiscovermusic.com/news/finneas-my-moon-my-man-cover/",
+    "summary": "The cover, first released as an Amazon Music Original, followed a viral performance at the Canadian Songwriters Hall of Fame.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Canadian Songwriters Hall of Fame",
+      "Feist",
+      "Finneas",
+      "Homepage Featured",
+      "My Moon My Man",
+      "Pop",
+      "TikTok"
+    ],
+    "published": "2026-11-23T15:48:42+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "f040c7be714f753c",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "D’Angelo’s Previously Unheard GTA VI Song “Kamikazi” Hits Streaming Services",
+    "link": "https://stereogum.com/2520241/dangelos-previously-unheard-gta-vi-song-kamikazi-hits-streaming-services/music/",
+    "summary": "The post D’Angelo’s Previously Unheard <em>GTA VI</em> Song “Kamikazi” Hits Streaming Services appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "D'Angelo",
+      "Grand Theft Auto",
+      "Grand Theft Auto VI",
+      "James Gadson",
+      "Jermaine Holmes",
+      "June McDoom",
+      "KeiyaA",
+      "Nick Hakim",
+      "Slingbaum",
+      "Yussef Dayes"
+    ],
+    "published": "2026-11-23T15:48:01+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "6c23abf03ed428d5",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Paris Jackson Releases New Single ‘Albatross’",
+    "link": "https://www.udiscovermusic.com/news/paris-jackson-albatross/",
+    "summary": "The single follows her sophomore album and arrives ahead of a 2027 tour across North America and Europe.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Albatross",
+      "Alternative",
+      "Homepage Featured",
+      "paris jackson"
+    ],
+    "published": "2026-11-23T15:42:57+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "e42e12c8f3e007bf",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "December 10 Release First Co-Written Single ‘Everybody’s Leaving’",
+    "link": "https://www.udiscovermusic.com/news/december-10-everybodys-leaving/",
+    "summary": "The single is the seven-member group’s first release to include songwriting credits from within the band.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Captain Cuts",
+      "December 10",
+      "Everybody’s Leaving",
+      "Homepage Featured",
+      "Live Music",
+      "On Your Side",
+      "Pop"
+    ],
+    "published": "2026-11-23T15:40:33+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "04199c5a2bd41950",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Brenda Lee’s ‘Rockin’ Around The Christmas Tree’ Earns Diamond Certification",
+    "link": "https://www.udiscovermusic.com/news/brenda-lees-rockin-around-the-christmas-tree-diamond-certification/",
+    "summary": "Taylor Swift presented Lee with the plaque during a surprise visit in Nashville on November 16.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Brenda Lee",
+      "Classic Pop",
+      "Country",
+      "Holiday",
+      "Homepage Featured",
+      "Rockin' Around The Christmas Tree",
+      "Taylor Swift"
+    ],
+    "published": "2026-11-23T15:36:53+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "35f045087c65cf43",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Olivia Rodrigo Covers Another White Stripes Song At Third Man Records Pop-Up Show",
+    "link": "https://stereogum.com/2520238/olivia-rodrigo-covers-another-white-stripes-song-at-third-man-records-pop-up-show/news/",
+    "summary": "The post Olivia Rodrigo Covers Another White Stripes Song At Third Man Records Pop-Up Show appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Jack White",
+      "Olivia Rodrigo",
+      "The White Stripes"
+    ],
+    "published": "2026-11-23T15:30:12+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "e108c9199af9387a",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘Blade Runner 2099’ review: a hollow retread of the cult dystopian classic",
+    "link": "https://www.nme.com/reviews/tv-reviews/blade-runner-2099-review-michelle-yeoh-hunter-schafer-amazon-prime-3976755",
+    "summary": "The eight-hour series fails to bring anything new to the slowly-expanding sci-fi franchise The post ‘Blade Runner 2099’ review: a hollow retread of the cult dystopian classic appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Reviews",
+      "TV Reviews"
+    ],
+    "published": "2026-11-23T15:28:26+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "2aa202c426567d24",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch The Trailer For Justin Timberlake’s Tell-All Documentary",
+    "link": "https://stereogum.com/2520225/watch-the-trailer-for-justin-timberlakes-tell-all-documentary/news/",
+    "summary": "The post Watch The Trailer For Justin Timberlake’s Tell-All Documentary appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Fisher Stevens",
+      "Janet Jackson",
+      "Jessica Biel",
+      "Justin Timberlake",
+      "Lorne Michaels",
+      "Lynn Harless",
+      "Pharrell",
+      "Timbaland"
+    ],
+    "published": "2026-11-23T15:03:35+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "ad1c5aba5f4a9dd6",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Listen to D’Angelo’s Posthumous Song “Kamikazi”",
+    "link": "https://pitchfork.com/story/listen-to-dangelos-posthumous-song-kamikazi/",
+    "summary": "The previously unreleased track surfaced in Grand Theft Auto VI’s Worldwide FM radio station",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Audio",
+      "Video Game"
+    ],
+    "published": "2026-11-23T15:02:19+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "6d45f4cd5576b674",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Live music to be banned from rooftop of The Beatles’ Saville Row London fan experience",
+    "link": "https://www.nme.com/news/music/live-music-to-be-banned-from-rooftop-of-the-beatles-saville-row-london-fan-experience-3976748",
+    "summary": "The Fab Four famously played their final public performance there in 1969 The post Live music to be banned from rooftop of The Beatles’ Saville Row London fan experience appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Live Music News",
+      "Pop"
+    ],
+    "published": "2026-11-23T14:43:57+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "c907d27e0d05dbfe",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Deluxe Grand Theft Auto VI Album Adds 23 Tracks By Travis Scott, Slayyyter, Power Trip, & More",
+    "link": "https://stereogum.com/2520215/deluxe-grand-theft-auto-vi-album-adds-23-tracks-by-travis-scott-slayyyter-power-trip-more/music/",
+    "summary": "The post Deluxe <em>Grand Theft Auto VI</em> Album Adds 23 Tracks By Travis Scott, Slayyyter, Power Trip, & More appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Anitta",
+      "Carly Rae Jepsen",
+      "Denzel Curry",
+      "Grand Theft Auto",
+      "Grand Theft Auto VI",
+      "GTA",
+      "Jagged Edge",
+      "Nelly",
+      "Overmono",
+      "Power Trip",
+      "Sexyy Red",
+      "Slayyyter",
+      "Travis Scott"
+    ],
+    "published": "2026-11-23T14:42:38+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "2b9383d379027ed3",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Premature Evaluation: Atlas Sound Thanatos",
+    "link": "https://stereogum.com/2518477/premature-evaluation-atlas-sound-thanatos/reviews/premature-evaluation/",
+    "summary": "The post Premature Evaluation: Atlas Sound <em>Thanatos</em> appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "Premature Evaluation",
+      "Reviews",
+      "Atlas Sound",
+      "Bradford Cox"
+    ],
+    "published": "2026-11-23T14:26:06+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "679b7d24f280c2b0",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Number Ones: Lizzo’s “About Damn Time”",
+    "link": "https://stereogum.com/2518606/the-number-ones-lizzos-about-damn-time/columns/the-number-ones/",
+    "summary": "The post The Number Ones: Lizzo’s “About Damn Time” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "Columns",
+      "The Number Ones",
+      "Blake Slatkin",
+      "JazzyJust",
+      "Larry Price",
+      "Lizzo",
+      "Malcolm McLaren",
+      "Ricky Reed",
+      "Stephen Hague",
+      "Terrace Martin",
+      "Theron Thomas",
+      "Wprld's Famous Supreme Team"
+    ],
+    "published": "2026-11-23T14:07:32+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "92db84b4875c6ad9",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘Grand Theft Auto 6: The Album’ gets ‘Deluxe’ version with 23 more tracks",
+    "link": "https://www.nme.com/news/gaming-news/grand-theft-auto-6-the-album-deluxe-version-tracklist-slayyyter-travis-scott-3976738",
+    "summary": "Featuring new music from Slayyyter, The Dare, Denzel Curry, Travis Scott and more The post ‘Grand Theft Auto 6: The Album’ gets ‘Deluxe’ version with 23 more tracks appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Gaming News",
+      "Music News",
+      "News",
+      "Video game music"
+    ],
+    "published": "2026-11-23T14:00:54+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "14963055cc78ad9f",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "TND Film Review: Robert Christgau documentary ‘The Last Critic’",
+    "link": "https://theneedledrop.com/tnd-film-review-robert-christgau-documentary-the-last-critic/",
+    "summary": "TND’s Tyler Roland attended a screening of the new critic-focused doc for this critic-founded website.",
+    "full_text": false,
+    "categories": [
+      "Editorial",
+      "robert christgau"
+    ],
+    "published": "2026-11-23T13:00:19+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "80c0d0546571b2ca",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Don Toliver Concert Evacuated After Airborne Substance Released Into Crowd",
+    "link": "https://pitchfork.com/story/don-toliver-concert-evacuated-after-airborne-substance-released-into-crowd/",
+    "summary": "Fans were reportedly “screaming” and “coughing up blood” at UK arena Co-Op Live",
+    "full_text": false,
+    "categories": [
+      "News"
+    ],
+    "published": "2026-11-23T12:48:14+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "8fdb1a4e1de896ca",
+    "source": "The Needle Drop (YouTube)",
+    "source_type": "video",
+    "weight": 1.0,
+    "title": "Fall Out Boy, IDK & Eminem, Jane Remover, King Gizzard | Weekly Track Roundup: 11/22/26",
+    "link": "https://www.youtube.com/watch?v=_YCjSjoOCQc",
+    "summary": "2026 FAV TRACKS PLAYLIST: https://music.apple.com/us/playlist/my-fav-singles-of-2026/pl.u-7DYysxmV9Lx TND Patreon: https://www.patreon.com/theneedledrop Turntable Lab link: http://turntablelab.com/theneedledrop austen SHOUTOUT RÓIS - MO LÉAN https://roismusicroismusic.bandcamp.com/album/mo-l-an !!!BEST TRACKS THIS WEEK!!! Machine Girl - Psychofiller https://www.youtube.com/watch?v=kPDCWdqju4E Jessie Ware - Middle of the Night https://www.youtube.com/watch?v=WaT-alr-7HY Jane Remover - Misplace ★ https://www.youtube.com/watch?v=Vzz8YNEEg6o Fall Out Boy - Doomsday Generation (Slacker for the Ages) https://www.youtube.com/watch?v=KcAiT134_Es King Gizzard & the Lizard Wizard - Rogue Wave https://www.youtube.com/watch?v=PQtgQTH1JXw Ethel Cain & Robin Carolan - Wynter Waxeth https://www.youtube.com/watch?v=aVUS9O9HOpM Julien Baker - Hound https://www.youtube.com/watch?v=rueZuJ2n2JE Gabriel Jacoby - be alright https://www.youtube.com/watch?v=L4Y-AntRE_w Phoebe Bridgers - Anything (Adrianne Len",
+    "full_text": false,
+    "categories": [],
+    "published": "2026-11-23T06:07:36+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "d2c41c71fd8effe9",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Nirosta Steel Shares Alternate Versions of My Skyscraper Tracks",
+    "link": "https://pitchfork.com/story/nirosta-steel-shares-alternate-versions-of-my-skyscraper-tracks/",
+    "summary": "“Grey Boy” and “Boss Trix” now have “Boss Mix” editions",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Audio"
+    ],
+    "published": "2026-11-23T05:03:35+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "41f9fcd714acc91a",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Thanatos",
+    "link": "https://pitchfork.com/reviews/albums/atlas-sound-thanatos/",
+    "summary": "Bradford Cox’s first solo album in 15 years is a haunted, autumnal meditation on all forms of decay: bodily, spiritual, political, and sonic.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-23T05:02:00+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "4f8f4f711a299d76",
+    "source": "Pitchfork (Best New Albums)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Thanatos",
+    "link": "https://pitchfork.com/reviews/albums/atlas-sound-thanatos/",
+    "summary": "Bradford Cox’s first solo album in 15 years is a haunted, autumnal meditation on all forms of decay: bodily, spiritual, political, and sonic.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-23T05:02:00+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "57e807c55ac13051",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Demoed EP",
+    "link": "https://pitchfork.com/reviews/albums/lambchop-demoed-ep/",
+    "summary": "MJ Lenderman, Circuit des Yeux, Flock of Dimes, and more lend their voices to stripped-down versions of songs from this year’s Punching the Clown on a new EP that continues the remarkable transformation of Lambchop.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-23T05:01:00+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "7f863333a89f9686",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Khudgarzi",
+    "link": "https://pitchfork.com/reviews/albums/sheherazaad-khudgarzi/",
+    "summary": "The Brooklyn and Delhi-based singer-songwriter tells stories of strange and solitary women cast out by society: murderers, sex workers, and schemers determined to secure their freedom by any means.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-23T05:00:00+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
+    "id": "da8b5c0ae1f39bdf",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Don Toliver’s Manchester Show Evacuated After Suspected Tear Gas Incident, London Show Postponed",
+    "link": "https://stereogum.com/2519772/don-tolivers-manchester-show-evacuated-after-suspected-tear-gas-incident/news/",
+    "summary": "The post Don Toliver’s Manchester Show Evacuated After Suspected Tear Gas Incident, London Show Postponed appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Don Toliver"
+    ],
+    "published": "2026-11-23T04:59:00+00:00",
+    "collected": "2026-11-24T02:46:44.213380+00:00"
+  },
+  {
     "id": "883a86ecffc3068e",
     "source": "Billboard",
     "source_type": "news",
@@ -39819,88 +41623,6 @@
       "Sunday Review"
     ],
     "published": "2026-10-25T04:00:00+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "1c0496f386e0ebb0",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Ali G Ropes Noel Gallagher Into New Movie Promo",
-    "link": "https://stereogum.com/2515535/ali-g-ropes-noel-gallagher-into-new-movie-promo/news/",
-    "summary": "The post Ali G Ropes Noel Gallagher Into New Movie Promo appeared first on Stereogum .",
-    "categories": [
-      "News",
-      "Ali G",
-      "Amelia Dimoldenberg",
-      "Chicken Shop Date",
-      "Noel Gallagher",
-      "Oasis",
-      "Sacha Baron Cohen"
-    ],
-    "published": "2026-10-24T17:20:13+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "0268b40f7e3e2379",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Slayyyter Addresses People Trying To “Recancel” Her, Cancels Rest Of Tour",
-    "link": "https://stereogum.com/2515530/slayyyter-addresses-people-trying-to-recancel-her-cancels-rest-of-tour/news/",
-    "summary": "The post Slayyyter Addresses People Trying To “Recancel” Her, Cancels Rest Of Tour appeared first on Stereogum .",
-    "categories": [
-      "News",
-      "Rachel Chinouriri",
-      "Slayyyter"
-    ],
-    "published": "2026-10-24T16:45:45+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "995b3b4eaddbc203",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Dallas Cowboys Cheerleaders Take Legal Action Against My Chemical Romance Over Staged Shootout",
-    "link": "https://stereogum.com/2515526/dallas-cowboys-cheerleaders-take-legal-action-against-my-chemical-romance-over-staged-shootout/news/",
-    "summary": "The post Dallas Cowboys Cheerleaders Take Legal Action Against My Chemical Romance Over Staged Shootout appeared first on Stereogum .",
-    "categories": [
-      "News",
-      "Dallas Cowboys",
-      "Gerard Way",
-      "My Chemical Romance"
-    ],
-    "published": "2026-10-24T15:54:18+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "20bf321d28740034",
-    "source": "Slant (music)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Taylor Swift’s Debut Set the Blueprint for the Artist’s Pop Instincts and Infamous Fixations",
-    "link": "https://www.slantmagazine.com/music/taylor-swift-self-titled-debut-retrospective-album-review/",
-    "summary": "Twenty years later, the album stands as an admirable, if uneven, document of its time. The post Taylor Swift’s Debut Set the Blueprint for the Artist’s Pop Instincts and Infamous Fixations appeared first on Slant Magazine .",
-    "categories": [
-      "Music",
-      "Taylor Swift"
-    ],
-    "published": "2026-10-24T15:12:06+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "efc90ea43e0ad1a7",
-    "source": "Pitchfork (album reviews)",
-    "source_type": "reviews",
-    "weight": 1.5,
-    "title": "Back to Black (20th Anniversary Edition)",
-    "link": "https://pitchfork.com/reviews/albums/amy-winehouse-back-to-black-20th-anniversary-edition/",
-    "summary": "Even with unreleased demos on the tracklist, there’s hardly anything to add to Amy Winehouse’s 2006 blockbuster, one of the all-time great breakup albums.",
-    "categories": [
-      "Reviews / Albums"
-    ],
-    "published": "2026-10-24T04:00:00+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
   }
 ]
