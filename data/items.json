@@ -1,5 +1,805 @@
 [
   {
+    "id": "e56665898ccea6b8",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Miranda Lambert Perform Medley of Her Hits at Dallas Cowboys Halftime Show",
+    "link": "https://www.rollingstone.com/music/music-country/miranda-lambert-dallas-cowboys-halftime-show-performance-1235664551/",
+    "summary": "The native Texan tackled songs like \"Gunpowder & Lead\" and \"Little Red Wagon\" in her first NFL appearance during the annual Thanksgiving tradition",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Country",
+      "Miranda Lambert",
+      "NFL"
+    ],
+    "published": "2026-11-27T00:00:49+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "0fe82c7bf9a021c3",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Anuel AA’s ‘RHLM2’ Album Is Finally Here: ‘I Made It With My Heart and Soul’",
+    "link": "https://www.billboard.com/music/latin/anuel-aa-rhlm2-album-1236389833/",
+    "summary": "The long-awaited album is a sequel to his 2018 debut, Real Hasta La Muerte, and his first in four years.",
+    "full_text": false,
+    "categories": [
+      "Latin",
+      "Music",
+      "genre latin"
+    ],
+    "published": "2026-11-27T00:00:00+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "9469fa3893e13ca4",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Lana Del Rey Says New Albums Are ‘Getting Close’ to Completion: ‘I’m Happy With Them’",
+    "link": "https://www.billboard.com/music/music-news/lana-del-rey-new-albums-stove-spyda-update-1236390186/",
+    "summary": "The singer-songwriter updated fans on Stove and its companion album, Spyda , while seemingly teasing cryptic lyrics.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "genre pop"
+    ],
+    "published": "2026-11-26T22:14:35+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "3ff1dc3646f9d754",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Goo Goo Dolls’ Halftime Show at the Chiefs vs. Bills Thanksgiving Game: Watch Online for Free",
+    "link": "https://www.billboard.com/culture/product-recommendations/goo-goo-dolls-halftime-chiefs-bills-thanksgiving-watch-free-1236389230/",
+    "summary": "The game will take place on Thanksgiving Night (Nov. 26), with the rock band taking the stage at halftime. Fans can also tune in for a potential Taylor Swift and Hailee Steinfeld spotting.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "Deals",
+      "halftime show",
+      "how to watch",
+      "nfl",
+      "NOADS",
+      "streaming",
+      "streaming deals",
+      "thanksgiving"
+    ],
+    "published": "2026-11-26T21:00:00+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "8a625ad7e9db3707",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Where to Watch Jennifer Lopez’s Vegas Concert Film ‘The JLO Show’ Free Online",
+    "link": "https://www.billboard.com/culture/product-recommendations/how-to-watch-jennifer-lopez-vegas-concert-film-free-online-1236390059/",
+    "summary": "The two-hour concert film documents Jennifer Lopez's Las Vegas residency finale in March of this year and premieres on Thanksgiving at 8:00 p.m. ET/PT.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "how to watch",
+      "las vegas residency",
+      "NOADS",
+      "streaming",
+      "thanksgiving"
+    ],
+    "published": "2026-11-26T21:00:00+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "a0ea3144139046b6",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Feid and Snoop Dogg Drop Thanksgiving Collaboration ‘Gracias x Todo’",
+    "link": "https://www.billboard.com/music/music-news/feid-snoop-dogg-gracias-x-todo-thanksgiving-song-1236390180/",
+    "summary": "The two stars previewed the song at the 2026 Latin Grammy Awards.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "genre hiphop",
+      "genre latin",
+      "thanksgiving"
+    ],
+    "published": "2026-11-26T20:25:54+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "ce2d7bbcbdb560c7",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘Hejira’ at 50: Beck, Cameron Crowe, Clairo, and More Honor Joni Mitchell’s 1976 Masterpiece",
+    "link": "https://www.rollingstone.com/music/music-features/joni-mitchell-hejira-anniversary-1235656052/",
+    "summary": "Jamie Lee Curtis, producer Nigel Godrich, Fleet Foxes' Robin Pecknold, and more discuss the road-trip classic",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "Amy Allen",
+      "Beck",
+      "Clairo",
+      "Danielle Haim",
+      "Diana Silvers",
+      "Emma Ogier",
+      "Jamie Lee Curtis",
+      "Joni Mitchell",
+      "Kara Jackson",
+      "Lennon Stella",
+      "Lizzy McAlpine",
+      "Nigel Godrich",
+      "Robin Pecknold"
+    ],
+    "published": "2026-11-26T20:23:59+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "7597c6982f4c94c9",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Wu-Tang Clan Perform ‘Triumph,’ ‘Bring Da Ruckus’ at NFL Thanksgiving Halftime Show",
+    "link": "https://www.rollingstone.com/music/music-news/wu-tang-clan-nfl-thanksgiving-game-halftime-show-1235664856/",
+    "summary": "The New York hip-hop group were joined by Red Hot Chili Peppers' Chad Smith on drums",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "CBS",
+      "NFL",
+      "Wu-Tang Clan"
+    ],
+    "published": "2026-11-26T20:21:52+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "c92941db9030c37f",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Wu-Tang Clan Perform the 2026 NFL Thanksgiving Day Halftime Show",
+    "link": "https://pitchfork.com/story/watch-wu-tang-clan-perform-the-nfl-thanksgiving-day-halftime-show/",
+    "summary": "The New York group took the stage in Detroit for the Bears vs. Lions football game",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Video",
+      "TV"
+    ],
+    "published": "2026-11-26T20:19:29+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "b4dcb5f599adff08",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Wu-Tang Clan Bring Da Ruckus for NFL Thanksgiving Day Halftime Show",
+    "link": "https://consequence.net/2026/11/wu-tang-clan-nfl-thanksgiving-show/",
+    "summary": "Teaming up with Chad Smith, the hip-hop legends served up a set of greatest hits during halftime of the NFL's Thanksgiving Day matchup between the Detroit Lions and Chicago Bears on Thursday Wu-Tang Clan Bring Da Ruckus for NFL Thanksgiving Day Halftime Show Karan Singh",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Music",
+      "News",
+      "Hip-Hop",
+      "NFL",
+      "Rap"
+    ],
+    "published": "2026-11-26T20:14:14+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "c0c5e81b2484fa08",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Toronto Musician Michael Eckert Killed In Home Invasion",
+    "link": "https://stereogum.com/2522048/toronto-musician-michael-eckert-killed-in-home-invasion/news/",
+    "summary": "The post Toronto Musician Michael Eckert Killed In Home Invasion appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Michael Eckert"
+    ],
+    "published": "2026-11-26T19:46:48+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "5474fd01f5e22d8f",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Michael Giles, King Crimson Co-Founder and Original Drummer, Dies at 84",
+    "link": "https://www.billboard.com/music/music-news/king-crimson-michael-giles-death-obituary-1236390176/",
+    "summary": "\"His unique contribution to the evolution of progressive music will never be forgotten,” the band's label wrote.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "genre rock",
+      "nsfs",
+      "obituary"
+    ],
+    "published": "2026-11-26T18:52:35+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "f9e4cd383b5a3278",
+    "source": "Slant (music)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Lana Del Rey Delivers a Thanksgiving Update on New Album(s), Hugs Giant Tree",
+    "link": "https://www.slantmagazine.com/music/lana-del-rey-thanksgiving-new-albums-stove/",
+    "summary": "The singer revealed that she’s “close to wrapping up” the new albums. The post Lana Del Rey Delivers a Thanksgiving Update on New Album(s), Hugs Giant Tree appeared first on Slant Magazine .",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "News",
+      "Lana Del Rey"
+    ],
+    "published": "2026-11-26T18:39:13+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "1b1f69dde288b48e",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Miranda Lambert NFL Halftime Show 2026: Where to Watch Philadelphia Eagles vs. Dallas Cowboys Live Online Free",
+    "link": "https://www.billboard.com/culture/product-recommendations/nfl-thanksgiving-phl-dal-miranda-lambert-halftime-watch-free-1236385793/",
+    "summary": "Livestream the PHL Eagles taking on the DAL Cowboys for Thanksgiving Day. Watch Miranda Lambert perform at halftime.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "Fox",
+      "genre country",
+      "how to watch",
+      "Music News",
+      "nfl",
+      "NOADS",
+      "streaming"
+    ],
+    "published": "2026-11-26T18:30:00+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "8c5aad6fed2c7d79",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Lana Del Rey Shares Thanksgiving Update On New Albums",
+    "link": "https://stereogum.com/2522030/lana-del-rey-shares-thanksgiving-update-on-new-albums/news/",
+    "summary": "The post Lana Del Rey Shares Thanksgiving Update On New Albums appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "David Arnold",
+      "Lana Del Rey"
+    ],
+    "published": "2026-11-26T18:15:24+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "3f167339d11ac051",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "PUP Compose New Music for Sample Pack Benefitting Kids in Toronto",
+    "link": "https://pitchfork.com/story/pup-compose-new-music-for-sample-pack-benefitting-kids-in-toronto/",
+    "summary": "Proceeds from the eight new songs will go to Community Music Schools of Toronto",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Benefit"
+    ],
+    "published": "2026-11-26T17:57:07+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "dc08e402071b49d1",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Snoop Dogg Teams Up With Feid for Thanksgiving Single ‘Gracias x Todo’",
+    "link": "https://www.rollingstone.com/music/music-news/snoop-dogg-feid-gracias-x-todo-single-thanksgiving-1235664907/",
+    "summary": "The musicians recently previewed the track during a performance at the Latin Grammy Awards",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Feid",
+      "Snoop Dogg",
+      "Thanksgiving"
+    ],
+    "published": "2026-11-26T17:40:02+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "27c064b0d033fcd6",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Montréal's Taverne Tour announces lineup for 2027, Black Lips, Guerilla Toss, U.S. Girls and more to lead",
+    "link": "https://theneedledrop.com/news/montreals-taverne-tour-announces-lineup-for-2027-black-lips-guerilla-toss-u-s-girls-and-more-to-lead/",
+    "summary": "The city's underground festival will take place on February 11 to 13.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "taverne tour montreal",
+      "guerilla toss",
+      "black lips",
+      "a place to bury strangers",
+      "us girls",
+      "adult dvd",
+      "corridor"
+    ],
+    "published": "2026-11-26T17:39:10+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "b0ebad02be528fb4",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "DVTR – “Queen Cong”",
+    "link": "https://stereogum.com/2522018/dvtr-queen-cong/music/",
+    "summary": "The post DVTR – “Queen Cong” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "DVTR"
+    ],
+    "published": "2026-11-26T17:24:22+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "41d084c898d41657",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Anna Meredith Releases New Single ‘Mink’ From ‘DARLING’",
+    "link": "https://www.udiscovermusic.com/news/anna-meredith-mink-darling/",
+    "summary": "The track pairs strings and synths, building toward an intense crescendo.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Anna Meredith",
+      "DARLING",
+      "Electronic",
+      "Homepage Featured",
+      "Mercury KX",
+      "Mink",
+      "Music Videos",
+      "Sky Arts Awards",
+      "Soundtracks",
+      "Wicker"
+    ],
+    "published": "2026-11-26T17:05:33+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "14900137b492f35d",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Elton John Appears in Jamie Miller’s ‘Babydoll’ Video",
+    "link": "https://www.udiscovermusic.com/news/jamie-miller-babydoll-elton-john-video/",
+    "summary": "Jason Lester directed the video, which arrives as the single climbs charts in the U.S. and U.K.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Babydoll",
+      "Elton John",
+      "Homepage Featured",
+      "Jamie Miller",
+      "Live Music",
+      "Music Videos",
+      "Pop"
+    ],
+    "published": "2026-11-26T17:04:28+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "f34ddc028c14273d",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "ApolloRed1 Releases ‘AR1 vs The World 2.0’",
+    "link": "https://www.udiscovermusic.com/news/apollored1-ar1-vs-the-world/",
+    "summary": "The nine-track follow-up features OsamaSon, Pz’ and slayr, with production from Trgc, Bhristo and Chenzo.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "ApolloRed1",
+      "AR1 vs The World 2.0",
+      "Hip-Hop",
+      "Homepage Featured",
+      "Interscope Records",
+      "OsamaSon",
+      "slayr",
+      "YVL"
+    ],
+    "published": "2026-11-26T17:01:55+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "6490e7c6d93511d3",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Morten Harket – Human Grace",
+    "link": "https://www.musicomh.com/reviews/albums/morten-harket-human-grace",
+    "summary": "Diagnosed with Parkinson’s, the a-ha's singer's creative urgency can be heard throughout this measured, beautiful celebration of life that shines light through dark winter evenings The post Morten Harket – Human Grace appeared first on musicOMH .",
+    "full_text": false,
+    "categories": [
+      "Album Of The Week",
+      "Album Reviews",
+      "a-ha",
+      "Morten Harket"
+    ],
+    "published": "2026-11-26T17:01:13+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "2561b3df71e93752",
+    "source": "uDiscover Music",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Weeknd Marks ‘Starboy’ Anniversary With Collector’s Editions",
+    "link": "https://www.udiscovermusic.com/news/the-weeknd-starboy-decade-collection/",
+    "summary": "The collection includes two 7-inch singles, three 2LP editions, and a deluxe CD with poster.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "10th Anniversary",
+      "Ariana Grande",
+      "Daft Punk",
+      "Future",
+      "Homepage Featured",
+      "Kendrick Lamar",
+      "Lana Del Rey",
+      "Music Videos",
+      "R&B",
+      "Reissues",
+      "Starboy",
+      "The Weeknd",
+      "Vinyl"
+    ],
+    "published": "2026-11-26T17:00:51+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "34bd43aad0ae315a",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "BBC Radio 1’s Big Weekend 2027 set to take place in Brighton",
+    "link": "https://www.nme.com/news/music/bbc-radio-1s-big-weekend-2027-set-to-take-place-in-brighton-3977061",
+    "summary": "“It’s actually stupid that it’s taken so long for us to do a Big Weekend there. Sorry about that” The post BBC Radio 1’s Big Weekend 2027 set to take place in Brighton appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Pop"
+    ],
+    "published": "2026-11-26T16:43:19+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "3806b0848e59f261",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Substance released at Don Toliver Co-Op live show could be linked to jewellery thefts and robberies, police say",
+    "link": "https://www.nme.com/news/music/substance-at-don-toliver-coop-live-show-could-be-linked-to-jewellery-thefts-police-say-3977049",
+    "summary": "Officers said that “similar robberies” have been reported at two previous Don Toliver gigs The post Substance released at Don Toliver Co-Op live show could be linked to jewellery thefts and robberies, police say appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Rap"
+    ],
+    "published": "2026-11-26T16:28:10+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "ee9fd941433b3e44",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Macy Gray Is Releasing Her New Album In A Microdrama",
+    "link": "https://stereogum.com/2522004/macy-gray-is-releasing-her-new-album-in-a-microdrama/news/",
+    "summary": "The post Macy Gray Is Releasing Her New Album In A Microdrama appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Macy Gray",
+      "ReelShort"
+    ],
+    "published": "2026-11-26T16:13:09+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "dff8aea9d1778818",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Football Practice and Red Dirt Music: On the Field With Oklahoma Band Keyland",
+    "link": "https://www.rollingstone.com/music/music-features/keyland-oklahoma-football-bixby-1235664441/",
+    "summary": "“There’s a huge Venn diagram of coaches’ interests outside of football, and one of them is music,” says Kyle Ross, a high-school coach and touring artist",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "Keyland",
+      "Red Dirt"
+    ],
+    "published": "2026-11-26T15:00:00+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "310b1ec8a6b3223b",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Wu-Tang Clan Halftime Show 2026: Here’s Where to Watch Chicago Bears vs. Detroit Lions Live Online Free",
+    "link": "https://www.billboard.com/culture/product-recommendations/nfl-thanksgiving-chi-det-wu-tang-clan-halftime-watch-free-1236385560/",
+    "summary": "Thanksgiving Day Game: Livestream the CHI Bears taking on the DET Lions on Nov. 26. Watch Wu-Tang Clan perform at halftime.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "CBS",
+      "how to watch",
+      "nfl",
+      "NOADS",
+      "paramount plus",
+      "streaming"
+    ],
+    "published": "2026-11-26T15:00:00+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "bfc8ba7b0c2f38b7",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Inside the Madcap World of Chuyín: ‘Everyone Sings About the Neverending Party. I Sing About the Hangover’",
+    "link": "https://www.billboard.com/music/latin/chuyin-street-mob-interview-latin-up-and-comer-tour-2027-1236389136/",
+    "summary": "Meet Billboard ’s Latin Up-and-Comer Artist of the Month for November.",
+    "full_text": false,
+    "categories": [
+      "Latin",
+      "Music",
+      "genre latin",
+      "interview",
+      "Latin Artist on the Rise"
+    ],
+    "published": "2026-11-26T15:00:00+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "868655ad4d4fec39",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Was The Rolling Stones’ 1973 Still Part of the Band’s Classic Period, Or the Beginning of the End? (Greatest Pop Stars Podcast)",
+    "link": "https://www.billboard.com/music/pop/rolling-stones-1973-greatest-pop-stars-podcast-discussion-1236390158/",
+    "summary": "This Vintage Pop Stardom episode of Greatest Pop Stars looks at a year where the World's Greatest Rock and Roll Band was at full power, but maybe moving into a different phase of its career.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Pop",
+      "genre pop",
+      "genre rock",
+      "Greatest Pop Stars Podcast",
+      "Podcasts",
+      "Vintage Pop Stardom"
+    ],
+    "published": "2026-11-26T14:47:13+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "2be533892edcaaf0",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "U2 Perform Their Dolly Parton Collaboration At First-Ever Thanksgiving Eve NFL Game",
+    "link": "https://stereogum.com/2521986/u2-perform-their-dolly-parton-collaboration-at-first-ever-thanksgiving-eve-nfl-game/news/",
+    "summary": "The post U2 Perform Their Dolly Parton Collaboration At First-Ever Thanksgiving Eve NFL Game appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Dolly Parton",
+      "NFL",
+      "The Supremes",
+      "The Womack Sisters",
+      "U2"
+    ],
+    "published": "2026-11-26T14:31:18+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "a8e1351b3d92b394",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Queens Of The Stone Age give ‘Perfecth’ songs their live debut and air rarities as they kick off tour in Japan",
+    "link": "https://www.nme.com/news/music/queens-of-the-stone-age-debut-perfecth-songs-rarities-japan-tour-footage-setlist-3977034",
+    "summary": "Josh Homme also paid tribute to Mark Lanegan on what would have been his birthday, saying that he always made music into “something more” The post Watch Queens Of The Stone Age give ‘Perfecth’ songs their live debut and air rarities as they kick off tour in Japan appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Rock"
+    ],
+    "published": "2026-11-26T14:11:38+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "2b60c2cba121bc20",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The NME Magazine November/December 2026 issue with Daine on the cover is now on sale",
+    "link": "https://www.nme.com/news/music/nme-magazine-november-december-2026-issue-how-to-buy-3976263",
+    "summary": "Bundled with a copy of MusicTech Magazine starring Kenneth Blume aka Kenny Beats The post The NME Magazine November/December 2026 issue with Daine on the cover is now on sale appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News"
+    ],
+    "published": "2026-11-26T14:00:17+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "801ef0b0785659af",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The ‘Silent Hill 2 Remake’ soundtrack is getting a vinyl re-release",
+    "link": "https://www.nme.com/news/gaming-news/silent-hill-2-remake-soundtrack-vinyl-boxset-pre-order-2-3977032",
+    "summary": "The 93-track, 6LP boxset is getting a new colour pressing The post The ‘Silent Hill 2 Remake’ soundtrack is getting a vinyl re-release appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Gaming News",
+      "News",
+      "Video game music"
+    ],
+    "published": "2026-11-26T13:05:21+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "4c9c6612a5b919fd",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Carly Rae Jepsen’s ‘Run Away With Me’ streams jump almost 1,100 per cent after ‘GTA 6’ sync",
+    "link": "https://www.nme.com/news/gaming-news/carly-rae-jepsen-run-away-with-me-grand-theft-auto-resurgence-3977027",
+    "summary": "She’s compared it to Kate Bush’s ‘Stranger Things’-fuelled ‘Running Up The Hill’ revival The post Carly Rae Jepsen’s ‘Run Away With Me’ streams jump almost 1,100 per cent after ‘GTA 6’ sync appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Gaming News",
+      "Music News",
+      "News"
+    ],
+    "published": "2026-11-26T12:49:25+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "a715474cd4af7d27",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Purple Pilgrims – Given To The Night",
+    "link": "https://www.musicomh.com/reviews/albums/purple-pilgrims-given-to-the-night",
+    "summary": "New Zealanders Clementine and Valentine Nixon make dreamy, hazy music of quiet, understated beauty that recalls 4AD's '80s heyday The post Purple Pilgrims – Given To The Night appeared first on musicOMH .",
+    "full_text": false,
+    "categories": [
+      "Album Reviews",
+      "Purple Pilgrims"
+    ],
+    "published": "2026-11-26T12:01:30+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "7772fff350a3c53d",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "James Yorkston – La Magnifica",
+    "link": "https://www.musicomh.com/reviews/albums/james-yorkston-la-magnifica",
+    "summary": "Showcasing the surreptitious poignancy found within the Scot's hushed, self-contained music, this retrospective marks a moment of reflection The post James Yorkston – La Magnifica appeared first on musicOMH .",
+    "full_text": false,
+    "categories": [
+      "Album Reviews",
+      "James Yorkston"
+    ],
+    "published": "2026-11-26T11:31:44+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "62c80ef21eaea932",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "U2 Perform Dolly Parton’s Final Recording During NFL Halftime Show",
+    "link": "https://www.rollingstone.com/music/music-news/u2-tribute-dolly-parton-torn-thanksgiving-nfl-halftime-show-1235664834/",
+    "summary": "The band delivered the moving Parton and Bono duet, \"Torn,\" during Wednesday night's performance",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Bono",
+      "Dolly Parton",
+      "Super Bowl Halftime Show"
+    ],
+    "published": "2026-11-26T05:15:21+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "fbf656b58f521abb",
+    "source": "The Needle Drop (YouTube)",
+    "source_type": "video",
+    "weight": 1.0,
+    "title": "Conway the Machine - OTIS ALBUM REVIEW",
+    "link": "https://www.youtube.com/watch?v=_UwAwTU2LYM",
+    "summary": "Listen: https://www.youtube.com/watch?v=bVl6qk_nvvQ OTIS is just an alright album from Conway. More rap reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormBIO138tYonB949PHnNcP =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: TRICKNOLOGY!, LUPITA!, GOD IS A JEALOUS GOD!, COBRA!, ALMIGH!, CLOSE MY EYES! LEAST FAV TRACK: GREASE PAINT! CONWAY THE MACHINE - OTIS / 2026 / ROC NATION / EAST COAST HIP HOP 6/10 Y'all know this is just my opinion, right?",
+    "full_text": false,
+    "categories": [],
+    "published": "2026-11-26T05:14:22+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "05ab17703b27e974",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Ariana Grande Says Reaction to ‘Petal’ Video Felt Like ‘Black Mirror’",
+    "link": "https://www.rollingstone.com/music/music-news/ariana-grande-petal-video-reaction-black-mirror-1235664830/",
+    "summary": "\"I wouldn't change a thing,\" Grande said of the video. \"I would put it out again today, exactly as is\"",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Ariana Grande"
+    ],
+    "published": "2026-11-26T04:13:01+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
+    "id": "b682d2840831267f",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "U2 Play the Hits, Pay Tribute to Dolly Parton for NFL Thanksgiving Eve Halftime Show",
+    "link": "https://consequence.net/2026/11/u2-thanksgiving-eve-nfl-show/",
+    "summary": "The five-song set included \"Torn,\" \"Sunday Bloody Sunday,\" \"Where the Streets Have No Name,\" and \"Pride (In the Name of Love).\" U2 Play the Hits, Pay Tribute to Dolly Parton for NFL Thanksgiving Eve Halftime Show Travis Bland and Alex Young",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Music",
+      "News",
+      "Classic Rock",
+      "NFL"
+    ],
+    "published": "2026-11-26T03:20:26+00:00",
+    "collected": "2026-11-27T02:47:01.212592+00:00"
+  },
+  {
     "id": "732a4e9ab67f5429",
     "source": "Rolling Stone (music)",
     "source_type": "news",
@@ -42535,910 +43335,6 @@
     "summary": "Listen: https://shabazzpalaces.bandcamp.com/album/its-a-style-sport-1 SP's strongest showing since their first couple of albums. More rap reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormBIO138tYonB949PHnNcP =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: AHH WORLD (I WON THE ALPHA BET), FIELD NOTES, DEADSTOCK DUDE, TONGUE IN CHIC, HELIOCENTRIC IMMORTALITY MANIFESTO H.I.M. SHABAZZ PALACES - IT'S A STYLE SPORT / 2026 / SUB POP / ABSTRACT HIP HOP, SYNTH FUNK, AFROFUTURISM 7/10 Y'all know this is just my opinion, right?",
     "categories": [],
     "published": "2026-10-28T03:06:27+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "97040d22c2d6fa20",
-    "source": "The Needle Drop (website)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Neil Young Sues Trump For $10M",
-    "link": "https://theneedledrop.com/news/neil-young-sues-trump-for-10m/",
-    "summary": "Finally!! Wait... again?",
-    "categories": [
-      "News",
-      "neil young"
-    ],
-    "published": "2026-10-28T00:29:25+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "5e1475be8e1a3f48",
-    "source": "XXL",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Drake's 'Janice STFU' Copyright Infringement Lawsuit Dismissed",
-    "link": "https://www.xxlmag.com/drake-janice-stfu-copyright-lawsuit-dismissed/",
-    "summary": "drake/YouTube",
-    "categories": [
-      "News",
-      "Drake"
-    ],
-    "published": "2026-10-28T00:08:19+00:00",
-    "collected": "2026-11-01T10:59:35.314292+00:00"
-  },
-  {
-    "id": "d41ffaf9a4c83b49",
-    "source": "XXL",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Macklemore Launches Free Palestine Tour, Performs New Song",
-    "link": "https://www.xxlmag.com/macklemore-free-palestine-tour-dublin-where-is-our-love/",
-    "summary": "Abigail Coates/YouTube",
-    "categories": [
-      "News",
-      "Macklemore"
-    ],
-    "published": "2026-10-27T22:50:54+00:00",
-    "collected": "2026-11-01T10:59:35.314292+00:00"
-  },
-  {
-    "id": "64bf9d8a953e3e88",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "My Chemical Romance Bow To Pressure From Dallas Cowboys Cheerleaders",
-    "link": "https://stereogum.com/2515774/my-chemical-romance-bow-to-pressure-from-dallas-cowboys-cheerleaders/news/",
-    "summary": "The post My Chemical Romance Bow To Pressure From Dallas Cowboys Cheerleaders appeared first on Stereogum .",
-    "categories": [
-      "News",
-      "Dallas Cowboys",
-      "My Chemical Romance",
-      "NFL"
-    ],
-    "published": "2026-10-27T21:29:23+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "ea7dee7453f20c3a",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Meiv – “No Future Pt. 1 & 2” (Feat. Armand Hammer)",
-    "link": "https://stereogum.com/2515751/meiv-no-future-pt-1-2-feat-armand-hammer-body-meat/music/",
-    "summary": "The post Meiv – “No Future Pt. 1 & 2” (Feat. Armand Hammer) appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "Armand Hammer",
-      "billy woods",
-      "Body Meat",
-      "Elucid",
-      "Meiv"
-    ],
-    "published": "2026-10-27T21:08:53+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "5ebe14cf969ab409",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Stephen Steinbrink – “I’m A Swimming Pool”",
-    "link": "https://stereogum.com/2515752/stephen-steinbrink-im-a-swimming-pool-in-a-split-mirror/music/",
-    "summary": "The post Stephen Steinbrink – “I’m A Swimming Pool” appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "Stephen Steinbrink"
-    ],
-    "published": "2026-10-27T21:04:35+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "baf75b033af73de1",
-    "source": "Pitchfork (news)",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Brakence Sets 2027 North American Tour",
-    "link": "https://pitchfork.com/story/brakence-sets-2027-north-american-tour/",
-    "summary": "The producer and singer-songwriter dropped his new album Marrow just last Friday",
-    "categories": [
-      "News",
-      "Tours"
-    ],
-    "published": "2026-10-27T20:42:29+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "95b1014e86331215",
-    "source": "XXL",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Blueface Reunites With Nevaeh and Son After Chrisean Rock Split",
-    "link": "https://www.xxlmag.com/blueface-nevaeh-son-chrisean-rock-split/",
-    "summary": "Blueface/Kick.com",
-    "categories": [
-      "News",
-      "Blueface",
-      "Chrisean Rock"
-    ],
-    "published": "2026-10-27T20:30:00+00:00",
-    "collected": "2026-11-01T10:59:35.314292+00:00"
-  },
-  {
-    "id": "a5e1ef347f8bd7ba",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Album Of The Week: DIIV ZIRP!",
-    "link": "https://stereogum.com/2515261/album-of-the-week-diiv-zirp/reviews/album-of-the-week/",
-    "summary": "The post Album Of The Week: DIIV <em>ZIRP!</em> appeared first on Stereogum .",
-    "categories": [
-      "Album Of The Week",
-      "Reviews",
-      "A. G. Cook",
-      "DIIV"
-    ],
-    "published": "2026-10-27T20:25:11+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "1c04e7a86200666f",
-    "source": "XXL",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Yella Beezy's Trial for the Murder of Mo3 Begins",
-    "link": "https://www.xxlmag.com/yella-beezy-trial-mo3-murder-begins/",
-    "summary": "WFAA/YouTube/WFAA/YouTube(2)/ Alberto E. Rodriguez/Getty Images for BET",
-    "categories": [
-      "News",
-      "Mo3",
-      "Yella Beezy"
-    ],
-    "published": "2026-10-27T19:18:15+00:00",
-    "collected": "2026-11-01T10:59:35.314292+00:00"
-  },
-  {
-    "id": "e67f1fdf9d276716",
-    "source": "Pitchfork (news)",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Hum Are Hitting the Road in 2027",
-    "link": "https://pitchfork.com/story/hum-2027-tour/",
-    "summary": "It’s the Illinois rock band’s first proper run since 2015",
-    "categories": [
-      "News",
-      "Tours"
-    ],
-    "published": "2026-10-27T19:13:09+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "65beb10a3c66f54d",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Chvrches – “Overthinker”",
-    "link": "https://stereogum.com/2515747/chvrches-overthinker/music/",
-    "summary": "The post Chvrches – “Overthinker” appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "Chvrches"
-    ],
-    "published": "2026-10-27T19:11:24+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "667cf89043d50b8e",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "St. Vincent Plays Fallon With Marc Ribot, Hannah Cohen, & Ella Hunt",
-    "link": "https://stereogum.com/2515743/st-vincent-plays-fallon-with-marc-ribot-hannah-cohen-ella-hunt/news/",
-    "summary": "The post St. Vincent Plays <em>Fallon</em> With Marc Ribot, Hannah Cohen, & Ella Hunt appeared first on Stereogum .",
-    "categories": [
-      "News",
-      "Charlotte Kemp Muhl",
-      "Ella Hunt",
-      "Hannah Cohen",
-      "James Genus",
-      "Jimmy Fallon",
-      "Marc Ribot",
-      "Rachel Eckroth",
-      "St. Vincent"
-    ],
-    "published": "2026-10-27T18:48:16+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "1a5de691c1758f57",
-    "source": "XXL",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Looze Cannon Takes Over TikTok With Michael Jackson Freestyle",
-    "link": "https://www.xxlmag.com/looze-cannon-michael-jackson-freestyles-tiktok/",
-    "summary": "The Cobain Report/YouTube/Looze Cannon/YouTube",
-    "categories": [
-      "News",
-      "Cordae",
-      "Michael Jackson",
-      "Timbaland"
-    ],
-    "published": "2026-10-27T18:46:33+00:00",
-    "collected": "2026-11-01T10:59:35.314292+00:00"
-  },
-  {
-    "id": "841255302eac77f3",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Taylor Swift Becomes Youngest Person Inducted Into Nashville Songwriters Hall Of Fame",
-    "link": "https://stereogum.com/2515698/taylor-swift-nashville-songwriters-hall-of-fame-induction/news/",
-    "summary": "The post Taylor Swift Becomes Youngest Person Inducted Into Nashville Songwriters Hall Of Fame appeared first on Stereogum .",
-    "categories": [
-      "News",
-      "Brad Paisley",
-      "Bruce Channel",
-      "Jerry Allison",
-      "Lainey Wilson",
-      "Lyle Lovett",
-      "Taylor Swift"
-    ],
-    "published": "2026-10-27T18:25:18+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "2dee326b6b92d061",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Titus Andronicus’ Eric Harm Announces Debut Solo Album Produced By Patrick Stickles",
-    "link": "https://stereogum.com/2515731/titus-andronicus-eric-harm-announces-debut-solo-album-produced-by-patrick-stickles/music/",
-    "summary": "The post Titus Andronicus’ Eric Harm Announces Debut Solo Album Produced By Patrick Stickles appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "Eric Harm",
-      "Patrick Stickles",
-      "Titus Andronicus"
-    ],
-    "published": "2026-10-27T18:18:17+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "2c64ae50b1870727",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "EMA – “Total Control” (The Motels Cover)",
-    "link": "https://stereogum.com/2515733/ema-total-control-the-motels-cover/music/",
-    "summary": "The post EMA – “Total Control” (The Motels Cover) appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "EMA",
-      "The Motels"
-    ],
-    "published": "2026-10-27T18:08:51+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "914b3c4cec8250e9",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Laci Kaye Booth Announces Love Letters To Texas Tour",
-    "link": "https://www.udiscovermusic.com/news/lacy-kaye-booth-love-letters-to-texas-tour/",
-    "summary": "The four-show run begins in Dallas on February 10, with stops in Houston, The Woodlands and Austin.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Country",
-      "Homepage Featured",
-      "Laci Kaye Booth",
-      "Live Music",
-      "Love Ain’t For The Faint Of Heart",
-      "Love Letters to Texas",
-      "Megan Moroney",
-      "Stagecoach Festival"
-    ],
-    "published": "2026-10-27T17:45:01+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "527a6fa944749d0c",
-    "source": "The Needle Drop (website)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Olivia Rodrigo, Chappell Roan, Ecco2k, BICEP | Weekly Track Roundup: 10/25/26",
-    "link": "https://theneedledrop.com/opinion/olivia-rodrigo-chappell-roan-ecco2k-bicep-weekly-track-roundup-102526-1yxow8ixhqw/",
-    "summary": "#newmusic",
-    "categories": [
-      "Opinion",
-      "Weekly Track Roundup",
-      "Edited by Matt"
-    ],
-    "published": "2026-10-27T17:43:06+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "3feb4323c6057ba0",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "See Temper City On ‘The Self Aware Tour’ in 2027",
-    "link": "https://www.udiscovermusic.com/news/temper-city-2027-north-american-tour/",
-    "summary": "The group will also play iHeartRadio ALTer EGO and festivals in Phoenix, Austin, and San Diego.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Alternative",
-      "Homepage Featured",
-      "Live Music",
-      "Temper City",
-      "The Self Aware Tour"
-    ],
-    "published": "2026-10-27T17:37:56+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "82736f823c50ef1d",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Cigarettes @ Sunset Announce 2027 US Headline Tour",
-    "link": "https://www.udiscovermusic.com/news/cigarettes-at-sunset-2027-us-tour/",
-    "summary": "The run spans February through May, with stops in Atlanta, Brooklyn, Asheville and Nashville.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "2027 U.S. Headline Tour",
-      "Cigarettes @ Sunset",
-      "Cigarettes At Sunset",
-      "Homepage Featured",
-      "Live Music",
-      "Possum Rock",
-      "Rock"
-    ],
-    "published": "2026-10-27T17:32:26+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "531b9e6f8e56b5f3",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Factory Floor Announce First New Album In 10 Years One Trip: Hear Two Songs",
-    "link": "https://stereogum.com/2515714/factory-floor-announce-first-new-album-in-10-years-one-trip-hear-two-songs/music/",
-    "summary": "The post Factory Floor Announce First New Album In 10 Years <em>One Trip</em>: Hear Two Songs appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "Factory Floor"
-    ],
-    "published": "2026-10-27T17:27:12+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "f1a77a7dcb1d64cb",
-    "source": "XXL",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Future and Travis Scott Didn't Attend Drake's 40th Birthday Party",
-    "link": "https://www.xxlmag.com/future-travis-scott-drake-40th-birthday-party/",
-    "summary": "Swan Gallet/WWD via Getty Images/sharoneva1/Instagram",
-    "categories": [
-      "News",
-      "DJ Akademiks",
-      "Drake",
-      "Future",
-      "Travis $cott"
-    ],
-    "published": "2026-10-27T17:17:48+00:00",
-    "collected": "2026-11-01T10:59:35.314292+00:00"
-  },
-  {
-    "id": "714a3f952dde0ae3",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Hum Announce 2027 Tour",
-    "link": "https://stereogum.com/2515707/hum-announce-2027-tour/news/",
-    "summary": "The post Hum Announce 2027 Tour appeared first on Stereogum .",
-    "categories": [
-      "News",
-      "Hum",
-      "Pelican",
-      "Spotlights",
-      "The Life And Times"
-    ],
-    "published": "2026-10-27T16:52:47+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "cb058d37492e1651",
-    "source": "The Needle Drop (website)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Dillom announces first-ever US tour",
-    "link": "https://theneedledrop.com/news/dillom-announces-first-ever-us-tour/",
-    "summary": "The Argentine rock star will be performing a select number of dates in the US for the first time in spring 2027. He will be promoting his 2026 album, 'LA NUEVA VIOLENCIA.'",
-    "categories": [
-      "News",
-      "Dillom"
-    ],
-    "published": "2026-10-27T16:40:57+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "61310d294a7c6cf4",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Karly Hartzman Debuts New Song And Covers Neil Young At Roy Cooper Rally",
-    "link": "https://stereogum.com/2515697/karly-hartzman-debuts-new-song-and-covers-neil-young-at-roy-cooper-rally/news/",
-    "summary": "The post Karly Hartzman Debuts New Song And Covers Neil Young At Roy Cooper Rally appeared first on Stereogum .",
-    "categories": [
-      "News",
-      "Karly Hartzman",
-      "Neil Young",
-      "Roy Cooper",
-      "Wednesday"
-    ],
-    "published": "2026-10-27T16:34:17+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "6231c5fa7f877dcc",
-    "source": "Pitchfork (news)",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Neil Young Really Wants Trump to Stop Playing “Rockin’ in the Free World”",
-    "link": "https://pitchfork.com/story/neil-young-really-wants-trump-to-stop-playing-rockin-in-the-free-world/",
-    "summary": "He’s suing (again) over the president’s unauthorized use of the song at political rallies",
-    "categories": [
-      "News",
-      "Politics",
-      "Legal"
-    ],
-    "published": "2026-10-27T16:29:52+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "fa3e6ac3fb4853df",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Hello Mary Members Share Debut Nine Perfect Lives Single “Die”",
-    "link": "https://stereogum.com/2515627/hello-mary-members-share-debut-nine-perfect-lives-single-die/music/",
-    "summary": "The post Hello Mary Members Share Debut Nine Perfect Lives Single “Die” appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "Hello Mary",
-      "Nine Perfect Lives"
-    ],
-    "published": "2026-10-27T16:27:58+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "2002d48eb4c48e82",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Donnie Iris Of The Jaggerz & Wild Cherry Dead At 83",
-    "link": "https://stereogum.com/2515693/donnie-iris-of-the-jaggerz-wild-cherry-dead-at-83/news/",
-    "summary": "The post Donnie Iris Of The Jaggerz & Wild Cherry Dead At 83 appeared first on Stereogum .",
-    "categories": [
-      "News",
-      "Donnie Iris",
-      "The Jaggerz",
-      "Wild Cherry"
-    ],
-    "published": "2026-10-27T16:03:23+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "f834632ba68aa870",
-    "source": "The Needle Drop (website)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Nine Perfect Lives share debut single \"Die\" via AD 93",
-    "link": "https://theneedledrop.com/news/nine-perfect-lives-share-debut-single-die-via-ad-93/",
-    "summary": "The duo is opening for Friko on their Something Worth Waiting For tour and will join Lime Garden in Brooklyn next month.",
-    "categories": [
-      "News",
-      "nine perfect lives"
-    ],
-    "published": "2026-10-27T15:48:49+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "f6129aca8fe61dcd",
-    "source": "XXL",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Jay-Z to Perform at Apple Music Super Bowl LXI Halftime Show",
-    "link": "https://www.xxlmag.com/jay-z-2027-super-bowl-halftime-show/",
-    "summary": "Apple Music/YouTube",
-    "categories": [
-      "News",
-      "Jay-Z"
-    ],
-    "published": "2026-10-27T15:40:30+00:00",
-    "collected": "2026-11-01T10:59:35.314292+00:00"
-  },
-  {
-    "id": "2a01e92317f79c27",
-    "source": "Pitchfork (news)",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Listen to MJ Lenderman Cover Lambchop’s “Weakened”",
-    "link": "https://pitchfork.com/story/listen-to-mj-lenderman-cover-lambchops-weakened/",
-    "summary": "From the veteran Nashville band's new covers EP Demoed",
-    "categories": [
-      "News",
-      "New Releases",
-      "Audio"
-    ],
-    "published": "2026-10-27T15:27:33+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "f9c6c5f985353d3b",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "The Healing Power Of Horses Announce New EP 8725: Hear “xstick_xstick”",
-    "link": "https://stereogum.com/2515638/the-healing-power-of-horses-announce-new-ep-8725-hear-xstick_xstick/music/",
-    "summary": "The post The Healing Power Of Horses Announce New EP <em>8725</em>: Hear “xstick_xstick” appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "The Healing Power Of Horses"
-    ],
-    "published": "2026-10-27T15:25:29+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "0f92557cc55378cd",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Lambchop’s New Songs Get Covered On Demoed EP: Hear MJ Lenderman’s “Weakened”",
-    "link": "https://stereogum.com/2515688/lambchops-new-songs-get-covered-on-demoed-ep-hear-mj-lendermans-weakened/music/",
-    "summary": "The post Lambchop’s New Songs Get Covered On <em>Demoed</em> EP: Hear MJ Lenderman’s “Weakened” appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "Alan Sparhawk",
-      "Andrew Broder",
-      "Channy Leaneagh",
-      "Circuit Des Yeux",
-      "Dan Wriggins",
-      "Flock Of Dimes",
-      "Fog",
-      "Kurt Wagner",
-      "Lambchop",
-      "Lauren Auder",
-      "MJ Lenderman",
-      "More Eaze"
-    ],
-    "published": "2026-10-27T15:20:03+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "a5d7dbddbe887bd1",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Mia Joy Announces New Album Star Echo Heavy Dove: Hear “Wings Of Desire”",
-    "link": "https://stereogum.com/2515615/mia-joy-announces-new-album-star-echo-heavy-dove-hear-wings-of-desire/music/",
-    "summary": "The post Mia Joy Announces New Album <em>Star Echo Heavy Dove</em>: Hear “Wings Of Desire” appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "Mia Joy",
-      "Midwife"
-    ],
-    "published": "2026-10-27T14:58:09+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "5641b7702f46ce6d",
-    "source": "The Needle Drop (website)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Brad Paisley allegedly filled Taylor Swift's tour bus with crickets and lived to tell",
-    "link": "https://theneedledrop.com/news/brad-paisley-allegedly-filled-taylor-swifts-tour-bus-with-crickets-and-lived-to-tell/",
-    "summary": "Also, Swift was inducted into the Nashville Songwriters Hall of Fame.",
-    "categories": [
-      "News",
-      "taylor swift"
-    ],
-    "published": "2026-10-27T14:54:20+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "a314366b6edc83a9",
-    "source": "The Needle Drop (website)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Destroy Boys announce a new tour",
-    "link": "https://theneedledrop.com/news/destroy-boys-announce-a-new-tour/",
-    "summary": "The tour will support the band’s upcoming album ‘ FOIE GRAS.’",
-    "categories": [
-      "News",
-      "destroy boys"
-    ],
-    "published": "2026-10-27T14:53:07+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "a524442afe9c9c46",
-    "source": "The Needle Drop (website)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Dead Man’s Bones share first new song in 17 Years, “Lost In The Night”",
-    "link": "https://theneedledrop.com/news/dead-mans-bones-share-first-new-song-in-17-years-lost-in-the-night/",
-    "summary": "Ryan Gosling and Zach Shields bring Dead Man’s Bones back to life with a new single and music video.",
-    "categories": [
-      "News",
-      "dead man's bones",
-      "ryan gosling"
-    ],
-    "published": "2026-10-27T14:52:18+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "a22afa0ab8ad03ec",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Macklemore Kicks Off Free Palestine Tour With Hozier, Kneecap, & Ed Sheeran’s Backing Band",
-    "link": "https://stereogum.com/2515683/macklemore-kicks-off-free-palestine-tour-with-hozier-kneecap-ed-sheerans-backing-band/news/",
-    "summary": "The post Macklemore Kicks Off Free Palestine Tour With Hozier, Kneecap, & Ed Sheeran’s Backing Band appeared first on Stereogum .",
-    "categories": [
-      "News",
-      "Beoga",
-      "Dead Prez",
-      "DJ Habibeats",
-      "Ed Sheeran",
-      "Hozier",
-      "Julian Casablancas",
-      "Kneecap",
-      "M1",
-      "Macklemore",
-      "The Strokes"
-    ],
-    "published": "2026-10-27T14:50:34+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "013c0c65c733ce77",
-    "source": "Pitchfork (news)",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Shelved David Bowie Concert Film Revived for Immersive Live Show",
-    "link": "https://pitchfork.com/story/shelved-david-bowie-concert-film-revived-for-immersive-live-show/",
-    "summary": "Moonage Daydream director Brett Morgen has remastered the unreleased 1978 film “Stage” for a multi-screen extravaganza",
-    "categories": [
-      "News",
-      "Film"
-    ],
-    "published": "2026-10-27T14:48:01+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "5739511b9718c115",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Neil Young Sues Trump PAC Over “Rockin’ In The Free World”",
-    "link": "https://stereogum.com/2515679/neil-young-sues-trump-pac-over-rockin-in-the-free-world/news/",
-    "summary": "The post Neil Young Sues Trump PAC Over “Rockin’ In The Free World” appeared first on Stereogum .",
-    "categories": [
-      "News",
-      "Donald Trump",
-      "Neil Young"
-    ],
-    "published": "2026-10-27T13:59:42+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "f091fbb262554c98",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Trinket – “If Not Soon Then Now”",
-    "link": "https://stereogum.com/2515648/trinket-if-not-soon-then-now/music/",
-    "summary": "The post Trinket – “If Not Soon Then Now” appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "Trinket"
-    ],
-    "published": "2026-10-27T13:44:22+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "077f8386ed9f11dd",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Sufjan Stevens Makes Rare Onstage Appearance, Readies New Christmas Song",
-    "link": "https://stereogum.com/2515669/sufjan-stevens-makes-rare-onstage-appearance-readies-new-christmas-song/news/",
-    "summary": "The post Sufjan Stevens Makes Rare Onstage Appearance, Readies New Christmas Song appeared first on Stereogum .",
-    "categories": [
-      "News",
-      "Meg Lui",
-      "Sufjan Stevens"
-    ],
-    "published": "2026-10-27T13:34:20+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "ad05c8734e6d8865",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Jay-Z Confirmed For Super Bowl 2027 Halftime Show",
-    "link": "https://stereogum.com/2515671/jay-z-confirmed-for-super-bowl-2027-halftime-show/news/",
-    "summary": "The post Jay-Z Confirmed For Super Bowl 2027 Halftime Show appeared first on Stereogum .",
-    "categories": [
-      "News",
-      "Jay-Z",
-      "Super Bowl"
-    ],
-    "published": "2026-10-27T13:33:11+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "d999b0340ba02cdc",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Dead Man’s Bones Share “Lost In The Night,” First New Music In 17 Years",
-    "link": "https://stereogum.com/2515664/dead-mans-bones-share-lost-in-the-night-first-new-music-in-17-years/music/",
-    "summary": "The post Dead Man’s Bones Share “Lost In The Night,” First New Music In 17 Years appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "Dead Man's Bones",
-      "Noah Jupe",
-      "Rain Spencer",
-      "Ryan Gosling",
-      "Zach Shields"
-    ],
-    "published": "2026-10-27T13:05:20+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "9057d9acf0a37219",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Back To Black Turns 20",
-    "link": "https://stereogum.com/2515598/back-to-black-turns-20/reviews/the-anniversary/",
-    "summary": "The post <em>Back To Black</em> Turns 20 appeared first on Stereogum .",
-    "categories": [
-      "Reviews",
-      "The Anniversary",
-      "Amy Winehouse",
-      "Mark Ronson",
-      "Salaam Remi",
-      "The Dap-Kings"
-    ],
-    "published": "2026-10-27T12:57:45+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "f76eebe727ec7fe6",
-    "source": "Pitchfork (news)",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Factory Floor Return With First Album in 10 Years",
-    "link": "https://pitchfork.com/story/factory-floor-return-with-first-album-in-10-years/",
-    "summary": "Listen to “Continuation” and the title track from One Trip",
-    "categories": [
-      "News",
-      "New Releases",
-      "Audio"
-    ],
-    "published": "2026-10-27T12:13:43+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "3719aeb7a522fcfe",
-    "source": "The Needle Drop (website)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Kid Rock's Halfway 2 Jesus is NOT GOOD",
-    "link": "https://theneedledrop.com/album-reviews/kid-rocks-halfway-2-jesus-is-not-good-dzfj2jaswqi/",
-    "summary": "Halfway 2 the Core",
-    "categories": [
-      "Album Reviews",
-      "Edited by Isaiah",
-      "kid rock",
-      "not good"
-    ],
-    "published": "2026-10-27T11:43:40+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "c7e58b8cf3ff8f4c",
-    "source": "The Needle Drop (website)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "JAY-Z officially announced to headline Super Bowl LXI Halftime Show",
-    "link": "https://theneedledrop.com/news/jay-z-officially-announced-to-headline-super-bowl-lxi-halftime-show/",
-    "summary": "The rapper has been working with the NFL since 2019 as a curator of the halftime show through his entertainment company, Roc Nation.",
-    "categories": [
-      "News",
-      "jay-z"
-    ],
-    "published": "2026-10-27T09:45:08+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "f8ef88cf63aff3c6",
-    "source": "Pitchfork (news)",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Dead Man’s Bones Unveil First New Song in 17 Years",
-    "link": "https://pitchfork.com/story/dead-mans-bones-unveil-first-new-song-in-17-years/",
-    "summary": "The duo of Ryan Gosling and Zach Shields return with “Lost in the Night”",
-    "categories": [
-      "News",
-      "Video"
-    ],
-    "published": "2026-10-27T05:10:37+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "d77692a2026f532a",
-    "source": "Pitchfork (album reviews)",
-    "source_type": "reviews",
-    "weight": 1.5,
-    "title": "From the Toolkit of Lovers",
-    "link": "https://pitchfork.com/reviews/albums/loidis-from-the-toolkit-of-lovers/",
-    "summary": "The artist better known as Huerco S. nudges the minimal-house revival toward new extremes—of detail, duration, sensuousness—on a sprawling triple LP of hypnotic, late-night grooves.",
-    "categories": [
-      "Reviews / Albums"
-    ],
-    "published": "2026-10-27T04:03:00+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "c517b687af748b48",
-    "source": "Pitchfork (album reviews)",
-    "source_type": "reviews",
-    "weight": 1.5,
-    "title": "From the Dark",
-    "link": "https://pitchfork.com/reviews/albums/tony-iommi-from-the-dark/",
-    "summary": "Teaming with Norwegian vocalist Jørn Lande, the 78-year-old Black Sabbath guitarist gets back to heavy-metal basics on a proudly uncompromising new solo album.",
-    "categories": [
-      "Reviews / Albums"
-    ],
-    "published": "2026-10-27T04:02:00+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "7b7899557d51f474",
-    "source": "Pitchfork (album reviews)",
-    "source_type": "reviews",
-    "weight": 1.5,
-    "title": "February’s Album",
-    "link": "https://pitchfork.com/reviews/albums/hysterical-love-project-februarys-album/",
-    "summary": "The Melbourne duo taps into trip-hop’s essential strangeness on its latest album, trading the genre’s boilerplate languor for dejected moods, menacing auras, and slippery, all-consuming bass.",
-    "categories": [
-      "Reviews / Albums"
-    ],
-    "published": "2026-10-27T04:01:00+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "5fd840c29e03332c",
-    "source": "Pitchfork (album reviews)",
-    "source_type": "reviews",
-    "weight": 1.5,
-    "title": "Blood & Oil",
-    "link": "https://pitchfork.com/reviews/albums/skino-blood-and-oil/",
-    "summary": "The Washington, D.C. rapper’s new album epitomizes the best and worst of free car music: palatial experimental beats full of atmospheric drama and dull, interchangeable delivery.",
-    "categories": [
-      "Reviews / Albums"
-    ],
-    "published": "2026-10-27T04:00:00+00:00",
     "collected": "2026-10-28T10:00:03.726989+00:00"
   }
 ]
