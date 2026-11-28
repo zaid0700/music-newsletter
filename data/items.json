@@ -1,5 +1,800 @@
 [
   {
+    "id": "06a0dfca11abdfbf",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "The Killers' Dave Keuning reveals \"major stroke\" in Thanksgiving post",
+    "link": "https://theneedledrop.com/news/killers-dave-keuning-reveals-major-stroke-thanksgiving-post/",
+    "summary": "Rest assured, Keuning can 'play guitar just as good as before.'",
+    "full_text": false,
+    "categories": [
+      "News",
+      "the killers"
+    ],
+    "published": "2026-11-28T01:20:34+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "3f36a34b087135cb",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Olivia Rodrigo Shares Second Holiday Song ‘Miss This Christmas’ on Amazon Music",
+    "link": "https://www.billboard.com/music/pop/olivia-rodrigo-miss-this-christmas-amazon-music-1236390458/",
+    "summary": "The new track follows the pop star’s debut holiday song, “Take Me Home (4 Christmas).”",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Pop",
+      "christmas",
+      "genre pop",
+      "holiday",
+      "Music News"
+    ],
+    "published": "2026-11-28T00:41:10+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "40f9bccdd47a7ce7",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Brandy Returns in ‘Christmas Everyday: Married and Bright’ — Stream Lifetime Holiday Movie Online Free Here",
+    "link": "https://www.billboard.com/culture/product-recommendations/watch-brandy-christmas-everyday-married-and-bright-lifetime-online-1236390444/",
+    "summary": "Premiering Nov. 28, the new film is a follow-up to last year's holiday hit, Christmas Everyday .",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "christmas",
+      "lifetime",
+      "NOADS",
+      "streaming"
+    ],
+    "published": "2026-11-27T23:48:51+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "b256f0732b9fec63",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Fuerza Regida Announces ‘Pisteando Con La Regida Vol. 4’ After Partial Legal Victory Against Rancho Humilde",
+    "link": "https://www.billboard.com/music/latin/fuerza-regida-pisteando-con-la-regida-vol-4-rancho-humilde-1236390434/",
+    "summary": "“I’m free now they’ve finally taken their foot off the tiger’s neck,” frontman Jesús Ortiz Paz wrote in Spanish on Instagram.",
+    "full_text": false,
+    "categories": [
+      "Latin",
+      "Music",
+      "genre latin",
+      "Legal",
+      "Music News",
+      "Record Labels"
+    ],
+    "published": "2026-11-27T23:39:37+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "a5df26da07a10893",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Black Friday Deal: Amazon Marks Down AMC+ Subscription to Just $1.99/Month, A 75% Savings",
+    "link": "https://www.billboard.com/culture/product-recommendations/amc-plus-2026-streaming-deals-black-friday-online-1236390413/",
+    "summary": "For Black Friday, get AMC+ for cheap to stream The Walking Dead , Interview With the Vampire , Dark Winds , Gangs of London and original music programming.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "AMC",
+      "black friday",
+      "Deals",
+      "how to watch",
+      "NOADS",
+      "streaming",
+      "streaming deals"
+    ],
+    "published": "2026-11-27T22:38:16+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "2b9d4da464a76f49",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Soul Train Awards 2026: Here’s Where to Watch the Awards Ceremony Online Free",
+    "link": "https://www.billboard.com/culture/product-recommendations/soul-train-awards-2026-nov-how-to-watch-live-online-free-1236388588/",
+    "summary": "Hosted by Anthony Anderson, stream the 37th edition of the Soul Train Awards on Nov. 27.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "bet",
+      "CBS",
+      "how to watch",
+      "NOADS",
+      "Soul Train",
+      "Soul Train Awards",
+      "streaming"
+    ],
+    "published": "2026-11-27T22:33:12+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "6b6cdcb1006fab19",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "FOX One Black Friday Deal: Here’s How to Save 75% Off a Streaming Subscription",
+    "link": "https://www.billboard.com/culture/product-recommendations/fox-one-2026-streaming-deals-black-friday-online-1236390396/",
+    "summary": "Watch FOX, FOX News, FOX Sports, TMZ and original music programming for just $4.99 per month (was $19.99 per month).",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "black friday",
+      "Deals",
+      "Fox",
+      "how to watch",
+      "NOADS",
+      "streaming",
+      "streaming deals"
+    ],
+    "published": "2026-11-27T21:01:26+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "e917e0720f2f08a0",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Best Black Friday Audio Deals 2026: Save Up to 60% Off Bose, Apple & Beats, Sonos, Sony & More Online",
+    "link": "https://www.billboard.com/culture/product-recommendations/best-black-friday-2026-nov-audio-headphones-deals-online-1236390314/",
+    "summary": "Shop the best Black Friday headphones, earbuds, soundbars, turntables and other audio deals — save up to 60% off the top brands.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "black friday",
+      "Deals",
+      "electronics",
+      "NOADS"
+    ],
+    "published": "2026-11-27T20:09:20+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "26f5e26898e59cfb",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Goo Goo Dolls Fans Slam NBC Over Thanksgiving Halftime Show Snub: ‘Badly Handled’",
+    "link": "https://www.billboard.com/music/music-news/goo-goo-dolls-fans-slam-thanksgiving-halftime-show-snub-1236390401/",
+    "summary": "The network aired just 90 seconds of the band's performance in favor of Aaron Rodgers coverage.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "genre rock",
+      "halftime show",
+      "thanksgiving"
+    ],
+    "published": "2026-11-27T19:59:09+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "8db4b3ff700f215f",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Goo Goo Dolls’ Complete NFL Halftime Show",
+    "link": "https://www.rollingstone.com/music/music-news/goo-goo-dolls-complete-nfl-halftime-show-iris-slide-1235665349/",
+    "summary": "The band performed \"Iris,\" \"Broadway,\" and \"Slide\" during the Kansas City Chiefs vs. Buffalo Bills game as the broadcast was cut by NBC",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Goo Goo Dolls",
+      "NFL"
+    ],
+    "published": "2026-11-27T19:58:36+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "e194df53ffa367c2",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Listen To Torture Methods’ Bewitching Dark Realities For The Quasi-Angelic",
+    "link": "https://stereogum.com/2522132/listen-to-torture-methods-bewitching-dark-realities-for-the-quasi-angelic/music/",
+    "summary": "The post Listen To Torture Methods’ Bewitching <em>Dark Realities For The Quasi-Angelic</em> appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Torture Methods"
+    ],
+    "published": "2026-11-27T19:41:37+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "0b046e60023cdb9b",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Ticketmaster Launches Black Friday 2026 Sale",
+    "link": "https://consequence.net/2026/11/ticketmaster-black-friday-2026-sale/",
+    "summary": "Ticketmaster's 2026 Black Friday and holiday sale offers up to 50% off select concert and event tickets, plus two-for-one and four-pack deals through December 31st. Ticketmaster Launches Black Friday 2026 Sale Scoop Harrison",
+    "full_text": false,
+    "categories": [
+      "News Bites",
+      "Music",
+      "Music News",
+      "News",
+      "Ticketmaster"
+    ],
+    "published": "2026-11-27T19:39:16+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "590a9bf2e2f4d3b0",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Dating – “Lesbians”",
+    "link": "https://stereogum.com/2522123/dating-lesbians/music/",
+    "summary": "The post Dating – “Lesbians” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Dating"
+    ],
+    "published": "2026-11-27T18:59:17+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "9e35bf31a4568f2d",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Amazon Just Dropped One-Cent Deals (No, Really) for Black Friday: Shop Here",
+    "link": "https://www.billboard.com/culture/product-recommendations/amazon-haul-one-cent-deals-black-friday-2026-offer-products-1236390364/",
+    "summary": "The retailer has clothing, jewelry and home decor items discounted to just one penny for a limited time.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "Amazon",
+      "black friday",
+      "NOADS"
+    ],
+    "published": "2026-11-27T18:44:46+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "0382e8637af6b101",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Double Virgo – “City Zen”",
+    "link": "https://stereogum.com/2522115/double-virgo-city-zen/music/",
+    "summary": "The post Double Virgo – “City Zen” appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "New Music",
+      "Double Virgo"
+    ],
+    "published": "2026-11-27T18:05:25+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "74891ca916acfc66",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘The Traitors’ season five premiere date revealed",
+    "link": "https://www.nme.com/news/tv/the-traitors-season-five-premiere-date-revealed-3977169",
+    "summary": "We're heading back to the castle very soon... The post ‘The Traitors’ season five premiere date revealed appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "TV News"
+    ],
+    "published": "2026-11-27T18:01:31+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "e028ed063b2f59c6",
+    "source": "The Needle Drop (website)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Duran Duran guitarist Andy Taylor dies at 65",
+    "link": "https://theneedledrop.com/news/duran-duran-guitarist-dies-at/",
+    "summary": "He is survived by his wife, four children and a grandchild.",
+    "full_text": false,
+    "categories": [
+      "News",
+      "duran duran",
+      "andy taylor"
+    ],
+    "published": "2026-11-27T17:45:24+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "e48c9116b40d22e6",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Justin Timberlake Explains Why He Was ‘Reluctant’ to Make New Docuseries During ‘Tonight Show’ Interview",
+    "link": "https://www.billboard.com/music/pop/justin-timberlake-tonight-show-documentary-series-interview-1236390349/",
+    "summary": "The singer told Jimmy Fallon why he was initially hesitant to open up about his private life in the upcoming four-part documentary series.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Pop",
+      "genre pop",
+      "Music News",
+      "The Tonight Show",
+      "TV / Film"
+    ],
+    "published": "2026-11-27T17:34:30+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "86f8797cf7346951",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Killers Guitarist Details Recovery From Major Stroke",
+    "link": "https://stereogum.com/2522105/killers-guitarist-details-recovery-from-major-stroke/news/",
+    "summary": "The post Killers Guitarist Details Recovery From Major Stroke appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Dave Keuning",
+      "The Killers"
+    ],
+    "published": "2026-11-27T17:24:30+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "74c3bebe902b97fb",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Mastodon follow Grammy nomination and ‘GTA 6’ appearance with first UK and European tour in eight years",
+    "link": "https://www.nme.com/news/music/mastodon-announce-first-uk-and-european-tour-in-eight-years-buy-tickets-3977154",
+    "summary": "Tickets are on sale now The post Mastodon follow Grammy nomination and ‘GTA 6’ appearance with first UK and European tour in eight years appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Grammys",
+      "Live Music News",
+      "Metal",
+      "Rock"
+    ],
+    "published": "2026-11-27T17:24:07+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "feafeb9667d670f8",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Olivia Rodrigo Delivers Another Christmas Song",
+    "link": "https://pitchfork.com/story/olivia-rodrigo-delivers-another-christmas-song/",
+    "summary": "Listen to “Miss This Christmas”",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Audio"
+    ],
+    "published": "2026-11-27T16:47:24+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "f01d4f1f89018185",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "These Are the Black Friday Deals I Would Actually Buy",
+    "link": "https://consequence.net/2026/11/best-black-friday-deals-2026-editors-picks/",
+    "summary": "AirPods Pro 3, a Disney+ and Hulu bundle, and deals on Kindle, iPad, and The Criterion Collection are among the recommendations. These Are the Black Friday Deals I Would Actually Buy Eddie Fu",
+    "full_text": false,
+    "categories": [
+      "Tech News",
+      "News",
+      "Pop Culture",
+      "AirPods",
+      "Criterion",
+      "Disney Plus",
+      "Hulu",
+      "iPad"
+    ],
+    "published": "2026-11-27T16:44:17+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "b3fdbebd60a916ab",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Killers Dave Keuning Reveals He Suffered ‘Major Stroke’: ‘I Am Alive and Well’",
+    "link": "https://www.rollingstone.com/music/music-news/the-killers-dave-keuning-major-stroke-recovery-1235665233/",
+    "summary": "\"The doctors said I had a 40% chance or survival and I would have disabilities after, but by some miracle I am fine\"",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Brandon Flowers",
+      "The Killers"
+    ],
+    "published": "2026-11-27T16:19:42+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "b9e3ebbd00bca916",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Heartworms explores “time, escape, limitlessness, self-reflection and rebirth” on “spiritual” new single ‘The Window’",
+    "link": "https://www.nme.com/news/music/heartworms-releases-spiritual-new-single-the-window-listen-3977140",
+    "summary": "The musician recently told NME that she'd \"finished recording\" her second album The post Heartworms explores “time, escape, limitlessness, self-reflection and rebirth” on “spiritual” new single ‘The Window’ appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Indie",
+      "Post-Punk"
+    ],
+    "published": "2026-11-27T16:18:32+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "f892b6e28fc33fde",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "How ‘Glee’ Changed the Music Industry",
+    "link": "https://www.rollingstone.com/music/music-features/glee-reboot-music-business-trends-1235661911/",
+    "summary": "With the series confirmed for a reboot, a look at how its initial run impacted the charts",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "Glee",
+      "Journey",
+      "Katy Perry"
+    ],
+    "published": "2026-11-27T16:00:00+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "06bb80e803ebe122",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Killers’ Dave Keuning Survived a “Major Stroke” This Month",
+    "link": "https://pitchfork.com/story/the-killers-dave-keuning-survived-a-major-stroke-this-month/",
+    "summary": "The group’s co-founding guitarist says doctors gave him a “40% chance of survival”",
+    "full_text": false,
+    "categories": [
+      "News"
+    ],
+    "published": "2026-11-27T15:58:32+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "7c48862e7fe3fc77",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Feid, Snoop Dogg, D’Angelo, and All the Songs You Need to Know This Week",
+    "link": "https://www.rollingstone.com/music/music-features/feid-snoop-dogg-dangelo-songs-you-need-to-know-this-week-1235664989/",
+    "summary": "Looking for the week’s best new music? Check out our Songs You Need to Know playlist",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music Features",
+      "Feid",
+      "Snoop Dogg",
+      "Song You Need to Know"
+    ],
+    "published": "2026-11-27T15:46:02+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "243b906f9a4c24ba",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Killers’ Dave Keuning speaks out after surviving a life-threatening stroke",
+    "link": "https://www.nme.com/news/music/the-killers-dave-keuning-speaks-out-after-surviving-a-life-threatening-stroke-3977135",
+    "summary": "\"By some miracle I am fine\" The post The Killers’ Dave Keuning speaks out after surviving a life-threatening stroke appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "..",
+      "Indie"
+    ],
+    "published": "2026-11-27T15:32:53+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "de93d2d64994d1ab",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Former Buzzcocks Drummer Phil Barker Dead at 65",
+    "link": "https://www.rollingstone.com/music/music-news/phil-barker-buzzcocks-drummer-obituary-1235665168/",
+    "summary": "The musician performed in the British punk rock band for 14 years and recorded on five of their albums",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Obituary",
+      "The Buzzcocks"
+    ],
+    "published": "2026-11-27T15:30:13+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "8f547b0c4ced941a",
+    "source": "Pitchfork (news)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Pz’ Recruits Don Toliver for New Song “Subliminals”",
+    "link": "https://pitchfork.com/story/pz-recruits-don-toliver-for-new-song-subliminals/",
+    "summary": "The Georgia model-turned-rapper seals a big year off the back of No Turning Back",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Video"
+    ],
+    "published": "2026-11-27T15:08:48+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "d690d5750a7dfecd",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch ‘Sesame Street’ Pay Homage to Mariah Carey’s ‘All I Want for Christmas Is You’",
+    "link": "https://www.rollingstone.com/music/music-news/sesame-street-mariah-carey-christmas-song-homage-1235665152/",
+    "summary": "This year the characters need the letter \"U\" to help the holidays stay festive and bright",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Mariah Carey",
+      "Sesame Street"
+    ],
+    "published": "2026-11-27T14:57:04+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "f70563e16e66d0ad",
+    "source": "Stereogum",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Ginuwine Releases Ridiculous Videogame About Stealing His Masters Back",
+    "link": "https://stereogum.com/2522078/ginuwine-releases-ridiculous-videogame-about-stealing-his-masters-back/news/",
+    "summary": "The post Ginuwine Releases Ridiculous Videogame About Stealing His Masters Back appeared first on Stereogum .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Aaliyah",
+      "Ginuwine",
+      "Missy Elliott",
+      "Tank",
+      "Timabaland",
+      "Tweet"
+    ],
+    "published": "2026-11-27T14:50:04+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "0e22c6fce5c0eb9a",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Cage The Elephant’s stripped-back cover of Fontaines D.C. and Rosalía’s ‘Where Is Gone?’",
+    "link": "https://www.nme.com/news/music/watch-cage-the-elephants-stripped-back-cover-of-fontaines-d-c-and-rosalias-where-is-gone-3977128",
+    "summary": "The US band's next album, 'Dying In Reverse', arrives early next year The post Watch Cage The Elephant’s stripped-back cover of Fontaines D.C. and Rosalía’s ‘Where Is Gone?’ appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "Indie",
+      "Pop"
+    ],
+    "published": "2026-11-27T14:49:09+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "b9c3355942b8ca72",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Killers’ Dave Keuning Reveals He Survived a Life-Threatening Stroke",
+    "link": "https://consequence.net/2026/11/the-killers-dave-keuning-survived-life-threatening-stroke/",
+    "summary": "The band's longtime guitarist suffered the stroke two weeks ago and was given only a 40% chance to live. The Killers’ Dave Keuning Reveals He Survived a Life-Threatening Stroke Alex Young",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "Music",
+      "News",
+      "Alternative Rock"
+    ],
+    "published": "2026-11-27T14:45:50+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "fd088a3844dc599a",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Watch Justin Timberlake Reluctantly Sing Backstreet Boys on ‘Fallon’: ‘This is Sacrilegious’",
+    "link": "https://www.rollingstone.com/music/music-news/justin-timberlake-upcoming-doc-series-interview-fallon-1235665140/",
+    "summary": "The pop star took over The Tonight Show on Thanksgiving with an interview, performances, and sketches",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Jimmy Fallon",
+      "Justin Timberlake",
+      "Late-Night TV",
+      "The Tonight Show"
+    ],
+    "published": "2026-11-27T14:33:39+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "f5fa29540784cce4",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Mad Cool Festival Reveals 2027 Lineup with The Strokes, Tame Impala & Faith No More",
+    "link": "https://consequence.net/2026/11/mad-cool-festival-2027-lineup-the-strokes-tame-impala-faith-no-more/",
+    "summary": "The xx, RAYE, IDLES, Primus, Kneecap, The Mars Volta, and Placebo will also play the Madrid festival. Mad Cool Festival Reveals 2027 Lineup with The Strokes, Tame Impala & Faith No More Alex Young",
+    "full_text": false,
+    "categories": [
+      "News Bites",
+      "Festival News and Rumors",
+      "Music",
+      "Music News",
+      "News",
+      "Alternative Rock",
+      "Mad Cool Festival"
+    ],
+    "published": "2026-11-27T14:15:26+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "b40a467c3df2ffac",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Ed Maverick on Making Music, Making Money, and Making it Matter With New Album Sin Agua Es Ruta Yerma",
+    "link": "https://consequence.net/2026/11/ed-maverick-sin-agua-es-ruta-yerma-interview/",
+    "summary": "The Chihuahua native is thinking as much about what he can accomplish beyond music as what he can accomplish through it. Ed Maverick on Making Music, Making Money, and Making it Matter With New Album Sin Agua Es Ruta Yerma Pedro Camacho",
+    "full_text": false,
+    "categories": [
+      "Music Interviews",
+      "Consequence Latino",
+      "Interviews",
+      "Music",
+      "Folk",
+      "Latin folk",
+      "Latin music"
+    ],
+    "published": "2026-11-27T14:14:41+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "deed65583b9e794e",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Best Black Friday Bluetooth Speaker Deals: Save on Bose, JBL, and Beats",
+    "link": "https://consequence.net/2026/11/best-black-friday-bluetooth-speaker-deals-2026/",
+    "summary": "Check out all-time low discounts on portable Bose and JBL models. Best Black Friday Bluetooth Speaker Deals: Save on Bose, JBL, and Beats Eddie Fu",
+    "full_text": false,
+    "categories": [
+      "Tech News",
+      "News",
+      "Pop Culture",
+      "Bose"
+    ],
+    "published": "2026-11-27T13:44:57+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "4718500ee24941ad",
+    "source": "Consequence",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Best Black Friday Kindle Deals",
+    "link": "https://consequence.net/2026/11/best-black-friday-kindle-deals-2026/",
+    "summary": "Save up to 41%, with the Kindle Colorsoft and Kindle Colorsoft Kids discounted to record low prices. Best Black Friday Kindle Deals Eddie Fu",
+    "full_text": false,
+    "categories": [
+      "Tech News",
+      "News",
+      "Pop Culture",
+      "Amazon"
+    ],
+    "published": "2026-11-27T13:20:04+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "ff124cc9aae51496",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "‘Grand Theft Auto 6’s liquid-filled vinyl is going viral: “A work of art”",
+    "link": "https://www.nme.com/news/gaming-news/grand-theft-auto-6-liquid-filled-vinyl-viral-limited-edition-3977125",
+    "summary": "The limited-edition LP is one of multiple variants available The post ‘Grand Theft Auto 6’s liquid-filled vinyl is going viral: “A work of art” appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Gaming News",
+      "News",
+      "Video game music"
+    ],
+    "published": "2026-11-27T13:07:10+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "60b92dfe2b9dda42",
+    "source": "musicOMH",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Peter Gabriel – o\\i",
+    "link": "https://www.musicomh.com/reviews/albums/peter-gabriel-oi",
+    "summary": "Always ahead of his time, and with inspiration running freely, a mirror image of 2023's i/o provides some of this national treasure's finest songs yet The post Peter Gabriel – o\\i appeared first on musicOMH .",
+    "full_text": false,
+    "categories": [
+      "Album Reviews",
+      "Peter Gabriel"
+    ],
+    "published": "2026-11-27T08:01:59+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "a32252c572d55576",
+    "source": "Rolling Stone (music)",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Olivia Rodrigo Drops Official Version of Melancholy ‘Miss This Christmas’ on Amazon Music",
+    "link": "https://www.rollingstone.com/music/music-news/olivia-rodrigo-miss-this-christmas-amazon-music-1235664984/",
+    "summary": "Earlier this week, the singer debuted the piano ballad at a Nashville concert",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Music News",
+      "Olivia Rodrigo"
+    ],
+    "published": "2026-11-27T05:02:00+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
+    "id": "b81bbf3b5029d198",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "Music for Two Films About Water",
+    "link": "https://pitchfork.com/reviews/albums/liz-harris-music-for-two-films-about-water/",
+    "summary": "On her first release under her own name, Liz Harris immerses us in the the ambient side of Grouper with two long-form instrumental compositions.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-27T05:00:00+00:00",
+    "collected": "2026-11-28T04:53:35.131609+00:00"
+  },
+  {
     "id": "e56665898ccea6b8",
     "source": "Rolling Stone (music)",
     "source_type": "news",
@@ -42385,956 +43180,5 @@
     ],
     "published": "2026-10-29T08:01:43+00:00",
     "collected": "2026-11-01T10:59:35.314292+00:00"
-  },
-  {
-    "id": "b81766cdd721033e",
-    "source": "Pitchfork (album reviews)",
-    "source_type": "reviews",
-    "weight": 1.5,
-    "title": "The Same Place",
-    "link": "https://pitchfork.com/reviews/albums/the-olivia-tremor-control-the-same-place/",
-    "summary": "Following the deaths of two founding members, the long-in-the-works final album from the Elephant 6 group is a dark, psychedelic epic that unfolds with eerie clairvoyance and intensity.",
-    "categories": [
-      "Reviews / Albums"
-    ],
-    "published": "2026-10-29T04:03:00+00:00",
-    "collected": "2026-10-30T02:35:04.244538+00:00"
-  },
-  {
-    "id": "bd990d7f3e80997e",
-    "source": "Pitchfork (album reviews)",
-    "source_type": "reviews",
-    "weight": 1.5,
-    "title": "marroW",
-    "link": "https://pitchfork.com/reviews/albums/brakence-marrow/",
-    "summary": "The Ohio artist’s first album in four years is paranoid, indulgent, and theatrical, unfolding like a dark romantasy novel.",
-    "categories": [
-      "Reviews / Albums"
-    ],
-    "published": "2026-10-29T04:02:00+00:00",
-    "collected": "2026-10-30T02:35:04.244538+00:00"
-  },
-  {
-    "id": "89eaaeaa9a1b7338",
-    "source": "Pitchfork (album reviews)",
-    "source_type": "reviews",
-    "weight": 1.5,
-    "title": "Heavy Is the Crown",
-    "link": "https://pitchfork.com/reviews/albums/anderson-paak-cordae-heavy-is-the-crown/",
-    "summary": "Anderson .Paak and Cordae kick back over a suite of boom-bap and trap-adjacent slappers on their lopsided but entertaining collaborative album.",
-    "categories": [
-      "Reviews / Albums"
-    ],
-    "published": "2026-10-29T04:01:00+00:00",
-    "collected": "2026-10-30T02:35:04.244538+00:00"
-  },
-  {
-    "id": "182fb65c53bb8dc2",
-    "source": "Pitchfork (album reviews)",
-    "source_type": "reviews",
-    "weight": 1.5,
-    "title": "Repair",
-    "link": "https://pitchfork.com/reviews/albums/water-damage-repair/",
-    "summary": "The Austin ensemble makes minimalism feel enveloping and unruly on its latest record, where new melodic details are always emerging from a swarming mass of sound.",
-    "categories": [
-      "Reviews / Albums"
-    ],
-    "published": "2026-10-29T04:00:00+00:00",
-    "collected": "2026-10-30T02:35:04.244538+00:00"
-  },
-  {
-    "id": "b3ecd72baee56c2f",
-    "source": "Pitchfork (news)",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Maryland Is Getting Its Own (Mini) Sphere",
-    "link": "https://pitchfork.com/story/maryland-is-getting-its-own-mini-sphere/",
-    "summary": "The Prince George’s County Council has authorized up to $215 million for a venue at the D.C. area National Harbor",
-    "categories": [
-      "News"
-    ],
-    "published": "2026-10-28T22:41:52+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "3c8a876b88f190d0",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "DIIV – “Dare Me”",
-    "link": "https://stereogum.com/2515877/diiv-dare-me-zirp-song/music/",
-    "summary": "The post DIIV – “Dare Me” appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "DIIV"
-    ],
-    "published": "2026-10-28T21:58:35+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "9cb69b1aa7681b6e",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Queens Of The Stone Age – “Run Away From The Mob”",
-    "link": "https://stereogum.com/2515884/queens-of-the-stone-age-run-away-from-the-mob-perfecth-song/music/",
-    "summary": "The post Queens Of The Stone Age – “Run Away From The Mob” appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "Dave Grohl",
-      "Josh Homme",
-      "Queens Of The Stone Age"
-    ],
-    "published": "2026-10-28T21:56:18+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "7c3ccef3483face2",
-    "source": "Pitchfork (news)",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Watch Robyn Cover Tinashe’s “Popstar”",
-    "link": "https://pitchfork.com/story/watch-robyn-cover-tinashes-popstar/",
-    "summary": "She mashed it up Teddybears’ “Punkrocker” for the BBC Live Lounge",
-    "categories": [
-      "News",
-      "Video"
-    ],
-    "published": "2026-10-28T21:12:08+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "4b7c7660061b407f",
-    "source": "The Needle Drop (website)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Everything But The Girl announces new album 'Blue Reservoir,' share \"Young and Dumb\" music video",
-    "link": "https://theneedledrop.com/news/everything-but-the-girl-announces-new-album-blue-reservoir-share-young-and-dumb-music-video/",
-    "summary": "This marks the duo's eleventh studio album.",
-    "categories": [
-      "News",
-      "everything but the girl"
-    ],
-    "published": "2026-10-28T20:12:54+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "b77ff849406c4b80",
-    "source": "XXL",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "J. Cole Confirms He's Not Retiring, Reflects on Jay-Z Pressure",
-    "link": "https://www.xxlmag.com/j-cole-retirement-jay-z-pressure-gq-interview/",
-    "summary": "GQ/YouTube/BG048/Bauer-Griffin/GC Images",
-    "categories": [
-      "News",
-      "J. Cole",
-      "Jay-Z"
-    ],
-    "published": "2026-10-28T19:46:32+00:00",
-    "collected": "2026-11-01T10:59:35.314292+00:00"
-  },
-  {
-    "id": "5b8974d297bd3610",
-    "source": "The Needle Drop (website)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Joe Hisaishi appointed Composer-in-Residence by LA Philharmonic",
-    "link": "https://theneedledrop.com/news/joe-hisaishi-appointed-composer-in-residence-by-la-philharmonic/",
-    "summary": "His five-year role will include performances, recordings, and compositions centered around the Hollywood Bowl and The Ford.",
-    "categories": [
-      "News",
-      "joe hisaishi"
-    ],
-    "published": "2026-10-28T19:36:54+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "e74758fbd71e7688",
-    "source": "The Needle Drop (website)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Dominic Fike announces features for ‘How to Quit Smoking’",
-    "link": "https://theneedledrop.com/news/dominic-fike-announces-features-for-how-to-quit-smoking/",
-    "summary": "This is the third studio album from Fike, which is out this week.",
-    "categories": [
-      "News",
-      "dominic fike"
-    ],
-    "published": "2026-10-28T19:33:16+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "01d697cd6edf9c72",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Slow Pulp Cover A Pearl Jam Hit With A Familiar Title",
-    "link": "https://stereogum.com/2515855/slow-pulp-cover-a-pearl-jam-hit-with-a-familiar-title/news/",
-    "summary": "The post Slow Pulp Cover A Pearl Jam Hit With A Familiar Title appeared first on Stereogum .",
-    "categories": [
-      "News",
-      "Pearl Jam",
-      "SiriusXM",
-      "Slow Pulp"
-    ],
-    "published": "2026-10-28T19:24:18+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "115bcfee19575e76",
-    "source": "XXL",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Rod Wave Signs Basketball Phenom Abdou Toure to His Sports Agency",
-    "link": "https://www.xxlmag.com/rod-wave-abdou-toure-basketball-razorbacks/",
-    "summary": "Paras Griffin/Getty Images/Arkansas Razorbacks/YouTube",
-    "categories": [
-      "News",
-      "Rod Wave"
-    ],
-    "published": "2026-10-28T19:05:50+00:00",
-    "collected": "2026-11-01T10:59:35.314292+00:00"
-  },
-  {
-    "id": "843f252a30c5d5bf",
-    "source": "Pitchfork (news)",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Diiv Announce Massive 2027 World Tour",
-    "link": "https://pitchfork.com/story/diiv-announce-2027-world-tour/",
-    "summary": "The band will bring their new album ZIRP! across the U.S., Europe, Australia, and Japan",
-    "categories": [
-      "News",
-      "Tours",
-      "Video"
-    ],
-    "published": "2026-10-28T18:39:27+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "256ae18d139bfac3",
-    "source": "Pitchfork (news)",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Xaviersobased Wants to Collab With Sabrina Carpenter",
-    "link": "https://pitchfork.com/story/xaviersobased-wants-to-collaborate-with-sabrina-carpenter/",
-    "summary": "“Bro, I’ll knock out a whole album with her”",
-    "categories": [
-      "News",
-      "Industry News"
-    ],
-    "published": "2026-10-28T18:38:43+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "3c754c2311d3666a",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Jim James Announces Memoir",
-    "link": "https://stereogum.com/2515840/jim-james-announces-memoir/news/",
-    "summary": "The post Jim James Announces Memoir appeared first on Stereogum .",
-    "categories": [
-      "News",
-      "Jim James",
-      "My Morning Jacket"
-    ],
-    "published": "2026-10-28T18:37:12+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "1afcc7d25991cac7",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Robyn Mashes Up Tinashe & Teddybears In The Live Lounge",
-    "link": "https://stereogum.com/2515838/robyn-mashes-up-tinashe-teddybears-in-the-live-lounge/news/",
-    "summary": "The post Robyn Mashes Up Tinashe & Teddybears In The Live Lounge appeared first on Stereogum .",
-    "categories": [
-      "News",
-      "Iggy Pop",
-      "Robyn",
-      "Teddybears",
-      "Tinashe"
-    ],
-    "published": "2026-10-28T18:25:01+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "9d7d9aea8c244bf7",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Guided By Voices Announce 45th Album Speculation And Gossip",
-    "link": "https://stereogum.com/2515829/guided-by-voices-announce-45th-album-speculation-and-gossip/music/",
-    "summary": "The post Guided By Voices Announce 45th Album <em>Speculation And Gossip</em> appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "Guided By Voices"
-    ],
-    "published": "2026-10-28T18:07:11+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "666c8ec3f56940b1",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Boldy James & Real Bad Man Release New Album Strobelight",
-    "link": "https://stereogum.com/2515832/boldy-james-real-bad-man-release-new-album-strobelight/music/",
-    "summary": "The post Boldy James & Real Bad Man Release New Album <em>Strobelight</em> appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "Boldy James",
-      "Real Bad Man"
-    ],
-    "published": "2026-10-28T18:04:00+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "65e83e079e5e7d88",
-    "source": "Slant (music)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Ex:Re ‘Save As’ Review: A Mesmerizing Look at Modern Consciousness",
-    "link": "https://www.slantmagazine.com/music/exre-save-as-album-review/",
-    "summary": "The album’s fragmented snapshots of memory offer insights into our collective loneliness. The post Ex:Re ‘Save As’ Review: A Mesmerizing Look at Modern Consciousness appeared first on Slant Magazine .",
-    "categories": [
-      "Music",
-      "Chelsea Wolfe",
-      "Ex:Re",
-      "Marika Hackman"
-    ],
-    "published": "2026-10-28T17:55:33+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "a9fbbf5e36032c09",
-    "source": "Pitchfork (news)",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Jim James Announces Memoir One Wonders",
-    "link": "https://pitchfork.com/story/jim-james-announces-memoir-one-wonders/",
-    "summary": "“I hope the main thing someone takes away from this book (aside from learning more about the joys and challenges of being a working artist and musician) is that it’s okay to ask for help.\"",
-    "categories": [
-      "News"
-    ],
-    "published": "2026-10-28T17:47:16+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "4efe5976229e533c",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Crowquill Announce Debut Album Slept With Cannula: Hear “Cannula”",
-    "link": "https://stereogum.com/2515824/crowquill-announce-debut-album-slept-with-cannula-hear-cannula/music/",
-    "summary": "The post Crowquill Announce Debut Album <em>Slept With Cannula</em>: Hear “Cannula” appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "Crowquill"
-    ],
-    "published": "2026-10-28T17:46:49+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "ad1690148510db02",
-    "source": "Pitchfork (news)",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Slayyyter, the Strokes, and Fontaines D.C. Set for Kilby Block Party 2027",
-    "link": "https://pitchfork.com/story/slayyyter-the-strokes-and-fontaines-dc-set-for-kilby-block-party-2027/",
-    "summary": "Deftones, Spoon, Weyes Blood, Atlas Sound, Erika de Casier, and quite a few mystery artists fill out the bill",
-    "categories": [
-      "News",
-      "Festivals"
-    ],
-    "published": "2026-10-28T17:42:10+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "d0b926216cfb405e",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "The Chats Announce New Album Half Cut: Hear “Off It”",
-    "link": "https://stereogum.com/2515818/the-chats-announce-new-album-half-cut-hear-off-it/music/",
-    "summary": "The post The Chats Announce New Album <em>Half Cut</em>: Hear “Off It” appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "The Chats"
-    ],
-    "published": "2026-10-28T17:38:41+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "9cd186ce2f85afda",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Barrie – “Gloria”",
-    "link": "https://stereogum.com/2515819/barrie-gloria/music/",
-    "summary": "The post Barrie – “Gloria” appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "Barrie"
-    ],
-    "published": "2026-10-28T17:27:27+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "c6bc5abd95d7c5d5",
-    "source": "XXL",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Pooh Shiesty Denies Rumor That Several Women Are Pregnant by Him",
-    "link": "https://www.xxlmag.com/pooh-shiesty-women-pregnant-by-him-rumor/",
-    "summary": "XXL/YouTube/Rahmat Hidayat/iStock/Getty Images",
-    "categories": [
-      "News",
-      "Pooh Shiesty"
-    ],
-    "published": "2026-10-28T17:07:41+00:00",
-    "collected": "2026-11-01T10:59:35.314292+00:00"
-  },
-  {
-    "id": "f27639ca001f3ca5",
-    "source": "The Needle Drop (website)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Kilby Block Party reveals 2027 Lineup",
-    "link": "https://theneedledrop.com/news/kilby-block-party-reveals-2027-lineup/",
-    "summary": "The annual Salt Lake City, Utah festival returns from May 14-16 with Deftones, The Strokes, Fontaines D.C., and Jungle to headline.",
-    "categories": [
-      "News",
-      "kilby block party",
-      "deftones",
-      "the strokes",
-      "fontaines d.c.",
-      "jungle"
-    ],
-    "published": "2026-10-28T16:57:30+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "cc9aa876c0ae9614",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "This Is The Kit – “Safety Valve” (Feat. Richard Dawson)",
-    "link": "https://stereogum.com/2515815/this-is-the-kit-safety-valve-feat-richard-dawson/music/",
-    "summary": "The post This Is The Kit – “Safety Valve” (Feat. Richard Dawson) appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "Richard Dawson",
-      "This Is The Kit"
-    ],
-    "published": "2026-10-28T16:50:51+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "293e1a49decd3473",
-    "source": "The Needle Drop (website)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Ethel Cain collaborated with Robert Eggers for Werwulf Soundtrack",
-    "link": "https://theneedledrop.com/news/ethel-cain-collaborated-with-robert-eggers-for-werwulf-soundtrack/",
-    "summary": "Scored by composer Robin Carolan, Cain's new song \"Wynter Waxeth\" will be featured in the upcoming gothic-horror film, which is out on Christmas Day.",
-    "categories": [
-      "News",
-      "ethel cain"
-    ],
-    "published": "2026-10-28T16:45:11+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "2a909a26028a7ac7",
-    "source": "Pitchfork (news)",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Kevin Morby and Lonnie Holley’s New Single Raises Money for Gun Safety",
-    "link": "https://pitchfork.com/story/kevin-morbys-new-song-raises-money-for-gun-safety/",
-    "summary": "“It is far and away the darkest and most violent song I’ve ever written”",
-    "categories": [
-      "News",
-      "New Releases"
-    ],
-    "published": "2026-10-28T16:33:16+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "9e0aa8d2f6ca017d",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Massive Attack’s Robert Del Naja Shares New Life Support Soundtrack",
-    "link": "https://stereogum.com/2515810/massive-attacks-robert-del-naja-shares-new-life-support-soundtrack/music/",
-    "summary": "The post Massive Attack’s Robert Del Naja Shares New <em>Life Support</em> Soundtrack appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "3D",
-      "Massive Attack",
-      "Robert Del Naja"
-    ],
-    "published": "2026-10-28T16:16:17+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "f4f9bc2e76e6f5bb",
-    "source": "Pitchfork (news)",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Worldpeace DMT Announce 2027 North American Tour",
-    "link": "https://pitchfork.com/story/worldpeace-dmt-announce-2027-north-american-tour/",
-    "summary": "The “laptop twee” duo will Stick Around for Tea in 20 cities throughout March and April",
-    "categories": [
-      "News",
-      "Tours",
-      "Videos"
-    ],
-    "published": "2026-10-28T16:11:30+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "6fef546c1b5604d5",
-    "source": "The Needle Drop (website)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Massive Attack's Robert Del Naja shares new music for Gaza Documentary",
-    "link": "https://theneedledrop.com/news/massive-attacks-robert-del-naja-shares-new-music-for-gaza-documentary/",
-    "summary": "The co-founder of the groundbreaking trip-hop outfit has revealed three original songs, as well as a remix of Kneecap's \"Palestine.\"",
-    "categories": [
-      "News",
-      "massive attack",
-      "robert del naja"
-    ],
-    "published": "2026-10-28T16:08:12+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "401e6a0847423127",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Kilby Block Party Announces 2027 Lineup",
-    "link": "https://stereogum.com/2515789/kilby-block-party-announces-2027-lineup/news/",
-    "summary": "The post Kilby Block Party Announces 2027 Lineup appeared first on Stereogum .",
-    "categories": [
-      "News",
-      "Atlas Sound",
-      "Deftones",
-      "Fontaines D.C.",
-      "Jungle",
-      "Kilby Block Party",
-      "Lil Yachty",
-      "Slayyyter",
-      "The Radio Dept",
-      "The Strokes"
-    ],
-    "published": "2026-10-28T16:02:41+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "7dd830356fc44117",
-    "source": "Pitchfork (news)",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Ethel Cain Made a Song for Robert Eggers’ Werwulf",
-    "link": "https://pitchfork.com/story/ethel-cain-made-a-song-for-robert-eggers-werwulf/",
-    "summary": "Robin Carolan scored the gothic horror film, which hits theaters on Christmas Day",
-    "categories": [
-      "News",
-      "Film",
-      "Audio"
-    ],
-    "published": "2026-10-28T15:36:42+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "c35e7cc8f19688a8",
-    "source": "XXL",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Jaÿ-Z Feels No Pressure Headlining 2027 Super Bowl Halftime Show",
-    "link": "https://www.xxlmag.com/jay-z-no-pressure-2027-super-bowl-halftime-show/",
-    "summary": "TMZ/X/nfl/Instagram",
-    "categories": [
-      "News",
-      "Jay-Z",
-      "Super Bowl"
-    ],
-    "published": "2026-10-28T15:34:17+00:00",
-    "collected": "2026-11-01T10:59:35.314292+00:00"
-  },
-  {
-    "id": "ca0c942ae31a112d",
-    "source": "XXL",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "50 Cent Files $6 Million Lawsuit Against Rick Ross' Ex Tia Kemp",
-    "link": "https://www.xxlmag.com/50-cent-libel-lawsuit-tia-kemp/",
-    "summary": "Bryan Bedder/Getty Images for Paramount Pictures/NStyleAtlanta/YouTube",
-    "categories": [
-      "News",
-      "50 Cent",
-      "Rick Ross",
-      "Tia Kemp"
-    ],
-    "published": "2026-10-28T15:28:40+00:00",
-    "collected": "2026-11-01T10:59:35.314292+00:00"
-  },
-  {
-    "id": "10b4147e0ace4f00",
-    "source": "Pitchfork (news)",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Saba and Pivot Gang Drop New Song “Location”",
-    "link": "https://pitchfork.com/story/sabas-pivot-gang-drop-new-song-location/",
-    "summary": "The Chicago crew faces off in a games night in the JLean-directed video",
-    "categories": [
-      "News",
-      "Video"
-    ],
-    "published": "2026-10-28T15:25:23+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "1b6866216e2b85ef",
-    "source": "XXL",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Jaÿ-Z, J. Cole & Lul Pab’s Mom Write Letters to Lil Durk's Judge",
-    "link": "https://www.xxlmag.com/jay-z-j-cole-lul-pab-mom-letters-lil-durk-bond/",
-    "summary": "BG048/Bauer-Griffin/Michael Loccisano/ Prince Williams/Getty Images (3)",
-    "categories": [
-      "News",
-      "J. Cole",
-      "Jay-Z",
-      "Lil Durk"
-    ],
-    "published": "2026-10-28T15:19:53+00:00",
-    "collected": "2026-11-01T10:59:35.314292+00:00"
-  },
-  {
-    "id": "8200bfdaf611a50d",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Tindersticks Announce New Album Dog Roses: Hear “Loving, Leaving”",
-    "link": "https://stereogum.com/2515804/tindersticks-announce-new-album-dog-roses-hear-loving-leaving/music/",
-    "summary": "The post Tindersticks Announce New Album <em>Dog Roses</em>: Hear “Loving, Leaving” appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "Tindersticks"
-    ],
-    "published": "2026-10-28T15:00:40+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "becf98534129e40c",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "nowhere else to be Announce Self-Titled Debut Album: Hear “r1 (ripples)”",
-    "link": "https://stereogum.com/2515773/nowhere-else-to-be-announce-self-titled-debut-album-r1-ripples/music/",
-    "summary": "The post nowhere else to be Announce Self-Titled Debut Album: Hear “r1 (ripples)” appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "nowhere else to be"
-    ],
-    "published": "2026-10-28T14:53:40+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "a4d06956394023fb",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Kevin Morby – “Nursery Rhyme” (Feat. Lonnie Holley)",
-    "link": "https://stereogum.com/2515801/kevin-morby-nursery-rhyme-feat-lonnie-holley/music/",
-    "summary": "The post Kevin Morby – “Nursery Rhyme” (Feat. Lonnie Holley) appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "Kevin Morby",
-      "Lonnie Holley"
-    ],
-    "published": "2026-10-28T14:26:15+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "fb0a027cb7fe201f",
-    "source": "Pitchfork (news)",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Panda Bear Unveils New Live Album",
-    "link": "https://pitchfork.com/story/panda-bear-unveils-new-live-album/",
-    "summary": "PB Band Live 25 at Power Station gathers 17 tracks cut last year at the famed New York recording studio",
-    "categories": [
-      "News",
-      "New Releases",
-      "Audio"
-    ],
-    "published": "2026-10-28T14:10:42+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "af16f52e23bf2678",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Pivot Gang – “Location”",
-    "link": "https://stereogum.com/2515798/pivot-gang-location/music/",
-    "summary": "The post Pivot Gang – “Location” appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "daedaePIVOT",
-      "Frsh Waters",
-      "JLEAN",
-      "Joseph Chilliams",
-      "MFnMelo",
-      "Pivot Gang",
-      "Saba"
-    ],
-    "published": "2026-10-28T14:05:20+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "ed2e883e2e185788",
-    "source": "The Needle Drop (website)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Panda Bear announces 'pb band live 25 at power station'",
-    "link": "https://theneedledrop.com/news/embargoed-until-10-28-at/",
-    "summary": "This serves as the next installment of the 'Domino Documents' series.",
-    "categories": [
-      "News",
-      "panda bear"
-    ],
-    "published": "2026-10-28T14:02:52+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "37ee10f7b2f06c9a",
-    "source": "Stereogum",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Everything But The Girl Announce New Album Blue Reservoir: Hear “Young And Dumb”",
-    "link": "https://stereogum.com/2515793/everything-but-the-girl-announce-new-album-blue-reservoir-hear-young-and-dumb/music/",
-    "summary": "The post Everything But The Girl Announce New Album <em>Blue Reservoir</em>: Hear “Young And Dumb” appeared first on Stereogum .",
-    "categories": [
-      "New Music",
-      "Ben Watt",
-      "Edward Bishop",
-      "Everything But The Girl",
-      "Tracey Thorn"
-    ],
-    "published": "2026-10-28T13:39:02+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "7b31bd94c3d0120d",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Jennifer Lopez Announces ‘LOVE?’ Vinyl Editions",
-    "link": "https://www.udiscovermusic.com/news/jennifer-lopez-announces-love-vinyl-editions/",
-    "summary": "A 17-track deluxe set will be pressed across two translucent royal-blue LPs.",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Homepage Featured",
-      "Jennifer Lopez",
-      "Love",
-      "Pop"
-    ],
-    "published": "2026-10-28T13:38:39+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "2ddcbbbb6f5a6c56",
-    "source": "The Needle Drop (website)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Fender officially releases Limited Edition Kim Gordon signature Jazzmaster",
-    "link": "https://theneedledrop.com/news/fender-officially-releases-limited-edition-kim-gordon-signature-jazzmaster/",
-    "summary": "All three members of Sonic Youth's six-string attack now have signature Fender Jazzmasters.",
-    "categories": [
-      "News",
-      "Kim Gordon"
-    ],
-    "published": "2026-10-28T13:35:04+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "6644a106c0c51389",
-    "source": "The Needle Drop (website)",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Festival Review: Sick New World Texas",
-    "link": "https://theneedledrop.com/festival-review-sick-new-world-texas/",
-    "summary": "Despite logistical issues, Sick New World's first foray into Texas proved a sprawling celebration of heavy music and its fans.",
-    "categories": [
-      "Editorial",
-      "concert review",
-      "festival review",
-      "sick new world",
-      "system of a down",
-      "evanescence",
-      "Knocked Loose",
-      "slayer"
-    ],
-    "published": "2026-10-28T13:30:47+00:00",
-    "collected": "2026-10-29T02:36:46.989116+00:00"
-  },
-  {
-    "id": "efaa1657bd85594a",
-    "source": "Pitchfork (news)",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Massive Attack’s Robert Del Naja Releases New Songs for Gaza Documentary",
-    "link": "https://pitchfork.com/story/massive-attacks-robert-del-naja-releases-new-songs-for-gaza-documentary/",
-    "summary": "The Life Support soundtrack includes his new remix of Kneecap’s “Palestine”",
-    "categories": [
-      "News",
-      "New Releases",
-      "Benefit"
-    ],
-    "published": "2026-10-28T13:14:55+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "cc747fe659491237",
-    "source": "uDiscover Music",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Sparklmami Announces First U.S. Headline Tour",
-    "link": "https://www.udiscovermusic.com/news/sparklmami-first-us-headline-tour/",
-    "summary": "The dates follow the release of her debut album, 'in this body.'",
-    "full_text": false,
-    "categories": [
-      "News",
-      "Homepage Featured",
-      "In This Body",
-      "Live Music",
-      "Soul",
-      "Sparklmami"
-    ],
-    "published": "2026-10-28T13:00:14+00:00",
-    "collected": "2026-11-01T11:57:00.184515+00:00"
-  },
-  {
-    "id": "02bc8743343e7839",
-    "source": "Pitchfork (news)",
-    "source_type": "news",
-    "weight": 1.0,
-    "title": "Everything But the Girl Ready New Album Blue Reservoir",
-    "link": "https://pitchfork.com/story/everything-but-the-girl-ready-new-album-blue-reservoir/",
-    "summary": "Watch the “Young and Dumb” video from Tracey Thorn and Ben Watt’s Fuse follow-up",
-    "categories": [
-      "News",
-      "New Releases",
-      "Video"
-    ],
-    "published": "2026-10-28T11:34:35+00:00",
-    "collected": "2026-11-01T10:09:51.242642+00:00"
-  },
-  {
-    "id": "8d849169173452dd",
-    "source": "musicOMH",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Queens Of The Stone Age – Perfecth",
-    "link": "https://www.musicomh.com/reviews/albums/queens-of-the-stone-age-perfecth",
-    "summary": "John Homme and co's ninth album marks a move away from their signature blunt riffs and opens the door to a mood far more reflective and wistful The post Queens Of The Stone Age – Perfecth appeared first on musicOMH .",
-    "categories": [
-      "Album Reviews",
-      "Queens Of The Stone Age"
-    ],
-    "published": "2026-10-28T08:31:05+00:00",
-    "collected": "2026-11-01T10:59:35.314292+00:00"
-  },
-  {
-    "id": "5119953498986ed2",
-    "source": "musicOMH",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "Disgusting Sisters – Skin & Blisters",
-    "link": "https://www.musicomh.com/reviews/albums/disgusting-sisters-skin-blisters",
-    "summary": "The Hopkins sisters' debut is full of sass, humour and energy. Is this sonic sugar rush the missing link between Kate Nash and Billie Eilish? The post Disgusting Sisters – Skin & Blisters appeared first on musicOMH .",
-    "categories": [
-      "Album Reviews",
-      "Disgusting Sisters"
-    ],
-    "published": "2026-10-28T08:01:39+00:00",
-    "collected": "2026-11-01T10:59:35.314292+00:00"
-  },
-  {
-    "id": "a33f458e5665e477",
-    "source": "Pitchfork (album reviews)",
-    "source_type": "reviews",
-    "weight": 1.5,
-    "title": "Watch Dis!",
-    "link": "https://pitchfork.com/reviews/albums/yung-miami-watch-dis/",
-    "summary": "The former City Girl’s solo LP is entertaining enough to overlook the weaker features and superfluous “Spend Dat” remixes. The song dedicated to Diddy, not so much.",
-    "categories": [
-      "Reviews / Albums"
-    ],
-    "published": "2026-10-28T04:03:00+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "80ac96754f22a6cf",
-    "source": "Pitchfork (album reviews)",
-    "source_type": "reviews",
-    "weight": 1.5,
-    "title": "Sigil",
-    "link": "https://pitchfork.com/reviews/albums/sour-widows-sigil/",
-    "summary": "The California band channels uneasy dreams and looming threats into tense, slowcore-infused indie rock on a new album produced with Jay Som’s Melina Duterte.",
-    "categories": [
-      "Reviews / Albums"
-    ],
-    "published": "2026-10-28T04:02:00+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "5739dd719a1cad6c",
-    "source": "Pitchfork (album reviews)",
-    "source_type": "reviews",
-    "weight": 1.5,
-    "title": "Believe You Me",
-    "link": "https://pitchfork.com/reviews/albums/mackeeper-believe-you-me/",
-    "summary": "On their full-length debut, the buzzy NYC siblings pay tribute to the fuckboy charm of the aughts with their precocious, mischievous, and rapidly evolving pop music.",
-    "categories": [
-      "Reviews / Albums"
-    ],
-    "published": "2026-10-28T04:01:00+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "aa908df573a39835",
-    "source": "Pitchfork (album reviews)",
-    "source_type": "reviews",
-    "weight": 1.5,
-    "title": "Revelations of Divine Love",
-    "link": "https://pitchfork.com/reviews/albums/susanne-sundfor-revelations-of-divine-love/",
-    "summary": "On her eighth album, the Norwegian singer, backed by pipe organ, draws on a 14th-century Christian text for a record wholly devoted to the divine.",
-    "categories": [
-      "Reviews / Albums"
-    ],
-    "published": "2026-10-28T04:00:00+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
-  },
-  {
-    "id": "6fcf9de32e6a9e38",
-    "source": "The Needle Drop (YouTube)",
-    "source_type": "video",
-    "weight": 1.5,
-    "title": "Shabazz Palaces - It's a Style Sport ALBUM REVIEW",
-    "link": "https://www.youtube.com/watch?v=HAyEg997L3Q",
-    "summary": "Listen: https://shabazzpalaces.bandcamp.com/album/its-a-style-sport-1 SP's strongest showing since their first couple of albums. More rap reviews: https://www.youtube.com/playlist?list=PLP4CSgl7K7ormBIO138tYonB949PHnNcP =================================== Subscribe: http://bit.ly/1pBqGCN Patreon: https://www.patreon.com/theneedledrop Official site: http://theneedledrop.com Twitter: http://twitter.com/theneedledrop Instagram: https://www.instagram.com/afantano TikTok: https://www.tiktok.com/@theneedletok TND Twitch: https://www.twitch.tv/theneedledrop Videos edited by Jeremy and Anthony / posted by austen =================================== FAV TRACKS: AHH WORLD (I WON THE ALPHA BET), FIELD NOTES, DEADSTOCK DUDE, TONGUE IN CHIC, HELIOCENTRIC IMMORTALITY MANIFESTO H.I.M. SHABAZZ PALACES - IT'S A STYLE SPORT / 2026 / SUB POP / ABSTRACT HIP HOP, SYNTH FUNK, AFROFUTURISM 7/10 Y'all know this is just my opinion, right?",
-    "categories": [],
-    "published": "2026-10-28T03:06:27+00:00",
-    "collected": "2026-10-28T10:00:03.726989+00:00"
   }
 ]

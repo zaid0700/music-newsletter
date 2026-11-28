@@ -1535,5 +1535,31 @@
   ],
   "tags_checked": "2026-11-21T04:57:04.664294+00:00",
   "checked": "2026-11-21T04:57:04.664294+00:00"
+ },
+ "chip|cannon|ep": {
+  "spotify": "https://open.spotify.com/album/5ct8NDWjoHTOWaBsplVmld",
+  "artist_id": "0tJCNteqwm7LmRZ6KWr8GT",
+  "cover": "https://i.scdn.co/image/ab67616d0000b27341ab8b4630695121f9cd88ea",
+  "source": "Spotify",
+  "lfm_tags": [
+   "grime",
+   "rap",
+   "hip-hop"
+  ],
+  "tags_checked": "2026-11-28T04:54:04.527193+00:00",
+  "checked": "2026-11-28T04:54:04.527193+00:00"
+ },
+ "starsrevenge|starsrevengeii|album": {
+  "spotify": "https://open.spotify.com/album/5bKzQ05WOEEpPKx7f58NMx",
+  "artist_id": "12lX7OtfVkJ0HiFdkOM7IX",
+  "cover": "https://i.scdn.co/image/ab67616d0000b2730c2d36f46be16dcd3dc22d52",
+  "source": "Spotify",
+  "lfm_tags": [
+   "indie",
+   "rock",
+   "sunflower bean"
+  ],
+  "tags_checked": "2026-11-28T04:54:04.527193+00:00",
+  "checked": "2026-11-28T04:54:04.527193+00:00"
  }
 }
