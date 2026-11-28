@@ -1,5 +1,95 @@
 [
   {
+    "id": "ac9c7d27b056be84",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Former Buzzcocks drummer Phil Barker dies aged 61",
+    "link": "https://www.nme.com/news/music/former-buzzcocks-drummer-phil-barker-dies-aged-61-3977188",
+    "summary": "The musician, who played with the Manchester punk band from 1992 to 2006, had been diagnosed with prostate cancer five years ago The post Former Buzzcocks drummer Phil Barker dies aged 61 appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      "..",
+      "Punk"
+    ],
+    "published": "2026-11-28T09:32:06+00:00",
+    "collected": "2026-11-28T09:40:46.229821+00:00"
+  },
+  {
+    "id": "cb62ba34a5524146",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Where to Watch the 100th Macy’s Thanksgiving Day Parade for Free to See Queen Latifah, LL Cool J & Dolly Parton Tribute",
+    "link": "https://www.billboard.com/culture/product-recommendations/how-to-watch-100th-macys-day-parade-thanksgiving-free-1236389567/",
+    "summary": "The centennial event will take place Saturday, Nov. 28, at 8:30 a.m. ET on NBC and Telemundo, but you can watch across several streaming platforms with a free trial.",
+    "full_text": false,
+    "categories": [
+      "Culture",
+      "Product Recommendations",
+      "Billboard Family",
+      "how to watch",
+      "Macy's Thanksgiving Day Parade",
+      "Music News",
+      "NOADS",
+      "streaming"
+    ],
+    "published": "2026-11-28T09:30:00+00:00",
+    "collected": "2026-11-28T09:40:46.229821+00:00"
+  },
+  {
+    "id": "d8b4745da95917ec",
+    "source": "NME",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "“Small group of organised criminals” sought over Don Toliver show evacuation at Manchester’s Co-op Live",
+    "link": "https://www.nme.com/news/music/small-group-organised-criminals-don-toliver-evacuation-manchesters-co-op-live-3977184",
+    "summary": "Police are looking to contact more than 100 concertgoers and are investigating similar incidents at two of the rapper’s European shows The post “Small group of organised criminals” sought over Don Toliver show evacuation at Manchester’s Co-op Live appeared first on NME .",
+    "full_text": false,
+    "categories": [
+      "Music News",
+      "News",
+      ".."
+    ],
+    "published": "2026-11-28T08:36:57+00:00",
+    "collected": "2026-11-28T09:40:46.229821+00:00"
+  },
+  {
+    "id": "4c36472d38d314c8",
+    "source": "Billboard",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "The Killers’ Dave Keuning Says He Survived a Major Stroke: ‘By Some Miracle I Am Fine’",
+    "link": "https://www.billboard.com/music/rock/the-killers-dave-keuning-stroke-recovery-instagram-1236390473/",
+    "summary": "The guitarist says doctors gave him a 40% chance of survival — and that the first thing he checked after surgery was whether he could still play.",
+    "full_text": false,
+    "categories": [
+      "Music",
+      "Rock",
+      "Dave Keuning",
+      "The Killers"
+    ],
+    "published": "2026-11-28T06:32:29+00:00",
+    "collected": "2026-11-28T09:40:46.229821+00:00"
+  },
+  {
+    "id": "14ade137675840e9",
+    "source": "Pitchfork (album reviews)",
+    "source_type": "reviews",
+    "weight": 1.0,
+    "title": "La Ola Nocturna: Experimental Songs & Deviant Pop From the Spanish ’80s",
+    "link": "https://pitchfork.com/reviews/albums/various-artists-la-ola-nocturna-experimental-songs-and-deviant-pop-from-the-spanish-80s/",
+    "summary": "The third in a series dedicated to the Spanish pop vanguard of the 1980s captures a moment when Franco’s dictatorship gave way to an explosion of youthful creativity across post-punk, new wave, and more.",
+    "full_text": false,
+    "categories": [
+      "Reviews / Albums"
+    ],
+    "published": "2026-11-28T05:00:00+00:00",
+    "collected": "2026-11-28T09:40:46.229821+00:00"
+  },
+  {
     "id": "06a0dfca11abdfbf",
     "source": "The Needle Drop (website)",
     "source_type": "reviews",
@@ -2431,6 +2521,22 @@
     "collected": "2026-11-26T02:46:34.658181+00:00"
   },
   {
+    "id": "242f2b5a299dd14a",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Rosa Walton Shares Art-Pop Banger ‘Tell Me It’s A Dream’",
+    "link": "https://www.clashmusic.com/news/rosa-walton-shares-art-pop-banger-tell-me-its-a-dream/",
+    "summary": "Rosa Walton has shared her new single ‘Tell Me It’s A Dream’. One half of Mercury nominated group Let’s Eat Grandma, the songwriter went solo with an excellent album, one packed with ideas. Titled ‘Tell Me It’s A Dream’ the LP didn’t actually contain a title track… until now. Steering… The post Rosa Walton Shares Art-Pop Banger ‘Tell Me It’s A Dream’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Rosa Walton"
+    ],
+    "published": "2026-11-25T15:51:14+00:00",
+    "collected": "2026-11-28T09:40:46.229821+00:00"
+  },
+  {
     "id": "a291f97dcd3fc023",
     "source": "Consequence",
     "source_type": "news",
@@ -2551,6 +2657,21 @@
     ],
     "published": "2026-11-25T15:35:03+00:00",
     "collected": "2026-11-26T02:46:34.658181+00:00"
+  },
+  {
+    "id": "1663f680bd4fa875",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "2ManyDJs, Ben UFO, Honey Dijon For Queen’s Park Spring Weekender",
+    "link": "https://www.clashmusic.com/live/2manydjs-ben-ufo-honey-dijon-for-queens-park-spring-weekender/",
+    "summary": "2ManyDJs, Ben UFO, and Honey Dijon are amongst the first names to be confirmed for Queen’s Park Spring Weekender. The Glasgow event is housed in the city’s Queen’s Park, a Southside vigil and home to some of the area’s best views. Growing in stature each year, Queen’s Park Spring Weekender… The post 2ManyDJs, Ben UFO, Honey Dijon For Queen’s Park Spring Weekender appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "Live"
+    ],
+    "published": "2026-11-25T15:25:31+00:00",
+    "collected": "2026-11-28T09:40:46.229821+00:00"
   },
   {
     "id": "f66e683ee588d136",
@@ -2691,6 +2812,40 @@
     "collected": "2026-11-26T02:46:34.658181+00:00"
   },
   {
+    "id": "8f394836c2a03283",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "True Sound: Tiffany Calver Interviewed",
+    "link": "https://www.clashmusic.com/features/true-sound-tiffany-calver-interviewed/",
+    "summary": "For 60 years, Bowers & Wilkins has been driven by a singular pursuit: bringing listeners closer to the music they love through True Sound. To mark its 60th anniversary, the brand has partnered with CLASH on The Future of True Sound – a series of intimate supper clubs and live… The post True Sound: Tiffany Calver Interviewed appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "Features",
+      "Bowers & Wilkins",
+      "Clash Live",
+      "Tiffany Calver"
+    ],
+    "published": "2026-11-25T14:20:44+00:00",
+    "collected": "2026-11-28T09:40:46.229821+00:00"
+  },
+  {
+    "id": "ffe7c1b240ea66c3",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Patti Smith Is Resplendent On NPR’s Tiny Desk",
+    "link": "https://www.clashmusic.com/news/patti-smith-is-resplendent-on-nprs-tiny-desk/",
+    "summary": "Patti Smith appears in the latest session for NPR’s Tiny Desk. The American artist is blessed with almost infinite amounts of energy, blending her prose writing with music in the process. Recently popping up in conversation with Dua Lipa at London’s Southbank Centre, Patti Smith returns to the stage for… The post Patti Smith Is Resplendent On NPR’s Tiny Desk appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Patti Smith"
+    ],
+    "published": "2026-11-25T14:17:58+00:00",
+    "collected": "2026-11-28T09:40:46.229821+00:00"
+  },
+  {
     "id": "0e7ae21e524f7033",
     "source": "Consequence",
     "source_type": "news",
@@ -2749,6 +2904,22 @@
     "collected": "2026-11-26T02:46:34.658181+00:00"
   },
   {
+    "id": "477f39699692bfe5",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Leonor Arnaut Introduces Her Debut Album",
+    "link": "https://www.clashmusic.com/news/leonor-arnaut-introduces-her-debut-album/",
+    "summary": "Leonor Arnaut will release her debut album ‘Banho de Pássaro’ on February 5th. The Portuguese artist is now based in Copenhagen, where she has been studying for her Master’s in Performance at the Rhythmic Music Conservatory (RMC). An illustrious site, word of her reputation quickly spread, and Leonor has been mentored… The post Leonor Arnaut Introduces Her Debut Album appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Leonor Arnaut"
+    ],
+    "published": "2026-11-25T14:05:18+00:00",
+    "collected": "2026-11-28T09:40:46.229821+00:00"
+  },
+  {
     "id": "b01db52098f1431c",
     "source": "Stereogum",
     "source_type": "news",
@@ -2782,6 +2953,22 @@
     ],
     "published": "2026-11-25T14:00:19+00:00",
     "collected": "2026-11-26T02:46:34.658181+00:00"
+  },
+  {
+    "id": "fc4eb219a3815f6d",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "London Venue Village Underground Unveils 20th Birthday Celebrations",
+    "link": "https://www.clashmusic.com/live/london-venue-village-underground-unveils-20th-birthday-celebrations/",
+    "summary": "East London venue Village Underground has confirmed plans for its 20th birthday celebrations. The Shoreditch venue is a milestone in the area, easily recognisable thanks to the disused tube carriages on its roof. Next year Village Underground toasts 20 years of independent culture, planning a year-long series of celebrations. The… The post London Venue Village Underground Unveils 20th Birthday Celebrations appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "Live",
+      "Village Underground"
+    ],
+    "published": "2026-11-25T13:42:41+00:00",
+    "collected": "2026-11-28T09:40:46.229821+00:00"
   },
   {
     "id": "44ff35731f156e46",
@@ -2853,6 +3040,72 @@
     ],
     "published": "2026-11-25T12:47:15+00:00",
     "collected": "2026-11-26T02:46:34.658181+00:00"
+  },
+  {
+    "id": "164380eb549bf32a",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Ólafur Arnalds, Nils Frahm Share ‘Time Flies’ – Their First Collaboration In A Decade",
+    "link": "https://www.clashmusic.com/news/olafur-arnalds-nils-frahm-share-time-flies-their-first-collaboration-in-a-decade/",
+    "summary": "Ólafur Arnalds and Nils Frahm combine on new release ‘Time Flies’. The pair are formidable names in the field of modern classical, two composers whose work has helped open up an entire lexicon for others to follow. There’s a deep and abiding friendship between the two, but their last official… The post Ólafur Arnalds, Nils Frahm Share ‘Time Flies’ – Their First Collaboration In A Decade appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Nils Frahm",
+      "Olafur Arnalds"
+    ],
+    "published": "2026-11-25T12:29:54+00:00",
+    "collected": "2026-11-28T09:40:46.229821+00:00"
+  },
+  {
+    "id": "c8019b09a0be6177",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Tara Lily, Alabaster dePlume Combine On ‘The Walk Of Tears’",
+    "link": "https://www.clashmusic.com/news/tara-lily-alabaster-deplume-combine-on-the-walk-of-tears/",
+    "summary": "Tara Lily and Alabaster dePlume combine on new single ‘The Walk Of Tears’. Out now, the song brings together two special talents, with Tara’s impeccable songwriting transformed into something elastic, and malleable. A wonderful vocalist, the jazz aspects in her work come to the fore on ballad-like ‘The Walk Of… The post Tara Lily, Alabaster dePlume Combine On ‘The Walk Of Tears’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Tara Lily"
+    ],
+    "published": "2026-11-25T12:13:14+00:00",
+    "collected": "2026-11-28T09:40:46.229821+00:00"
+  },
+  {
+    "id": "c3a4a45dd51459f8",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Amy Taylor Is Set For World Domination In Dr. Martens and Chopova Lowena’s Debut Collection",
+    "link": "https://www.clashmusic.com/fashion/amy-taylor-is-set-for-world-domination-in-dr-martens-and-chopova-lowenas-debut-collection/",
+    "summary": "Dedicating their debut collection to all the girls around the world, Dr. Martens and Chopova Lowena are splashing our wardrobes with tartan maximalism this winter. An ever-evolving world-building exercise, the collection reimagines the British footwear brand’s classic silhouettes with a folkloric twist. Starring Amy Taylor, best known as frontwoman of… The post Amy Taylor Is Set For World Domination In Dr. Martens and Chopova Lowena’s Debut Collection appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "Fashion",
+      "Chopova Lowena",
+      "dr. martens"
+    ],
+    "published": "2026-11-25T12:08:35+00:00",
+    "collected": "2026-11-28T09:40:46.229821+00:00"
+  },
+  {
+    "id": "dcc90db8df5908a1",
+    "source": "Clash",
+    "source_type": "news",
+    "weight": 1.0,
+    "title": "Lynks Announces New Album ‘Attention Economy’",
+    "link": "https://www.clashmusic.com/news/lynks-announces-new-album-attention-economy/",
+    "summary": "Lynks will release his new album ‘Attention Economy’ next year. The new album is his first as an independent artist, and it follows the acclaim lavished on outrageous 2024 debut ‘ABOMINATION’. Taking the lead, Lynks produces every single track on ‘Attention Economy’, the central curator of this groundbreaking experience. Along… The post Lynks Announces New Album ‘Attention Economy’ appeared first on Clash Magazine Music News, Reviews & Interviews .",
+    "full_text": false,
+    "categories": [
+      "News",
+      "Lynks"
+    ],
+    "published": "2026-11-25T11:52:00+00:00",
+    "collected": "2026-11-28T09:40:46.229821+00:00"
   },
   {
     "id": "cdaa4be883f8c9e1",
@@ -43165,20 +43418,5 @@
     ],
     "published": "2026-10-29T11:41:15+00:00",
     "collected": "2026-10-30T02:35:04.244538+00:00"
-  },
-  {
-    "id": "542f241bc784f1d7",
-    "source": "musicOMH",
-    "source_type": "reviews",
-    "weight": 1.0,
-    "title": "The Big Moon – Forever",
-    "link": "https://www.musicomh.com/reviews/albums/the-big-moon-forever",
-    "summary": "The follow-up to 2022's Here Is Everything concentrates on enjoying itself while delivering a comforting hug in uncertain times The post The Big Moon – Forever appeared first on musicOMH .",
-    "categories": [
-      "Album Reviews",
-      "The Big Moon"
-    ],
-    "published": "2026-10-29T08:01:43+00:00",
-    "collected": "2026-11-01T10:59:35.314292+00:00"
   }
 ]
